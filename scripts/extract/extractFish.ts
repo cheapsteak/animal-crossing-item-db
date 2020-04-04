@@ -6,6 +6,20 @@ import { Wiki_SeasonalCritter } from './types';
 import { downloadWikiImages } from './downloadWikiImages';
 import { extractionDirectory } from '../extractionDirectory';
 
+const cleanFishData = (row: any) => {
+  // sometimes Location and "Shadow Size" columns can get mixed up
+  // even after fixing on the wiki, for some reason we still get the old mixed up data
+  if ('number' in row?.Location && !('number' in row['Shadow size'])) {
+    return {
+      ...row,
+      Location: row['Shadow size'],
+      'Shadow size': row.Location,
+    };
+  } else {
+    return row;
+  }
+};
+
 export const extractFish = async () => {
   console.log('[extractFish] starting');
 
@@ -14,12 +28,13 @@ export const extractFish = async () => {
     'https://animalcrossing.fandom.com/wiki/Fish_(New_Horizons)',
   );
 
-  const northernHemisphereFish = doc?.tables(0).json() as Array<
-    Wiki_SeasonalCritter
-  >;
-  const southernHemisphereFish = doc?.tables(2).json() as Array<
-    Wiki_SeasonalCritter
-  >;
+  const northernHemisphereFish = (doc?.tables(0).json() as object[]).map(
+    cleanFishData,
+  ) as Array<Wiki_SeasonalCritter>;
+  const southernHemisphereFish = (doc?.tables(2).json() as object[]).map(
+    cleanFishData,
+  ) as Array<Wiki_SeasonalCritter>;
+  console.log(southernHemisphereFish);
 
   console.log('[extractFish] writing json');
   fs.writeFileSync(
