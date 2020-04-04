@@ -53,26 +53,22 @@ export interface Wiki_SeasonalCritter extends Wiki_NamedItemWithImage {
 export interface Wiki_Furniture extends Wiki_NamedItemWithImage {
   Name: { text: string };
   Image: { text: string };
-  'Price (Buy)': { text: '*' | 'N/A' };
+  'Price (Buy)': {
+    text: string; // '*' | 'N/A' | '3,000 Bells'
+  };
   'Price (Sell)': {
-    text: '*';
+    text: string; // '*' | 'N/A' | '3,000 Bells'
     links?: Array<{
       type: 'internal';
       page: string;
     }>;
   };
-  Source: { text: '*' };
-  Variations: { text: '*' };
+  Source: {
+    text: string; // '*' | 'Timmy & Tommy' etc
+  };
+  Variations: {
+    text: string; // *** * Red * Yellow * Green * * * Black
+  };
   'Customize?': { text: 'N/A' };
   Size: { text: '*' };
-}
-
-export interface SeasonalCritter {
-  name: string;
-  imageName: string;
-  price: number;
-  location: string;
-  shadowSize: string;
-  time: string;
-  appearsInMonths: [];
 }

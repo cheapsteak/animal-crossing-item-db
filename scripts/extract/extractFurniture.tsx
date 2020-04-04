@@ -1,5 +1,4 @@
 import fs from 'fs';
-import _ from 'lodash';
 import path from 'path';
 import wtf from 'wtf_wikipedia';
 import { Wiki_Furniture } from './types';
