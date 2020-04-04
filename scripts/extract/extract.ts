@@ -11,10 +11,10 @@ export const extractEverything = async () => {
   console.log('extracting everything');
   fs.mkdirSync(extractionDirectory, { recursive: true });
   // intentionally extracting serially to keep logs easily readable
-  await extractFish(extractionDirectory)
-  await extractBugs(extractionDirectory)
-  await extractFurniture(extractionDirectory)
+  await extractFish(extractionDirectory);
+  await extractBugs(extractionDirectory);
+  await extractFurniture(extractionDirectory);
   console.log('extracted everything');
 };
 
-extractEverything()
+extractEverything();

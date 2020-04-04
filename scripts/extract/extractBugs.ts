@@ -5,9 +5,7 @@ import wtf from 'wtf_wikipedia';
 import { Wiki_SeasonalCritter } from './types';
 import { downloadWikiImages } from './downloadWikiImages';
 
-export const extractBugs = async (
-  extractionDirectory: string,
-) => {
+export const extractBugs = async (extractionDirectory: string) => {
   console.log('[extractBugs] starting');
 
   console.log('[extractBugs] fetching from wiki');
@@ -44,6 +42,6 @@ export const extractBugs = async (
   fs.mkdirSync(imageDirectory, { recursive: true });
 
   console.log('[extractBugs] downloading icons');
-  await downloadWikiImages(allBugs, imageDirectory)
+  await downloadWikiImages(allBugs, imageDirectory);
   console.log('[extractBugs] done');
 };

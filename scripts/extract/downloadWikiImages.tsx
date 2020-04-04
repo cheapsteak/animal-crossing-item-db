@@ -39,5 +39,7 @@ export const downloadWikiImages = async (
         }
       }),
   );
-  console.log(`[downloadWikiImages] done. ${itemsMissingImages.length} items missing images`);
+  console.log(
+    `[downloadWikiImages] done. ${itemsMissingImages.length} items missing images`,
+  );
 };

@@ -13,8 +13,12 @@ export const extractFish = async (extractionDirectory: string) => {
     'https://animalcrossing.fandom.com/wiki/Fish_(New_Horizons)',
   );
 
-  const northernHemisphereFish = doc?.tables(0).json() as Array<Wiki_SeasonalCritter>;
-  const southernHemisphereFish = doc?.tables(2).json() as Array<Wiki_SeasonalCritter>;
+  const northernHemisphereFish = doc?.tables(0).json() as Array<
+    Wiki_SeasonalCritter
+  >;
+  const southernHemisphereFish = doc?.tables(2).json() as Array<
+    Wiki_SeasonalCritter
+  >;
 
   console.log('[extractFish] writing json');
   fs.writeFileSync(
