@@ -54,7 +54,8 @@ export interface Wiki_SeasonalCritter extends Wiki_NamedItemWithImage {
 
 export interface Wiki_Fish extends Wiki_SeasonalCritter {
   'Shadow size': {
-    text: string;
+    // eslint-disable-next-line prettier/prettier
+    text: '1'|'2'|'3'|'4'|'5'|'6'|'Narrow'|'6 (Fin)'|'4 (Fin)';
   };
 }
 
