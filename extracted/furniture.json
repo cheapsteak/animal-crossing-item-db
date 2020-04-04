@@ -8557,7 +8557,13 @@
       "text": "N/A"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "600 Bells",
+      "links": [
+        {
+          "type": "internal",
+          "page": "Bells"
+        }
+      ]
     },
     "Source": {
       "text": "DIY Recipes",
