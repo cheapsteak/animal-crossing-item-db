@@ -14,8 +14,11 @@ export const extractFurniture = async () => {
   );
 
   const allFurniture = doc
-    .tables()
-    .flatMap((table) => table.json()) as Wiki_Furniture[];
+    ?.tables()
+    .flatMap((table) => table.json())
+    .filter(
+      (entry: any) => 'Name' in entry && entry?.Name?.text,
+    ) as Wiki_Furniture[];
 
   console.log('[extractFurniture] writing json');
   fs.writeFileSync(
