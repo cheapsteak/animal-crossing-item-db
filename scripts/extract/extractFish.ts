@@ -4,8 +4,9 @@ import path from 'path';
 import wtf from 'wtf_wikipedia';
 import { Wiki_SeasonalCritter } from './types';
 import { downloadWikiImages } from './downloadWikiImages';
+import { extractionDirectory } from '../extractionDirectory';
 
-export const extractFish = async (extractionDirectory: string) => {
+export const extractFish = async () => {
   console.log('[extractFish] starting');
 
   console.log('[extractFish] fetching from wiki');

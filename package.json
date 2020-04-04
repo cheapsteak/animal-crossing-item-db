@@ -28,7 +28,7 @@
     "lint": "eslint --ext .js,.jsx,.ts,.tsx .",
     "lint:fix": "yarn lint --fix",
     "extract": "ts-node scripts/extract/extract.ts",
-    "extract:watch": "ts-node-dev --respawn scripts/extract/extract.ts"
+    "extract:watch": "ts-node-dev --respawn scripts/extract/index.ts"
   },
   "browserslist": {
     "production": [

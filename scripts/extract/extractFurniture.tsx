@@ -3,8 +3,9 @@ import path from 'path';
 import wtf from 'wtf_wikipedia';
 import { Wiki_Furniture } from './types';
 import { downloadWikiImages } from './downloadWikiImages';
+import { extractionDirectory } from '../extractionDirectory';
 
-export const extractFurniture = async (extractionDirectory: string) => {
+export const extractFurniture = async () => {
   console.log('[extractFurniture] starting');
 
   console.log('[extractFurniture] fetching from wiki');

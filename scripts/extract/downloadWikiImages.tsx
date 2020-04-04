@@ -7,6 +7,16 @@ import { promisify } from 'util';
 import got, { HTTPError } from 'got';
 const pipeline = promisify(stream.pipeline);
 
+/** Images on wiki tend to change and have new names.
+We want a consistent way to address an item's icon
+*/
+export const getWikiItemIconFileName = (
+  wikiItemName: string,
+  extension: string,
+) => {
+  return `${slugify(wikiItemName, { lower: true })}${extension}`;
+};
+
 export const downloadWikiImages = async (
   wikiItems: Wiki_NamedItemWithImage[],
   directory: string,
@@ -19,13 +29,15 @@ export const downloadWikiImages = async (
         const imageName = item.Image.text.replace(/(\[\[File:|\]\])/g, '');
         const imageExtension = path.extname(imageName);
         const imageUrl = `https://animalcrossing.fandom.com/wiki/:Special:Filepath/${imageName}`;
-        const localFileName = `${slugify(item.Name.text, {
-          lower: true,
-        })}${imageExtension}`;
+        const localImageName = getWikiItemIconFileName(
+          item.Name.text,
+          imageExtension,
+        );
+        const localImagePath = path.join(directory, localImageName);
         try {
           await pipeline(
             got.stream(imageUrl),
-            fs.createWriteStream(path.join(directory, localFileName)),
+            fs.createWriteStream(localImagePath),
           );
         } catch (e) {
           if (e instanceof HTTPError && e.message.includes('404')) {
@@ -35,7 +47,7 @@ export const downloadWikiImages = async (
               `[downloadWikiImages] [${e.message}] downloading ${imageUrl} for ${item.Name.text}`,
             );
           }
-          fs.unlinkSync(path.join(directory, localFileName));
+          fs.unlinkSync(localImagePath);
         }
       }),
   );

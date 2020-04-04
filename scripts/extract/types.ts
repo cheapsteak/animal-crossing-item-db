@@ -26,14 +26,16 @@ export interface Wiki_SeasonalCritter extends Wiki_NamedItemWithImage {
   };
   Price: {
     text: string;
+    number: number;
   };
   Location: {
     text: string;
   };
-  'Shadow size': {
-    text: string;
-  };
   Time: {
+    // 'All day',
+    // 'X AM - Y PM',
+    // 'X PM - Y AM',
+    // 'X AM - Y PM & A PM - B AM',
     text: string;
   };
   Jan: YahOrNah;
@@ -48,6 +50,12 @@ export interface Wiki_SeasonalCritter extends Wiki_NamedItemWithImage {
   Oct: YahOrNah;
   Nov: YahOrNah;
   Dec: YahOrNah;
+}
+
+export interface Wiki_Fish extends Wiki_SeasonalCritter {
+  'Shadow size': {
+    text: string;
+  };
 }
 
 export interface Wiki_Furniture extends Wiki_NamedItemWithImage {
