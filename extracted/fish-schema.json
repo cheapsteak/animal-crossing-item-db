@@ -1,0 +1,315 @@
+{
+ "type": "object",
+ "properties": {
+  "Shadow size": {
+   "type": "object",
+   "properties": {
+    "text": {
+     "enum": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "4 (Fin)",
+      "5",
+      "6",
+      "6 (Fin)",
+      "7",
+      "8",
+      "9",
+      "Narrow"
+     ],
+     "type": "string"
+    },
+    "number": {
+     "type": "number"
+    }
+   },
+   "required": [
+    "text"
+   ]
+  },
+  "Name": {
+   "type": "object",
+   "properties": {
+    "text": {
+     "type": "string"
+    },
+    "links": {
+     "type": "array",
+     "items": {
+      "type": "object",
+      "properties": {
+       "type": {
+        "enum": [
+         "external",
+         "internal"
+        ],
+        "type": "string"
+       },
+       "page": {
+        "type": "string"
+       }
+      },
+      "required": [
+       "page",
+       "type"
+      ]
+     }
+    }
+   },
+   "required": [
+    "text"
+   ]
+  },
+  "Image": {
+   "type": "object",
+   "properties": {
+    "text": {
+     "type": "string"
+    }
+   },
+   "required": [
+    "text"
+   ]
+  },
+  "Price": {
+   "type": "object",
+   "properties": {
+    "text": {
+     "type": "string"
+    },
+    "number": {
+     "type": "number"
+    }
+   },
+   "required": [
+    "number",
+    "text"
+   ]
+  },
+  "Location": {
+   "type": "object",
+   "properties": {
+    "text": {
+     "type": "string"
+    }
+   },
+   "required": [
+    "text"
+   ]
+  },
+  "Time": {
+   "type": "object",
+   "properties": {
+    "text": {
+     "type": "string"
+    }
+   },
+   "required": [
+    "text"
+   ]
+  },
+  "Jan": {
+   "type": "object",
+   "properties": {
+    "text": {
+     "enum": [
+      "-",
+      "✓"
+     ],
+     "type": "string"
+    }
+   },
+   "required": [
+    "text"
+   ]
+  },
+  "Feb": {
+   "type": "object",
+   "properties": {
+    "text": {
+     "enum": [
+      "-",
+      "✓"
+     ],
+     "type": "string"
+    }
+   },
+   "required": [
+    "text"
+   ]
+  },
+  "Mar": {
+   "type": "object",
+   "properties": {
+    "text": {
+     "enum": [
+      "-",
+      "✓"
+     ],
+     "type": "string"
+    }
+   },
+   "required": [
+    "text"
+   ]
+  },
+  "Apr": {
+   "type": "object",
+   "properties": {
+    "text": {
+     "enum": [
+      "-",
+      "✓"
+     ],
+     "type": "string"
+    }
+   },
+   "required": [
+    "text"
+   ]
+  },
+  "May": {
+   "type": "object",
+   "properties": {
+    "text": {
+     "enum": [
+      "-",
+      "✓"
+     ],
+     "type": "string"
+    }
+   },
+   "required": [
+    "text"
+   ]
+  },
+  "Jun": {
+   "type": "object",
+   "properties": {
+    "text": {
+     "enum": [
+      "-",
+      "✓"
+     ],
+     "type": "string"
+    }
+   },
+   "required": [
+    "text"
+   ]
+  },
+  "Jul": {
+   "type": "object",
+   "properties": {
+    "text": {
+     "enum": [
+      "-",
+      "✓"
+     ],
+     "type": "string"
+    }
+   },
+   "required": [
+    "text"
+   ]
+  },
+  "Aug": {
+   "type": "object",
+   "properties": {
+    "text": {
+     "enum": [
+      "-",
+      "✓"
+     ],
+     "type": "string"
+    }
+   },
+   "required": [
+    "text"
+   ]
+  },
+  "Sep": {
+   "type": "object",
+   "properties": {
+    "text": {
+     "enum": [
+      "-",
+      "✓"
+     ],
+     "type": "string"
+    }
+   },
+   "required": [
+    "text"
+   ]
+  },
+  "Oct": {
+   "type": "object",
+   "properties": {
+    "text": {
+     "enum": [
+      "-",
+      "✓"
+     ],
+     "type": "string"
+    }
+   },
+   "required": [
+    "text"
+   ]
+  },
+  "Nov": {
+   "type": "object",
+   "properties": {
+    "text": {
+     "enum": [
+      "-",
+      "✓"
+     ],
+     "type": "string"
+    }
+   },
+   "required": [
+    "text"
+   ]
+  },
+  "Dec": {
+   "type": "object",
+   "properties": {
+    "text": {
+     "enum": [
+      "-",
+      "✓"
+     ],
+     "type": "string"
+    }
+   },
+   "required": [
+    "text"
+   ]
+  }
+ },
+ "required": [
+  "Apr",
+  "Aug",
+  "Dec",
+  "Feb",
+  "Image",
+  "Jan",
+  "Jul",
+  "Jun",
+  "Location",
+  "Mar",
+  "May",
+  "Name",
+  "Nov",
+  "Oct",
+  "Price",
+  "Sep",
+  "Shadow size",
+  "Time"
+ ],
+ "$schema": "http://json-schema.org/draft-07/schema#"
+}
