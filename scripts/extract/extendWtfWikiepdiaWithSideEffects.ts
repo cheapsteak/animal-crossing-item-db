@@ -1,4 +1,5 @@
 import wtf_wikipedia from 'wtf_wikipedia';
+// @ts-ignore
 import strip from 'wtf_wikipedia/src/template/_parsers/_strip';
 
 wtf_wikipedia.extend((_models: any, templates: any) => {
