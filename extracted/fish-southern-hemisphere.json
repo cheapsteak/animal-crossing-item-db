@@ -769,11 +769,11 @@
   },
   {
     "Name": {
-      "text": "Snapping Turtle",
+      "text": "Snapping turtle",
       "links": [
         {
           "type": "internal",
-          "page": "Snapping Turtle"
+          "page": "Snapping turtle"
         }
       ]
     },
@@ -1681,7 +1681,7 @@
       "number": 1000
     },
     "Location": {
-      "text": "River (Clifftop) Pond"
+      "text": "River (Clifftop)"
     },
     "Shadow size": {
       "text": "3",
@@ -5073,7 +5073,7 @@
       "number": 15000
     },
     "Location": {
-      "text": "Sea (Raining)"
+      "text": "Sea"
     },
     "Shadow size": {
       "text": "6",
