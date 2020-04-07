@@ -5,7 +5,7 @@ export const parsePrice = (priceString: string): Price | null => {
   return matched
     ? {
         amount: Number(matched[1]),
-        currency: matched[2],
+        currency: matched[2] || 'Bells',
       }
     : null;
 };

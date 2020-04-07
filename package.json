@@ -32,7 +32,8 @@
     "extract": "ts-node scripts/extract/index.ts",
     "extract:watch": "ts-node-dev --respawn scripts/extract/index.ts",
     "extract:generate-types": "ts-node scripts/extractJsonSchema.ts",
-    "extract:validate-types": "jest scripts/validateExtractedDataMatchesSchema.test.ts"
+    "extract:validate-types": "jest scripts/validateExtractedDataMatchesSchema.test.ts",
+    "load": "ts-node scripts/load.ts"
   },
   "browserslist": {
     "production": [
