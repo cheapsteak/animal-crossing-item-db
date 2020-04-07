@@ -1,7 +1,7 @@
 import { Wiki_Fish } from './../scripts/extract/types';
 export interface SeasonalCritter {
   name: string;
-  imageName: string;
+  imageName: string | null;
   price: number;
   location: string;
   time: string;
@@ -10,6 +10,21 @@ export interface SeasonalCritter {
 }
 
 export interface Fish extends SeasonalCritter {
-  // eslint-disable-next-line prettier/prettier
   shadowSize: Wiki_Fish['Shadow size']['text'];
+}
+
+export type Bug = SeasonalCritter;
+
+export interface Price {
+  amount: number;
+  currency: string;
+}
+
+export interface Furniture {
+  name: string;
+  imageName: string | null;
+  price: {
+    buy: Price | null;
+    sell: Price | null;
+  };
 }

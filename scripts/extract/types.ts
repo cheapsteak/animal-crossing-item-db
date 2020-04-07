@@ -66,7 +66,7 @@ export interface Wiki_Furniture extends Wiki_NamedItemWithImage {
   Name: { text: string };
   Image: { text: string };
   'Price (Buy)': {
-    text: string; // '*' | 'N/A' | '3,000 Bells'
+    text: string; // '*' | 'N/A' | '3,000 Bells' | '500 Nook Miles'
   };
   'Price (Sell)': {
     text: string; // '*' | 'N/A' | '3,000 Bells'
