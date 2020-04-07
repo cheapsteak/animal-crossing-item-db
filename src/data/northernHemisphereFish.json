@@ -1,0 +1,1329 @@
+[
+  {
+    "name": "Bitterling",
+    "imageName": "/images/fish/bitterling.png",
+    "price": 900,
+    "shadowSize": "1",
+    "location": "River",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Pale chub",
+    "imageName": "/images/fish/pale-chub.png",
+    "price": 200,
+    "shadowSize": "1",
+    "location": "River",
+    "time": "9 AM - 4 PM",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Crucian carp",
+    "imageName": "/images/fish/crucian-carp.png",
+    "price": 160,
+    "shadowSize": "2",
+    "location": "River",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Dace",
+    "imageName": "/images/fish/dace.png",
+    "price": 240,
+    "shadowSize": "3",
+    "location": "River",
+    "time": "4 PM - 9 AM",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Carp",
+    "imageName": "/images/fish/carp.png",
+    "price": 300,
+    "shadowSize": "4",
+    "location": "Pond",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Koi",
+    "imageName": "/images/fish/koi.png",
+    "price": 4000,
+    "shadowSize": "4",
+    "location": "Pond",
+    "time": "4 PM - 9 AM",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Goldfish",
+    "imageName": "/images/fish/goldfish.png",
+    "price": 1300,
+    "shadowSize": "1",
+    "location": "Pond",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Pop-eyed goldfish",
+    "imageName": "/images/fish/pop-eyed-goldfish.png",
+    "price": 1300,
+    "shadowSize": "1",
+    "location": "Pond",
+    "time": "9 AM - 4 PM",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Ranchu goldfish",
+    "imageName": "/images/fish/ranchu-goldfish.png",
+    "price": 4500,
+    "shadowSize": "2",
+    "location": "Pond",
+    "time": "9 AM - 4 PM",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Killifish",
+    "imageName": "/images/fish/killifish.png",
+    "price": 300,
+    "shadowSize": "1",
+    "location": "Pond",
+    "time": "All day",
+    "appearsInMonths": [
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug"
+    ]
+  },
+  {
+    "name": "Crawfish",
+    "imageName": "/images/fish/crawfish.png",
+    "price": 200,
+    "shadowSize": "2",
+    "location": "Pond",
+    "time": "All day",
+    "appearsInMonths": [
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ]
+  },
+  {
+    "name": "Soft-shelled turtle",
+    "imageName": "/images/fish/soft-shelled-turtle.png",
+    "price": 3750,
+    "shadowSize": "4",
+    "location": "River",
+    "time": "4 PM - 9 AM",
+    "appearsInMonths": [
+      "Aug",
+      "Sep"
+    ]
+  },
+  {
+    "name": "Snapping Turtle",
+    "imageName": "/images/fish/snapping-turtle.png",
+    "price": 5000,
+    "shadowSize": "5",
+    "location": "River",
+    "time": "9 PM - 4 AM",
+    "appearsInMonths": [
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct"
+    ]
+  },
+  {
+    "name": "Tadpole",
+    "imageName": "/images/fish/tadpole.png",
+    "price": 100,
+    "shadowSize": "1",
+    "location": "Pond",
+    "time": "All day",
+    "appearsInMonths": [
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul"
+    ]
+  },
+  {
+    "name": "Frog",
+    "imageName": "/images/fish/frog.png",
+    "price": 120,
+    "shadowSize": "2",
+    "location": "Pond",
+    "time": "All day",
+    "appearsInMonths": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug"
+    ]
+  },
+  {
+    "name": "Freshwater goby",
+    "imageName": "/images/fish/freshwater-goby.png",
+    "price": 400,
+    "shadowSize": "2",
+    "location": "River",
+    "time": "4 PM - 9 AM",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Loach",
+    "imageName": "/images/fish/loach.png",
+    "price": 400,
+    "shadowSize": "2",
+    "location": "River",
+    "time": "All day",
+    "appearsInMonths": [
+      "Mar",
+      "Apr",
+      "May"
+    ]
+  },
+  {
+    "name": "Catfish",
+    "imageName": "/images/fish/catfish.png",
+    "price": 800,
+    "shadowSize": "4",
+    "location": "Pond",
+    "time": "4 PM - 9 AM",
+    "appearsInMonths": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct"
+    ]
+  },
+  {
+    "name": "Giant snakehead",
+    "imageName": "/images/fish/giant-snakehead.png",
+    "price": 5500,
+    "shadowSize": "5",
+    "location": "Pond",
+    "time": "9 AM - 4 PM",
+    "appearsInMonths": [
+      "Jun",
+      "Jul",
+      "Aug"
+    ]
+  },
+  {
+    "name": "Bluegill",
+    "imageName": "/images/fish/bluegill.png",
+    "price": 180,
+    "shadowSize": "2",
+    "location": "River",
+    "time": "9 AM - 4 PM",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Yellow perch",
+    "imageName": "/images/fish/yellow-perch.png",
+    "price": 300,
+    "shadowSize": "3",
+    "location": "River",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Black bass",
+    "imageName": "/images/fish/black-bass.png",
+    "price": 400,
+    "shadowSize": "4",
+    "location": "River",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Tilapia",
+    "imageName": "/images/fish/tilapia.png",
+    "price": 800,
+    "shadowSize": "3",
+    "location": "River",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct"
+    ]
+  },
+  {
+    "name": "Pike",
+    "imageName": "/images/fish/pike.png",
+    "price": 1800,
+    "shadowSize": "5",
+    "location": "River",
+    "time": "All day",
+    "appearsInMonths": [
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Pond smelt",
+    "imageName": "/images/fish/pond-smelt.png",
+    "price": 500,
+    "shadowSize": "2",
+    "location": "River",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Sweetfish",
+    "imageName": "/images/fish/sweetfish.png",
+    "price": 900,
+    "shadowSize": "3",
+    "location": "River",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jul",
+      "Aug",
+      "Sep"
+    ]
+  },
+  {
+    "name": "Cherry salmon",
+    "imageName": "/images/fish/cherry-salmon.png",
+    "price": 1000,
+    "shadowSize": "3",
+    "location": "River (Clifftop)",
+    "time": "4 PM - 9 AM",
+    "appearsInMonths": [
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Sep",
+      "Oct",
+      "Nov"
+    ]
+  },
+  {
+    "name": "Char",
+    "imageName": "/images/fish/char.png",
+    "price": 3800,
+    "shadowSize": "3",
+    "location": "River (Clifftop) Pond",
+    "time": "4 PM - 9 AM",
+    "appearsInMonths": [
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Sep",
+      "Oct",
+      "Nov"
+    ]
+  },
+  {
+    "name": "Golden trout",
+    "imageName": "/images/fish/golden-trout.png",
+    "price": 15000,
+    "shadowSize": "3",
+    "location": "River (Clifftop)",
+    "time": "4 PM - 9 AM",
+    "appearsInMonths": [
+      "Mar",
+      "Apr",
+      "May",
+      "Sep",
+      "Oct",
+      "Nov"
+    ]
+  },
+  {
+    "name": "Stringfish",
+    "imageName": "/images/fish/stringfish.png",
+    "price": 15000,
+    "shadowSize": "5",
+    "location": "River (Clifftop)",
+    "time": "4 PM - 9 AM",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Salmon",
+    "imageName": "/images/fish/salmon.png",
+    "price": 700,
+    "shadowSize": "4",
+    "location": "River (Mouth)",
+    "time": "All day",
+    "appearsInMonths": [
+      "Sep"
+    ]
+  },
+  {
+    "name": "King salmon",
+    "imageName": "/images/fish/king-salmon.png",
+    "price": 1800,
+    "shadowSize": "6",
+    "location": "River (Mouth)",
+    "time": "All day",
+    "appearsInMonths": [
+      "Sep"
+    ]
+  },
+  {
+    "name": "Mitten crab",
+    "imageName": "/images/fish/mitten-crab.png",
+    "price": 2000,
+    "shadowSize": "2",
+    "location": "River",
+    "time": "4 PM - 9 AM",
+    "appearsInMonths": [
+      "Sep",
+      "Oct",
+      "Nov"
+    ]
+  },
+  {
+    "name": "Guppy",
+    "imageName": "/images/fish/guppy.png",
+    "price": 1300,
+    "shadowSize": "1",
+    "location": "River",
+    "time": "9 AM - 4 PM",
+    "appearsInMonths": [
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov"
+    ]
+  },
+  {
+    "name": "Nibble fish",
+    "imageName": "/images/fish/nibble-fish.png",
+    "price": 1500,
+    "shadowSize": "1",
+    "location": "River",
+    "time": "9 AM - 4 PM",
+    "appearsInMonths": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ]
+  },
+  {
+    "name": "Angelfish",
+    "imageName": "/images/fish/angelfish.png",
+    "price": 3000,
+    "shadowSize": "2",
+    "location": "River",
+    "time": "4 PM - 9 AM",
+    "appearsInMonths": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct"
+    ]
+  },
+  {
+    "name": "Betta",
+    "imageName": "/images/fish/betta.png",
+    "price": 2500,
+    "shadowSize": "2",
+    "location": "River",
+    "time": "9 AM - 4 PM",
+    "appearsInMonths": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct"
+    ]
+  },
+  {
+    "name": "Neon tetra",
+    "imageName": "/images/fish/neon-tetra.png",
+    "price": 500,
+    "shadowSize": "1",
+    "location": "River",
+    "time": "9 AM - 4 PM",
+    "appearsInMonths": [
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov"
+    ]
+  },
+  {
+    "name": "Rainbowfish",
+    "imageName": "/images/fish/rainbowfish.png",
+    "price": 800,
+    "shadowSize": "1",
+    "location": "River",
+    "time": "9 AM - 4 PM",
+    "appearsInMonths": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct"
+    ]
+  },
+  {
+    "name": "Piranha",
+    "imageName": "/images/fish/piranha.png",
+    "price": 2500,
+    "shadowSize": "2",
+    "location": "River",
+    "time": "9 AM - 4 PM & 9 PM - 4 AM",
+    "appearsInMonths": [
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ]
+  },
+  {
+    "name": "Arowana",
+    "imageName": "/images/fish/arowana.png",
+    "price": 10000,
+    "shadowSize": "4",
+    "location": "River",
+    "time": "4 PM - 9 AM",
+    "appearsInMonths": [
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ]
+  },
+  {
+    "name": "Dorado",
+    "imageName": "/images/fish/dorado.png",
+    "price": 15000,
+    "shadowSize": "5",
+    "location": "River",
+    "time": "4 AM - 9 PM",
+    "appearsInMonths": [
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ]
+  },
+  {
+    "name": "Gar",
+    "imageName": "/images/fish/gar.png",
+    "price": 6000,
+    "shadowSize": "6",
+    "location": "Pond",
+    "time": "4 PM - 9 AM",
+    "appearsInMonths": [
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ]
+  },
+  {
+    "name": "Arapaima",
+    "imageName": "/images/fish/arapaima.png",
+    "price": 10000,
+    "shadowSize": "6",
+    "location": "River",
+    "time": "4 PM - 9 AM",
+    "appearsInMonths": [
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ]
+  },
+  {
+    "name": "Saddled bichir",
+    "imageName": "/images/fish/saddled-bichir.png",
+    "price": 4000,
+    "shadowSize": "4",
+    "location": "River",
+    "time": "9 PM - 4 AM",
+    "appearsInMonths": [
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ]
+  },
+  {
+    "name": "Sturgeon",
+    "imageName": "/images/fish/sturgeon.png",
+    "price": 10000,
+    "shadowSize": "6",
+    "location": "River (Mouth)",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Sea butterfly",
+    "imageName": "/images/fish/sea-butterfly.png",
+    "price": 1000,
+    "shadowSize": "1",
+    "location": "Sea",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Sea horse",
+    "imageName": "/images/fish/sea-horse.png",
+    "price": 1100,
+    "shadowSize": "1",
+    "location": "Sea",
+    "time": "All day",
+    "appearsInMonths": [
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov"
+    ]
+  },
+  {
+    "name": "Clown fish",
+    "imageName": "/images/fish/clown-fish.png",
+    "price": 650,
+    "shadowSize": "1",
+    "location": "Sea",
+    "time": "All day",
+    "appearsInMonths": [
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ]
+  },
+  {
+    "name": "Surgeonfish",
+    "imageName": "/images/fish/surgeonfish.png",
+    "price": 1000,
+    "shadowSize": "2",
+    "location": "Sea",
+    "time": "All day",
+    "appearsInMonths": [
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ]
+  },
+  {
+    "name": "Butterfly fish",
+    "imageName": "/images/fish/butterfly-fish.png",
+    "price": 1000,
+    "shadowSize": "2",
+    "location": "Sea",
+    "time": "All day",
+    "appearsInMonths": [
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ]
+  },
+  {
+    "name": "Napoleonfish",
+    "imageName": "/images/fish/napoleonfish.png",
+    "price": 10000,
+    "shadowSize": "6",
+    "location": "Sea",
+    "time": "4 AM - 9 PM",
+    "appearsInMonths": [
+      "Jul",
+      "Aug"
+    ]
+  },
+  {
+    "name": "Zebra turkeyfish",
+    "imageName": "/images/fish/zebra-turkeyfish.png",
+    "price": 500,
+    "shadowSize": "3",
+    "location": "Sea",
+    "time": "All day",
+    "appearsInMonths": [
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov"
+    ]
+  },
+  {
+    "name": "Blowfish",
+    "imageName": "/images/fish/blowfish.png",
+    "price": 5000,
+    "shadowSize": "3",
+    "location": "Sea",
+    "time": "9 PM - 4 AM",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Puffer fish",
+    "imageName": "/images/fish/puffer-fish.png",
+    "price": 250,
+    "shadowSize": "3",
+    "location": "Sea",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jul",
+      "Aug",
+      "Sep"
+    ]
+  },
+  {
+    "name": "Anchovy",
+    "imageName": "/images/fish/anchovy.png",
+    "price": 200,
+    "shadowSize": "2",
+    "location": "Sea",
+    "time": "4 AM - 9 PM",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Horse mackerel",
+    "imageName": "/images/fish/horse-mackerel.png",
+    "price": 150,
+    "shadowSize": "2",
+    "location": "Sea",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Barred knifejaw",
+    "imageName": "/images/fish/barred-knifejaw.png",
+    "price": 5000,
+    "shadowSize": "3",
+    "location": "Sea",
+    "time": "All day",
+    "appearsInMonths": [
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov"
+    ]
+  },
+  {
+    "name": "Sea bass",
+    "imageName": "/images/fish/sea-bass.png",
+    "price": 400,
+    "shadowSize": "5",
+    "location": "Sea",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Red snapper",
+    "imageName": "/images/fish/red-snapper.png",
+    "price": 3000,
+    "shadowSize": "4",
+    "location": "Sea",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Dab",
+    "imageName": "/images/fish/dab.png",
+    "price": 300,
+    "shadowSize": "3",
+    "location": "Sea",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Olive flounder",
+    "imageName": "/images/fish/olive-flounder.png",
+    "price": 800,
+    "shadowSize": "5",
+    "location": "Sea",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Squid",
+    "imageName": "/images/fish/squid.png",
+    "price": 500,
+    "shadowSize": "3",
+    "location": "Sea",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Moray eel",
+    "imageName": "/images/fish/moray-eel.png",
+    "price": 2000,
+    "shadowSize": "Narrow",
+    "location": "Sea",
+    "time": "All day",
+    "appearsInMonths": [
+      "Aug",
+      "Sep",
+      "Oct"
+    ]
+  },
+  {
+    "name": "Ribbon eel",
+    "imageName": "/images/fish/ribbon-eel.png",
+    "price": 600,
+    "shadowSize": "Narrow",
+    "location": "Sea",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct"
+    ]
+  },
+  {
+    "name": "Tuna",
+    "imageName": "/images/fish/tuna.png",
+    "price": 7000,
+    "shadowSize": "6",
+    "location": "Pier",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Blue marlin",
+    "imageName": "/images/fish/blue-marlin.png",
+    "price": 10000,
+    "shadowSize": "6",
+    "location": "Pier",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Giant trevally",
+    "imageName": "/images/fish/giant-trevally.png",
+    "price": 4500,
+    "shadowSize": "5",
+    "location": "Pier",
+    "time": "All day",
+    "appearsInMonths": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct"
+    ]
+  },
+  {
+    "name": "Mahi-mahi",
+    "imageName": "/images/fish/mahi-mahi.png",
+    "price": 6000,
+    "shadowSize": "5",
+    "location": "Pier",
+    "time": "All day",
+    "appearsInMonths": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct"
+    ]
+  },
+  {
+    "name": "Ocean sunfish",
+    "imageName": "/images/fish/ocean-sunfish.png",
+    "price": 4000,
+    "shadowSize": "6 (Fin)",
+    "location": "Sea",
+    "time": "4 AM - 9 PM",
+    "appearsInMonths": [
+      "Jul",
+      "Aug",
+      "Sep"
+    ]
+  },
+  {
+    "name": "Ray",
+    "imageName": "/images/fish/ray.png",
+    "price": 3000,
+    "shadowSize": "5",
+    "location": "Sea",
+    "time": "4 AM - 9 PM",
+    "appearsInMonths": [
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov"
+    ]
+  },
+  {
+    "name": "Saw shark",
+    "imageName": "/images/fish/saw-shark.png",
+    "price": 12000,
+    "shadowSize": "6 (Fin)",
+    "location": "Sea",
+    "time": "4 PM - 9 AM",
+    "appearsInMonths": [
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ]
+  },
+  {
+    "name": "Hammerhead shark",
+    "imageName": "/images/fish/hammerhead-shark.png",
+    "price": 8000,
+    "shadowSize": "6 (Fin)",
+    "location": "Sea",
+    "time": "4 PM - 9 AM",
+    "appearsInMonths": [
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ]
+  },
+  {
+    "name": "Great white shark",
+    "imageName": "/images/fish/great-white-shark.png",
+    "price": 15000,
+    "shadowSize": "6 (Fin)",
+    "location": "Sea",
+    "time": "4 PM - 9 AM",
+    "appearsInMonths": [
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ]
+  },
+  {
+    "name": "Whale shark",
+    "imageName": "/images/fish/whale-shark.png",
+    "price": 13000,
+    "shadowSize": "6 (Fin)",
+    "location": "Sea",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ]
+  },
+  {
+    "name": "Suckerfish",
+    "imageName": "/images/fish/suckerfish.png",
+    "price": 1500,
+    "shadowSize": "4 (Fin)",
+    "location": "Sea",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ]
+  },
+  {
+    "name": "Football fish",
+    "imageName": "/images/fish/football-fish.png",
+    "price": 2500,
+    "shadowSize": "4",
+    "location": "Sea",
+    "time": "4 PM - 9 AM",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Oarfish",
+    "imageName": "/images/fish/oarfish.png",
+    "price": 9000,
+    "shadowSize": "6",
+    "location": "Sea",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Barreleye",
+    "imageName": "/images/fish/barreleye.png",
+    "price": 15000,
+    "shadowSize": "2",
+    "location": "Sea",
+    "time": "9 PM - 4 AM",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Coelacanth",
+    "imageName": "/images/fish/coelacanth.png",
+    "price": 15000,
+    "shadowSize": "6",
+    "location": "Sea",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  }
+]

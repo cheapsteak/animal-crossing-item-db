@@ -1,0 +1,1173 @@
+[
+  {
+    "name": "Common butterfly",
+    "imageName": "/images/bugs/common-butterfly.png",
+    "price": 160,
+    "location": "Flying",
+    "time": "4 AM - 7 PM",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Yellow butterfly",
+    "imageName": "/images/bugs/yellow-butterfly.png",
+    "price": 160,
+    "location": "Flying",
+    "time": "4 AM - 7 PM",
+    "appearsInMonths": [
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Sep",
+      "Oct"
+    ]
+  },
+  {
+    "name": "Tiger butterfly",
+    "imageName": "/images/bugs/tiger-butterfly.png",
+    "price": 240,
+    "location": "Flying",
+    "time": "4 AM - 7 PM",
+    "appearsInMonths": [
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ]
+  },
+  {
+    "name": "Peacock butterfly",
+    "imageName": "/images/bugs/peacock-butterfly.png",
+    "price": 2500,
+    "location": "Flying by Hybrid Flowers",
+    "time": "4 AM - 7 PM",
+    "appearsInMonths": [
+      "Mar",
+      "Apr",
+      "May",
+      "Jun"
+    ]
+  },
+  {
+    "name": "Common bluebottle",
+    "imageName": "/images/bugs/common-bluebottle.png",
+    "price": 300,
+    "location": "Flying",
+    "time": "4 AM - 7 PM",
+    "appearsInMonths": [
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug"
+    ]
+  },
+  {
+    "name": "Paper kite butterfly",
+    "imageName": "/images/bugs/paper-kite-butterfly.png",
+    "price": 1000,
+    "location": "Flying",
+    "time": "8 AM - 7 PM",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Great purple emperor",
+    "imageName": "/images/bugs/great-purple-emperor.png",
+    "price": 3000,
+    "location": "Flying",
+    "time": "4 AM - 7 PM",
+    "appearsInMonths": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug"
+    ]
+  },
+  {
+    "name": "Monarch butterfly",
+    "imageName": "/images/bugs/monarch-butterfly.png",
+    "price": 140,
+    "location": "Flying",
+    "time": "4 AM - 5 PM",
+    "appearsInMonths": [
+      "Sep",
+      "Oct",
+      "Nov"
+    ]
+  },
+  {
+    "name": "Emperor butterfly",
+    "imageName": "/images/bugs/emperor-butterfly.png",
+    "price": 4000,
+    "location": "Flying",
+    "time": "5 PM - 8 AM",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Agrias butterfly",
+    "imageName": "/images/bugs/agrias-butterfly.png",
+    "price": 3000,
+    "location": "Flying",
+    "time": "8 AM - 5 PM",
+    "appearsInMonths": [
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ]
+  },
+  {
+    "name": "Rajah Brooke's birdwing",
+    "imageName": "/images/bugs/rajah-brooke's-birdwing.png",
+    "price": 2500,
+    "location": "Flying",
+    "time": "8 AM - 5 PM",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Queen Alexandra's birdwing",
+    "imageName": "/images/bugs/queen-alexandra's-birdwing.png",
+    "price": 4000,
+    "location": "Flying",
+    "time": "8 AM - 4 PM",
+    "appearsInMonths": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ]
+  },
+  {
+    "name": "Moth",
+    "imageName": "/images/bugs/moth.png",
+    "price": 130,
+    "location": "Flying by Light",
+    "time": "7 PM - 4 AM",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Atlas moth",
+    "imageName": "/images/bugs/atlas-moth.png",
+    "price": 3000,
+    "location": "On Trees",
+    "time": "7 PM - 4 AM",
+    "appearsInMonths": [
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ]
+  },
+  {
+    "name": "Madagascan sunset moth",
+    "imageName": "/images/bugs/madagascan-sunset-moth.png",
+    "price": 2500,
+    "location": "Flying",
+    "time": "8 AM - 4 PM",
+    "appearsInMonths": [
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ]
+  },
+  {
+    "name": "Long locust",
+    "imageName": "/images/bugs/long-locust.png",
+    "price": 200,
+    "location": "On the Ground",
+    "time": "8 AM - 7 PM",
+    "appearsInMonths": [
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov"
+    ]
+  },
+  {
+    "name": "Migratory locust",
+    "imageName": "/images/bugs/migratory-locust.png",
+    "price": 600,
+    "location": "On the Ground",
+    "time": "8 AM - 7 PM",
+    "appearsInMonths": [
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov"
+    ]
+  },
+  {
+    "name": "Rice grasshopper",
+    "imageName": "/images/bugs/rice-grasshopper.png",
+    "price": 160,
+    "location": "On the Ground",
+    "time": "8 AM - 7 PM",
+    "appearsInMonths": [
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov"
+    ]
+  },
+  {
+    "name": "Grasshopper",
+    "imageName": "/images/bugs/grasshopper.png",
+    "price": 160,
+    "location": "On the Ground",
+    "time": "8 AM - 5 PM",
+    "appearsInMonths": [
+      "Jul",
+      "Aug",
+      "Sep"
+    ]
+  },
+  {
+    "name": "Cricket",
+    "imageName": "/images/bugs/cricket.png",
+    "price": 130,
+    "location": "On the Ground",
+    "time": "5 PM - 8 AM",
+    "appearsInMonths": [
+      "Sep",
+      "Oct",
+      "Nov"
+    ]
+  },
+  {
+    "name": "Bell cricket",
+    "imageName": "/images/bugs/bell-cricket.png",
+    "price": 430,
+    "location": "On the Ground",
+    "time": "5 PM - 8 AM",
+    "appearsInMonths": [
+      "Sep",
+      "Oct"
+    ]
+  },
+  {
+    "name": "Mantis",
+    "imageName": "/images/bugs/mantis.png",
+    "price": 430,
+    "location": "On Flowers",
+    "time": "8 AM - 5 PM",
+    "appearsInMonths": [
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov"
+    ]
+  },
+  {
+    "name": "Orchid mantis",
+    "imageName": "/images/bugs/orchid-mantis.png",
+    "price": 2400,
+    "location": "On Flowers (White)",
+    "time": "8 AM - 5 PM",
+    "appearsInMonths": [
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov"
+    ]
+  },
+  {
+    "name": "Honeybee",
+    "imageName": "/images/bugs/honeybee.png",
+    "price": 200,
+    "location": "Flying",
+    "time": "8 AM - 5 PM",
+    "appearsInMonths": [
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul"
+    ]
+  },
+  {
+    "name": "Wasp",
+    "imageName": "/images/bugs/wasp.png",
+    "price": 2500,
+    "location": "Shaking Trees",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Brown cicada",
+    "imageName": "/images/bugs/brown-cicada.png",
+    "price": 250,
+    "location": "On Trees",
+    "time": "8 AM - 5 PM",
+    "appearsInMonths": [
+      "Jul",
+      "Aug"
+    ]
+  },
+  {
+    "name": "Robust cicada",
+    "imageName": "/images/bugs/robust-cicada.png",
+    "price": 300,
+    "location": "On Trees",
+    "time": "8 AM - 5 PM",
+    "appearsInMonths": [
+      "Jul",
+      "Aug"
+    ]
+  },
+  {
+    "name": "Giant cicada",
+    "imageName": "/images/bugs/giant-cicada.png",
+    "price": 500,
+    "location": "On Trees",
+    "time": "8 AM - 5 PM",
+    "appearsInMonths": [
+      "Jul",
+      "Aug"
+    ]
+  },
+  {
+    "name": "Walker cicada",
+    "imageName": "/images/bugs/walker-cicada.png",
+    "price": 400,
+    "location": "On Trees",
+    "time": "8 AM - 5 PM",
+    "appearsInMonths": [
+      "Aug",
+      "Sep"
+    ]
+  },
+  {
+    "name": "Evening cicada",
+    "imageName": "/images/bugs/evening-cicada.png",
+    "price": 550,
+    "location": "On Trees",
+    "time": "4 AM - 8 AM & 4 PM - 7 PM",
+    "appearsInMonths": [
+      "Jul",
+      "Aug"
+    ]
+  },
+  {
+    "name": "Cicada shell",
+    "imageName": "/images/bugs/cicada-shell.png",
+    "price": 10,
+    "location": "On Trees",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jul",
+      "Aug"
+    ]
+  },
+  {
+    "name": "Red dragonfly",
+    "imageName": "/images/bugs/red-dragonfly.png",
+    "price": 180,
+    "location": "Flying",
+    "time": "8 AM - 7 PM",
+    "appearsInMonths": [
+      "Sep",
+      "Oct"
+    ]
+  },
+  {
+    "name": "Darner dragonfly",
+    "imageName": "/images/bugs/darner-dragonfly.png",
+    "price": 230,
+    "location": "Flying",
+    "time": "8 AM - 5 PM",
+    "appearsInMonths": [
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct"
+    ]
+  },
+  {
+    "name": "Banded dragonfly",
+    "imageName": "/images/bugs/banded-dragonfly.png",
+    "price": 4500,
+    "location": "Flying",
+    "time": "8 AM - 5 PM",
+    "appearsInMonths": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct"
+    ]
+  },
+  {
+    "name": "Damselfly",
+    "imageName": "/images/bugs/damselfly.png",
+    "price": 500,
+    "location": "Flying",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Firefly",
+    "imageName": "/images/bugs/firefly.png",
+    "price": 300,
+    "location": "Flying",
+    "time": "7 PM - 4 AM",
+    "appearsInMonths": [
+      "Jun"
+    ]
+  },
+  {
+    "name": "Mole cricket",
+    "imageName": "/images/bugs/mole-cricket.png",
+    "price": 500,
+    "location": "Underground",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Pondskater",
+    "imageName": "/images/bugs/pondskater.png",
+    "price": 130,
+    "location": "On Ponds and Rivers",
+    "time": "8 AM - 7 PM",
+    "appearsInMonths": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ]
+  },
+  {
+    "name": "Diving beetle",
+    "imageName": "/images/bugs/diving-beetle.png",
+    "price": 800,
+    "location": "On Ponds and Rivers",
+    "time": "8 AM - 7 PM",
+    "appearsInMonths": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ]
+  },
+  {
+    "name": "Giant water bug",
+    "imageName": "/images/bugs/giant-water-bug.png",
+    "price": 2000,
+    "location": "On Ponds and Rivers",
+    "time": "7 PM - 8 AM",
+    "appearsInMonths": [
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ]
+  },
+  {
+    "name": "Stinkbug",
+    "imageName": "/images/bugs/stinkbug.png",
+    "price": 120,
+    "location": "On Flowers",
+    "time": "All day",
+    "appearsInMonths": [
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct"
+    ]
+  },
+  {
+    "name": "Man-faced stink bug",
+    "imageName": "/images/bugs/man-faced-stink-bug.png",
+    "price": 1000,
+    "location": "On Flowers",
+    "time": "7 PM - 8 AM",
+    "appearsInMonths": [
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct"
+    ]
+  },
+  {
+    "name": "Ladybug",
+    "imageName": "/images/bugs/ladybug.png",
+    "price": 200,
+    "location": "On Flowers",
+    "time": "8 AM - 5 PM",
+    "appearsInMonths": [
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Oct"
+    ]
+  },
+  {
+    "name": "Tiger beetle",
+    "imageName": "/images/bugs/tiger-beetle.png",
+    "price": 1500,
+    "location": "On the Ground",
+    "time": "All day",
+    "appearsInMonths": [
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct"
+    ]
+  },
+  {
+    "name": "Jewel beetle",
+    "imageName": "/images/bugs/jewel-beetle.png",
+    "price": 2400,
+    "location": "On Tree Stumps",
+    "time": "All day",
+    "appearsInMonths": [
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug"
+    ]
+  },
+  {
+    "name": "Violin beetle",
+    "imageName": "/images/bugs/violin-beetle.png",
+    "price": 450,
+    "location": "On Tree Stumps",
+    "time": "All day",
+    "appearsInMonths": [
+      "May",
+      "Jun",
+      "Sep",
+      "Oct",
+      "Nov"
+    ]
+  },
+  {
+    "name": "Citrus long-horned beetle",
+    "imageName": "/images/bugs/citrus-long-horned-beetle.png",
+    "price": 350,
+    "location": "On Tree Stumps",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Rosalia batesi beetle",
+    "imageName": "/images/bugs/rosalia-batesi-beetle.png",
+    "price": 3000,
+    "location": "On Tree Stumps",
+    "time": "All day",
+    "appearsInMonths": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ]
+  },
+  {
+    "name": "Blue weevil beetle",
+    "imageName": "/images/bugs/blue-weevil-beetle.png",
+    "price": 800,
+    "location": "On Trees (Coconut?)",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jul",
+      "Aug"
+    ]
+  },
+  {
+    "name": "Dung beetle",
+    "imageName": "/images/bugs/dung-beetle.png",
+    "price": 3000,
+    "location": "On the Ground (rolling snowballs)",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Earth-boring dung beetle",
+    "imageName": "/images/bugs/earth-boring-dung-beetle.png",
+    "price": 300,
+    "location": "On the Ground",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jul",
+      "Aug",
+      "Sep"
+    ]
+  },
+  {
+    "name": "Scarab beetle",
+    "imageName": "/images/bugs/scarab-beetle.png",
+    "price": 10000,
+    "location": "On Trees",
+    "time": "11 PM - 8 AM",
+    "appearsInMonths": [
+      "Jul",
+      "Aug"
+    ]
+  },
+  {
+    "name": "Drone beetle",
+    "imageName": "/images/bugs/drone-beetle.png",
+    "price": 200,
+    "location": "On Trees",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jun",
+      "Jul",
+      "Aug"
+    ]
+  },
+  {
+    "name": "Goliath beetle",
+    "imageName": "/images/bugs/goliath-beetle.png",
+    "price": 8000,
+    "location": "On Trees (Coconut)",
+    "time": "5 PM - 8 AM",
+    "appearsInMonths": [
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ]
+  },
+  {
+    "name": "Saw stag",
+    "imageName": "/images/bugs/saw-stag.png",
+    "price": 2000,
+    "location": "On Trees",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jul",
+      "Aug"
+    ]
+  },
+  {
+    "name": "Miyama stag",
+    "imageName": "/images/bugs/miyama-stag.png",
+    "price": 1000,
+    "location": "On Trees",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jul",
+      "Aug"
+    ]
+  },
+  {
+    "name": "Giant stag",
+    "imageName": "/images/bugs/giant-stag.png",
+    "price": 10000,
+    "location": "On Trees",
+    "time": "11 PM - 8 AM",
+    "appearsInMonths": [
+      "Jul",
+      "Aug"
+    ]
+  },
+  {
+    "name": "Rainbow stag",
+    "imageName": "/images/bugs/rainbow-stag.png",
+    "price": 6000,
+    "location": "On Trees",
+    "time": "7 PM - 8 AM",
+    "appearsInMonths": [
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ]
+  },
+  {
+    "name": "Cyclommatus stag",
+    "imageName": "/images/bugs/cyclommatus-stag.png",
+    "price": 8000,
+    "location": "On Trees (Coconut)",
+    "time": "5 PM - 8 AM",
+    "appearsInMonths": [
+      "Jul",
+      "Aug"
+    ]
+  },
+  {
+    "name": "Golden stag",
+    "imageName": "/images/bugs/golden-stag.png",
+    "price": 12000,
+    "location": "On Trees (Coconut)",
+    "time": "5 PM - 8 AM",
+    "appearsInMonths": [
+      "Jul",
+      "Aug"
+    ]
+  },
+  {
+    "name": "Giraffe stag",
+    "imageName": "/images/bugs/giraffe-stag.png",
+    "price": 12000,
+    "location": "On Trees (Coconut?)",
+    "time": "5 PM - 8 AM",
+    "appearsInMonths": [
+      "Jul",
+      "Aug"
+    ]
+  },
+  {
+    "name": "Horned dynastid",
+    "imageName": "/images/bugs/horned-dynastid.png",
+    "price": 1350,
+    "location": "On Trees",
+    "time": "5 PM - 8 AM",
+    "appearsInMonths": [
+      "Jul",
+      "Aug"
+    ]
+  },
+  {
+    "name": "Horned atlas",
+    "imageName": "/images/bugs/horned-atlas.png",
+    "price": 8000,
+    "location": "On Trees (Coconut)",
+    "time": "5 PM - 8 AM",
+    "appearsInMonths": [
+      "Jul",
+      "Aug"
+    ]
+  },
+  {
+    "name": "Horned elephant",
+    "imageName": "/images/bugs/horned-elephant.png",
+    "price": 8000,
+    "location": "On Trees (Coconut)",
+    "time": "5 PM - 8 AM",
+    "appearsInMonths": [
+      "Jul",
+      "Aug"
+    ]
+  },
+  {
+    "name": "Horned hercules",
+    "imageName": "/images/bugs/horned-hercules.png",
+    "price": 12000,
+    "location": "On Trees (Coconut)",
+    "time": "5 PM - 8 AM",
+    "appearsInMonths": [
+      "Jul",
+      "Aug"
+    ]
+  },
+  {
+    "name": "Walking stick",
+    "imageName": "/images/bugs/walking-stick.png",
+    "price": 600,
+    "location": "On Trees",
+    "time": "4 AM - 8 AM & 5 PM - 7 PM",
+    "appearsInMonths": [
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov"
+    ]
+  },
+  {
+    "name": "Walking leaf",
+    "imageName": "/images/bugs/walking-leaf.png",
+    "price": 600,
+    "location": "Under Trees Disguised as Leafs",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jul",
+      "Aug",
+      "Sep"
+    ]
+  },
+  {
+    "name": "Bagworm",
+    "imageName": "/images/bugs/bagworm.png",
+    "price": 600,
+    "location": "Shaking Trees",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Ant",
+    "imageName": "/images/bugs/ant.png",
+    "price": 80,
+    "location": "On rotten food",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Hermit crab",
+    "imageName": "/images/bugs/hermit-crab.png",
+    "price": 1000,
+    "location": "Beach disguised as Shells",
+    "time": "7 PM - 8 AM",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Wharf roach",
+    "imageName": "/images/bugs/wharf-roach.png",
+    "price": 200,
+    "location": "On Beach Rocks",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Fly",
+    "imageName": "/images/bugs/fly.png",
+    "price": 60,
+    "location": "On Trash Items",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Mosquito",
+    "imageName": "/images/bugs/mosquito.png",
+    "price": 130,
+    "location": "Flying",
+    "time": "5 PM - 4 AM",
+    "appearsInMonths": [
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
+    ]
+  },
+  {
+    "name": "Flea",
+    "imageName": "/images/bugs/flea.png",
+    "price": 70,
+    "location": "Villager's Heads",
+    "time": "All day",
+    "appearsInMonths": [
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov"
+    ]
+  },
+  {
+    "name": "Snail",
+    "imageName": "/images/bugs/snail.png",
+    "price": 250,
+    "location": "On Rocks (Rain)",
+    "time": "All day",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Pill bug",
+    "imageName": "/images/bugs/pill-bug.png",
+    "price": 250,
+    "location": "Hitting Rocks",
+    "time": "11 PM - 4 PM",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Centipede",
+    "imageName": "/images/bugs/centipede.png",
+    "price": 300,
+    "location": "Hitting Rocks",
+    "time": "4 PM - 11 PM",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Spider",
+    "imageName": "/images/bugs/spider.png",
+    "price": 480,
+    "location": "Shaking Trees",
+    "time": "7 PM - 8 AM",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Tarantula",
+    "imageName": "/images/bugs/tarantula.png",
+    "price": 8000,
+    "location": "On the Ground",
+    "time": "7 PM - 4 AM",
+    "appearsInMonths": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "Nov",
+      "Dec"
+    ]
+  },
+  {
+    "name": "Scorpion",
+    "imageName": "/images/bugs/scorpion.png",
+    "price": 8000,
+    "location": "On the Ground",
+    "time": "7 PM - 4 AM",
+    "appearsInMonths": [
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct"
+    ]
+  }
+]
