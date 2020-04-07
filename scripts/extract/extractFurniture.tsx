@@ -4,6 +4,7 @@ import wtf from 'wtf_wikipedia';
 import { Wiki_Furniture } from './types';
 import { downloadWikiImages } from './downloadWikiImages';
 import { extractionDirectory } from '../extractionDirectory';
+import { saveExtractedItems } from './saveExtractedItems';
 
 export const extractFurniture = async () => {
   console.log('[extractFurniture] starting');
@@ -21,11 +22,7 @@ export const extractFurniture = async () => {
     ) as Wiki_Furniture[];
 
   console.log('[extractFurniture] writing json');
-  fs.writeFileSync(
-    path.join(extractionDirectory, 'furniture.json'),
-    JSON.stringify(allFurniture, null, '  '),
-    { encoding: 'utf8', flag: 'w' },
-  );
+  saveExtractedItems(allFurniture, 'furniture');
 
   console.log('[extractFurniture] creating image directory');
   const imageDirectory = path.join(extractionDirectory, 'images/furniture');

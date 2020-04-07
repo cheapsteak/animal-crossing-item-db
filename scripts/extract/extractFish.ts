@@ -5,6 +5,7 @@ import wtf from 'wtf_wikipedia';
 import { Wiki_SeasonalCritter } from './types';
 import { downloadWikiImages } from './downloadWikiImages';
 import { extractionDirectory } from '../extractionDirectory';
+import { saveExtractedItems } from './saveExtractedItems';
 
 const cleanFishData = (row: any) => {
   // sometimes Location and "Shadow Size" columns can get mixed up
@@ -37,16 +38,8 @@ export const extractFish = async () => {
   console.log(southernHemisphereFish);
 
   console.log('[extractFish] writing json');
-  fs.writeFileSync(
-    path.join(extractionDirectory, 'fish-northern-hemisphere.json'),
-    JSON.stringify(northernHemisphereFish, null, '  '),
-    { encoding: 'utf8', flag: 'w' },
-  );
-  fs.writeFileSync(
-    path.join(extractionDirectory, 'fish-southern-hemisphere.json'),
-    JSON.stringify(southernHemisphereFish, null, '  '),
-    { encoding: 'utf8', flag: 'w' },
-  );
+  saveExtractedItems(northernHemisphereFish, 'fish-northern-hemisphere');
+  saveExtractedItems(southernHemisphereFish, 'fish-southern-hemisphere');
 
   const allFish = _.uniqBy(
     northernHemisphereFish.concat(southernHemisphereFish),

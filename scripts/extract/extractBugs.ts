@@ -5,6 +5,7 @@ import wtf from 'wtf_wikipedia';
 import { Wiki_SeasonalCritter } from './types';
 import { downloadWikiImages } from './downloadWikiImages';
 import { extractionDirectory } from '../extractionDirectory';
+import { saveExtractedItems } from './saveExtractedItems';
 
 export const extractBugs = async () => {
   console.log('[extractBugs] starting');
@@ -22,16 +23,8 @@ export const extractBugs = async () => {
   >;
 
   console.log('[extractBugs] writing json');
-  fs.writeFileSync(
-    path.join(extractionDirectory, 'bugs-northern-hemisphere.json'),
-    JSON.stringify(northernHemisphereBugs, null, '  '),
-    { encoding: 'utf8', flag: 'w' },
-  );
-  fs.writeFileSync(
-    path.join(extractionDirectory, 'bugs-southern-hemisphere.json'),
-    JSON.stringify(southernHemisphereBugs, null, '  '),
-    { encoding: 'utf8', flag: 'w' },
-  );
+  saveExtractedItems(northernHemisphereBugs, 'bugs-northern-hemisphere');
+  saveExtractedItems(southernHemisphereBugs, 'bugs-southern-hemisphere');
 
   const allBugs = _.uniqBy(
     northernHemisphereBugs.concat(southernHemisphereBugs),
