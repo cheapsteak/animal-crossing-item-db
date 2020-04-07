@@ -1,197 +1,5 @@
 [
   {
-    "name": "Garbage bin",
-    "imageName": "/images/bugs/garbage-bin.png",
-    "price": {
-      "buy": {
-        "amount": 1000,
-        "currency": "Bells"
-      },
-      "sell": {
-        "amount": 250,
-        "currency": "Bells"
-      }
-    }
-  },
-  {
-    "name": "Garbage can",
-    "imageName": "/images/bugs/garbage-can.png",
-    "price": {
-      "buy": {
-        "amount": 960,
-        "currency": "Bells"
-      },
-      "sell": {
-        "amount": 240,
-        "currency": "Bells"
-      }
-    }
-  },
-  {
-    "name": "Garbage pail",
-    "imageName": "/images/bugs/garbage-pail.png",
-    "price": {
-      "buy": {
-        "amount": 1000,
-        "currency": "Bells"
-      },
-      "sell": {
-        "amount": 250,
-        "currency": "Bells"
-      }
-    }
-  },
-  {
-    "name": "Garden bench",
-    "imageName": "/images/bugs/garden-bench.png",
-    "price": {
-      "buy": null,
-      "sell": {
-        "amount": 4440,
-        "currency": "Bells"
-      }
-    }
-  },
-  {
-    "name": "Garden faucet",
-    "imageName": "/images/bugs/garden-faucet.png",
-    "price": {
-      "buy": {
-        "amount": 1900,
-        "currency": "Bells"
-      },
-      "sell": {
-        "amount": 475,
-        "currency": "Bells"
-      }
-    }
-  },
-  {
-    "name": "Garden lantern",
-    "imageName": "/images/bugs/garden-lantern.png",
-    "price": {
-      "buy": {
-        "amount": 1400,
-        "currency": "Bells"
-      },
-      "sell": {
-        "amount": 350,
-        "currency": "Bells"
-      }
-    }
-  },
-  {
-    "name": "Garden rock",
-    "imageName": "/images/bugs/garden-rock.png",
-    "price": {
-      "buy": null,
-      "sell": null
-    }
-  },
-  {
-    "name": "Garden wagon",
-    "imageName": "/images/bugs/garden-wagon.png",
-    "price": {
-      "buy": null,
-      "sell": null
-    }
-  },
-  {
-    "name": "Gas range",
-    "imageName": "/images/bugs/gas-range.png",
-    "price": {
-      "buy": {
-        "amount": 3500,
-        "currency": "Bells"
-      },
-      "sell": {
-        "amount": 875,
-        "currency": "Bells"
-      }
-    }
-  },
-  {
-    "name": "Gemini closet",
-    "imageName": "/images/bugs/gemini-closet.png",
-    "price": {
-      "buy": null,
-      "sell": null
-    }
-  },
-  {
-    "name": "Giant teddy bear",
-    "imageName": "/images/bugs/giant-teddy-bear.png",
-    "price": {
-      "buy": null,
-      "sell": null
-    }
-  },
-  {
-    "name": "Go board",
-    "imageName": "/images/bugs/go-board.png",
-    "price": {
-      "buy": {
-        "amount": 1800,
-        "currency": "Bells"
-      },
-      "sell": null
-    }
-  },
-  {
-    "name": "Golden casket",
-    "imageName": "/images/bugs/golden-casket.png",
-    "price": {
-      "buy": null,
-      "sell": null
-    }
-  },
-  {
-    "name": "Golden seat",
-    "imageName": "/images/bugs/golden-seat.png",
-    "price": {
-      "buy": null,
-      "sell": null
-    }
-  },
-  {
-    "name": "Golden toilet",
-    "imageName": "/images/bugs/golden-toilet.png",
-    "price": {
-      "buy": null,
-      "sell": null
-    }
-  },
-  {
-    "name": "Gong",
-    "imageName": "/images/bugs/gong.png",
-    "price": {
-      "buy": null,
-      "sell": null
-    }
-  },
-  {
-    "name": "Grass standee",
-    "imageName": "/images/bugs/grass-standee.png",
-    "price": {
-      "buy": null,
-      "sell": {
-        "amount": 480,
-        "currency": "Bells"
-      }
-    }
-  },
-  {
-    "name": "Green-leaf pile",
-    "imageName": "/images/bugs/green-leaf-pile.png",
-    "price": {
-      "buy": null,
-      "sell": {
-        "amount": 600,
-        "currency": "Bells"
-      }
-    }
-  },
-  {
     "name": "Hammock",
     "imageName": "/images/bugs/hammock.png",
     "price": {
@@ -1281,7 +1089,7 @@
   },
   {
     "name": "Raccoon figurine",
-    "imageName": null,
+    "imageName": "/images/bugs/raccoon-figurine.png",
     "price": {
       "buy": null,
       "sell": null
@@ -2095,7 +1903,7 @@
   },
   {
     "name": "Tall lantern",
-    "imageName": null,
+    "imageName": "/images/bugs/tall-lantern.png",
     "price": {
       "buy": null,
       "sell": null
@@ -2729,7 +2537,10 @@
     "imageName": "/images/bugs/wooden-end-table.png",
     "price": {
       "buy": null,
-      "sell": null
+      "sell": {
+        "amount": 960,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -2829,94 +2640,6 @@
         "amount": 1775,
         "currency": "Bells"
       }
-    }
-  },
-  {
-    "name": "Garden gnome",
-    "imageName": "/images/bugs/garden-gnome.png",
-    "price": {
-      "buy": {
-        "amount": 1900,
-        "currency": "Bells"
-      },
-      "sell": {
-        "amount": 475,
-        "currency": "Bells"
-      }
-    }
-  },
-  {
-    "name": "Glass holder with candle",
-    "imageName": "/images/bugs/glass-holder-with-candle.png",
-    "price": {
-      "buy": {
-        "amount": 350,
-        "currency": "Bells"
-      },
-      "sell": null
-    }
-  },
-  {
-    "name": "Globe",
-    "imageName": "/images/bugs/globe.png",
-    "price": {
-      "buy": {
-        "amount": 1800,
-        "currency": "Bells"
-      },
-      "sell": {
-        "amount": 450,
-        "currency": "Bells"
-      }
-    }
-  },
-  {
-    "name": "Gold bars",
-    "imageName": null,
-    "price": {
-      "buy": null,
-      "sell": {
-        "amount": 30000,
-        "currency": "Bells"
-      }
-    }
-  },
-  {
-    "name": "Golden candlestick",
-    "imageName": "/images/bugs/golden-candlestick.png",
-    "price": {
-      "buy": null,
-      "sell": {
-        "amount": 20000,
-        "currency": "Bells"
-      }
-    }
-  },
-  {
-    "name": "Golden dishes",
-    "imageName": null,
-    "price": {
-      "buy": null,
-      "sell": null
-    }
-  },
-  {
-    "name": "Golden dung beetle",
-    "imageName": "/images/bugs/golden-dung-beetle.png",
-    "price": {
-      "buy": null,
-      "sell": {
-        "amount": 30000,
-        "currency": "Bells"
-      }
-    }
-  },
-  {
-    "name": "Golf bag",
-    "imageName": null,
-    "price": {
-      "buy": null,
-      "sell": null
     }
   },
   {
@@ -3423,17 +3146,6 @@
     }
   },
   {
-    "name": "Peacock butterfly model",
-    "imageName": null,
-    "price": {
-      "buy": {
-        "amount": 3,
-        "currency": "Peacock butterflies"
-      },
-      "sell": null
-    }
-  },
-  {
     "name": "Peach surprise box",
     "imageName": "/images/bugs/peach-surprise-box.png",
     "price": {
@@ -3838,44 +3550,6 @@
         "amount": 1980,
         "currency": "Bells"
       }
-    }
-  },
-  {
-    "name": "Grasshopper-head model",
-    "imageName": "/images/bugs/grasshopper-head-model.png",
-    "price": {
-      "buy": {
-        "amount": 1400,
-        "currency": "Bells"
-      },
-      "sell": {
-        "amount": 350,
-        "currency": "Bells"
-      }
-    }
-  },
-  {
-    "name": "Gears",
-    "imageName": "/images/bugs/gears.png",
-    "price": {
-      "buy": null,
-      "sell": null
-    }
-  },
-  {
-    "name": "Golden gears",
-    "imageName": "/images/bugs/golden-gears.png",
-    "price": {
-      "buy": null,
-      "sell": null
-    }
-  },
-  {
-    "name": "Gold HHA plaque",
-    "imageName": "/images/bugs/gold-hha-plaque.png",
-    "price": {
-      "buy": null,
-      "sell": null
     }
   },
   {
@@ -4891,7 +4565,10 @@
     "imageName": "/images/bugs/bunny-day-flooring.png",
     "price": {
       "buy": null,
-      "sell": null
+      "sell": {
+        "amount": 4800,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -4926,6 +4603,14 @@
   },
   {
     "name": "Chain-link fence",
+    "imageName": null,
+    "price": {
+      "buy": null,
+      "sell": null
+    }
+  },
+  {
+    "name": "Cherry-blossom-trees wall",
     "imageName": null,
     "price": {
       "buy": null,
@@ -5721,6 +5406,14 @@
     }
   },
   {
+    "name": "Sakura-wood wall",
+    "imageName": null,
+    "price": {
+      "buy": null,
+      "sell": null
+    }
+  },
+  {
     "name": "Screen wall",
     "imageName": null,
     "price": {
@@ -6262,6 +5955,14 @@
     }
   },
   {
+    "name": "Bunny Day flooring",
+    "imageName": null,
+    "price": {
+      "buy": null,
+      "sell": null
+    }
+  },
+  {
     "name": "Colorful mosaic-tile flooring",
     "imageName": null,
     "price": {
@@ -6722,6 +6423,14 @@
     }
   },
   {
+    "name": "Lunar surface",
+    "imageName": null,
+    "price": {
+      "buy": null,
+      "sell": null
+    }
+  },
+  {
     "name": "Marine pop flooring",
     "imageName": null,
     "price": {
@@ -6956,6 +6665,17 @@
         "amount": 260,
         "currency": "Bells"
       }
+    }
+  },
+  {
+    "name": "Purple camo flooring",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 1320,
+        "currency": "Bells"
+      },
+      "sell": null
     }
   },
   {
@@ -7240,6 +6960,17 @@
     }
   },
   {
+    "name": "Terra-cotta flooring",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 1800,
+        "currency": "Bells"
+      },
+      "sell": null
+    }
+  },
+  {
     "name": "Tiger-print flooring",
     "imageName": null,
     "price": {
@@ -7433,6 +7164,14 @@
         "amount": 1500,
         "currency": "Bells"
       },
+      "sell": null
+    }
+  },
+  {
+    "name": "Bunny Day rug",
+    "imageName": null,
+    "price": {
+      "buy": null,
       "sell": null
     }
   },

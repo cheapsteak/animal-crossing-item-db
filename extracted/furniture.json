@@ -1,740 +1,6 @@
 [
   {
     "Name": {
-      "text": "Garbage bin"
-    },
-    "Image": {
-      "text": "NH-Garbage_bin.png"
-    },
-    "Price (Buy)": {
-      "text": "1,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
-    },
-    "Price (Sell)": {
-      "text": "250 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
-    },
-    "Source": {
-      "text": "*"
-    },
-    "Variations": {
-      "text": "Color: * Green * Yellow * * * Black * * * Red * Blue",
-      "formatting": {
-        "bold": [
-          "Color:"
-        ]
-      }
-    },
-    "Customize?": {
-      "text": "N/A"
-    },
-    "Size": {
-      "text": "NH1.0x1.0sq.jpg"
-    }
-  },
-  {
-    "Name": {
-      "text": "Garbage can"
-    },
-    "Image": {
-      "text": "NH-Garbage can.png"
-    },
-    "Price (Buy)": {
-      "text": "960 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
-    },
-    "Price (Sell)": {
-      "text": "240 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
-    },
-    "Source": {
-      "text": "Timmy & Tommy",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Timmy & Tommy"
-        }
-      ]
-    },
-    "Variations": {
-      "text": "N/A"
-    },
-    "Customize?": {
-      "text": "N/A"
-    },
-    "Size": {
-      "text": "NH1.0x1.0sq.jpg"
-    }
-  },
-  {
-    "Name": {
-      "text": "Garbage pail"
-    },
-    "Image": {
-      "text": "NH-Garbage_pail.png"
-    },
-    "Price (Buy)": {
-      "text": "1,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
-    },
-    "Price (Sell)": {
-      "text": "250 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
-    },
-    "Source": {
-      "text": "Timmy & Tommy",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Timmy & Tommy"
-        }
-      ]
-    },
-    "Variations": {
-      "text": "N/A"
-    },
-    "Customize?": {
-      "text": "N/A"
-    },
-    "Size": {
-      "text": "NH1.0x1.0sq.jpg"
-    }
-  },
-  {
-    "Name": {
-      "text": "Garden bench"
-    },
-    "Image": {
-      "text": "NH-Garden_bench.png"
-    },
-    "Price (Buy)": {
-      "text": "N/A"
-    },
-    "Price (Sell)": {
-      "text": "4,440 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
-    },
-    "Source": {
-      "text": "DIY Recipes",
-      "links": [
-        {
-          "type": "internal",
-          "page": "DIY Recipes"
-        }
-      ]
-    },
-    "Variations": {
-      "text": "*"
-    },
-    "Customize?": {
-      "text": "6x customization kits",
-      "links": [
-        {
-          "text": "customization kits",
-          "type": "internal",
-          "page": "Customization Kits"
-        }
-      ]
-    },
-    "Size": {
-      "text": "*"
-    }
-  },
-  {
-    "Name": {
-      "text": "Garden faucet"
-    },
-    "Image": {
-      "text": "NH-Garden faucet.png"
-    },
-    "Price (Buy)": {
-      "text": "1,900 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
-    },
-    "Price (Sell)": {
-      "text": "475 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
-    },
-    "Source": {
-      "text": "Timmy & Tommy",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Timmy & Tommy"
-        }
-      ]
-    },
-    "Variations": {
-      "text": "***: *Red brick *Mosaic tile *Wooden*",
-      "formatting": {
-        "bold": [
-          "***:"
-        ]
-      }
-    },
-    "Customize?": {
-      "text": "N/A"
-    },
-    "Size": {
-      "text": "NH1.0x1.0sq.jpg"
-    }
-  },
-  {
-    "Name": {
-      "text": "Garden lantern"
-    },
-    "Image": {
-      "text": "NH-Garden lantern.png"
-    },
-    "Price (Buy)": {
-      "text": "1,400 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
-    },
-    "Price (Sell)": {
-      "text": "350 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
-    },
-    "Source": {
-      "text": "Timmy & Tommy",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Timmy & Tommy"
-        }
-      ]
-    },
-    "Variations": {
-      "text": "***: * Bronze * White * Black",
-      "formatting": {
-        "bold": [
-          "***:"
-        ]
-      }
-    },
-    "Customize?": {
-      "text": "N/A"
-    },
-    "Size": {
-      "text": "NH1.0x1.0sq.jpg"
-    }
-  },
-  {
-    "Name": {
-      "text": "Garden rock"
-    },
-    "Image": {
-      "text": "NH-Garden_rock.png"
-    },
-    "Price (Buy)": {
-      "text": "N/A"
-    },
-    "Price (Sell)": {
-      "text": "*"
-    },
-    "Source": {
-      "text": "DIY Recipes",
-      "links": [
-        {
-          "type": "internal",
-          "page": "DIY Recipes"
-        }
-      ]
-    },
-    "Variations": {
-      "text": "N/A"
-    },
-    "Customize?": {
-      "text": "N/A"
-    },
-    "Size": {
-      "text": "NH1.0x1.0sq.jpg"
-    }
-  },
-  {
-    "Name": {
-      "text": "Garden wagon"
-    },
-    "Image": {
-      "text": "NH-Garden wagon.png"
-    },
-    "Price (Buy)": {
-      "text": "N/A"
-    },
-    "Price (Sell)": {
-      "text": "*"
-    },
-    "Source": {
-      "text": "DIY Recipes",
-      "links": [
-        {
-          "type": "internal",
-          "page": "DIY Recipes"
-        }
-      ]
-    },
-    "Variations": {
-      "text": "*"
-    },
-    "Customize?": {
-      "text": "*"
-    },
-    "Size": {
-      "text": "*"
-    }
-  },
-  {
-    "Name": {
-      "text": "Gas range"
-    },
-    "Image": {
-      "text": "NH-Gas_range.png"
-    },
-    "Price (Buy)": {
-      "text": "3,500 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
-    },
-    "Price (Sell)": {
-      "text": "875 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
-    },
-    "Source": {
-      "text": "*"
-    },
-    "Variations": {
-      "text": "***: * Silver* * * * * * * * *",
-      "formatting": {
-        "bold": [
-          "***:"
-        ]
-      }
-    },
-    "Customize?": {
-      "text": "*"
-    },
-    "Size": {
-      "text": "*"
-    }
-  },
-  {
-    "Name": {
-      "text": "Gemini closet"
-    },
-    "Image": {
-      "text": "NH-Gemini closet.png"
-    },
-    "Price (Buy)": {
-      "text": "N/A"
-    },
-    "Price (Sell)": {
-      "text": "*"
-    },
-    "Source": {
-      "text": "DIY Recipes",
-      "links": [
-        {
-          "type": "internal",
-          "page": "DIY Recipes"
-        }
-      ]
-    },
-    "Variations": {
-      "text": "N/A"
-    },
-    "Customize?": {
-      "text": "N/A"
-    },
-    "Size": {
-      "text": "*"
-    }
-  },
-  {
-    "Name": {
-      "text": "Giant teddy bear"
-    },
-    "Image": {
-      "text": "NH-Giant teddy bear.png"
-    },
-    "Price (Buy)": {
-      "text": "N/A"
-    },
-    "Price (Sell)": {
-      "text": "*"
-    },
-    "Source": {
-      "text": "DIY Recipes",
-      "links": [
-        {
-          "type": "internal",
-          "page": "DIY Recipes"
-        }
-      ]
-    },
-    "Variations": {
-      "text": "***: * * * * * * * * * * * *"
-    },
-    "Customize?": {
-      "text": "Bow*: * None * * * * * *",
-      "formatting": {
-        "bold": [
-          "Bow*:"
-        ],
-        "italic": [
-          "Bow*:"
-        ]
-      }
-    },
-    "Size": {
-      "text": ""
-    }
-  },
-  {
-    "Name": {
-      "text": "Go board"
-    },
-    "Image": {
-      "text": "NH-Go board.png"
-    },
-    "Price (Buy)": {
-      "text": "1,800 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
-    },
-    "Price (Sell)": {
-      "text": "450",
-      "number": 450
-    },
-    "Source": {
-      "text": "Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
-    },
-    "Variations": {
-      "text": "Timmy & Tommy",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Timmy & Tommy"
-        }
-      ]
-    },
-    "Customize?": {
-      "text": "N/A"
-    },
-    "Size": {
-      "text": "N/A"
-    },
-    "col9": {
-      "text": "*"
-    }
-  },
-  {
-    "Name": {
-      "text": "Golden casket"
-    },
-    "Image": {
-      "text": "NH-Golden_casket.png"
-    },
-    "Price (Buy)": {
-      "text": "N/A"
-    },
-    "Price (Sell)": {
-      "text": "*"
-    },
-    "Source": {
-      "text": "DIY Recipes",
-      "links": [
-        {
-          "type": "internal",
-          "page": "DIY Recipes"
-        }
-      ]
-    },
-    "Variations": {
-      "text": "N/A"
-    },
-    "Customize?": {
-      "text": "N/A"
-    },
-    "Size": {
-      "text": "*"
-    }
-  },
-  {
-    "Name": {
-      "text": "Golden seat"
-    },
-    "Image": {
-      "text": "NH-Golden_seat.png"
-    },
-    "Price (Buy)": {
-      "text": "N/A"
-    },
-    "Price (Sell)": {
-      "text": "*"
-    },
-    "Source": {
-      "text": "DIY Recipes",
-      "links": [
-        {
-          "type": "internal",
-          "page": "DIY Recipes"
-        }
-      ]
-    },
-    "Variations": {
-      "text": "N/A"
-    },
-    "Customize?": {
-      "text": "N/A"
-    },
-    "Size": {
-      "text": "*"
-    }
-  },
-  {
-    "Name": {
-      "text": "Golden toilet"
-    },
-    "Image": {
-      "text": "NH-Golden_toilet.png"
-    },
-    "Price (Buy)": {
-      "text": "N/A"
-    },
-    "Price (Sell)": {
-      "text": "*"
-    },
-    "Source": {
-      "text": "DIY Recipes",
-      "links": [
-        {
-          "type": "internal",
-          "page": "DIY Recipes"
-        }
-      ]
-    },
-    "Variations": {
-      "text": "N/A"
-    },
-    "Customize?": {
-      "text": "N/A"
-    },
-    "Size": {
-      "text": "*"
-    }
-  },
-  {
-    "Name": {
-      "text": "Gong"
-    },
-    "Image": {
-      "text": "NH-Gong.png"
-    },
-    "Price (Buy)": {
-      "text": "N/A"
-    },
-    "Price (Sell)": {
-      "text": "*"
-    },
-    "Source": {
-      "text": "DIY Recipes",
-      "links": [
-        {
-          "type": "internal",
-          "page": "DIY Recipes"
-        }
-      ]
-    },
-    "Variations": {
-      "text": "Frame: * Brown * Red",
-      "formatting": {
-        "bold": [
-          "Frame:"
-        ]
-      }
-    },
-    "Customize?": {
-      "text": "Frame#* customization kits",
-      "links": [
-        {
-          "text": "customization kits",
-          "type": "internal",
-          "page": "Customization Kits"
-        }
-      ],
-      "formatting": {
-        "italic": [
-          "Frame"
-        ]
-      }
-    },
-    "Size": {
-      "text": "*"
-    }
-  },
-  {
-    "Name": {
-      "text": "Grass standee"
-    },
-    "Image": {
-      "text": "NH-Grass_standee.png"
-    },
-    "Price (Buy)": {
-      "text": "N/A"
-    },
-    "Price (Sell)": {
-      "text": "480 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
-    },
-    "Source": {
-      "text": "DIY Recipes",
-      "links": [
-        {
-          "type": "internal",
-          "page": "DIY Recipes"
-        }
-      ]
-    },
-    "Variations": {
-      "text": "***: * * * * * *",
-      "formatting": {
-        "bold": [
-          "***:"
-        ]
-      }
-    },
-    "Customize?": {
-      "text": "*x customization kits",
-      "links": [
-        {
-          "text": "customization kits",
-          "type": "internal",
-          "page": "Customization Kits"
-        }
-      ]
-    },
-    "Size": {
-      "text": "[[File:NH1.0x0.5sq.jpg]]"
-    }
-  },
-  {
-    "Name": {
-      "text": "Green-leaf pile"
-    },
-    "Image": {
-      "text": "NH-Green-leaf pile.png"
-    },
-    "Price (Buy)": {
-      "text": "N/A"
-    },
-    "Price (Sell)": {
-      "text": "600 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
-    },
-    "Source": {
-      "text": "DIY Recipes",
-      "links": [
-        {
-          "type": "internal",
-          "page": "DIY Recipes"
-        }
-      ]
-    },
-    "Variations": {
-      "text": "N/A"
-    },
-    "Customize?": {
-      "text": "N/A"
-    },
-    "Size": {
-      "text": "NH1.5x1.5sq.jpg"
-    }
-  },
-  {
-    "Name": {
       "text": "Hammock"
     },
     "Image": {
@@ -5483,7 +4749,13 @@
       "text": "*"
     },
     "Source": {
-      "text": "*"
+      "text": "Gulliver",
+      "links": [
+        {
+          "type": "internal",
+          "page": "Gulliver"
+        }
+      ]
     },
     "Variations": {
       "text": "N/A"
@@ -6185,7 +5457,7 @@
       ]
     },
     "Variations": {
-      "text": "Lava color*: * Blue* * Red* * * * * * * * * * Pink*",
+      "text": "Lava color*: * Blue* * Red* * Green* * * * * * * * Pink*",
       "formatting": {
         "bold": [
           "Lava color*:"
@@ -11343,7 +10615,7 @@
       "text": "N/A"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "960 Bells"
     },
     "Source": {
       "text": "DIY Recipes",
@@ -11891,308 +11163,6 @@
     },
     "Customize?": {
       "text": "Light wood, White"
-    },
-    "Size": {
-      "text": "*"
-    }
-  },
-  {
-    "Name": {
-      "text": "Garden gnome"
-    },
-    "Image": {
-      "text": "NH-Garden gnome.png"
-    },
-    "Price (Buy)": {
-      "text": "1,900 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
-    },
-    "Price (Sell)": {
-      "text": "475 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
-    },
-    "Source": {
-      "text": "Timmy & Tommy",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Timmy & Tommy"
-        }
-      ]
-    },
-    "Variations": {
-      "text": "Gnome: * Rebel gnome * Passionate gnome"
-    },
-    "Customize?": {
-      "text": "N/A"
-    },
-    "Size": {
-      "text": "NH1.0x1.0sq.jpg"
-    }
-  },
-  {
-    "Name": {
-      "text": "Glass holder with candle"
-    },
-    "Image": {
-      "text": "NH-Glass holder with candle.png"
-    },
-    "Price (Buy)": {
-      "text": "350 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
-    },
-    "Price (Sell)": {
-      "text": ""
-    },
-    "Source": {
-      "text": "Timmy & Tommy",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Timmy & Tommy"
-        }
-      ]
-    },
-    "Variations": {
-      "text": "Candle: * White * Red * Pink * Green * Blue * Purple*",
-      "formatting": {
-        "bold": [
-          "Candle:"
-        ]
-      }
-    },
-    "Customize?": {
-      "text": "*"
-    },
-    "Size": {
-      "text": "*"
-    }
-  },
-  {
-    "Name": {
-      "text": "Globe"
-    },
-    "Image": {
-      "text": "NH-Globe.png"
-    },
-    "Price (Buy)": {
-      "text": "1,800 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
-    },
-    "Price (Sell)": {
-      "text": "450 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
-    },
-    "Source": {
-      "text": "Timmy & Tommy",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Timmy & Tommy"
-        }
-      ]
-    },
-    "Variations": {
-      "text": "Globe: * Standard * Sepia * Cool",
-      "formatting": {
-        "bold": [
-          "Globe:"
-        ]
-      }
-    },
-    "Customize?": {
-      "text": "*"
-    },
-    "Size": {
-      "text": "*"
-    }
-  },
-  {
-    "Name": {
-      "text": "Gold bars"
-    },
-    "Image": {
-      "text": ""
-    },
-    "Price (Buy)": {
-      "text": "N/A"
-    },
-    "Price (Sell)": {
-      "text": "30,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
-    },
-    "Source": {
-      "text": "DIY Recipes",
-      "links": [
-        {
-          "type": "internal",
-          "page": "DIY Recipes"
-        }
-      ]
-    },
-    "Variations": {
-      "text": "N/A"
-    },
-    "Customize?": {
-      "text": "*"
-    },
-    "Size": {
-      "text": "*"
-    }
-  },
-  {
-    "Name": {
-      "text": "Golden candlestick"
-    },
-    "Image": {
-      "text": "NH-Golden candlestick.png"
-    },
-    "Price (Buy)": {
-      "text": "N/A"
-    },
-    "Price (Sell)": {
-      "text": "20,000 Bells"
-    },
-    "Source": {
-      "text": "DIY Recipes",
-      "links": [
-        {
-          "type": "internal",
-          "page": "DIY Recipes"
-        }
-      ]
-    },
-    "Variations": {
-      "text": "*"
-    },
-    "Customize?": {
-      "text": "*"
-    },
-    "Size": {
-      "text": "*"
-    }
-  },
-  {
-    "Name": {
-      "text": "Golden dishes"
-    },
-    "Image": {
-      "text": ""
-    },
-    "Price (Buy)": {
-      "text": "N/A"
-    },
-    "Price (Sell)": {
-      "text": ""
-    },
-    "Source": {
-      "text": "DIY Recipes",
-      "links": [
-        {
-          "type": "internal",
-          "page": "DIY Recipes"
-        }
-      ]
-    },
-    "Variations": {
-      "text": "*"
-    },
-    "Customize?": {
-      "text": "*"
-    },
-    "Size": {
-      "text": "*"
-    }
-  },
-  {
-    "Name": {
-      "text": "Golden dung beetle"
-    },
-    "Image": {
-      "text": "NH-Golden dung beetle.png"
-    },
-    "Price (Buy)": {
-      "text": "N/A"
-    },
-    "Price (Sell)": {
-      "text": "30,000 Bells"
-    },
-    "Source": {
-      "text": "DIY Recipes",
-      "links": [
-        {
-          "type": "internal",
-          "page": "DIY Recipes"
-        }
-      ]
-    },
-    "Variations": {
-      "text": "*"
-    },
-    "Customize?": {
-      "text": "*"
-    },
-    "Size": {
-      "text": "*"
-    }
-  },
-  {
-    "Name": {
-      "text": "Golf bag"
-    },
-    "Image": {
-      "text": ""
-    },
-    "Price (Buy)": {
-      "text": "*"
-    },
-    "Price (Sell)": {
-      "text": "*"
-    },
-    "Source": {
-      "text": "Timmy & Tommy",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Timmy & Tommy"
-        }
-      ]
-    },
-    "Variations": {
-      "text": "*** * Red* * Green* * Pink* * * * * * *"
-    },
-    "Customize?": {
-      "text": "*"
     },
     "Size": {
       "text": "*"
@@ -13461,7 +12431,7 @@
       ]
     },
     "Variations": {
-      "text": "Blend: * Strawberries * * * Tomatoes * Carrots * * * Bananas * * * *",
+      "text": "Blend: * Strawberries * * * Tomatoes * Carrots * Kiwifruit * Bananas * * * *",
       "formatting": {
         "bold": [
           "Blend:"
@@ -13993,45 +12963,6 @@
     },
     "Customize?": {
       "text": "*"
-    },
-    "Size": {
-      "text": "*"
-    }
-  },
-  {
-    "Name": {
-      "text": "Peacock butterfly model"
-    },
-    "Image": {
-      "text": "NH-Paper tiger.png"
-    },
-    "Price (Buy)": {
-      "text": "3x Peacock butterflies",
-      "links": [
-        {
-          "text": "Peacock butterflies",
-          "type": "internal",
-          "page": "Peacock butterfly"
-        }
-      ]
-    },
-    "Price (Sell)": {
-      "text": "*"
-    },
-    "Source": {
-      "text": "Flick",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Flick"
-        }
-      ]
-    },
-    "Variations": {
-      "text": "N/A"
-    },
-    "Customize?": {
-      "text": "N/A"
     },
     "Size": {
       "text": "*"
@@ -15598,146 +14529,6 @@
     },
     "Customize?": {
       "text": "*"
-    },
-    "Size": {
-      "text": "*"
-    }
-  },
-  {
-    "Name": {
-      "text": "Grasshopper-head model"
-    },
-    "Image": {
-      "text": "NH-Grasshopper-head model.png"
-    },
-    "Price (Buy)": {
-      "text": "1,400 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
-    },
-    "Price (Sell)": {
-      "text": "350 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
-    },
-    "Source": {
-      "text": "Timmy & Tommy",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Timmy & Tommy"
-        }
-      ]
-    },
-    "Variations": {
-      "text": "N/A"
-    },
-    "Customize?": {
-      "text": "N/A"
-    },
-    "Size": {
-      "text": "NH1.0x1.0sq.jpg"
-    }
-  },
-  {
-    "Name": {
-      "text": "Gears"
-    },
-    "Image": {
-      "text": "NH-Gears.png"
-    },
-    "Price (Buy)": {
-      "text": ""
-    },
-    "Price (Sell)": {
-      "text": ""
-    },
-    "Source": {
-      "text": "DIY Recipes",
-      "links": [
-        {
-          "type": "internal",
-          "page": "DIY Recipes"
-        }
-      ]
-    },
-    "Variations": {
-      "text": "*** * * * * * * * * * *"
-    },
-    "Customize?": {
-      "text": ""
-    },
-    "Size": {
-      "text": ""
-    }
-  },
-  {
-    "Name": {
-      "text": "Golden gears"
-    },
-    "Image": {
-      "text": "NH-Golden gears.png"
-    },
-    "Price (Buy)": {
-      "text": "N/A"
-    },
-    "Price (Sell)": {
-      "text": ""
-    },
-    "Source": {
-      "text": "DIY Recipes",
-      "links": [
-        {
-          "type": "internal",
-          "page": "DIY Recipes"
-        }
-      ]
-    },
-    "Variations": {
-      "text": "N/A"
-    },
-    "Customize?": {
-      "text": "N/A"
-    },
-    "Size": {
-      "text": "*"
-    }
-  },
-  {
-    "Name": {
-      "text": "Gold HHA plaque"
-    },
-    "Image": {
-      "text": "NH-Gold HHA plaque.png"
-    },
-    "Price (Buy)": {
-      "text": "*"
-    },
-    "Price (Sell)": {
-      "text": "*"
-    },
-    "Source": {
-      "text": "HHA",
-      "links": [
-        {
-          "type": "internal",
-          "page": "HHA"
-        }
-      ]
-    },
-    "Variations": {
-      "text": "N/A"
-    },
-    "Customize?": {
-      "text": "N/A"
     },
     "Size": {
       "text": "*"
@@ -19019,10 +17810,16 @@
       "text": ""
     },
     "Price (Sell)": {
-      "text": ""
+      "text": "4,800 Bells"
     },
     "Source": {
-      "text": ""
+      "text": "DIY Recipes",
+      "links": [
+        {
+          "type": "internal",
+          "page": "DIY Recipes"
+        }
+      ]
     }
   },
   {
@@ -19125,6 +17922,29 @@
         {
           "type": "internal",
           "page": "Saharah"
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "text": "Cherry-blossom-trees wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "N/A"
+    },
+    "Price (Sell)": {
+      "text": ""
+    },
+    "Source": {
+      "text": "DIY Recipes",
+      "links": [
+        {
+          "type": "internal",
+          "page": "DIY Recipes"
         }
       ]
     }
@@ -21098,6 +19918,29 @@
   },
   {
     "Name": {
+      "text": "Sakura-wood wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "N/A"
+    },
+    "Price (Sell)": {
+      "text": ""
+    },
+    "Source": {
+      "text": "DIY Recipes",
+      "links": [
+        {
+          "type": "internal",
+          "page": "DIY Recipes"
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
       "text": "Screen wall"
     },
     "Image": {
@@ -22422,6 +21265,29 @@
   },
   {
     "Name": {
+      "text": "Bunny Day flooring"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "N/A"
+    },
+    "Price (Sell)": {
+      "text": ""
+    },
+    "Source": {
+      "text": "DIY Recipes",
+      "links": [
+        {
+          "type": "internal",
+          "page": "DIY Recipes"
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
       "text": "Colorful mosaic-tile flooring"
     },
     "Image": {
@@ -23575,6 +22441,29 @@
   },
   {
     "Name": {
+      "text": "Lunar surface"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "N/A"
+    },
+    "Price (Sell)": {
+      "text": "*"
+    },
+    "Source": {
+      "text": "DIY Recipes",
+      "links": [
+        {
+          "type": "internal",
+          "page": "DIY Recipes"
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
       "text": "Marine pop flooring"
     },
     "Image": {
@@ -23989,10 +22878,10 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": ""
+      "text": "*"
     },
     "Price (Sell)": {
-      "text": ""
+      "text": "*"
     },
     "Source": {
       "text": ""
@@ -24156,6 +23045,29 @@
           "page": "Bells"
         }
       ]
+    },
+    "Source": {
+      "text": "Timmy & Tommy",
+      "links": [
+        {
+          "type": "internal",
+          "page": "Timmy & Tommy"
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "text": "Purple camo flooring"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "1,320 Bells"
+    },
+    "Price (Sell)": {
+      "text": ""
     },
     "Source": {
       "text": "Timmy & Tommy",
@@ -24873,6 +23785,29 @@
   },
   {
     "Name": {
+      "text": "Terra-cotta flooring"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "1,800 Bells"
+    },
+    "Price (Sell)": {
+      "text": ""
+    },
+    "Source": {
+      "text": "Timmy & Tommy",
+      "links": [
+        {
+          "type": "internal",
+          "page": "Timmy & Tommy"
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
       "text": "Tiger-print flooring"
     },
     "Image": {
@@ -25397,6 +24332,32 @@
   },
   {
     "Name": {
+      "text": "Bunny Day rug"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "N/A"
+    },
+    "Price (Sell)": {
+      "text": "*"
+    },
+    "Source": {
+      "text": "DIY Recipes",
+      "links": [
+        {
+          "type": "internal",
+          "page": "DIY Recipes"
+        }
+      ]
+    },
+    "Size": {
+      "text": "NH3.0x3.0sq.jpg"
+    }
+  },
+  {
+    "Name": {
       "text": "Fossil rug"
     },
     "Image": {
@@ -25416,6 +24377,9 @@
     },
     "Source": {
       "text": "*"
+    },
+    "Size": {
+      "text": ""
     }
   },
   {
@@ -25477,6 +24441,9 @@
           "page": "Saharah"
         }
       ]
+    },
+    "Size": {
+      "text": ""
     }
   },
   {
@@ -25538,6 +24505,9 @@
           "page": "Saharah"
         }
       ]
+    },
+    "Size": {
+      "text": ""
     }
   },
   {
@@ -25561,6 +24531,9 @@
     },
     "Source": {
       "text": "*"
+    },
+    "Size": {
+      "text": ""
     }
   },
   {
@@ -25592,7 +24565,7 @@
       ]
     },
     "Size": {
-      "text": "NH2.0x2.0sq.jpg"
+      "text": ""
     }
   },
   {
@@ -25618,7 +24591,7 @@
       ]
     },
     "Size": {
-      "text": ""
+      "text": "*"
     }
   },
   {
