@@ -24,7 +24,7 @@ export const extractFish = async () => {
   console.log('[extractFish] starting');
 
   console.log('[extractFish] fetching from wiki');
-  let doc = await wtf.fetch(
+  const doc = await wtf.fetch(
     'https://animalcrossing.fandom.com/wiki/Fish_(New_Horizons)',
   );
 

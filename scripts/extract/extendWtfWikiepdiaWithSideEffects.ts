@@ -1,6 +1,7 @@
 import wtf_wikipedia from 'wtf_wikipedia';
-// @ts-ignore
-import strip from 'wtf_wikipedia/src/template/_parsers/_strip';
+
+const stripSquigglyBrackets = (input: string) =>
+  input.replace(/^\{\{/, '').replace(/\}\}$/, '');
 
 wtf_wikipedia.extend((_models: any, templates: any) => {
   templates.tablecontent = (
@@ -31,7 +32,8 @@ wtf_wikipedia.extend((_models: any, templates: any) => {
     It looks like the only reason these table row values are wrapped in the TableContent template is for styling purposes.
     Stripping the template away lets the parser parse these as normal table rows
     */
-    const val = '|-\n' + strip(tmpl).slice(tmpl.indexOf('\n') - 1);
+    const val =
+      '|-\n' + stripSquigglyBrackets(tmpl).slice(tmpl.indexOf('\n') - 1);
     return val;
   };
 
@@ -39,7 +41,8 @@ wtf_wikipedia.extend((_models: any, templates: any) => {
     tmpl: string,
     list: Array<{ [fieldName: string]: object }>,
   ) => {
-    const val = '|-\n' + strip(tmpl).slice(tmpl.indexOf('\n') - 1);
+    const val =
+      '|-\n' + stripSquigglyBrackets(tmpl).slice(tmpl.indexOf('\n') - 1);
     return val;
   };
 });

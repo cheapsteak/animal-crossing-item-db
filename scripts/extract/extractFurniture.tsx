@@ -9,7 +9,7 @@ export const extractFurniture = async () => {
   console.log('[extractFurniture] starting');
 
   console.log('[extractFurniture] fetching from wiki');
-  let doc = await wtf.fetch(
+  const doc = await wtf.fetch(
     'https://animalcrossing.fandom.com/wiki/Furniture_(New_Horizons)',
   );
 

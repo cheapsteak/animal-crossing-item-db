@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/class-name-casing */
 type YahOrNah = {
   text: '-' | '✓';
 };
@@ -52,7 +53,7 @@ export interface Wiki_SeasonalCritter extends Wiki_NamedItemWithImage {
   Dec: YahOrNah;
 }
 
-export interface Wiki_Bug extends Wiki_SeasonalCritter {}
+export type Wiki_Bug = Wiki_SeasonalCritter;
 export interface Wiki_Fish extends Wiki_SeasonalCritter {
   'Shadow size': {
     // eslint-disable-next-line prettier/prettier

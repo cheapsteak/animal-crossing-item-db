@@ -10,7 +10,7 @@ export const extractBugs = async () => {
   console.log('[extractBugs] starting');
 
   console.log('[extractBugs] fetching from wiki');
-  let doc = await wtf.fetch(
+  const doc = await wtf.fetch(
     'https://animalcrossing.fandom.com/wiki/Bugs_(New_Horizons)',
   );
 
