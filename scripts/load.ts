@@ -85,7 +85,7 @@ const transformFurniture = (wikiFurniture: Wiki_Furniture[]): Furniture[] => {
 
 const writeDataToSrc = (fileName: string, data: object) => {
   fs.writeFileSync(
-    path.join(process.cwd(), 'src/data', fileName),
+    path.join(process.cwd(), 'public/data', fileName),
     JSON.stringify(data, null, '  '),
     { flag: 'w', encoding: 'utf8' },
   );
