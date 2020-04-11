@@ -6,6 +6,18 @@ import { downloadWikiImages } from './downloadWikiImages';
 import { extractionDirectory } from '../extractionDirectory';
 import { saveExtractedItems } from './saveExtractedItems';
 
+const cleanFurnitureData = (item: any) => {
+  return {
+    ...item,
+    'Price (Buy)': {
+      text: item['Price (Buy)']?.text.replace(
+        /PC-icon-Bells-coin\.png/,
+        ' Bells',
+      ),
+    },
+  };
+};
+
 export const extractFurniture = async () => {
   console.log('[extractFurniture] starting');
 
@@ -17,6 +29,7 @@ export const extractFurniture = async () => {
   const allFurniture = doc
     ?.tables()
     .flatMap((table) => table.json())
+    .map(cleanFurnitureData)
     .filter(
       (entry: any) => 'Name' in entry && entry?.Name?.text,
     ) as Wiki_Furniture[];
