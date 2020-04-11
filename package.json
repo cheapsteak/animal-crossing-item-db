@@ -31,11 +31,11 @@
     "eject": "react-scripts eject",
     "lint": "eslint --ext .js,.jsx,.ts,.tsx .",
     "lint:fix": "yarn lint --fix",
-    "extract": "ts-node scripts/extract/index.ts",
-    "extract:watch": "ts-node-dev --respawn scripts/extract/index.ts",
-    "extract:generate-types": "ts-node scripts/extractJsonSchema.ts",
+    "extract": "ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/extract/index.ts",
+    "extract:watch": "ts-node-dev --compiler-options '{\"module\":\"commonjs\"}' --respawn scripts/extract/index.ts",
+    "extract:generate-types": "ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/extractJsonSchema.ts",
     "extract:validate-types": "jest scripts/validateExtractedDataMatchesSchema.test.ts",
-    "load": "ts-node scripts/load.ts",
+    "load": "ts-node --compiler-options '{\"module\":\"commonjs\"}' scripts/load.ts",
     "etl": "yarn extract && yarn extract:generate-types && yarn extract:validate-types && yarn load"
   },
   "browserslist": {
