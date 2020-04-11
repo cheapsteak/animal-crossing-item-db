@@ -14,23 +14,26 @@ const ItemRenderer: React.FC<ListChildComponentProps> = ({
 }) => {
   const x = data[index];
   return (
-    <div
-      key={x.type + x.name}
-      style={{ ...style, display: 'flex', alignItems: 'center' }}
-    >
-      <span>{x.name}</span>
-      {x.imageName && (
-        <img src={`${x.imageName}`} style={{ width: 32 }} alt="" />
-      )}
-      <div style={{ marginLeft: 'auto' }}>
-        {x.type !== 'furniture' ? (
-          <span>{numberFormatter.format(x.price)}</span>
-        ) : (
-          <span>
-            {x.price.sell?.amount &&
-              numberFormatter.format(x.price.sell?.amount)}
-          </span>
-        )}
+    <div key={x.type + x.name} style={style}>
+      <div
+        style={{ margin: '0.5em 1em', display: 'flex', alignItems: 'center' }}
+      >
+        <div style={{ width: 40 }}>
+          {x.imageName && (
+            <img src={`${x.imageName}`} style={{ width: 32 }} alt="" />
+          )}
+        </div>
+        <span>{x.name}</span>
+        <div style={{ marginLeft: 'auto' }}>
+          {x.type !== 'furniture' ? (
+            <span>{numberFormatter.format(x.price)}</span>
+          ) : (
+            <span>
+              {x.price.sell?.amount &&
+                numberFormatter.format(x.price.sell?.amount)}
+            </span>
+          )}
+        </div>
       </div>
     </div>
   );
@@ -67,6 +70,7 @@ const Foo = () => {
         type="text"
         value={searchQuery}
         onChange={(e) => setSearchQuery(e.target.value)}
+        style={{ padding: '0.5em' }}
       />
       <div style={{ flexGrow: 1 }}>
         <AutoSizer>
