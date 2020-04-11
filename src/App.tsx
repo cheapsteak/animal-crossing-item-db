@@ -27,18 +27,8 @@ const ItemRenderer: React.FC<ListChildComponentProps> = ({
           <span>{numberFormatter.format(x.price)}</span>
         ) : (
           <span>
-            {x.price.sell?.amount && (
-              <>
-                sell: {numberFormatter.format(x.price.sell?.amount)}{' '}
-                {x.price.sell?.currency};
-              </>
-            )}{' '}
-            {x.price.buy?.amount && (
-              <>
-                buy: {numberFormatter.format(x.price.buy?.amount)}{' '}
-                {x.price.buy?.currency}
-              </>
-            )}
+            {x.price.sell?.amount &&
+              numberFormatter.format(x.price.sell?.amount)}
           </span>
         )}
       </div>
