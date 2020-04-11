@@ -50,6 +50,6 @@ export interface Fish extends HydratedItem, SerializedBug {
   type: 'fish';
 }
 
-export interface Furniture extends HydratedItem, SerializedBug {
+export interface Furniture extends HydratedItem, SerializedFurniture {
   type: 'furniture';
 }
