@@ -75,7 +75,12 @@ const Foo = () => {
         type="text"
         value={searchQuery}
         onChange={(e) => setSearchQuery(e.target.value)}
-        style={{ padding: '0.5em' }}
+        style={{
+          padding: '0.5em',
+          margin: '0.5em',
+          borderRadius: 3,
+          border: `1px solid #ccc`,
+        }}
       />
       <div style={{ flexGrow: 1 }}>
         <AutoSizer>
