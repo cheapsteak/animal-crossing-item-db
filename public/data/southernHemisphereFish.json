@@ -1,7 +1,7 @@
 [
   {
     "name": "Anchovy",
-    "imageName": "/images/fish/anchovy.png",
+    "imageName": "/item-images/fish/anchovy.png",
     "price": 200,
     "shadowSize": "2",
     "location": "Sea",
@@ -23,7 +23,7 @@
   },
   {
     "name": "Angelfish",
-    "imageName": "/images/fish/angelfish.png",
+    "imageName": "/item-images/fish/angelfish.png",
     "price": 3000,
     "shadowSize": "2",
     "location": "River",
@@ -39,7 +39,7 @@
   },
   {
     "name": "Arapaima",
-    "imageName": "/images/fish/arapaima.png",
+    "imageName": "/item-images/fish/arapaima.png",
     "price": 10000,
     "shadowSize": "6",
     "location": "River",
@@ -53,7 +53,7 @@
   },
   {
     "name": "Arowana",
-    "imageName": "/images/fish/arowana.png",
+    "imageName": "/item-images/fish/arowana.png",
     "price": 10000,
     "shadowSize": "4",
     "location": "River",
@@ -67,7 +67,7 @@
   },
   {
     "name": "Barred knifejaw",
-    "imageName": "/images/fish/barred-knifejaw.png",
+    "imageName": "/item-images/fish/barred-knifejaw.png",
     "price": 5000,
     "shadowSize": "3",
     "location": "Sea",
@@ -86,7 +86,7 @@
   },
   {
     "name": "Barreleye",
-    "imageName": "/images/fish/barreleye.png",
+    "imageName": "/item-images/fish/barreleye.png",
     "price": 15000,
     "shadowSize": "2",
     "location": "Sea",
@@ -108,7 +108,7 @@
   },
   {
     "name": "Betta",
-    "imageName": "/images/fish/betta.png",
+    "imageName": "/item-images/fish/betta.png",
     "price": 2500,
     "shadowSize": "2",
     "location": "River",
@@ -124,7 +124,7 @@
   },
   {
     "name": "Bitterling",
-    "imageName": "/images/fish/bitterling.png",
+    "imageName": "/item-images/fish/bitterling.png",
     "price": 900,
     "shadowSize": "1",
     "location": "River",
@@ -139,7 +139,7 @@
   },
   {
     "name": "Black bass",
-    "imageName": "/images/fish/black-bass.png",
+    "imageName": "/item-images/fish/black-bass.png",
     "price": 320,
     "shadowSize": "4",
     "location": "River",
@@ -161,7 +161,7 @@
   },
   {
     "name": "Blowfish",
-    "imageName": "/images/fish/blowfish.png",
+    "imageName": "/item-images/fish/blowfish.png",
     "price": 5000,
     "shadowSize": "3",
     "location": "Sea",
@@ -175,7 +175,7 @@
   },
   {
     "name": "Blue marlin",
-    "imageName": "/images/fish/blue-marlin.png",
+    "imageName": "/item-images/fish/blue-marlin.png",
     "price": 10000,
     "shadowSize": "6",
     "location": "Pier",
@@ -194,7 +194,7 @@
   },
   {
     "name": "Bluegill",
-    "imageName": "/images/fish/bluegill.png",
+    "imageName": "/item-images/fish/bluegill.png",
     "price": 180,
     "shadowSize": "2",
     "location": "River",
@@ -216,7 +216,7 @@
   },
   {
     "name": "Butterfly fish",
-    "imageName": "/images/fish/butterfly-fish.png",
+    "imageName": "/item-images/fish/butterfly-fish.png",
     "price": 1000,
     "shadowSize": "2",
     "location": "Sea",
@@ -232,7 +232,7 @@
   },
   {
     "name": "Carp",
-    "imageName": "/images/fish/carp.png",
+    "imageName": "/item-images/fish/carp.png",
     "price": 300,
     "shadowSize": "4",
     "location": "Pond",
@@ -254,7 +254,7 @@
   },
   {
     "name": "Catfish",
-    "imageName": "/images/fish/catfish.png",
+    "imageName": "/item-images/fish/catfish.png",
     "price": 800,
     "shadowSize": "4",
     "location": "Pond",
@@ -270,7 +270,7 @@
   },
   {
     "name": "Char",
-    "imageName": "/images/fish/char.png",
+    "imageName": "/item-images/fish/char.png",
     "price": 3800,
     "shadowSize": "3",
     "location": "River (Clifftop) Pond",
@@ -287,7 +287,7 @@
   },
   {
     "name": "Cherry salmon",
-    "imageName": "/images/fish/cherry-salmon.png",
+    "imageName": "/item-images/fish/cherry-salmon.png",
     "price": 800,
     "shadowSize": "3",
     "location": "River (Clifftop)",
@@ -304,7 +304,7 @@
   },
   {
     "name": "Clown fish",
-    "imageName": "/images/fish/clown-fish.png",
+    "imageName": "/item-images/fish/clown-fish.png",
     "price": 650,
     "shadowSize": "1",
     "location": "Sea",
@@ -320,7 +320,7 @@
   },
   {
     "name": "Coelacanth",
-    "imageName": "/images/fish/coelacanth.png",
+    "imageName": "/item-images/fish/coelacanth.png",
     "price": 15000,
     "shadowSize": "6",
     "location": "Sea",
@@ -342,7 +342,7 @@
   },
   {
     "name": "Crawfish",
-    "imageName": "/images/fish/crawfish.png",
+    "imageName": "/item-images/fish/crawfish.png",
     "price": 200,
     "shadowSize": "2",
     "location": "Pond",
@@ -358,7 +358,7 @@
   },
   {
     "name": "Crucian carp",
-    "imageName": "/images/fish/crucian-carp.png",
+    "imageName": "/item-images/fish/crucian-carp.png",
     "price": 160,
     "shadowSize": "2",
     "location": "River",
@@ -380,7 +380,7 @@
   },
   {
     "name": "Dab",
-    "imageName": "/images/fish/dab.png",
+    "imageName": "/item-images/fish/dab.png",
     "price": 300,
     "shadowSize": "3",
     "location": "Sea",
@@ -397,7 +397,7 @@
   },
   {
     "name": "Dace",
-    "imageName": "/images/fish/dace.png",
+    "imageName": "/item-images/fish/dace.png",
     "price": 192,
     "shadowSize": "3",
     "location": "River",
@@ -419,7 +419,7 @@
   },
   {
     "name": "Dorado",
-    "imageName": "/images/fish/dorado.png",
+    "imageName": "/item-images/fish/dorado.png",
     "price": 15000,
     "shadowSize": "5",
     "location": "River",
@@ -433,7 +433,7 @@
   },
   {
     "name": "Football fish",
-    "imageName": "/images/fish/football-fish.png",
+    "imageName": "/item-images/fish/football-fish.png",
     "price": 2500,
     "shadowSize": "4",
     "location": "Sea",
@@ -448,7 +448,7 @@
   },
   {
     "name": "Freshwater goby",
-    "imageName": "/images/fish/freshwater-goby.png",
+    "imageName": "/item-images/fish/freshwater-goby.png",
     "price": 400,
     "shadowSize": "2",
     "location": "River",
@@ -470,7 +470,7 @@
   },
   {
     "name": "Frog",
-    "imageName": "/images/fish/frog.png",
+    "imageName": "/item-images/fish/frog.png",
     "price": 120,
     "shadowSize": "2",
     "location": "Pond",
@@ -484,7 +484,7 @@
   },
   {
     "name": "Gar",
-    "imageName": "/images/fish/gar.png",
+    "imageName": "/item-images/fish/gar.png",
     "price": 6000,
     "shadowSize": "6",
     "location": "Pond",
@@ -498,7 +498,7 @@
   },
   {
     "name": "Giant snakehead",
-    "imageName": "/images/fish/giant-snakehead.png",
+    "imageName": "/item-images/fish/giant-snakehead.png",
     "price": 5500,
     "shadowSize": "5",
     "location": "Pond",
@@ -511,7 +511,7 @@
   },
   {
     "name": "Giant trevally",
-    "imageName": "/images/fish/giant-trevally.png",
+    "imageName": "/item-images/fish/giant-trevally.png",
     "price": 4500,
     "shadowSize": "5",
     "location": "Pier",
@@ -527,7 +527,7 @@
   },
   {
     "name": "Golden trout",
-    "imageName": "/images/fish/golden-trout.png",
+    "imageName": "/item-images/fish/golden-trout.png",
     "price": 15000,
     "shadowSize": "3",
     "location": "River (Clifftop)",
@@ -543,7 +543,7 @@
   },
   {
     "name": "Goldfish",
-    "imageName": "/images/fish/goldfish.png",
+    "imageName": "/item-images/fish/goldfish.png",
     "price": 1300,
     "shadowSize": "1",
     "location": "Pond",
@@ -565,7 +565,7 @@
   },
   {
     "name": "Great white shark",
-    "imageName": "/images/fish/great-white-shark.png",
+    "imageName": "/item-images/fish/great-white-shark.png",
     "price": 15000,
     "shadowSize": "6 (Fin)",
     "location": "Sea",
@@ -579,7 +579,7 @@
   },
   {
     "name": "Guppy",
-    "imageName": "/images/fish/guppy.png",
+    "imageName": "/item-images/fish/guppy.png",
     "price": 1300,
     "shadowSize": "1",
     "location": "River",
@@ -597,7 +597,7 @@
   },
   {
     "name": "Hammerhead shark",
-    "imageName": "/images/fish/hammerhead-shark.png",
+    "imageName": "/item-images/fish/hammerhead-shark.png",
     "price": 8000,
     "shadowSize": "6 (Fin)",
     "location": "Sea",
@@ -611,7 +611,7 @@
   },
   {
     "name": "Horse mackerel",
-    "imageName": "/images/fish/horse-mackerel.png",
+    "imageName": "/item-images/fish/horse-mackerel.png",
     "price": 150,
     "shadowSize": "2",
     "location": "Sea",
@@ -633,7 +633,7 @@
   },
   {
     "name": "Killifish",
-    "imageName": "/images/fish/killifish.png",
+    "imageName": "/item-images/fish/killifish.png",
     "price": 300,
     "shadowSize": "1",
     "location": "Pond",
@@ -648,7 +648,7 @@
   },
   {
     "name": "King salmon",
-    "imageName": "/images/fish/king-salmon.png",
+    "imageName": "/item-images/fish/king-salmon.png",
     "price": 1800,
     "shadowSize": "6",
     "location": "River (Mouth)",
@@ -659,7 +659,7 @@
   },
   {
     "name": "Koi",
-    "imageName": "/images/fish/koi.png",
+    "imageName": "/item-images/fish/koi.png",
     "price": 4000,
     "shadowSize": "4",
     "location": "Pond",
@@ -681,7 +681,7 @@
   },
   {
     "name": "Loach",
-    "imageName": "/images/fish/loach.png",
+    "imageName": "/item-images/fish/loach.png",
     "price": 400,
     "shadowSize": "2",
     "location": "River",
@@ -694,7 +694,7 @@
   },
   {
     "name": "Mahi-mahi",
-    "imageName": "/images/fish/mahi-mahi.png",
+    "imageName": "/item-images/fish/mahi-mahi.png",
     "price": 6000,
     "shadowSize": "5",
     "location": "Pier",
@@ -710,7 +710,7 @@
   },
   {
     "name": "Mitten crab",
-    "imageName": "/images/fish/mitten-crab.png",
+    "imageName": "/item-images/fish/mitten-crab.png",
     "price": 2000,
     "shadowSize": "2",
     "location": "River",
@@ -723,7 +723,7 @@
   },
   {
     "name": "Moray eel",
-    "imageName": "/images/fish/moray-eel.png",
+    "imageName": "/item-images/fish/moray-eel.png",
     "price": 2000,
     "shadowSize": "Narrow",
     "location": "Sea",
@@ -736,7 +736,7 @@
   },
   {
     "name": "Napoleonfish",
-    "imageName": "/images/fish/napoleonfish.png",
+    "imageName": "/item-images/fish/napoleonfish.png",
     "price": 10000,
     "shadowSize": "6",
     "location": "Sea",
@@ -748,7 +748,7 @@
   },
   {
     "name": "Neon tetra",
-    "imageName": "/images/fish/neon-tetra.png",
+    "imageName": "/item-images/fish/neon-tetra.png",
     "price": 500,
     "shadowSize": "1",
     "location": "River",
@@ -766,7 +766,7 @@
   },
   {
     "name": "Nibble fish",
-    "imageName": "/images/fish/nibble-fish.png",
+    "imageName": "/item-images/fish/nibble-fish.png",
     "price": 1500,
     "shadowSize": "1",
     "location": "River",
@@ -781,7 +781,7 @@
   },
   {
     "name": "Oarfish",
-    "imageName": "/images/fish/oarfish.png",
+    "imageName": "/item-images/fish/oarfish.png",
     "price": 9000,
     "shadowSize": "6",
     "location": "Sea",
@@ -797,7 +797,7 @@
   },
   {
     "name": "Ocean sunfish",
-    "imageName": "/images/fish/ocean-sunfish.png",
+    "imageName": "/item-images/fish/ocean-sunfish.png",
     "price": 4000,
     "shadowSize": "6 (Fin)",
     "location": "Sea",
@@ -810,7 +810,7 @@
   },
   {
     "name": "Olive flounder",
-    "imageName": "/images/fish/olive-flounder.png",
+    "imageName": "/item-images/fish/olive-flounder.png",
     "price": 800,
     "shadowSize": "5",
     "location": "Sea",
@@ -832,7 +832,7 @@
   },
   {
     "name": "Pale chub",
-    "imageName": "/images/fish/pale-chub.png",
+    "imageName": "/item-images/fish/pale-chub.png",
     "price": 200,
     "shadowSize": "1",
     "location": "River",
@@ -854,7 +854,7 @@
   },
   {
     "name": "Pike",
-    "imageName": "/images/fish/pike.png",
+    "imageName": "/item-images/fish/pike.png",
     "price": 1800,
     "shadowSize": "5",
     "location": "River",
@@ -868,7 +868,7 @@
   },
   {
     "name": "Piranha",
-    "imageName": "/images/fish/piranha.png",
+    "imageName": "/item-images/fish/piranha.png",
     "price": 2500,
     "shadowSize": "2",
     "location": "River",
@@ -882,7 +882,7 @@
   },
   {
     "name": "Pond smelt",
-    "imageName": "/images/fish/pond-smelt.png",
+    "imageName": "/item-images/fish/pond-smelt.png",
     "price": 500,
     "shadowSize": "2",
     "location": "River",
@@ -895,7 +895,7 @@
   },
   {
     "name": "Pop-eyed goldfish",
-    "imageName": "/images/fish/pop-eyed-goldfish.png",
+    "imageName": "/item-images/fish/pop-eyed-goldfish.png",
     "price": 1300,
     "shadowSize": "1",
     "location": "Pond",
@@ -917,7 +917,7 @@
   },
   {
     "name": "Puffer fish",
-    "imageName": "/images/fish/puffer-fish.png",
+    "imageName": "/item-images/fish/puffer-fish.png",
     "price": 250,
     "shadowSize": "3",
     "location": "Sea",
@@ -930,7 +930,7 @@
   },
   {
     "name": "Rainbowfish",
-    "imageName": "/images/fish/rainbowfish.png",
+    "imageName": "/item-images/fish/rainbowfish.png",
     "price": 800,
     "shadowSize": "1",
     "location": "River",
@@ -946,7 +946,7 @@
   },
   {
     "name": "Ranchu goldfish",
-    "imageName": "/images/fish/ranchu-goldfish.png",
+    "imageName": "/item-images/fish/ranchu-goldfish.png",
     "price": 4500,
     "shadowSize": "2",
     "location": "Pond",
@@ -968,7 +968,7 @@
   },
   {
     "name": "Ray",
-    "imageName": "/images/fish/ray.png",
+    "imageName": "/item-images/fish/ray.png",
     "price": 3000,
     "shadowSize": "5",
     "location": "Sea",
@@ -982,7 +982,7 @@
   },
   {
     "name": "Red snapper",
-    "imageName": "/images/fish/red-snapper.png",
+    "imageName": "/item-images/fish/red-snapper.png",
     "price": 3000,
     "shadowSize": "4",
     "location": "Sea",
@@ -1004,7 +1004,7 @@
   },
   {
     "name": "Ribbon eel",
-    "imageName": "/images/fish/ribbon-eel.png",
+    "imageName": "/item-images/fish/ribbon-eel.png",
     "price": 600,
     "shadowSize": "Narrow",
     "location": "Sea",
@@ -1019,7 +1019,7 @@
   },
   {
     "name": "Saddled bichir",
-    "imageName": "/images/fish/saddled-bichir.png",
+    "imageName": "/item-images/fish/saddled-bichir.png",
     "price": 4000,
     "shadowSize": "4",
     "location": "River",
@@ -1033,7 +1033,7 @@
   },
   {
     "name": "Salmon",
-    "imageName": "/images/fish/salmon.png",
+    "imageName": "/item-images/fish/salmon.png",
     "price": 700,
     "shadowSize": "4",
     "location": "River (Mouth)",
@@ -1044,7 +1044,7 @@
   },
   {
     "name": "Saw shark",
-    "imageName": "/images/fish/saw-shark.png",
+    "imageName": "/item-images/fish/saw-shark.png",
     "price": 12000,
     "shadowSize": "6 (Fin)",
     "location": "Sea",
@@ -1058,7 +1058,7 @@
   },
   {
     "name": "Sea bass",
-    "imageName": "/images/fish/sea-bass.png",
+    "imageName": "/item-images/fish/sea-bass.png",
     "price": 400,
     "shadowSize": "5",
     "location": "Sea",
@@ -1080,7 +1080,7 @@
   },
   {
     "name": "Sea butterfly",
-    "imageName": "/images/fish/sea-butterfly.png",
+    "imageName": "/item-images/fish/sea-butterfly.png",
     "price": 1000,
     "shadowSize": "1",
     "location": "Sea",
@@ -1094,7 +1094,7 @@
   },
   {
     "name": "Sea horse",
-    "imageName": "/images/fish/sea-horse.png",
+    "imageName": "/item-images/fish/sea-horse.png",
     "price": 1100,
     "shadowSize": "1",
     "location": "Sea",
@@ -1112,7 +1112,7 @@
   },
   {
     "name": "Snapping Turtle",
-    "imageName": "/images/fish/snapping-turtle.png",
+    "imageName": "/item-images/fish/snapping-turtle.png",
     "price": 5000,
     "shadowSize": "5",
     "location": "River",
@@ -1129,7 +1129,7 @@
   },
   {
     "name": "Soft-shelled turtle",
-    "imageName": "/images/fish/soft-shelled-turtle.png",
+    "imageName": "/item-images/fish/soft-shelled-turtle.png",
     "price": 3750,
     "shadowSize": "4",
     "location": "River",
@@ -1141,7 +1141,7 @@
   },
   {
     "name": "Squid",
-    "imageName": "/images/fish/squid.png",
+    "imageName": "/item-images/fish/squid.png",
     "price": 500,
     "shadowSize": "3",
     "location": "Sea",
@@ -1160,7 +1160,7 @@
   },
   {
     "name": "Stringfish",
-    "imageName": "/images/fish/stringfish.png",
+    "imageName": "/item-images/fish/stringfish.png",
     "price": 15000,
     "shadowSize": "5",
     "location": "River (Clifftop)",
@@ -1174,7 +1174,7 @@
   },
   {
     "name": "Sturgeon",
-    "imageName": "/images/fish/sturgeon.png",
+    "imageName": "/item-images/fish/sturgeon.png",
     "price": 10000,
     "shadowSize": "6",
     "location": "River (Mouth)",
@@ -1191,7 +1191,7 @@
   },
   {
     "name": "Suckerfish",
-    "imageName": "/images/fish/suckerfish.png",
+    "imageName": "/item-images/fish/suckerfish.png",
     "price": 1500,
     "shadowSize": "4 (Fin)",
     "location": "Sea",
@@ -1205,7 +1205,7 @@
   },
   {
     "name": "Surgeonfish",
-    "imageName": "/images/fish/surgeonfish.png",
+    "imageName": "/item-images/fish/surgeonfish.png",
     "price": 1000,
     "shadowSize": "2",
     "location": "Sea",
@@ -1221,7 +1221,7 @@
   },
   {
     "name": "Sweetfish",
-    "imageName": "/images/fish/sweetfish.png",
+    "imageName": "/item-images/fish/sweetfish.png",
     "price": 900,
     "shadowSize": "3",
     "location": "River",
@@ -1234,7 +1234,7 @@
   },
   {
     "name": "Tadpole",
-    "imageName": "/images/fish/tadpole.png",
+    "imageName": "/item-images/fish/tadpole.png",
     "price": 100,
     "shadowSize": "1",
     "location": "Pond",
@@ -1249,7 +1249,7 @@
   },
   {
     "name": "Tilapia",
-    "imageName": "/images/fish/tilapia.png",
+    "imageName": "/item-images/fish/tilapia.png",
     "price": 800,
     "shadowSize": "3",
     "location": "River",
@@ -1264,7 +1264,7 @@
   },
   {
     "name": "Tuna",
-    "imageName": "/images/fish/tuna.png",
+    "imageName": "/item-images/fish/tuna.png",
     "price": 7000,
     "shadowSize": "6",
     "location": "Pier",
@@ -1280,7 +1280,7 @@
   },
   {
     "name": "Whale shark",
-    "imageName": "/images/fish/whale-shark.png",
+    "imageName": "/item-images/fish/whale-shark.png",
     "price": 13000,
     "shadowSize": "6 (Fin)",
     "location": "Sea",
@@ -1294,7 +1294,7 @@
   },
   {
     "name": "Yellow perch",
-    "imageName": "/images/fish/yellow-perch.png",
+    "imageName": "/item-images/fish/yellow-perch.png",
     "price": 300,
     "shadowSize": "3",
     "location": "River",
@@ -1310,7 +1310,7 @@
   },
   {
     "name": "Zebra turkeyfish",
-    "imageName": "/images/fish/zebra-turkeyfish.png",
+    "imageName": "/item-images/fish/zebra-turkeyfish.png",
     "price": 500,
     "shadowSize": "3",
     "location": "Sea",

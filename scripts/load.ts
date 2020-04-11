@@ -20,6 +20,8 @@ const monthNames = [
   'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec',
 ] as const;
 
+export const ITEM_IMAGES_DIR_NAME = `item-images`;
+
 const transformWikiFish = (wikiCritters: Wiki_Fish[]): SerializedFish[] => {
   return wikiCritters.map((wikiCritter) => {
     const imageName = getWikiItemIconFileName(
@@ -31,7 +33,9 @@ const transformWikiFish = (wikiCritters: Wiki_Fish[]): SerializedFish[] => {
     );
     return {
       name: wikiCritter.Name.text,
-      imageName: imageExists ? `/images/fish/${imageName}` : null,
+      imageName: imageExists
+        ? `/${ITEM_IMAGES_DIR_NAME}/fish/${imageName}`
+        : null,
       price: wikiCritter.Price.number,
       shadowSize: wikiCritter['Shadow size'].text,
       location: wikiCritter.Location.text,
@@ -54,7 +58,9 @@ const transformWikiBugs = (wikiCritters: Wiki_Fish[]): SerializedBug[] => {
     );
     return {
       name: wikiCritter.Name.text,
-      imageName: imageExists ? `/images/bugs/${imageName}` : null,
+      imageName: imageExists
+        ? `/${ITEM_IMAGES_DIR_NAME}/bugs/${imageName}`
+        : null,
       price: wikiCritter.Price.number,
       location: wikiCritter.Location.text,
       time: wikiCritter.Time.text,
@@ -79,7 +85,9 @@ const transformFurniture = (
     );
     return {
       name: wikiFurnitureItem.Name.text,
-      imageName: imageExists ? `/images/bugs/${imageName}` : null,
+      imageName: imageExists
+        ? `/${ITEM_IMAGES_DIR_NAME}/furniture/${imageName}`
+        : null,
       price: {
         buy: parsePrice(wikiFurnitureItem['Price (Buy)']?.text || ''),
         sell: parsePrice(wikiFurnitureItem['Price (Sell)']?.text || ''),
@@ -99,7 +107,7 @@ const writeDataToSrc = (fileName: string, data: object) => {
 export const load = () => {
   fs.copySync(
     path.join(extractionDirectory, 'images'),
-    path.join(process.cwd(), 'public/item-images'),
+    path.join(process.cwd(), `public/${ITEM_IMAGES_DIR_NAME}`),
   );
 
   const northernHemisphereFish = transformWikiFish(
