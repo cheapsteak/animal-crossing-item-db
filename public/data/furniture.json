@@ -25,8 +25,36 @@
     }
   },
   {
-    "name": "Aqua tile flooring",
+    "name": "Ancient wall",
     "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Apple wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 16000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 4000,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Aqua tile flooring",
+    "imageName": "/images/bugs/aqua-tile-flooring.png",
     "price": {
       "buy": {
         "amount": 900,
@@ -85,7 +113,10 @@
         "amount": 2150,
         "currency": "Bells"
       },
-      "sell": null
+      "sell": {
+        "amount": 537,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -103,27 +134,53 @@
     }
   },
   {
+    "name": "Autumn wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 18800,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 4700,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Backyard lawn",
     "imageName": "/images/bugs/backyard-lawn.png",
     "price": {
       "buy": null,
-      "sell": null
+      "sell": {
+        "amount": 600,
+        "currency": "PC-icon-Bells-coin.png"
+      }
     }
   },
   {
     "name": "Backyard-fence wall",
-    "imageName": null,
+    "imageName": "/images/bugs/backyard-fence-wall.jpg",
     "price": {
-      "buy": null,
-      "sell": null
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
     }
   },
   {
     "name": "Bamboo wall",
-    "imageName": null,
+    "imageName": "/images/bugs/bamboo-wall.jpg",
     "price": {
       "buy": null,
-      "sell": null
+      "sell": {
+        "amount": 160,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -131,7 +188,10 @@
     "imageName": "/images/bugs/bamboo-grove-wall.png",
     "price": {
       "buy": null,
-      "sell": null
+      "sell": {
+        "amount": 4300,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -142,7 +202,24 @@
         "amount": 1770,
         "currency": "Bells"
       },
-      "sell": null
+      "sell": {
+        "amount": 442,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Bank-vault wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -155,6 +232,20 @@
       },
       "sell": {
         "amount": 150,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Beaded-curtain wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 1720,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 430,
         "currency": "Bells"
       }
     }
@@ -216,6 +307,20 @@
     }
   },
   {
+    "name": "Black botanical-tile wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 1240,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 310,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Black hallway wall",
     "imageName": null,
     "price": {
@@ -262,7 +367,10 @@
         "amount": 1850,
         "currency": "Bells"
       },
-      "sell": null
+      "sell": {
+        "amount": 462,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -287,7 +395,38 @@
         "amount": 2350,
         "currency": "Bells"
       },
-      "sell": null
+      "sell": {
+        "amount": 587,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Blackboard wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Blue blossoming wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 1760,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 440,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -312,7 +451,10 @@
         "amount": 1150,
         "currency": "Bells"
       },
-      "sell": null
+      "sell": {
+        "amount": 287,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -446,11 +588,14 @@
         "amount": 1570,
         "currency": "Bells"
       },
-      "sell": null
+      "sell": {
+        "amount": 392,
+        "currency": "Bells"
+      }
     }
   },
   {
-    "name": "Blue molded-paint wall",
+    "name": "Blue molded-panel wall",
     "imageName": null,
     "price": {
       "buy": {
@@ -490,7 +635,7 @@
   },
   {
     "name": "Blue playroom wall",
-    "imageName": null,
+    "imageName": "/images/bugs/blue-playroom-wall.jpg",
     "price": {
       "buy": {
         "amount": 2540,
@@ -510,7 +655,10 @@
         "amount": 2150,
         "currency": "Bells"
       },
-      "sell": null
+      "sell": {
+        "amount": 537,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -533,6 +681,34 @@
         "currency": "Bells"
       },
       "sell": null
+    }
+  },
+  {
+    "name": "Blue shanty wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 620,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 155,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Blue simple-cloth wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 750,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 187,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -575,14 +751,17 @@
     }
   },
   {
-    "name": "Blue two-toned wall",
+    "name": "Blue two-toned tile wall",
     "imageName": null,
     "price": {
       "buy": {
         "amount": 1850,
         "currency": "Bells"
       },
-      "sell": null
+      "sell": {
+        "amount": 462,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -594,6 +773,20 @@
         "currency": "Bells"
       },
       "sell": null
+    }
+  },
+  {
+    "name": "Blue-crown wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 2350,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 597,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -639,6 +832,34 @@
     }
   },
   {
+    "name": "Blue-striped wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 1520,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 380,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Botanical-tile wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 1240,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 310,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Boxing-ring mat",
     "imageName": null,
     "price": {
@@ -670,6 +891,20 @@
       },
       "sell": {
         "amount": 360,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Brown botanical-tile wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 1240,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 310,
         "currency": "Bells"
       }
     }
@@ -721,7 +956,10 @@
     "imageName": "/images/bugs/brown-herringbone-wall.png",
     "price": {
       "buy": null,
-      "sell": null
+      "sell": {
+        "amount": 1800,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -810,23 +1048,15 @@
         "amount": 2350,
         "currency": "Bells"
       },
-      "sell": null
-    }
-  },
-  {
-    "name": "Bunny Day flooring",
-    "imageName": "/images/bugs/bunny-day-flooring.png",
-    "price": {
-      "buy": null,
       "sell": {
-        "amount": 4800,
+        "amount": 587,
         "currency": "Bells"
       }
     }
   },
   {
     "name": "Bunny Day flooring",
-    "imageName": null,
+    "imageName": "/images/bugs/bunny-day-flooring.png",
     "price": {
       "buy": null,
       "sell": null
@@ -852,11 +1082,45 @@
     }
   },
   {
+    "name": "Butterflies wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3360,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 840,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Cabin wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 7200,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 1800,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Café-curtain wall",
     "imageName": null,
     "price": {
-      "buy": null,
-      "sell": null
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -867,15 +1131,38 @@
         "amount": 1150,
         "currency": "Bells"
       },
-      "sell": null
+      "sell": {
+        "amount": 287,
+        "currency": "Bells"
+      }
     }
   },
   {
     "name": "Chain-link fence",
     "imageName": null,
     "price": {
-      "buy": null,
-      "sell": null
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Cherry wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 16000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 4000,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -883,11 +1170,14 @@
     "imageName": null,
     "price": {
       "buy": null,
-      "sell": null
+      "sell": {
+        "amount": 4600,
+        "currency": "Bells"
+      }
     }
   },
   {
-    "name": "Chic wall",
+    "name": "Chic Wall",
     "imageName": null,
     "price": {
       "buy": {
@@ -901,11 +1191,87 @@
     }
   },
   {
+    "name": "Chic tearoom wall",
+    "imageName": "/images/bugs/chic-tearoom-wall.jpg",
+    "price": {
+      "buy": {
+        "amount": 1750,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 437,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Chocolate hallway wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 2000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 500,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Chocolate herringbone wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 7200,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 1800,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Circuit-board wall",
     "imageName": null,
     "price": {
-      "buy": null,
-      "sell": null
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Cityscape wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Classic-library wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 5800,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 1450,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -1019,7 +1385,7 @@
   },
   {
     "name": "Concrete wall",
-    "imageName": null,
+    "imageName": "/images/bugs/concrete-wall.jpg",
     "price": {
       "buy": {
         "amount": 940,
@@ -1027,6 +1393,20 @@
       },
       "sell": {
         "amount": 235,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Construction-site wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
         "currency": "Bells"
       }
     }
@@ -1064,7 +1444,10 @@
         "amount": 1550,
         "currency": "Bells"
       },
-      "sell": null
+      "sell": {
+        "amount": 387,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -1077,6 +1460,20 @@
       },
       "sell": {
         "amount": 375,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Cute blue wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 1880,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 470,
         "currency": "Bells"
       }
     }
@@ -1103,7 +1500,10 @@
         "amount": 1880,
         "currency": "Bells"
       },
-      "sell": null
+      "sell": {
+        "amount": 470,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -1234,10 +1634,16 @@
   },
   {
     "name": "Dark wooden-mosaic wall",
-    "imageName": null,
+    "imageName": "/images/bugs/dark-wooden-mosaic-wall.png",
     "price": {
-      "buy": null,
-      "sell": null
+      "buy": {
+        "amount": 7200,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 1800,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -1255,11 +1661,101 @@
     }
   },
   {
+    "name": "Dark-chocolate wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Desert vista",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Dig-site Wall",
     "imageName": null,
     "price": {
-      "buy": null,
-      "sell": null
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Dirt-clod wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 200,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 50,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Dojo wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Dungeon wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Exquisite wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -1291,6 +1787,20 @@
     }
   },
   {
+    "name": "Forest wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 176000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 44000,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Fossil rug",
     "imageName": "/images/bugs/fossil-rug.png",
     "price": {
@@ -1313,8 +1823,22 @@
     }
   },
   {
-    "name": "Garbage-heap flooring",
+    "name": "Future-tech wall",
     "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Garbage-heap flooring",
+    "imageName": "/images/bugs/garbage-heap-flooring.png",
     "price": {
       "buy": null,
       "sell": null
@@ -1325,7 +1849,10 @@
     "imageName": "/images/bugs/garbage-heap-wall.png",
     "price": {
       "buy": null,
-      "sell": null
+      "sell": {
+        "amount": 120,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -1343,6 +1870,20 @@
     }
   },
   {
+    "name": "Gold-screen wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 83000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 20750,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Golden iron-parquet flooring",
     "imageName": null,
     "price": {
@@ -1351,6 +1892,34 @@
         "currency": "Bells"
       },
       "sell": null
+    }
+  },
+  {
+    "name": "Golden wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 160000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 40000,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Gray diner wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 2420,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 605,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -1488,6 +2057,20 @@
     }
   },
   {
+    "name": "Green intricate wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 1570,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 392,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Green kilim-style carpet",
     "imageName": null,
     "price": {
@@ -1531,7 +2114,10 @@
         "amount": 1650,
         "currency": "Bells"
       },
-      "sell": null
+      "sell": {
+        "amount": 412,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -1627,20 +2213,6 @@
     }
   },
   {
-    "name": "Hammock",
-    "imageName": "/images/bugs/hammock.png",
-    "price": {
-      "buy": {
-        "amount": 1300,
-        "currency": "Bells"
-      },
-      "sell": {
-        "amount": 325,
-        "currency": "Bells"
-      }
-    }
-  },
-  {
     "name": "Hamster cage",
     "imageName": "/images/bugs/hamster-cage.png",
     "price": {
@@ -1650,20 +2222,6 @@
       },
       "sell": {
         "amount": 217,
-        "currency": "Bells"
-      }
-    }
-  },
-  {
-    "name": "Handcart",
-    "imageName": "/images/bugs/handcart.png",
-    "price": {
-      "buy": {
-        "amount": 1900,
-        "currency": "Bells"
-      },
-      "sell": {
-        "amount": 475,
         "currency": "Bells"
       }
     }
@@ -1697,17 +2255,6 @@
     }
   },
   {
-    "name": "Hay Bed",
-    "imageName": "/images/bugs/hay-bed.png",
-    "price": {
-      "buy": null,
-      "sell": {
-        "amount": 400,
-        "currency": "Bells"
-      }
-    }
-  },
-  {
     "name": "Heart doorplate",
     "imageName": "/images/bugs/heart-doorplate.png",
     "price": {
@@ -1722,12 +2269,15 @@
     }
   },
   {
-    "name": "Hearth",
-    "imageName": "/images/bugs/hearth.png",
+    "name": "Heavy-curtain wall",
+    "imageName": null,
     "price": {
-      "buy": null,
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
       "sell": {
-        "amount": 5470,
+        "amount": 750,
         "currency": "Bells"
       }
     }
@@ -1785,6 +2335,34 @@
         "currency": "Bells"
       },
       "sell": null
+    }
+  },
+  {
+    "name": "Honeycomb wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 14400,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 3600,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Honeycomb-tile wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 1680,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 420,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -1851,6 +2429,34 @@
     "price": {
       "buy": null,
       "sell": null
+    }
+  },
+  {
+    "name": "Ice wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 32800,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 8200,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Iceberg wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 16000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 4000,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -1924,6 +2530,20 @@
     }
   },
   {
+    "name": "Imperial wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Incense burner",
     "imageName": "/images/bugs/incense-burner.png",
     "price": {
@@ -1933,6 +2553,20 @@
       },
       "sell": {
         "amount": 220,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Industrial wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
         "currency": "Bells"
       }
     }
@@ -2187,12 +2821,40 @@
     }
   },
   {
+    "name": "Ivy wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Jail bars",
     "imageName": "/images/bugs/jail-bars.png",
     "price": {
       "buy": null,
       "sell": {
         "amount": 3750,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Jingle wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 10000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 2500,
         "currency": "Bells"
       }
     }
@@ -2248,6 +2910,20 @@
     }
   },
   {
+    "name": "Jungle wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 5520,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 1380,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Katana",
     "imageName": null,
     "price": {
@@ -2292,6 +2968,20 @@
       },
       "sell": {
         "amount": 800,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Kisses wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
         "currency": "Bells"
       }
     }
@@ -2362,6 +3052,20 @@
       },
       "sell": {
         "amount": 1500,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Laboratory wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
         "currency": "Bells"
       }
     }
@@ -2817,6 +3521,20 @@
     }
   },
   {
+    "name": "Magma-cavern wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Magnetic knife rack",
     "imageName": "/images/bugs/magnetic-knife-rack.png",
     "price": {
@@ -2856,6 +3574,20 @@
     }
   },
   {
+    "name": "Manga-lirary wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 4200,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 1050,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Mangrove wall",
     "imageName": null,
     "price": {
@@ -2863,7 +3595,10 @@
         "amount": 3000,
         "currency": "Bells"
       },
-      "sell": null
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -2906,11 +3641,39 @@
     }
   },
   {
+    "name": "Marine pop wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3220,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 805,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Matryoshka",
     "imageName": "/images/bugs/matryoshka.png",
     "price": {
       "buy": null,
       "sell": null
+    }
+  },
+  {
+    "name": "Meadow vista",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -2998,6 +3761,20 @@
     }
   },
   {
+    "name": "Misty-garden wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Mixer",
     "imageName": "/images/bugs/mixer.png",
     "price": {
@@ -3026,6 +3803,20 @@
     }
   },
   {
+    "name": "Mod wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 1220,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 305,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Modern shoji-screen wall",
     "imageName": null,
     "price": {
@@ -3033,7 +3824,10 @@
         "amount": 1150,
         "currency": "Bells"
       },
-      "sell": null
+      "sell": {
+        "amount": 287,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -3044,7 +3838,10 @@
         "amount": 1750,
         "currency": "Bells"
       },
-      "sell": null
+      "sell": {
+        "amount": 437,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -3063,7 +3860,7 @@
   },
   {
     "name": "Modern wood wall",
-    "imageName": null,
+    "imageName": "/images/bugs/modern-wood-wall.png",
     "price": {
       "buy": null,
       "sell": {
@@ -3098,6 +3895,14 @@
     }
   },
   {
+    "name": "Monochromatic dotted wall",
+    "imageName": null,
+    "price": {
+      "buy": null,
+      "sell": null
+    }
+  },
+  {
     "name": "Monochromatic tile flooring",
     "imageName": null,
     "price": {
@@ -3112,7 +3917,7 @@
     }
   },
   {
-    "name": "Monochromatic tile wall",
+    "name": "Monochromatic-tile wall",
     "imageName": null,
     "price": {
       "buy": {
@@ -3121,6 +3926,34 @@
       },
       "sell": {
         "amount": 355,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Mortar wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Mosaic-tile wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 1450,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 362,
         "currency": "Bells"
       }
     }
@@ -3135,6 +3968,20 @@
       },
       "sell": {
         "amount": 180,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Mossy-garden wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
         "currency": "Bells"
       }
     }
@@ -3182,6 +4029,20 @@
       "buy": null,
       "sell": {
         "amount": 375,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Mush wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 85600,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 21400,
         "currency": "Bells"
       }
     }
@@ -3258,7 +4119,7 @@
   },
   {
     "name": "Nook Inc. botanical rug",
-    "imageName": null,
+    "imageName": "/images/bugs/nook-inc.-botanical-rug.png",
     "price": {
       "buy": {
         "amount": 1000,
@@ -3304,11 +4165,39 @@
     }
   },
   {
+    "name": "Nook Inc. wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 24000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 6000,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Oasis flooring",
     "imageName": null,
     "price": {
       "buy": null,
       "sell": null
+    }
+  },
+  {
+    "name": "Ocean-horizon wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -3321,6 +4210,20 @@
       },
       "sell": {
         "amount": 900,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Office wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
         "currency": "Bells"
       }
     }
@@ -3421,6 +4324,20 @@
     }
   },
   {
+    "name": "Olive desert-tile wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 2440,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 610,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Orange camo flooring",
     "imageName": null,
     "price": {
@@ -3430,6 +4347,20 @@
       },
       "sell": {
         "amount": 330,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Orange camo wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 1550,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 287,
         "currency": "Bells"
       }
     }
@@ -3469,6 +4400,20 @@
       },
       "sell": {
         "amount": 385,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Orange wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 16000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 4000,
         "currency": "Bells"
       }
     }
@@ -3596,6 +4541,20 @@
     }
   },
   {
+    "name": "Paintball wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Painting Set",
     "imageName": null,
     "price": {
@@ -3611,10 +4570,24 @@
   },
   {
     "name": "Palace tile",
-    "imageName": null,
+    "imageName": "/images/bugs/palace-tile.png",
     "price": {
       "buy": null,
       "sell": null
+    }
+  },
+  {
+    "name": "Palace wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -3651,8 +4624,14 @@
     "name": "Pants press",
     "imageName": "/images/bugs/pants-press.png",
     "price": {
-      "buy": null,
-      "sell": null
+      "buy": {
+        "amount": 1900,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 475,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -3756,6 +4735,20 @@
     }
   },
   {
+    "name": "Party wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 1480,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 370,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Pastel dotted wall",
     "imageName": null,
     "price": {
@@ -3842,6 +4835,34 @@
     }
   },
   {
+    "name": "Peach wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 16000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 4000,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Pear wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 16000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 4000,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Pedal board",
     "imageName": null,
     "price": {
@@ -3878,6 +4899,20 @@
         "currency": "Bells"
       },
       "sell": null
+    }
+  },
+  {
+    "name": "Perforated-board wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 1880,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 296,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -4000,6 +5035,20 @@
     }
   },
   {
+    "name": "Pink flower-print wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 1780,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 445,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Pink heart-pattern wall",
     "imageName": null,
     "price": {
@@ -4021,7 +5070,24 @@
         "amount": 1650,
         "currency": "Bells"
       },
-      "sell": null
+      "sell": {
+        "amount": 412,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Pink playroom wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 2540,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 635,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -4032,7 +5098,10 @@
         "amount": 2150,
         "currency": "Bells"
       },
-      "sell": null
+      "sell": {
+        "amount": 537,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -4045,6 +5114,34 @@
       },
       "sell": {
         "amount": 155,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Pink simple-cloth wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 750,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 187,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Pink-crown wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 2350,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 587,
         "currency": "Bells"
       }
     }
@@ -4364,6 +5461,20 @@
     }
   },
   {
+    "name": "Purple camo wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 1550,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 287,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Purple desert-tile flooring",
     "imageName": null,
     "price": {
@@ -4441,7 +5552,10 @@
         "amount": 2150,
         "currency": "Bells"
       },
-      "sell": null
+      "sell": {
+        "amount": 537,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -4500,8 +5614,14 @@
     "name": "Ramshackle wall",
     "imageName": null,
     "price": {
-      "buy": null,
-      "sell": null
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -4733,6 +5853,20 @@
     }
   },
   {
+    "name": "Red dotted wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 1100,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 275,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Red heart-pattern wall",
     "imageName": null,
     "price": {
@@ -4754,7 +5888,10 @@
         "amount": 1570,
         "currency": "Bells"
       },
-      "sell": null
+      "sell": {
+        "amount": 392,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -4790,7 +5927,10 @@
         "amount": 1850,
         "currency": "Bells"
       },
-      "sell": null
+      "sell": {
+        "amount": 462,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -4942,6 +6082,34 @@
     }
   },
   {
+    "name": "Rice-paddy wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Ringside seating",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Ringtoss",
     "imageName": "/images/bugs/ringtoss.png",
     "price": {
@@ -5033,6 +6201,20 @@
     }
   },
   {
+    "name": "Rose wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 1720,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 430,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Rose wreath",
     "imageName": "/images/bugs/rose-wreath.png",
     "price": {
@@ -5111,6 +6293,20 @@
     }
   },
   {
+    "name": "Ruins wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Rush tatami flooring",
     "imageName": null,
     "price": {
@@ -5120,6 +6316,20 @@
       },
       "sell": {
         "amount": 550,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Rustic-stone wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 7000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 1750,
         "currency": "Bells"
       }
     }
@@ -5143,7 +6353,10 @@
     "imageName": null,
     "price": {
       "buy": null,
-      "sell": null
+      "sell": {
+        "amount": 3200,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -5172,6 +6385,14 @@
         "amount": 600,
         "currency": "Bells"
       }
+    }
+  },
+  {
+    "name": "Sandlot",
+    "imageName": "/images/bugs/sandlot.png",
+    "price": {
+      "buy": null,
+      "sell": null
     }
   },
   {
@@ -5216,6 +6437,20 @@
     }
   },
   {
+    "name": "Sci-fi wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 30000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 7500,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Screen wall",
     "imageName": null,
     "price": {
@@ -5244,6 +6479,20 @@
     }
   },
   {
+    "name": "Sea view",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Security-monitors wall",
     "imageName": null,
     "price": {
@@ -5251,17 +6500,17 @@
         "amount": 3000,
         "currency": "Bells"
       },
-      "sell": null
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
     }
   },
   {
     "name": "Sepia puzzle flooring",
-    "imageName": null,
+    "imageName": "/images/bugs/sepia-puzzle-flooring.png",
     "price": {
-      "buy": {
-        "amount": 1450,
-        "currency": "Bells"
-      },
+      "buy": null,
       "sell": null
     }
   },
@@ -5297,8 +6546,14 @@
     "name": "Server-room wall",
     "imageName": null,
     "price": {
-      "buy": null,
-      "sell": null
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -5475,8 +6730,14 @@
     "name": "Shutter wall",
     "imageName": null,
     "price": {
-      "buy": null,
-      "sell": null
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -5629,6 +6890,20 @@
     }
   },
   {
+    "name": "Ski-slope wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 12800,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 3200,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Skull wall",
     "imageName": null,
     "price": {
@@ -5644,7 +6919,21 @@
   },
   {
     "name": "Skull-print flooring",
-    "imageName": "/images/bugs/skull-print-flooring.jpg",
+    "imageName": "/images/bugs/skull-print-flooring.png",
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Sky wall",
+    "imageName": null,
     "price": {
       "buy": {
         "amount": 3000,
@@ -5660,8 +6949,14 @@
     "name": "Skyscraper wall",
     "imageName": null,
     "price": {
-      "buy": null,
-      "sell": null
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -5745,6 +7040,20 @@
     }
   },
   {
+    "name": "Snowflake wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 19200,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 4800,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Soccer goal",
     "imageName": "/images/bugs/soccer-goal.png",
     "price": {
@@ -5778,6 +7087,20 @@
         "currency": "Nook Miles"
       },
       "sell": null
+    }
+  },
+  {
+    "name": "Soothing tearoom wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 1750,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 437,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -5850,6 +7173,34 @@
     }
   },
   {
+    "name": "Stacked-wood wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 7200,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 1800,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Stadium wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Stall",
     "imageName": "/images/bugs/stall.png",
     "price": {
@@ -5865,7 +7216,10 @@
         "amount": 1750,
         "currency": "Bells"
       },
-      "sell": null
+      "sell": {
+        "amount": 437,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -5899,6 +7253,34 @@
     }
   },
   {
+    "name": "Starry wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 30000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 7500,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Starry-sky wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 30000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 7500,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Stately wall",
     "imageName": null,
     "price": {
@@ -5906,7 +7288,10 @@
         "amount": 2450,
         "currency": "Bells"
       },
-      "sell": null
+      "sell": {
+        "amount": 612,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -5926,11 +7311,17 @@
     }
   },
   {
-    "name": "Stone Wall",
+    "name": "Steel-frame wall",
     "imageName": null,
     "price": {
-      "buy": null,
-      "sell": null
+      "buy": {
+        "amount": 24000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 6000,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -5997,12 +7388,65 @@
     }
   },
   {
+    "name": "Stone wall",
+    "imageName": "/images/bugs/stone-wall.png",
+    "price": {
+      "buy": null,
+      "sell": {
+        "amount": 1500,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Stonehenge",
     "imageName": "/images/bugs/stonehenge.png",
     "price": {
       "buy": null,
       "sell": {
         "amount": 2300,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Stormy night wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Straw wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Strawberry-chocolate wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
         "currency": "Bells"
       }
     }
@@ -6017,6 +7461,20 @@
       },
       "sell": {
         "amount": 1250,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Street-art wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
         "currency": "Bells"
       }
     }
@@ -6064,7 +7522,10 @@
     "name": "Summit Wall",
     "imageName": null,
     "price": {
-      "buy": null,
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
       "sell": {
         "amount": 750,
         "currency": "Bells"
@@ -6477,6 +7938,20 @@
     }
   },
   {
+    "name": "Tree-lined wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Tricycle",
     "imageName": "/images/bugs/tricycle.png",
     "price": {
@@ -6486,6 +7961,20 @@
       },
       "sell": {
         "amount": 400,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Tropical vista",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 24000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 6000,
         "currency": "Bells"
       }
     }
@@ -6508,6 +7997,20 @@
       },
       "sell": {
         "amount": 500,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Underwater wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 34400,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 8600,
         "currency": "Bells"
       }
     }
@@ -6670,7 +8173,7 @@
   },
   {
     "name": "Wall-mounted TV (20 in.)",
-    "imageName": null,
+    "imageName": "/images/bugs/wall-mounted-tv-(20-in.).png",
     "price": {
       "buy": {
         "amount": 8900,
@@ -6749,6 +8252,34 @@
     }
   },
   {
+    "name": "Wavy-tile wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 1740,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 435,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Western vista",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Western-style stone",
     "imageName": null,
     "price": {
@@ -6771,7 +8302,21 @@
     }
   },
   {
-    "name": "While delicate-blooms wall",
+    "name": "White botanical-tile wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 1240,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 310,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "White delicate-blooms wall",
     "imageName": null,
     "price": {
       "buy": {
@@ -6785,15 +8330,15 @@
     }
   },
   {
-    "name": "White botanical-tile wall",
+    "name": "White hallway wall",
     "imageName": null,
     "price": {
       "buy": {
-        "amount": 1240,
+        "amount": 2000,
         "currency": "Bells"
       },
       "sell": {
-        "amount": 310,
+        "amount": 500,
         "currency": "Bells"
       }
     }
@@ -6866,6 +8411,20 @@
     }
   },
   {
+    "name": "White perforated-board wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 1180,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 295,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "White simple-cloth wall",
     "imageName": null,
     "price": {
@@ -6908,6 +8467,34 @@
     }
   },
   {
+    "name": "White-brick wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 1000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 250,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "White-chocolate wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 3000,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "White-paint flooring",
     "imageName": null,
     "price": {
@@ -6917,6 +8504,20 @@
       },
       "sell": {
         "amount": 260,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "White-rose wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 1720,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 430,
         "currency": "Bells"
       }
     }
@@ -6942,6 +8543,20 @@
       "buy": null,
       "sell": {
         "amount": 960,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Wild-wood wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 7200,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 1800,
         "currency": "Bells"
       }
     }
@@ -7269,10 +8884,27 @@
   },
   {
     "name": "Wooden-knot wall",
-    "imageName": null,
+    "imageName": "/images/bugs/wooden-knot-wall.png",
     "price": {
       "buy": null,
-      "sell": null
+      "sell": {
+        "amount": 1800,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Wooden-mosaic wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 7200,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 1800,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -7402,7 +9034,10 @@
         "amount": 1570,
         "currency": "Bells"
       },
-      "sell": null
+      "sell": {
+        "amount": 392,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -7431,6 +9066,20 @@
     }
   },
   {
+    "name": "Yellow playroom wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 2540,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 635,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "name": "Yellow quilt wall",
     "imageName": null,
     "price": {
@@ -7438,7 +9087,10 @@
         "amount": 2150,
         "currency": "Bells"
       },
-      "sell": null
+      "sell": {
+        "amount": 537,
+        "currency": "Bells"
+      }
     }
   },
   {
@@ -7449,7 +9101,24 @@
         "amount": 750,
         "currency": "Bells"
       },
-      "sell": null
+      "sell": {
+        "amount": 187,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "name": "Yellow-paint wall",
+    "imageName": null,
+    "price": {
+      "buy": {
+        "amount": 1600,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 400,
+        "currency": "Bells"
+      }
     }
   },
   {

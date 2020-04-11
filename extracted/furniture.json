@@ -7,13 +7,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,560 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,560 Bells"
     },
     "Price (Sell)": {
       "text": "390 Bells",
@@ -42,13 +36,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,500 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,500 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -68,19 +56,47 @@
   },
   {
     "Name": {
-      "text": "Aqua tile flooring"
+      "text": "Ancient wall"
     },
     "Image": {
       "text": ""
     },
     "Price (Buy)": {
-      "text": "900 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
+      "text": "Apple wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "16,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "4,000 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
+      "text": "Aqua tile flooring"
+    },
+    "Image": {
+      "text": "[[File:NH-Floors-Aqua_tile_flooring.png]]"
+    },
+    "Price (Buy)": {
+      "text": "900 Bells"
     },
     "Price (Sell)": {
       "text": "225 Bells",
@@ -109,13 +125,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,420 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,420 Bells"
     },
     "Price (Sell)": {
       "text": "355 Bells",
@@ -144,13 +154,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "2,120 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,120 Bells"
     },
     "Price (Sell)": {
       "text": "530 Bells",
@@ -179,13 +183,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,100 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,100 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -208,16 +206,10 @@
       "text": "NH-Arched-window wall.png"
     },
     "Price (Buy)": {
-      "text": "2,150 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,150 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "537 Bells"
     },
     "Source": {
       "text": "Timmy & Tommy",
@@ -237,13 +229,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,800 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,800 Bells"
     },
     "Price (Sell)": {
       "text": "450 Bells",
@@ -266,19 +252,36 @@
   },
   {
     "Name": {
+      "text": "Autumn wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "18,800 Bells"
+    },
+    "Price (Sell)": {
+      "text": "4,700 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Backyard lawn"
     },
     "Image": {
-      "text": "NH-Backyard lawn.png"
+      "text": "[[File:NH-Floors-Backyard_lawn.png]]"
     },
     "Price (Buy)": {
       "text": "N/A"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "600 PC-icon-Bells-coin.png"
     },
     "Source": {
-      "text": "Harvey",
+      "text": "Harvey NH-Inventory_Icons-DIY_Recipe.png Recipe",
       "links": [
         {
           "type": "internal",
@@ -292,13 +295,13 @@
       "text": "Backyard-fence wall"
     },
     "Image": {
-      "text": "NH-Backyard-fence wall.png"
+      "text": "NH-Backyard-fence_wall.jpg"
     },
     "Price (Buy)": {
-      "text": "N/A"
+      "text": "3,000 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "750 Bells"
     },
     "Source": {
       "text": "Saharah",
@@ -315,13 +318,13 @@
       "text": "Bamboo wall"
     },
     "Image": {
-      "text": "NH-Bamboo wall.png"
+      "text": "NH-Bamboo_wall.jpg"
     },
     "Price (Buy)": {
       "text": "N/A"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "160 Bells"
     },
     "Source": {
       "text": "DIY Recipes",
@@ -344,7 +347,7 @@
       "text": "N/A"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "4,300 Bells"
     },
     "Source": {
       "text": "DIY Recipes",
@@ -364,16 +367,10 @@
       "text": "NH-Bamboo-screen wall.png"
     },
     "Price (Buy)": {
-      "text": "1,770 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,770 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "442 Bells"
     },
     "Source": {
       "text": "Timmy & Tommy",
@@ -387,19 +384,30 @@
   },
   {
     "Name": {
+      "text": "Bank-vault wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Basic wall"
     },
     "Image": {
       "text": "NH-Basic wall.png"
     },
     "Price (Buy)": {
-      "text": "600 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "600 Bells"
     },
     "Price (Sell)": {
       "text": "150 Bells",
@@ -422,19 +430,30 @@
   },
   {
     "Name": {
+      "text": "Beaded-curtain wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "1,720 Bells"
+    },
+    "Price (Sell)": {
+      "text": "430 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Beige art-deco wall"
     },
     "Image": {
       "text": "Beige art-deco wall.png"
     },
     "Price (Buy)": {
-      "text": "2,780 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,780 Bells"
     },
     "Price (Sell)": {
       "text": "695 Bells",
@@ -463,13 +482,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,760 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,760 Bells"
     },
     "Price (Sell)": {
       "text": "440 Bells",
@@ -498,13 +511,7 @@
       "text": "NH-Beige desert-tile flooring.png"
     },
     "Price (Buy)": {
-      "text": "2,100 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,100 Bells"
     },
     "Price (Sell)": {
       "text": "525 Bells",
@@ -533,13 +540,7 @@
       "text": "NH-Beige desert-tile wall.png"
     },
     "Price (Buy)": {
-      "text": "2,440 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,440 Bells"
     },
     "Price (Sell)": {
       "text": "610 Bells",
@@ -562,19 +563,30 @@
   },
   {
     "Name": {
+      "text": "Black botanical-tile wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "1,240 Bells"
+    },
+    "Price (Sell)": {
+      "text": "310 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Black hallway wall"
     },
     "Image": {
       "text": "NH-black hallway wall.png"
     },
     "Price (Buy)": {
-      "text": "2,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,000 Bells"
     },
     "Price (Sell)": {
       "text": "500 Bells",
@@ -603,13 +615,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "2,350 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,350 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -632,13 +638,7 @@
       "text": "NH-Black perforated-board wall.png"
     },
     "Price (Buy)": {
-      "text": "1,180 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,180 Bells"
     },
     "Price (Sell)": {
       "text": "295 Bells",
@@ -667,16 +667,10 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,850 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,850 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "462 Bells"
     },
     "Source": {
       "text": "Timmy & Tommy",
@@ -696,13 +690,7 @@
       "text": "NH-Black-brick wall.png"
     },
     "Price (Buy)": {
-      "text": "1,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,000 Bells"
     },
     "Price (Sell)": {
       "text": "250 Bells",
@@ -731,16 +719,10 @@
       "text": "NH-Black-crown wall.png"
     },
     "Price (Buy)": {
-      "text": "2,350 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,350 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "587 Bells"
     },
     "Source": {
       "text": "Timmy & Tommy",
@@ -750,6 +732,40 @@
           "page": "Timmy & Tommy"
         }
       ]
+    }
+  },
+  {
+    "Name": {
+      "text": "Blackboard wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
+      "text": "Blue blossoming wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "1,760 Bells"
+    },
+    "Price (Sell)": {
+      "text": "440 Bells"
+    },
+    "Source": {
+      "text": ""
     }
   },
   {
@@ -789,16 +805,10 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,150 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,150 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "287 Bells"
     },
     "Source": {
       "text": "Timmy & Tommy",
@@ -818,13 +828,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,900 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,900 Bells"
     },
     "Price (Sell)": {
       "text": "475 Bells",
@@ -853,13 +857,7 @@
       "text": "NH-Blue desert-tile flooring.png"
     },
     "Price (Buy)": {
-      "text": "2,100 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,100 Bells"
     },
     "Price (Sell)": {
       "text": "525 Bells",
@@ -888,13 +886,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "2,440 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,440 Bells"
     },
     "Price (Sell)": {
       "text": "610 Bells",
@@ -923,13 +915,7 @@
       "text": "NH-Blue diner wall.png"
     },
     "Price (Buy)": {
-      "text": "2,420 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,420 Bells"
     },
     "Price (Sell)": {
       "text": "605 Bells",
@@ -958,13 +944,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "2,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,000 Bells"
     },
     "Price (Sell)": {
       "text": ""
@@ -990,13 +970,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,520 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,520 Bells"
     },
     "Price (Sell)": {
       "text": "380 Bells",
@@ -1025,13 +999,7 @@
       "text": "NH-Blue flower-print wall.png"
     },
     "Price (Buy)": {
-      "text": "1,780 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,780 Bells"
     },
     "Price (Sell)": {
       "text": "445 Bells",
@@ -1060,13 +1028,7 @@
       "text": "NH-Blue heart-pattern wall.png"
     },
     "Price (Buy)": {
-      "text": "1,280 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,280 Bells"
     },
     "Price (Sell)": {
       "text": "320 Bells",
@@ -1095,13 +1057,7 @@
       "text": "NH-Blue honeycomb-tile wall.png"
     },
     "Price (Buy)": {
-      "text": "1,680 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,680 Bells"
     },
     "Price (Sell)": {
       "text": "420 Bells",
@@ -1130,16 +1086,10 @@
       "text": "NH-Blue intricate wall.png"
     },
     "Price (Buy)": {
-      "text": "1,570 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,570 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "392 Bells"
     },
     "Source": {
       "text": "Timmy & Tommy",
@@ -1153,19 +1103,13 @@
   },
   {
     "Name": {
-      "text": "Blue molded-paint wall"
+      "text": "Blue molded-panel wall"
     },
     "Image": {
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,980 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,980 Bells"
     },
     "Price (Sell)": {
       "text": "495 Bells",
@@ -1194,13 +1138,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "900 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "900 Bells"
     },
     "Price (Sell)": {
       "text": "225 Bells",
@@ -1229,16 +1167,11 @@
       "text": "NH-Blue painted-wood wall.png"
     },
     "Price (Buy)": {
-      "text": "1,650 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,650 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "412",
+      "number": 412
     },
     "Source": {
       "text": "Timmy & Tommy",
@@ -1255,16 +1188,10 @@
       "text": "Blue playroom wall"
     },
     "Image": {
-      "text": "NH-Blue playroom wall.png"
+      "text": "NH-Blue_playroom_wall.jpg"
     },
     "Price (Buy)": {
-      "text": "2,540 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,540 Bells"
     },
     "Price (Sell)": {
       "text": "635 Bells",
@@ -1293,16 +1220,10 @@
       "text": "NH-Blue quilt wall.png"
     },
     "Price (Buy)": {
-      "text": "2,150 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,150 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "537 Bells"
     },
     "Source": {
       "text": "Timmy & Tommy",
@@ -1345,13 +1266,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "2,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,000 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -1371,19 +1286,47 @@
   },
   {
     "Name": {
+      "text": "Blue shanty wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "620 Bells"
+    },
+    "Price (Sell)": {
+      "text": "155 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
+      "text": "Blue simple-cloth wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "750 Bells"
+    },
+    "Price (Sell)": {
+      "text": "187 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Blue small round mat"
     },
     "Image": {
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,000 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -1438,13 +1381,7 @@
       "text": "NH-Blue tile wall.png"
     },
     "Price (Buy)": {
-      "text": "1,420 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,420 Bells"
     },
     "Price (Sell)": {
       "text": "355 Bells",
@@ -1467,22 +1404,16 @@
   },
   {
     "Name": {
-      "text": "Blue two-toned wall"
+      "text": "Blue two-toned tile wall"
     },
     "Image": {
       "text": "NH-Blue two-toned wall.png"
     },
     "Price (Buy)": {
-      "text": "1,850 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,850 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "462 Bells"
     },
     "Source": {
       "text": "Timmy & Tommy",
@@ -1502,13 +1433,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,500 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,500 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -1528,19 +1453,30 @@
   },
   {
     "Name": {
+      "text": "Blue-crown wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "2,350 Bells"
+    },
+    "Price (Sell)": {
+      "text": "597 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Blue-paint flooring"
     },
     "Image": {
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,040 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,040 Bells"
     },
     "Price (Sell)": {
       "text": "260 Bells",
@@ -1569,13 +1505,7 @@
       "text": "NH-Blue-paint wall.png"
     },
     "Price (Buy)": {
-      "text": "1,600 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,600 Bells"
     },
     "Price (Sell)": {
       "text": "400 Bells",
@@ -1604,13 +1534,7 @@
       "text": "NH-Blue-rose wall.png"
     },
     "Price (Buy)": {
-      "text": "1,720 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,720 Bells"
     },
     "Price (Sell)": {
       "text": "430 Bells",
@@ -1633,19 +1557,47 @@
   },
   {
     "Name": {
+      "text": "Blue-striped wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "1520 Bells"
+    },
+    "Price (Sell)": {
+      "text": "380 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
+      "text": "Botanical-tile wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "1,240 Bells"
+    },
+    "Price (Sell)": {
+      "text": "310 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Boxing-ring mat"
     },
     "Image": {
       "text": ""
     },
     "Price (Buy)": {
-      "text": "3,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "3,000 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -1668,13 +1620,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "2,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,000 Bells"
     },
     "Price (Sell)": {
       "text": ""
@@ -1694,13 +1640,7 @@
       "text": "NH-Brown argyle-tile flooring.jpg"
     },
     "Price (Buy)": {
-      "text": "1,440 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,440 Bells"
     },
     "Price (Sell)": {
       "text": "360 Bells",
@@ -1719,6 +1659,23 @@
           "page": "Timmy & Tommy"
         }
       ]
+    }
+  },
+  {
+    "Name": {
+      "text": "Brown botanical-tile wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "1,240 Bells"
+    },
+    "Price (Sell)": {
+      "text": "310 Bells"
+    },
+    "Source": {
+      "text": ""
     }
   },
   {
@@ -1758,13 +1715,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,520 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,520 Bells"
     },
     "Price (Sell)": {
       "text": "380 Bells",
@@ -1793,13 +1744,7 @@
       "text": "NH-Brown hallway wall.png"
     },
     "Price (Buy)": {
-      "text": "2,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,000 Bells"
     },
     "Price (Sell)": {
       "text": "500 Bells",
@@ -1831,7 +1776,7 @@
       "text": "N/A"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "1,800 Bells"
     },
     "Source": {
       "text": "DIY Recipes",
@@ -1851,13 +1796,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,420 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,420 Bells"
     },
     "Price (Sell)": {
       "text": "355 Bells",
@@ -1886,13 +1825,7 @@
       "text": "NH-Brown kitchen mat.png.png"
     },
     "Price (Buy)": {
-      "text": "1,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,000 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -1918,13 +1851,7 @@
       "text": "NH-Brown shanty wall.png"
     },
     "Price (Buy)": {
-      "text": "620 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "620 Bells"
     },
     "Price (Sell)": {
       "text": "155 Bells",
@@ -1953,13 +1880,7 @@
       "text": "NH-Brown wooden-deck-rug.png.png"
     },
     "Price (Buy)": {
-      "text": "1,500 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,500 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -2014,13 +1935,7 @@
       "text": "NH-Brown-brick wall.png"
     },
     "Price (Buy)": {
-      "text": "1,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,000 Bells"
     },
     "Price (Sell)": {
       "text": "250 Bells",
@@ -2049,16 +1964,10 @@
       "text": "NH-Brown-crown wall.png"
     },
     "Price (Buy)": {
-      "text": "2,350 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,350 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "587 Bells"
     },
     "Source": {
       "text": "Timmy & Tommy",
@@ -2075,36 +1984,13 @@
       "text": "Bunny Day flooring"
     },
     "Image": {
-      "text": "NH-Bunny Day flooring.png"
-    },
-    "Price (Buy)": {
-      "text": ""
-    },
-    "Price (Sell)": {
-      "text": "4,800 Bells"
-    },
-    "Source": {
-      "text": "DIY Recipes",
-      "links": [
-        {
-          "type": "internal",
-          "page": "DIY Recipes"
-        }
-      ]
-    }
-  },
-  {
-    "Name": {
-      "text": "Bunny Day flooring"
-    },
-    "Image": {
-      "text": ""
+      "text": "[[File:NH-Floors-Bunny_day_flooring.png]]"
     },
     "Price (Buy)": {
       "text": "N/A"
     },
     "Price (Sell)": {
-      "text": ""
+      "text": "4,800PC-icon-Bells-coin.png"
     },
     "Source": {
       "text": "DIY Recipes",
@@ -2173,16 +2059,50 @@
   },
   {
     "Name": {
+      "text": "Butterflies wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,360 Bells"
+    },
+    "Price (Sell)": {
+      "text": "840 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
+      "text": "Cabin wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "7,200 Bells"
+    },
+    "Price (Sell)": {
+      "text": "1,800 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Café-curtain wall"
     },
     "Image": {
       "text": ""
     },
     "Price (Buy)": {
-      "text": "N/A"
+      "text": "3,000 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "750 Bells"
     },
     "Source": {
       "text": "Saharah",
@@ -2202,16 +2122,10 @@
       "text": "NH-Camo wall.png"
     },
     "Price (Buy)": {
-      "text": "1,150 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,150 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "287 Bells"
     },
     "Source": {
       "text": "Timmy & Tommy",
@@ -2231,10 +2145,10 @@
       "text": "NH-Chain-link fence.png"
     },
     "Price (Buy)": {
-      "text": "N/A"
+      "text": "3,000 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "750 Bells"
     },
     "Source": {
       "text": "Saharah",
@@ -2248,6 +2162,23 @@
   },
   {
     "Name": {
+      "text": "Cherry wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "16,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "4,000 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Cherry-blossom-trees wall"
     },
     "Image": {
@@ -2257,7 +2188,7 @@
       "text": "N/A"
     },
     "Price (Sell)": {
-      "text": ""
+      "text": "4,600 Bells"
     },
     "Source": {
       "text": "DIY Recipes",
@@ -2271,19 +2202,13 @@
   },
   {
     "Name": {
-      "text": "Chic wall"
+      "text": "Chic Wall"
     },
     "Image": {
       "text": "NH-Chic wall.png"
     },
     "Price (Buy)": {
-      "text": "1,960 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,960 Bells"
     },
     "Price (Sell)": {
       "text": "490 Bells",
@@ -2306,16 +2231,73 @@
   },
   {
     "Name": {
+      "text": "Chic tearoom wall"
+    },
+    "Image": {
+      "text": "NH-Chic_tearoom_wall.jpg"
+    },
+    "Price (Buy)": {
+      "text": "1,750 Bells"
+    },
+    "Price (Sell)": {
+      "text": "437 Bells"
+    },
+    "Source": {
+      "text": "Timmy & Tommy",
+      "links": [
+        {
+          "type": "internal",
+          "page": "Timmy & Tommy"
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "text": "Chocolate hallway wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "2,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "500 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
+      "text": "Chocolate herringbone wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "7,200 Bells"
+    },
+    "Price (Sell)": {
+      "text": "1,800 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Circuit-board wall"
     },
     "Image": {
       "text": "NH-Circuit-board wall.png"
     },
     "Price (Buy)": {
-      "text": "N/A"
+      "text": "3,000 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "750 Bells"
     },
     "Source": {
       "text": "Saharah",
@@ -2329,19 +2311,47 @@
   },
   {
     "Name": {
+      "text": "Cityscape wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
+      "text": "Classic-library wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "5,800 Bells"
+    },
+    "Price (Sell)": {
+      "text": "1,450 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Colorful mosaic-tile flooring"
     },
     "Image": {
       "text": ""
     },
     "Price (Buy)": {
-      "text": "900 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "900 Bells"
     },
     "Price (Sell)": {
       "text": "225 Bells",
@@ -2370,13 +2380,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,450 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,450 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -2399,13 +2403,7 @@
       "text": "NH-Colorful puzzle wall.png"
     },
     "Price (Buy)": {
-      "text": "1,540 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,540 Bells"
     },
     "Price (Sell)": {
       "text": "385 Bells",
@@ -2434,13 +2432,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,620 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,620 Bells"
     },
     "Price (Sell)": {
       "text": "405 Bells",
@@ -2498,13 +2490,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "720 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "720 Bells"
     },
     "Price (Sell)": {
       "text": "180 Bells",
@@ -2562,13 +2548,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "820 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "820 Bells"
     },
     "Price (Sell)": {
       "text": "205 Bells",
@@ -2594,16 +2574,10 @@
       "text": "Concrete wall"
     },
     "Image": {
-      "text": "NH-Concrete wall.png"
+      "text": "NH-Concrete_wall.jpg"
     },
     "Price (Buy)": {
-      "text": "940 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "940 Bells"
     },
     "Price (Sell)": {
       "text": "235 Bells",
@@ -2626,19 +2600,30 @@
   },
   {
     "Name": {
+      "text": "Construction-site wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Cool vinyl flooring"
     },
     "Image": {
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,150 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,150 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -2661,13 +2646,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "2,200 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,200 Bells"
     },
     "Price (Sell)": {
       "text": "550 Bells",
@@ -2699,7 +2678,7 @@
       "text": "1,550 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "387 Bells"
     },
     "Source": {
       "text": "Timmy & Tommy",
@@ -2719,13 +2698,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,500 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,500 Bells"
     },
     "Price (Sell)": {
       "text": "375 Bells",
@@ -2748,19 +2721,30 @@
   },
   {
     "Name": {
+      "text": "Cute blue wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "1,880 Bells"
+    },
+    "Price (Sell)": {
+      "text": "470 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Cute blue-tile flooring"
     },
     "Image": {
       "text": "NH-Cute blue-tile flooring.jpg"
     },
     "Price (Buy)": {
-      "text": "780 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "780 Bells"
     },
     "Price (Sell)": {
       "text": "195 Bells",
@@ -2789,16 +2773,10 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,880 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,880 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "470 Bells"
     },
     "Source": {
       "text": "Timmy and Tommy",
@@ -2818,13 +2796,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "780 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "780 Bells"
     },
     "Price (Sell)": {
       "text": "195 Bells",
@@ -2853,13 +2825,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,880 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,880 Bells"
     },
     "Price (Sell)": {
       "text": "470 Bells",
@@ -2888,13 +2854,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "780 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "780 Bells"
     },
     "Price (Sell)": {
       "text": "195 Bells",
@@ -2923,13 +2883,7 @@
       "text": "NH-Cute yellow wall.png"
     },
     "Price (Buy)": {
-      "text": "1,880 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,880 Bells"
     },
     "Price (Sell)": {
       "text": "470 Bells",
@@ -2958,13 +2912,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "780 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "780 Bells"
     },
     "Price (Sell)": {
       "text": "195 Bells",
@@ -2993,13 +2941,7 @@
       "text": "NH-Cute-paint flooring.png"
     },
     "Price (Buy)": {
-      "text": "2,200 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,200 Bells"
     },
     "Price (Sell)": {
       "text": "550 Bells",
@@ -3028,13 +2970,7 @@
       "text": "NH-Dark herringbone flooring.jpg"
     },
     "Price (Buy)": {
-      "text": "1,200 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,200 Bells"
     },
     "Price (Sell)": {
       "text": "300 Bells",
@@ -3063,13 +2999,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,560 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,560 Bells"
     },
     "Price (Sell)": {
       "text": "390 Bells",
@@ -3098,13 +3028,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,500 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,500 Bells"
     },
     "Price (Sell)": {
       "text": "375 Bells",
@@ -3133,10 +3057,10 @@
       "text": "NH-Dark wooden-mosaic wall.png"
     },
     "Price (Buy)": {
-      "text": "*"
+      "text": "7,200 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "1,800 Bells"
     },
     "Source": {
       "text": "DIY Recipe"
@@ -3150,13 +3074,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,380 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,380 Bells"
     },
     "Price (Sell)": {
       "text": "345 Bells",
@@ -3179,16 +3097,50 @@
   },
   {
     "Name": {
+      "text": "Dark-chocolate wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
+      "text": "Desert vista"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Dig-site Wall"
     },
     "Image": {
       "text": "NH-Dig-site wall.png"
     },
     "Price (Buy)": {
-      "text": "N/A"
+      "text": "3,000 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "750 Bells"
     },
     "Source": {
       "text": "Saharah",
@@ -3202,19 +3154,81 @@
   },
   {
     "Name": {
+      "text": "Dirt-clod wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "200 Bells"
+    },
+    "Price (Sell)": {
+      "text": "50 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
+      "text": "Dojo wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
+      "text": "Dungeon wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
+      "text": "Exquisite wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Flagstone flooring"
     },
     "Image": {
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,700 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,700 Bells"
     },
     "Price (Sell)": {
       "text": "425 Bells",
@@ -3243,13 +3257,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,080 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,080 Bells"
     },
     "Price (Sell)": {
       "text": "270 Bells",
@@ -3272,19 +3280,30 @@
   },
   {
     "Name": {
+      "text": "Forest wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "176,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "44,000 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Fossil rug"
     },
     "Image": {
       "text": "NH-Fossil rug.png"
     },
     "Price (Buy)": {
-      "text": "1,500 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,500 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -3304,13 +3323,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "3,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "3,000 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -3327,16 +3340,33 @@
   },
   {
     "Name": {
-      "text": "Garbage-heap flooring"
+      "text": "Future-tech wall"
     },
     "Image": {
       "text": ""
     },
     "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
+      "text": "Garbage-heap flooring"
+    },
+    "Image": {
+      "text": "NH-Floors-Garbage-heap_flooring.png"
+    },
+    "Price (Buy)": {
       "text": "N/A"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "120PC-icon-Bells-coin.png"
     },
     "Source": {
       "text": "DIY Recipes",
@@ -3359,7 +3389,7 @@
       "text": "N/A"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "120 Bells"
     },
     "Source": {
       "text": "DIY Recipes",
@@ -3376,16 +3406,10 @@
       "text": "Giraffe-print flooring"
     },
     "Image": {
-      "text": "NH- Giraffe-print flooring.png"
+      "text": "[[File:NH-Floors-Giraffe-print_flooring.png]]"
     },
     "Price (Buy)": {
-      "text": "1,300 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,300 Bells"
     },
     "Price (Sell)": {
       "text": "325 Bells",
@@ -3408,19 +3432,30 @@
   },
   {
     "Name": {
+      "text": "Gold-screen wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "83,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "20,750 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Golden iron-parquet flooring"
     },
     "Image": {
       "text": ""
     },
     "Price (Buy)": {
-      "text": "2,350 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,350 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -3437,19 +3472,47 @@
   },
   {
     "Name": {
+      "text": "Golden wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "160,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "40,000 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
+      "text": "Gray diner wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "2,420 Bells"
+    },
+    "Price (Sell)": {
+      "text": "605 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Gray molded-panel wall"
     },
     "Image": {
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,980 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,980 Bells"
     },
     "Price (Sell)": {
       "text": "495 Bells",
@@ -3478,13 +3541,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "620 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "620 Bells"
     },
     "Price (Sell)": {
       "text": "155 Bells",
@@ -3513,13 +3570,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,150 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,150 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -3542,13 +3593,7 @@
       "text": "NH-Gray-striped wall.png"
     },
     "Price (Buy)": {
-      "text": "1,520 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,520 Bells"
     },
     "Price (Sell)": {
       "text": "380 Bells",
@@ -3577,13 +3622,7 @@
       "text": "NH-Green blossoming wall.png"
     },
     "Price (Buy)": {
-      "text": "1,760 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,760 Bells"
     },
     "Price (Sell)": {
       "text": "440 Bells",
@@ -3612,13 +3651,7 @@
       "text": "NH-Green checked rug.png"
     },
     "Price (Buy)": {
-      "text": "2,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,000 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -3702,13 +3735,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,420 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,420 Bells"
     },
     "Price (Sell)": {
       "text": "355 Bells",
@@ -3737,13 +3764,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,680 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,680 Bells"
     },
     "Price (Sell)": {
       "text": "420 Bells",
@@ -3766,19 +3787,30 @@
   },
   {
     "Name": {
+      "text": "Green intricate wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "1,570 Bells"
+    },
+    "Price (Sell)": {
+      "text": "392 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Green kilim-style carpet"
     },
     "Image": {
       "text": ""
     },
     "Price (Buy)": {
-      "text": "2,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,000 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -3804,13 +3836,7 @@
       "text": "*"
     },
     "Price (Buy)": {
-      "text": "1,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,000 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -3836,13 +3862,7 @@
       "text": "NH-Green molded-panel wall.png"
     },
     "Price (Buy)": {
-      "text": "1,980 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,980 Bells"
     },
     "Price (Sell)": {
       "text": "495 Bells",
@@ -3871,16 +3891,10 @@
       "text": "NH-Green painted-wood wall.png"
     },
     "Price (Buy)": {
-      "text": "1,650 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,650 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "412 Bells"
     },
     "Source": {
       "text": "Timmy & Tommy",
@@ -3900,13 +3914,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "2,540 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,540 Bells"
     },
     "Price (Sell)": {
       "text": "635 Bells",
@@ -3935,13 +3943,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,540 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,540 Bells"
     },
     "Price (Sell)": {
       "text": "385 Bells",
@@ -4022,13 +4024,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,600 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,600 Bells"
     },
     "Price (Sell)": {
       "text": "400 Bells",
@@ -4057,13 +4053,7 @@
       "text": "NH-Groovy wall.png"
     },
     "Price (Buy)": {
-      "text": "1,280 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,280 Bells"
     },
     "Price (Sell)": {
       "text": "320 Bells",
@@ -4124,80 +4114,13 @@
   },
   {
     "Name": {
-      "text": "Hammock"
-    },
-    "Image": {
-      "text": "NH-Hammock.png"
-    },
-    "Price (Buy)": {
-      "text": "1,300 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
-    },
-    "Price (Sell)": {
-      "text": "325 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
-    },
-    "Source": {
-      "text": "Timmy & Tommy",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Timmy & Tommy"
-        }
-      ]
-    },
-    "Variations": {
-      "text": "Wood: * black * brown * light brown * pink",
-      "formatting": {
-        "bold": [
-          "Wood:"
-        ]
-      }
-    },
-    "Customize?": {
-      "text": "Cloth: * Colorful * Camouflage * Hibiscus flowers * White * Custom Design",
-      "links": [
-        {
-          "text": "Custom Design",
-          "type": "internal",
-          "page": "Custom Designs"
-        }
-      ],
-      "formatting": {
-        "bold": [
-          "Cloth:"
-        ]
-      }
-    },
-    "Size": {
-      "text": "NH2.0x1.0sq.jpg"
-    }
-  },
-  {
-    "Name": {
       "text": "Hamster cage"
     },
     "Image": {
       "text": "NH-Hamster cage.png"
     },
     "Price (Buy)": {
-      "text": "870 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "870 Bells"
     },
     "Price (Sell)": {
       "text": "217 Bells",
@@ -4229,63 +4152,13 @@
   },
   {
     "Name": {
-      "text": "Handcart"
-    },
-    "Image": {
-      "text": "NH-Handcard.png"
-    },
-    "Price (Buy)": {
-      "text": "1,900 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
-    },
-    "Price (Sell)": {
-      "text": "475 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
-    },
-    "Source": {
-      "text": "Timmy & Tommy",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Timmy & Tommy"
-        }
-      ]
-    },
-    "Variations": {
-      "text": "brown*"
-    },
-    "Customize?": {
-      "text": "*"
-    },
-    "Size": {
-      "text": "*"
-    }
-  },
-  {
-    "Name": {
       "text": "Handy water cooler"
     },
     "Image": {
       "text": "NH-Handy water cooler.png"
     },
     "Price (Buy)": {
-      "text": "1,400 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,400 Bells"
     },
     "Price (Sell)": {
       "text": "350 Bells",
@@ -4323,13 +4196,7 @@
       "text": "NH-Harmonious wall.png"
     },
     "Price (Buy)": {
-      "text": "1,780 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,780 Bells"
     },
     "Price (Sell)": {
       "text": "445 Bells",
@@ -4352,74 +4219,13 @@
   },
   {
     "Name": {
-      "text": "Hay Bed"
-    },
-    "Image": {
-      "text": "NH-Hay bed.png"
-    },
-    "Price (Buy)": {
-      "text": "N/A"
-    },
-    "Price (Sell)": {
-      "text": "400 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
-    },
-    "Source": {
-      "text": "DIY Recipes",
-      "links": [
-        {
-          "type": "internal",
-          "page": "DIY Recipes"
-        }
-      ]
-    },
-    "Variations": {
-      "text": "Hay condition: * Brown * Pale green * Green",
-      "formatting": {
-        "bold": [
-          "Hay condition:"
-        ]
-      }
-    },
-    "Customize?": {
-      "text": "Hay Condition x customization kits",
-      "links": [
-        {
-          "text": "customization kits",
-          "type": "internal",
-          "page": "Customization Kits"
-        }
-      ],
-      "formatting": {
-        "italic": [
-          "Hay Condition"
-        ]
-      }
-    },
-    "Size": {
-      "text": "NH2.0x1.0sq.jpg"
-    }
-  },
-  {
-    "Name": {
       "text": "Heart doorplate"
     },
     "Image": {
       "text": "NH-Heart doorplate.png"
     },
     "Price (Buy)": {
-      "text": "600 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "600 Bells"
     },
     "Price (Sell)": {
       "text": "150 Bells",
@@ -4450,40 +4256,19 @@
   },
   {
     "Name": {
-      "text": "Hearth"
+      "text": "Heavy-curtain wall"
     },
     "Image": {
-      "text": "NH-Hearth.png"
+      "text": ""
     },
     "Price (Buy)": {
-      "text": "N/A"
+      "text": "3,000 Bells"
     },
     "Price (Sell)": {
-      "text": "5,470 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "750 Bells"
     },
     "Source": {
-      "text": "DIY Recipes",
-      "links": [
-        {
-          "type": "internal",
-          "page": "DIY Recipes"
-        }
-      ]
-    },
-    "Variations": {
-      "text": "N/A"
-    },
-    "Customize?": {
-      "text": "N/A"
-    },
-    "Size": {
-      "text": "NH2.0x2.0sq.jpg"
+      "text": ""
     }
   },
   {
@@ -4533,13 +4318,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "860 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "860 Bells"
     },
     "Price (Sell)": {
       "text": "215 Bells",
@@ -4568,13 +4347,7 @@
       "text": "NH-High-end_stereo.png"
     },
     "Price (Buy)": {
-      "text": "10,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "10,000 Bells"
     },
     "Price (Sell)": {
       "text": "2,500 Bells"
@@ -4623,13 +4396,7 @@
       "text": "NH-Homeword set.png"
     },
     "Price (Buy)": {
-      "text": "330 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "330 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -4655,19 +4422,47 @@
   },
   {
     "Name": {
+      "text": "Honeycomb wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "14,400 Bells"
+    },
+    "Price (Sell)": {
+      "text": "3,600 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
+      "text": "Honeycomb-tile wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "1,680 Bells"
+    },
+    "Price (Sell)": {
+      "text": "420 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Hose reel"
     },
     "Image": {
       "text": "NH-Hose reel.png"
     },
     "Price (Buy)": {
-      "text": "1,400 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,400 Bells"
     },
     "Price (Sell)": {
       "text": "350 Bells",
@@ -4705,13 +4500,7 @@
       "text": "NH-Hourglass.png"
     },
     "Price (Buy)": {
-      "text": "660 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "660 Bells"
     },
     "Price (Sell)": {
       "text": "165",
@@ -4785,13 +4574,7 @@
       "text": "NH-Humidifier.png"
     },
     "Price (Buy)": {
-      "text": "1,400 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,400 Bells"
     },
     "Price (Sell)": {
       "text": "350 Bells",
@@ -4887,19 +4670,47 @@
   },
   {
     "Name": {
+      "text": "Ice wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "32,800 Bells"
+    },
+    "Price (Sell)": {
+      "text": "8,200 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
+      "text": "Iceberg wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "16,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "4,000 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Imperial bed"
     },
     "Image": {
       "text": "NH-Imperial bed.png"
     },
     "Price (Buy)": {
-      "text": "23,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "23,000 Bells"
     },
     "Price (Sell)": {
       "text": "5,750 Bells",
@@ -4942,13 +4753,7 @@
       "text": "NH-Imperial_chest.png"
     },
     "Price (Buy)": {
-      "text": "9,300 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "9,300 Bells"
     },
     "Price (Sell)": {
       "text": "2,325 Bells",
@@ -4991,13 +4796,7 @@
       "text": "NH-Imperial decorative shelves.png"
     },
     "Price (Buy)": {
-      "text": "8,500 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "8,500 Bells"
     },
     "Price (Sell)": {
       "text": "2,125 Bells",
@@ -5083,13 +4882,7 @@
       "text": "NH-Imperial partition.png"
     },
     "Price (Buy)": {
-      "text": "5,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "5,000 Bells"
     },
     "Price (Sell)": {
       "text": "1,250 Bells",
@@ -5126,19 +4919,30 @@
   },
   {
     "Name": {
+      "text": "Imperial wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Incense burner"
     },
     "Image": {
       "text": "NH-Incense burner.png"
     },
     "Price (Buy)": {
-      "text": "880 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "880 Bells"
     },
     "Price (Sell)": {
       "text": "220 Bells",
@@ -5170,19 +4974,30 @@
   },
   {
     "Name": {
+      "text": "Industrial wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Inflatable sofa"
     },
     "Image": {
       "text": "NH-Inflatable sofa.png"
     },
     "Price (Buy)": {
-      "text": "1,100 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,100 Bells"
     },
     "Price (Sell)": {
       "text": "275 Bells",
@@ -5750,13 +5565,7 @@
       "text": "NH-Ironing board.png"
     },
     "Price (Buy)": {
-      "text": "2,300 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,300 Bells"
     },
     "Price (Sell)": {
       "text": "575 Bells",
@@ -5809,13 +5618,7 @@
       "text": "NH-Ironing set.png"
     },
     "Price (Buy)": {
-      "text": "820 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "820 Bells"
     },
     "Price (Sell)": {
       "text": "205 Bells",
@@ -6368,13 +6171,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,500 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,500 Bells"
     },
     "Price (Sell)": {
       "text": ""
@@ -6400,13 +6197,7 @@
       "text": "*"
     },
     "Price (Buy)": {
-      "text": "1,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,000 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -6426,13 +6217,7 @@
       "text": "*"
     },
     "Price (Buy)": {
-      "text": "1,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,000 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -6447,6 +6232,23 @@
       ]
     },
     "Size": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
+      "text": "Ivy wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
       "text": ""
     }
   },
@@ -6495,19 +6297,30 @@
   },
   {
     "Name": {
+      "text": "Jingle wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "10,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "2,500 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Jointed-mat flooring"
     },
     "Image": {
       "text": "NH-Jointed-mat flooring.jpg"
     },
     "Price (Buy)": {
-      "text": "1,050 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,050 Bells"
     },
     "Price (Sell)": {
       "text": "262 Bells",
@@ -6536,13 +6349,7 @@
       "text": "NH-Judge's bell.png"
     },
     "Price (Buy)": {
-      "text": "920 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "920 Bells"
     },
     "Price (Sell)": {
       "text": "230 Bells",
@@ -6632,13 +6439,7 @@
       "text": "NH-Jukebox.png"
     },
     "Price (Buy)": {
-      "text": "5,600 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "5,600 Bells"
     },
     "Price (Sell)": {
       "text": "1,400 Bells",
@@ -6666,6 +6467,23 @@
     },
     "Size": {
       "text": "NH1.0x1.0sq.jpg"
+    }
+  },
+  {
+    "Name": {
+      "text": "Jungle wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "5,520 Bells"
+    },
+    "Price (Sell)": {
+      "text": "1,380 Bells"
+    },
+    "Source": {
+      "text": ""
     }
   },
   {
@@ -6713,13 +6531,7 @@
       "text": "NH-Kettle.png"
     },
     "Price (Buy)": {
-      "text": "710 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "710 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -6820,13 +6632,7 @@
       "text": "NH-Kimono stand.png"
     },
     "Price (Buy)": {
-      "text": "3,200 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "3,200 Bells"
     },
     "Price (Sell)": {
       "text": "800 Bells",
@@ -6850,7 +6656,7 @@
       "text": "N/A"
     },
     "Customize?": {
-      "text": "Kimono: * Checkered * Goldfish * Chain Print * Custom Design 2x customization kits",
+      "text": "Kimono: * Checkered * Goldfish * Camellia * Chain Print * Custom Design 2x customization kits",
       "links": [
         {
           "text": "Custom Design",
@@ -6878,19 +6684,30 @@
   },
   {
     "Name": {
+      "text": "Kisses wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Kitschy tile"
     },
     "Image": {
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,280 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,280 Bells"
     },
     "Price (Sell)": {
       "text": "320 Bells",
@@ -6919,13 +6736,7 @@
       "text": "NH-Kitty litter box.png"
     },
     "Price (Buy)": {
-      "text": "1,100 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,100 Bells"
     },
     "Price (Sell)": {
       "text": "275 Bells",
@@ -6968,13 +6779,7 @@
       "text": "NH-Knife block.png"
     },
     "Price (Buy)": {
-      "text": "1,200 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,200 Bells"
     },
     "Price (Sell)": {
       "text": "300 Bells",
@@ -7012,13 +6817,7 @@
       "text": "NH-Kotatsu.png"
     },
     "Price (Buy)": {
-      "text": "3,700 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "3,700 Bells"
     },
     "Price (Sell)": {
       "text": "925 Bells",
@@ -7081,13 +6880,7 @@
       "text": "NH-Lab-experiments set.png"
     },
     "Price (Buy)": {
-      "text": "6,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "6,000 Bells"
     },
     "Price (Sell)": {
       "text": "1,500 Bells",
@@ -7119,19 +6912,30 @@
   },
   {
     "Name": {
+      "text": "Laboratory wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Lantern"
     },
     "Image": {
       "text": "NH-Lantern.png"
     },
     "Price (Buy)": {
-      "text": "1,900 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,900 Bells"
     },
     "Price (Sell)": {
       "text": "475 Bells",
@@ -7210,13 +7014,7 @@
       "text": "NH-Lattice wall.png"
     },
     "Price (Buy)": {
-      "text": "1,780 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,780 Bells"
     },
     "Price (Sell)": {
       "text": "445 Bells",
@@ -7245,13 +7043,7 @@
       "text": "NH-Lawn chair.png"
     },
     "Price (Buy)": {
-      "text": "760 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "760 Bells"
     },
     "Price (Sell)": {
       "text": "190 Bells",
@@ -7294,13 +7086,7 @@
       "text": "NH-Lawn mower.png"
     },
     "Price (Buy)": {
-      "text": "2,900 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,900 Bells"
     },
     "Price (Sell)": {
       "text": "725 Bells",
@@ -7343,13 +7129,7 @@
       "text": "NH-Lecture-hall bench.png"
     },
     "Price (Buy)": {
-      "text": "3,300 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "3,300 Bells"
     },
     "Price (Sell)": {
       "text": "825 Bells",
@@ -7392,13 +7172,7 @@
       "text": "NH-Lecture-hall desk.png"
     },
     "Price (Buy)": {
-      "text": "2,500 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,500 Bells"
     },
     "Price (Sell)": {
       "text": "625 Bells",
@@ -7441,13 +7215,7 @@
       "text": "NH-Life ring.png"
     },
     "Price (Buy)": {
-      "text": "360 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "360 Bells"
     },
     "Price (Sell)": {
       "text": "90 Bells",
@@ -7485,13 +7253,7 @@
       "text": "NH-Lifeguard chair.png"
     },
     "Price (Buy)": {
-      "text": "1,000 Nook Miles",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Nook Miles"
-        }
-      ]
+      "text": "1,000 Nook Miles"
     },
     "Price (Sell)": {
       "text": "250 Bells",
@@ -7560,13 +7322,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,200 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,200 Bells"
     },
     "Price (Sell)": {
       "text": "300 Bells",
@@ -7595,13 +7351,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,560 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,560 Bells"
     },
     "Price (Sell)": {
       "text": "390 Bells",
@@ -7630,13 +7380,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,500 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,500 Bells"
     },
     "Price (Sell)": {
       "text": "375 Bells",
@@ -7665,13 +7409,7 @@
       "text": "NH-Lighthouse.png"
     },
     "Price (Buy)": {
-      "text": "5,000 Nook Miles",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Nook Miles"
-        }
-      ]
+      "text": "5,000 Nook Miles"
     },
     "Price (Sell)": {
       "text": "*"
@@ -7778,13 +7516,7 @@
       "text": "NH-Loft bed with desk.png"
     },
     "Price (Buy)": {
-      "text": "7,700 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "7,700 Bells"
     },
     "Price (Sell)": {
       "text": "1,925 Bells",
@@ -8471,13 +8203,7 @@
       "text": "NH-Long bathtub.png"
     },
     "Price (Buy)": {
-      "text": "7,800 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "7,800 Bells"
     },
     "Price (Sell)": {
       "text": "1,950 Bells",
@@ -8520,13 +8246,7 @@
       "text": "NH-Loom.png"
     },
     "Price (Buy)": {
-      "text": "13,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "13,000 Bells"
     },
     "Price (Sell)": {
       "text": "3,250 Bells",
@@ -8559,13 +8279,7 @@
       "text": "NH-Low screen.png"
     },
     "Price (Buy)": {
-      "text": "870 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "870 Bells"
     },
     "Price (Sell)": {
       "text": "217 Bells",
@@ -8776,13 +8490,7 @@
       "text": "NH-Macrame tapestry.png"
     },
     "Price (Buy)": {
-      "text": "840 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "840 Bells"
     },
     "Price (Sell)": {
       "text": "210 Bells",
@@ -8825,13 +8533,7 @@
       "text": "NH-Magazine.png"
     },
     "Price (Buy)": {
-      "text": "210 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "210 Bells"
     },
     "Price (Sell)": {
       "text": "52 Bells",
@@ -8881,13 +8583,7 @@
       "text": "NH-Magic kit.png"
     },
     "Price (Buy)": {
-      "text": "980 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "980 Bells"
     },
     "Price (Sell)": {
       "text": "245 Bells",
@@ -8930,13 +8626,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,500 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,500 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -8956,19 +8646,30 @@
   },
   {
     "Name": {
+      "text": "Magma-cavern wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Magnetic knife rack"
     },
     "Image": {
       "text": "NH-Magnetic knife rack.png"
     },
     "Price (Buy)": {
-      "text": "1,400 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,400 Bells"
     },
     "Price (Sell)": {
       "text": "350 Bells"
@@ -9000,13 +8701,7 @@
       "text": "NH-Mama bear.png"
     },
     "Price (Buy)": {
-      "text": "2,300 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,300 Bells"
     },
     "Price (Sell)": {
       "text": "575 Bells",
@@ -9069,13 +8764,7 @@
       "text": "NH-Mama panda.png"
     },
     "Price (Buy)": {
-      "text": "3,500 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "3,500 Bells"
     },
     "Price (Sell)": {
       "text": "875",
@@ -9115,22 +8804,33 @@
   },
   {
     "Name": {
+      "text": "Manga-lirary wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "4,200 Bells"
+    },
+    "Price (Sell)": {
+      "text": "1,050 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Mangrove wall"
     },
     "Image": {
       "text": "NH-Mangrove wall.png"
     },
     "Price (Buy)": {
-      "text": "3,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "3,000 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "750 Bells"
     },
     "Source": {
       "text": "Saharah",
@@ -9183,13 +8883,7 @@
       "text": "NH-Mantis-head model.png"
     },
     "Price (Buy)": {
-      "text": "1,500 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,500 Bells"
     },
     "Price (Sell)": {
       "text": "375 Bells",
@@ -9227,13 +8921,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "2,020 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,020 Bells"
     },
     "Price (Sell)": {
       "text": "505 Bells",
@@ -9252,6 +8940,23 @@
           "page": "Timmy & Tommy"
         }
       ]
+    }
+  },
+  {
+    "Name": {
+      "text": "Marine pop wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,220 Bells"
+    },
+    "Price (Sell)": {
+      "text": "805 Bells"
+    },
+    "Source": {
+      "text": ""
     }
   },
   {
@@ -9293,19 +8998,30 @@
   },
   {
     "Name": {
+      "text": "Meadow vista"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Metal can"
     },
     "Image": {
       "text": "NH-Metal can.png"
     },
     "Price (Buy)": {
-      "text": "600 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "600 Bells"
     },
     "Price (Sell)": {
       "text": "150 Bells",
@@ -9343,13 +9059,7 @@
       "text": "NH-Metronome.png"
     },
     "Price (Buy)": {
-      "text": "1,300 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,300 Bells"
     },
     "Price (Sell)": {
       "text": "325 Bells",
@@ -9392,13 +9102,7 @@
       "text": "NH-Microscope.png"
     },
     "Price (Buy)": {
-      "text": "3,100 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "3,100 Bells"
     },
     "Price (Sell)": {
       "text": "775 Bells",
@@ -9441,13 +9145,7 @@
       "text": "NH-Microwave.png"
     },
     "Price (Buy)": {
-      "text": "3,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "3,000 Bells"
     },
     "Price (Sell)": {
       "text": "750 Bells",
@@ -9490,13 +9188,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "800 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "800 Bells"
     },
     "Price (Sell)": {
       "text": "200 Bells",
@@ -9525,13 +9217,7 @@
       "text": "NH-Mini-cactus set.png"
     },
     "Price (Buy)": {
-      "text": "400 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "400 Bells"
     },
     "Price (Sell)": {
       "text": "100 Bells",
@@ -9563,19 +9249,30 @@
   },
   {
     "Name": {
+      "text": "Misty-garden wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Mixer"
     },
     "Image": {
       "text": "NH-Mixer.png"
     },
     "Price (Buy)": {
-      "text": "1,400 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,400 Bells"
     },
     "Price (Sell)": {
       "text": "350 Bells",
@@ -9618,13 +9315,7 @@
       "text": "NH-Mobile.png"
     },
     "Price (Buy)": {
-      "text": "780 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "780 Bells"
     },
     "Price (Sell)": {
       "text": "195 Bells",
@@ -9656,22 +9347,33 @@
   },
   {
     "Name": {
+      "text": "Mod wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "1,220 Bells"
+    },
+    "Price (Sell)": {
+      "text": "305 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Modern shoji-screen wall"
     },
     "Image": {
       "text": "NH-Modern shoji-screen wall.png"
     },
     "Price (Buy)": {
-      "text": "1,150 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,150 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "287 Bells"
     },
     "Source": {
       "text": "Timmy & Tommy",
@@ -9691,16 +9393,10 @@
       "text": "NH-Modern tearoom wall.png"
     },
     "Price (Buy)": {
-      "text": "1,750 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,750 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "437 Bells"
     },
     "Source": {
       "text": "Timmy & Tommy",
@@ -9720,13 +9416,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,280 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,280 Bells"
     },
     "Price (Sell)": {
       "text": "320 Bells",
@@ -9784,13 +9474,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "800 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "800 Bells"
     },
     "Price (Sell)": {
       "text": "200 Bells",
@@ -9819,13 +9503,7 @@
       "text": "NH-Monochromatic dotted rug.png.png"
     },
     "Price (Buy)": {
-      "text": "2,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,000 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -9845,19 +9523,19 @@
   },
   {
     "Name": {
+      "text": "Monochromatic dotted wall"
+    },
+    "Price (Buy)": {}
+  },
+  {
+    "Name": {
       "text": "Monochromatic tile flooring"
     },
     "Image": {
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,620 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,620 Bells"
     },
     "Price (Sell)": {
       "text": "405 Bells",
@@ -9880,19 +9558,13 @@
   },
   {
     "Name": {
-      "text": "Monochromatic tile wall"
+      "text": "Monochromatic-tile wall"
     },
     "Image": {
       "text": "NH-Monochromatic tile wall.png"
     },
     "Price (Buy)": {
-      "text": "1,420 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,420 Bells"
     },
     "Price (Sell)": {
       "text": "355 Bells",
@@ -9915,19 +9587,47 @@
   },
   {
     "Name": {
+      "text": "Mortar wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
+      "text": "Mosaic-tile wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "1,450 Bells"
+    },
+    "Price (Sell)": {
+      "text": "362 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Moss ball"
     },
     "Image": {
       "text": "NH-Moss ball.png"
     },
     "Price (Buy)": {
-      "text": "720 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "720 Bells"
     },
     "Price (Sell)": {
       "text": "180 Bells",
@@ -9959,19 +9659,30 @@
   },
   {
     "Name": {
+      "text": "Mossy-garden wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Mounted blue marlin"
     },
     "Image": {
       "text": "NH-Mounted blue marlin.png"
     },
     "Price (Buy)": {
-      "text": "5,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "5,000 Bells"
     },
     "Price (Sell)": {
       "text": "1,250 Bells",
@@ -10009,13 +9720,7 @@
       "text": "NH-Mug.png"
     },
     "Price (Buy)": {
-      "text": "460 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "460 Bells"
     },
     "Price (Sell)": {
       "text": "115 Bells",
@@ -10142,19 +9847,30 @@
   },
   {
     "Name": {
+      "text": "Mush wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "85,600 Bells"
+    },
+    "Price (Sell)": {
+      "text": "21,400 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Nail art set"
     },
     "Image": {
       "text": "NH-Nail art set.png"
     },
     "Price (Buy)": {
-      "text": "1,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,000 Bells"
     },
     "Price (Sell)": {
       "text": "250 Bells",
@@ -10192,13 +9908,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,380 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,380 Bells"
     },
     "Price (Sell)": {
       "text": "345 Bells",
@@ -10227,13 +9937,7 @@
       "text": "NH-Neutral corner.png"
     },
     "Price (Buy)": {
-      "text": "6,100 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "6,100 Bells"
     },
     "Price (Sell)": {
       "text": "1,525 Bells",
@@ -10277,13 +9981,7 @@
       "text": "NH-Newton's cradle.png"
     },
     "Price (Buy)": {
-      "text": "1,300 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,300 Bells"
     },
     "Price (Sell)": {
       "text": "325 Bells",
@@ -10321,13 +10019,7 @@
       "text": "NH-Nintendo Switch.png"
     },
     "Price (Buy)": {
-      "text": "29,980 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "29,980 Bells"
     },
     "Price (Sell)": {
       "text": "7,495 Bells",
@@ -10382,13 +10074,7 @@
       "text": "NH-Nook Inc. botanical rug.png"
     },
     "Price (Buy)": {
-      "text": "1,000 Nook Miles",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Nook Miles"
-        }
-      ]
+      "text": "1,000 Nook Miles"
     },
     "Price (Sell)": {
       "text": "*"
@@ -10414,13 +10100,7 @@
       "text": "NH-Nook Inc. flooring.jpg"
     },
     "Price (Buy)": {
-      "text": "1,200 Nook Miles",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Nook Miles"
-        }
-      ]
+      "text": "1,200 Nook Miles"
     },
     "Price (Sell)": {
       "text": "6,000 Bells",
@@ -10449,13 +10129,7 @@
       "text": "NH-Nook Inc. rug.png"
     },
     "Price (Buy)": {
-      "text": "1,000 Nook Miles",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Nook Miles"
-        }
-      ]
+      "text": "1,000 Nook Miles"
     },
     "Price (Sell)": {
       "text": "*"
@@ -10481,13 +10155,7 @@
       "text": "NH-Nook Inc. silk rug.png"
     },
     "Price (Buy)": {
-      "text": "600 Nook Miles",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Nook Miles"
-        }
-      ]
+      "text": "600 Nook Miles"
     },
     "Price (Sell)": {
       "text": "*"
@@ -10503,6 +10171,23 @@
     },
     "Size": {
       "text": "*"
+    }
+  },
+  {
+    "Name": {
+      "text": "Nook Inc. wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "24,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "6,000 Bells"
+    },
+    "Source": {
+      "text": ""
     }
   },
   {
@@ -10530,19 +10215,30 @@
   },
   {
     "Name": {
+      "text": "Ocean-horizon wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Office desk"
     },
     "Image": {
       "text": "NH-Office desk.png"
     },
     "Price (Buy)": {
-      "text": "3,600 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "3,600 Bells"
     },
     "Price (Sell)": {
       "text": "900 Bells",
@@ -10574,19 +10270,30 @@
   },
   {
     "Name": {
+      "text": "Office wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Oil Lamp"
     },
     "Image": {
       "text": "NH-Oil lamp.png"
     },
     "Price (Buy)": {
-      "text": "400 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "400 Bells"
     },
     "Price (Sell)": {
       "text": "100 Bells",
@@ -10624,13 +10331,7 @@
       "text": "NH-Oil barrel.png"
     },
     "Price (Buy)": {
-      "text": "650 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "650 Bells"
     },
     "Price (Sell)": {
       "text": "162 Bells",
@@ -10651,7 +10352,7 @@
       ]
     },
     "Variations": {
-      "text": "* Light Green * Green * Red Orange * Blue * Damaged"
+      "text": "* Light Green * Green * Red * Orange * Blue * Caution * Damaged"
     },
     "Customize?": {
       "text": "*"
@@ -10668,13 +10369,7 @@
       "text": "NH-Old sewing machine.png"
     },
     "Price (Buy)": {
-      "text": "2,200 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,200 Bells"
     },
     "Price (Sell)": {
       "text": "550 Bells",
@@ -10712,13 +10407,7 @@
       "text": "NH-Old wallpaper.png"
     },
     "Price (Buy)": {
-      "text": "200 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "200 Bells"
     },
     "Price (Sell)": {
       "text": "50 Bells",
@@ -10747,13 +10436,7 @@
       "text": "NH-Old-fashioned alarm clock.png"
     },
     "Price (Buy)": {
-      "text": "1,200 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,200 Bells"
     },
     "Price (Sell)": {
       "text": "300 Bells",
@@ -10829,13 +10512,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "2,100 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,100 Bells"
     },
     "Price (Sell)": {
       "text": "525 Bells",
@@ -10858,19 +10535,30 @@
   },
   {
     "Name": {
+      "text": "Olive desert-tile wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "2,440 Bells"
+    },
+    "Price (Sell)": {
+      "text": "610 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Orange camo flooring"
     },
     "Image": {
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,320 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,320 Bells"
     },
     "Price (Sell)": {
       "text": "330 Bells",
@@ -10889,6 +10577,23 @@
           "page": "Timmy & Tommy"
         }
       ]
+    }
+  },
+  {
+    "Name": {
+      "text": "Orange camo wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "1,550 Bells"
+    },
+    "Price (Sell)": {
+      "text": "287 Bells"
+    },
+    "Source": {
+      "text": ""
     }
   },
   {
@@ -10949,13 +10654,7 @@
       "text": "NH-Orange molded-panel wall.png"
     },
     "Price (Buy)": {
-      "text": "1,980 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,980 Bells"
     },
     "Price (Sell)": {
       "text": "495 Bells",
@@ -10984,13 +10683,7 @@
       "text": "NH- Orange retro flooring.png"
     },
     "Price (Buy)": {
-      "text": "1,540 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,540 Bells"
     },
     "Price (Sell)": {
       "text": "385 Bells",
@@ -11009,6 +10702,23 @@
           "page": "Timmy & Tommy"
         }
       ]
+    }
+  },
+  {
+    "Name": {
+      "text": "Orange wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "16,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "4,000 Bells"
+    },
+    "Source": {
+      "text": ""
     }
   },
   {
@@ -11077,13 +10787,7 @@
       "text": "NH-Orange-paint wall.png"
     },
     "Price (Buy)": {
-      "text": "1,600 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,600 Bells"
     },
     "Price (Sell)": {
       "text": "400 Bells",
@@ -11161,13 +10865,7 @@
       "text": "NH-Outdoor air conditioner.png"
     },
     "Price (Buy)": {
-      "text": "2,200 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,200 Bells"
     },
     "Price (Sell)": {
       "text": "550 Bells",
@@ -11263,13 +10961,7 @@
       "text": "NH-Outdoor bench.png"
     },
     "Price (Buy)": {
-      "text": "1,300 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,300 Bells"
     },
     "Price (Sell)": {
       "text": "325 Bells",
@@ -11332,13 +11024,7 @@
       "text": "NH-Outdoor generator.png"
     },
     "Price (Buy)": {
-      "text": "4,900 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "4,900 Bells"
     },
     "Price (Sell)": {
       "text": "1,225 Bells",
@@ -11376,13 +11062,7 @@
       "text": "NH-Outdoor table.png"
     },
     "Price (Buy)": {
-      "text": "2,200 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,200 Bells"
     },
     "Price (Sell)": {
       "text": "550 Bells",
@@ -11460,13 +11140,7 @@
       "text": "NH-Paintball flooring.jpg"
     },
     "Price (Buy)": {
-      "text": "3,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "3,000 Bells"
     },
     "Price (Sell)": {
       "text": "750 Bells",
@@ -11489,19 +11163,30 @@
   },
   {
     "Name": {
+      "text": "Paintball wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Painting Set"
     },
     "Image": {
       "text": ""
     },
     "Price (Buy)": {
-      "text": "510 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "510 Bells"
     },
     "Price (Sell)": {
       "text": "130 Bells",
@@ -11558,13 +11243,36 @@
       "text": "Palace tile"
     },
     "Image": {
-      "text": ""
+      "text": "[[File:NH-Floors-Palace_tile.png]]"
     },
     "Price (Buy)": {
       "text": "*"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "750PC-icon-Bells-coin.png"
+    },
+    "Source": {
+      "text": "Saharah",
+      "links": [
+        {
+          "type": "internal",
+          "page": "Saharah"
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "text": "Palace wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
     },
     "Source": {
       "text": ""
@@ -11723,19 +11431,35 @@
       "text": "NH-Pants press.png"
     },
     "Price (Buy)": {
-      "text": "*"
+      "text": "1900 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "475 Bells",
+      "links": [
+        {
+          "type": "internal",
+          "page": "Bells"
+        }
+      ]
     },
     "Source": {
-      "text": "*"
+      "text": "Timmy & Tommy, Wisp*",
+      "links": [
+        {
+          "type": "internal",
+          "page": "Timmy & Tommy"
+        },
+        {
+          "type": "internal",
+          "page": "Wisp"
+        }
+      ]
     },
     "Variations": {
-      "text": "**: * * * * * *",
+      "text": "*Color*: * Black * ❔ * ❔",
       "formatting": {
         "bold": [
-          "**:"
+          "*Color*:"
         ]
       }
     },
@@ -11811,13 +11535,7 @@
       "text": "NH-Papa_panda.png"
     },
     "Price (Buy)": {
-      "text": "8,500 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "8,500 Bells"
     },
     "Price (Sell)": {
       "text": "2,125 Bells",
@@ -11855,13 +11573,7 @@
       "text": "NH-Paper lantern.png"
     },
     "Price (Buy)": {
-      "text": "780 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "780 Bells"
     },
     "Price (Sell)": {
       "text": "195 Bells",
@@ -11929,13 +11641,7 @@
       "text": "NH-Paper tiger.png"
     },
     "Price (Buy)": {
-      "text": "1,500 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,500 Bells"
     },
     "Price (Sell)": {
       "text": "375 Bells",
@@ -11967,13 +11673,7 @@
       "text": "NH-Parabolic antenna.png"
     },
     "Price (Buy)": {
-      "text": "4,000 Nook Miles",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Nook Miles"
-        }
-      ]
+      "text": "4,000 Nook Miles"
     },
     "Price (Sell)": {
       "text": "*"
@@ -11994,7 +11694,7 @@
       "text": "*"
     },
     "Size": {
-      "text": "*"
+      "text": "NH3.0x3.0sq.jpg"
     }
   },
   {
@@ -12005,13 +11705,7 @@
       "text": "NH-Park clock.png"
     },
     "Price (Buy)": {
-      "text": "2,400 Nook Miles",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Nook Miles"
-        }
-      ]
+      "text": "2,400 Nook Miles"
     },
     "Price (Sell)": {
       "text": "*"
@@ -12048,13 +11742,7 @@
       "text": "NH-Parking flooring.jpg"
     },
     "Price (Buy)": {
-      "text": "3,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "3,000 Bells"
     },
     "Price (Sell)": {
       "text": "750 Bells",
@@ -12083,13 +11771,7 @@
       "text": "NH-Party garland.png"
     },
     "Price (Buy)": {
-      "text": "650 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "650 Bells"
     },
     "Price (Sell)": {
       "text": "162 Bells",
@@ -12126,19 +11808,30 @@
   },
   {
     "Name": {
+      "text": "Party wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "1,480 Bells"
+    },
+    "Price (Sell)": {
+      "text": "370 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Pastel dotted wall"
     },
     "Image": {
       "text": "NH-Pastel dotted wall.png"
     },
     "Price (Buy)": {
-      "text": "1,100 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,100 Bells"
     },
     "Price (Sell)": {
       "text": "275 Bells",
@@ -12167,13 +11860,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,450 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,450 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -12196,13 +11883,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,540 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,540 Bells"
     },
     "Price (Sell)": {
       "text": "385 Bells",
@@ -12231,13 +11912,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "2,100 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,100 Bells"
     },
     "Price (Sell)": {
       "text": "525 Bells",
@@ -12363,13 +12038,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,850 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,850 Bells"
     },
     "Price (Sell)": {
       "text": "462 Bells",
@@ -12392,19 +12061,47 @@
   },
   {
     "Name": {
+      "text": "Peach wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "16,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "4,000 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
+      "text": "Pear wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "16,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "4,000 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Pedal board"
     },
     "Image": {
       "text": "NH-Pedal board.png"
     },
     "Price (Buy)": {
-      "text": "1,400 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,400 Bells"
     },
     "Price (Sell)": {
       "text": "350 Bells",
@@ -12442,13 +12139,7 @@
       "text": "NH-Pendulum clock.png"
     },
     "Price (Buy)": {
-      "text": "1,900 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,900 Bells"
     },
     "Price (Sell)": {
       "text": "475 Bells",
@@ -12493,13 +12184,7 @@
       ]
     },
     "Price (Buy)": {
-      "text": "1,300 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,300 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -12525,19 +12210,30 @@
   },
   {
     "Name": {
+      "text": "Perforated-board wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "1,880 Bells"
+    },
+    "Price (Sell)": {
+      "text": "296 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Pet bed"
     },
     "Image": {
       "text": "NH-Pet bed.png"
     },
     "Price (Buy)": {
-      "text": "1,100 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,100 Bells"
     },
     "Price (Sell)": {
       "text": "275 Bells",
@@ -12595,13 +12291,7 @@
       "text": "NH-Pet food bowl.png"
     },
     "Price (Buy)": {
-      "text": "830 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "830 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -12632,13 +12322,7 @@
       "text": "NH-Phone box.png"
     },
     "Price (Buy)": {
-      "text": "2,400 Nook Miles",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Nook Miles"
-        }
-      ]
+      "text": "2,400 Nook Miles"
     },
     "Price (Sell)": {
       "text": "*"
@@ -12673,13 +12357,7 @@
       "text": "NH-Picnic basket.png"
     },
     "Price (Buy)": {
-      "text": "1,300 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,300 Bells"
     },
     "Price (Sell)": {
       "text": "325 Bells",
@@ -12817,13 +12495,7 @@
       "text": "NH-Pine-board flooring.jpg"
     },
     "Price (Buy)": {
-      "text": "2,500 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,500 Bells"
     },
     "Price (Sell)": {
       "text": "625 Bells",
@@ -12852,13 +12524,7 @@
       "text": "NH-Pink blossoming wall.png"
     },
     "Price (Buy)": {
-      "text": "1,760 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,760 Bells"
     },
     "Price (Sell)": {
       "text": "440 Bells",
@@ -12887,13 +12553,7 @@
       "text": "NH-Pink diner wall.png"
     },
     "Price (Buy)": {
-      "text": "2,420 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,420 Bells"
     },
     "Price (Sell)": {
       "text": "605 Bells",
@@ -12916,19 +12576,30 @@
   },
   {
     "Name": {
+      "text": "Pink flower-print wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "1,780 Bells"
+    },
+    "Price (Sell)": {
+      "text": "445 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Pink heart-pattern wall"
     },
     "Image": {
       "text": "NH-Pink heart-pattern wall.png"
     },
     "Price (Buy)": {
-      "text": "1,280 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,280 Bells"
     },
     "Price (Sell)": {
       "text": "320 Bells",
@@ -12957,16 +12628,10 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,650 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,650 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "412 Bells"
     },
     "Source": {
       "text": "Timmy & Tommy",
@@ -12980,22 +12645,33 @@
   },
   {
     "Name": {
+      "text": "Pink playroom wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "2,540 Bells"
+    },
+    "Price (Sell)": {
+      "text": "635 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Pink quilt wall"
     },
     "Image": {
       "text": ""
     },
     "Price (Buy)": {
-      "text": "2,150 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,150 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "537 Bells"
     },
     "Source": {
       "text": "Timmy & Tommy",
@@ -13015,13 +12691,7 @@
       "text": "NH-Pink shanty wall.png"
     },
     "Price (Buy)": {
-      "text": "620 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "620 Bells"
     },
     "Price (Sell)": {
       "text": "155 Bells",
@@ -13044,19 +12714,47 @@
   },
   {
     "Name": {
+      "text": "Pink simple-cloth wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "750 Bells"
+    },
+    "Price (Sell)": {
+      "text": "187 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
+      "text": "Pink-crown wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "2,350 Bells"
+    },
+    "Price (Sell)": {
+      "text": "587 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Pink-paint flooring"
     },
     "Image": {
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,040 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,040 Bells"
     },
     "Price (Sell)": {
       "text": "260 Bells",
@@ -13085,13 +12783,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,520 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,520 Bells"
     },
     "Price (Sell)": {
       "text": "380 Bells",
@@ -13220,13 +12912,7 @@
       "text": "NH-Plasma ball.png"
     },
     "Price (Buy)": {
-      "text": "2,600 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,600 Bells"
     },
     "Price (Sell)": {
       "text": "650 Bells",
@@ -13264,13 +12950,7 @@
       "text": "NH-Plastic canister.png"
     },
     "Price (Buy)": {
-      "text": "680 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "680 Bells"
     },
     "Price (Sell)": {
       "text": "170 Bells",
@@ -13308,13 +12988,7 @@
       "text": "NH-Playground gym.png"
     },
     "Price (Buy)": {
-      "text": "3,000 Nook Miles",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Nook Miles"
-        }
-      ]
+      "text": "3,000 Nook Miles"
     },
     "Price (Sell)": {
       "text": "*"
@@ -13396,13 +13070,7 @@
       "text": "NH-Pool.png"
     },
     "Price (Buy)": {
-      "text": "5,000 Nook Miles",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Nook Miles"
-        }
-      ]
+      "text": "5,000 Nook Miles"
     },
     "Price (Sell)": {
       "text": ""
@@ -13434,13 +13102,7 @@
       "text": "NH-Poolside bed.png"
     },
     "Price (Buy)": {
-      "text": "3,400 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "3,400 Bells"
     },
     "Price (Sell)": {
       "text": "850 Bells",
@@ -13503,13 +13165,7 @@
       "text": "NH-Pop-up toaster.png"
     },
     "Price (Buy)": {
-      "text": "2,300 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,300 Bells"
     },
     "Price (Sell)": {
       "text": "575 Bells",
@@ -13546,13 +13202,7 @@
       "text": "NH-Popcorn machine.png"
     },
     "Price (Buy)": {
-      "text": "4,900 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "4,900 Bells"
     },
     "Price (Sell)": {
       "text": "1,225 Bells",
@@ -13595,13 +13245,7 @@
       "text": "NH-Portable radio.png"
     },
     "Price (Buy)": {
-      "text": "1,500 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,500 Bells"
     },
     "Price (Sell)": {
       "text": "375 Bells",
@@ -13644,13 +13288,7 @@
       "text": "NH-Portable record player.png"
     },
     "Price (Buy)": {
-      "text": "4,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "4,000 Bells"
     },
     "Price (Sell)": {
       "text": "1,000 Bells",
@@ -13693,13 +13331,7 @@
       "text": "NH-Portable_toilet.png"
     },
     "Price (Buy)": {
-      "text": "1,000 Nook Miles",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Nook Miles"
-        }
-      ]
+      "text": "1,000 Nook Miles"
     },
     "Price (Sell)": {
       "text": ""
@@ -13791,13 +13423,7 @@
       "text": "NH-Pot rack.png"
     },
     "Price (Buy)": {
-      "text": "3,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "3,000 Bells"
     },
     "Price (Sell)": {
       "text": "750 Bells",
@@ -13892,13 +13518,7 @@
       "text": "NH-Pro tape recorder.png"
     },
     "Price (Buy)": {
-      "text": "5,400 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "5,400 Bells"
     },
     "Price (Sell)": {
       "text": "1,350 Bells",
@@ -13941,13 +13561,7 @@
       "text": "NH-Protein shaker bottle.png"
     },
     "Price (Buy)": {
-      "text": "1,400 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,400 Bells"
     },
     "Price (Sell)": {
       "text": "350 Bells",
@@ -13990,13 +13604,7 @@
       "text": "NH-Public bench.png"
     },
     "Price (Buy)": {
-      "text": "2,000 Nook Miles",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Nook Miles"
-        }
-      ]
+      "text": "2,000 Nook Miles"
     },
     "Price (Sell)": {
       "text": "10,000 Bells",
@@ -14039,13 +13647,7 @@
       "text": "NH-Pull-up-bar stand.png"
     },
     "Price (Buy)": {
-      "text": "4,800 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "4,800 Bells"
     },
     "Price (Sell)": {
       "text": "1,200 Bells",
@@ -14088,13 +13690,7 @@
       "text": "NH-Punching bag.png"
     },
     "Price (Buy)": {
-      "text": "3,800 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "3,800 Bells"
     },
     "Price (Sell)": {
       "text": "950 Bells",
@@ -14137,13 +13733,7 @@
       "text": "NH-Purple persian rug.png.png"
     },
     "Price (Buy)": {
-      "text": "2,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,000 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -14186,19 +13776,30 @@
   },
   {
     "Name": {
+      "text": "Purple camo wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "1,550 Bells"
+    },
+    "Price (Sell)": {
+      "text": "287 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Purple desert-tile flooring"
     },
     "Image": {
       "text": ""
     },
     "Price (Buy)": {
-      "text": "2,100 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,100 Bells"
     },
     "Price (Sell)": {
       "text": "525 Bells",
@@ -14227,13 +13828,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "2,440 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,440 Bells"
     },
     "Price (Sell)": {
       "text": "610 Bells",
@@ -14262,13 +13857,7 @@
       "text": "NH-Purple dotted wall.png"
     },
     "Price (Buy)": {
-      "text": "1,100 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,100 Bells"
     },
     "Price (Sell)": {
       "text": "275 Bells",
@@ -14297,13 +13886,7 @@
       "text": "NH-Purple puzzle flooring.jpg"
     },
     "Price (Buy)": {
-      "text": "1,450 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,450 Bells"
     },
     "Price (Sell)": {
       "text": "362 Bells",
@@ -14332,13 +13915,7 @@
       "text": "NH-Purple puzzle wall.png"
     },
     "Price (Buy)": {
-      "text": "1,540 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,540 Bells"
     },
     "Price (Sell)": {
       "text": "385 Bells",
@@ -14367,16 +13944,10 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "2,150 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,150 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "537 Bells"
     },
     "Source": {
       "text": "Timmy & Tommy",
@@ -14396,13 +13967,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,720 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,720 Bells"
     },
     "Price (Sell)": {
       "text": "430 Bells",
@@ -14518,13 +14083,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,800 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,800 Bells"
     },
     "Price (Sell)": {
       "text": "450 Bells",
@@ -14553,10 +14112,10 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "N/A"
+      "text": "3,000 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "750 Bells"
     },
     "Source": {
       "text": "Saharah",
@@ -14576,13 +14135,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,360 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,360 Bells"
     },
     "Price (Sell)": {
       "text": "340 Bells",
@@ -14611,13 +14164,7 @@
       "text": "NH-Rattan armchair.png"
     },
     "Price (Buy)": {
-      "text": "3,200 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "3,200 Bells"
     },
     "Price (Sell)": {
       "text": "800 Bells",
@@ -14660,13 +14207,7 @@
       "text": "NH-Rattan bed.png"
     },
     "Price (Buy)": {
-      "text": "7,200 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "7,200 Bells"
     },
     "Price (Sell)": {
       "text": "1,800 Bells",
@@ -14709,8 +14250,7 @@
       "text": "NH-Rattan end table.png"
     },
     "Price (Buy)": {
-      "text": "4,300",
-      "number": 4300
+      "text": "4,300"
     },
     "Price (Sell)": {
       "text": "Bells",
@@ -14762,13 +14302,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,100 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,100 Bells"
     },
     "Price (Sell)": {
       "text": "275 Bells",
@@ -14797,13 +14331,7 @@
       "text": "NH-Rattan low table.png"
     },
     "Price (Buy)": {
-      "text": "2,900 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,900 Bells"
     },
     "Price (Sell)": {
       "text": "725 Bells",
@@ -14846,13 +14374,7 @@
       "text": "NH-Rattan stool.png"
     },
     "Price (Buy)": {
-      "text": "2,900 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,900 Bells"
     },
     "Price (Sell)": {
       "text": "725 Bells",
@@ -14969,13 +14491,7 @@
       "text": "NH-Rattan vanity.png"
     },
     "Price (Buy)": {
-      "text": "5,900 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "5,900 Bells"
     },
     "Price (Sell)": {
       "text": "1,475 Bells",
@@ -15018,13 +14534,7 @@
       "text": "NH-Rattan wardrobe.png"
     },
     "Price (Buy)": {
-      "text": "6,900 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "6,900 Bells"
     },
     "Price (Sell)": {
       "text": "1,725 Bells",
@@ -15067,13 +14577,7 @@
       "text": "NH-Rattan waste bin.png"
     },
     "Price (Buy)": {
-      "text": "1,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,000 Bells"
     },
     "Price (Sell)": {
       "text": "250 Bells",
@@ -15116,13 +14620,7 @@
       "text": "NH-Record box.png"
     },
     "Price (Buy)": {
-      "text": "2,600 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,600 Bells"
     },
     "Price (Sell)": {
       "text": "650 Bells",
@@ -15232,13 +14730,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "2,780 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,780 Bells"
     },
     "Price (Sell)": {
       "text": "695 Bells",
@@ -15267,13 +14759,7 @@
       "text": "NH-Red corner.png"
     },
     "Price (Buy)": {
-      "text": "6,100 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "6,100 Bells"
     },
     "Price (Sell)": {
       "text": "1,525 Bells",
@@ -15323,13 +14809,7 @@
       "text": "NH-Red delicate-blooms wall.png"
     },
     "Price (Buy)": {
-      "text": "1,900 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,900 Bells"
     },
     "Price (Sell)": {
       "text": "475 Bells",
@@ -15375,19 +14855,30 @@
   },
   {
     "Name": {
+      "text": "Red dotted wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "1,100 Bells"
+    },
+    "Price (Sell)": {
+      "text": "275 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Red heart-pattern wall"
     },
     "Image": {
       "text": "NH-Red heart-pattern wall.png"
     },
     "Price (Buy)": {
-      "text": "1,280 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,280 Bells"
     },
     "Price (Sell)": {
       "text": "320 Bells",
@@ -15416,16 +14907,10 @@
       "text": "NH-Red intricate wall.png"
     },
     "Price (Buy)": {
-      "text": "1,570 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,570 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "392 Bells"
     },
     "Source": {
       "text": "Timmy & Tommy",
@@ -15445,13 +14930,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,000 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -15468,13 +14947,7 @@
       "text": "NH-Red perforated-board wall.png"
     },
     "Price (Buy)": {
-      "text": "1,180 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,180 Bells"
     },
     "Price (Sell)": {
       "text": "295 Bells",
@@ -15503,16 +14976,10 @@
       "text": "NH-Red two-toned wall.png"
     },
     "Price (Buy)": {
-      "text": "1,850 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,850 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "462 Bells"
     },
     "Source": {
       "text": "Timmy & Tommy",
@@ -15532,13 +14999,7 @@
       "text": "NH-Red-and-black vinyl flooring.jpg"
     },
     "Price (Buy)": {
-      "text": "1,150 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,150 Bells"
     },
     "Price (Sell)": {
       "text": "287 Bells",
@@ -15567,13 +15028,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,040 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,040 Bells"
     },
     "Price (Sell)": {
       "text": "260 Bells",
@@ -15602,13 +15057,7 @@
       "text": "NH-Red-brick wall.png"
     },
     "Price (Buy)": {
-      "text": "1,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,000 Bells"
     },
     "Price (Sell)": {
       "text": "250 Bells",
@@ -15637,13 +15086,7 @@
       "text": "NH-Refrigerator.png"
     },
     "Price (Buy)": {
-      "text": "5,100 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "5,100 Bells"
     },
     "Price (Sell)": {
       "text": "1,275",
@@ -15668,7 +15111,7 @@
       ]
     },
     "Customize?": {
-      "text": "Paint color: * White * * * Pink * * * * * * * * * * * Silver",
+      "text": "Paint color: * White * Blue * Pink * * * * * * * * * * * Silver",
       "formatting": {
         "bold": [
           "Paint color:"
@@ -15676,10 +15119,17 @@
       }
     },
     "Size": {
-      "text": "**: * * * * * * * * * *",
+      "text": "Sticker variants: * None * Cute * Rock * Fruits * Notices 2x customization kits",
+      "links": [
+        {
+          "text": "customization kits",
+          "type": "internal",
+          "page": "Customization Kits"
+        }
+      ],
       "formatting": {
         "bold": [
-          "**:"
+          "Sticker variants:"
         ]
       }
     },
@@ -15695,13 +15145,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "2,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,000 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -15727,13 +15171,7 @@
       "text": "NH-Retro flower-print wall.png"
     },
     "Price (Buy)": {
-      "text": "1,660 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,660 Bells"
     },
     "Price (Sell)": {
       "text": "415 Bells",
@@ -15762,13 +15200,7 @@
       "text": "NH-Retro gas pump.png"
     },
     "Price (Buy)": {
-      "text": "2,700 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,700 Bells"
     },
     "Price (Sell)": {
       "text": "675 Bells",
@@ -15826,13 +15258,7 @@
       "text": "NH-Retro radiator.png"
     },
     "Price (Buy)": {
-      "text": "1,300 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,300 Bells"
     },
     "Price (Sell)": {
       "text": "325 Bells",
@@ -15870,13 +15296,7 @@
       "text": "NH-Retro stereo.png"
     },
     "Price (Buy)": {
-      "text": "6,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "6,000 Bells"
     },
     "Price (Sell)": {
       "text": "1,500 Bells",
@@ -15919,13 +15339,7 @@
       "text": "NH-Revolving spice rack.png"
     },
     "Price (Buy)": {
-      "text": "1,400 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,400 Bells"
     },
     "Price (Sell)": {
       "text": "350 Bells",
@@ -15968,13 +15382,7 @@
       "text": "NH-Rice cooker.png"
     },
     "Price (Buy)": {
-      "text": "2,500 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,500 Bells"
     },
     "Price (Sell)": {
       "text": "625 Bells",
@@ -16007,6 +15415,40 @@
     },
     "Size": {
       "text": "*"
+    }
+  },
+  {
+    "Name": {
+      "text": "Rice-paddy wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
+      "text": "Ringside seating"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
+      "text": ""
     }
   },
   {
@@ -16069,13 +15511,7 @@
       "text": "NH-Rock guitar.png"
     },
     "Price (Buy)": {
-      "text": "3,100 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "3,100 Bells"
     },
     "Price (Sell)": {
       "text": "775 Bells",
@@ -16140,13 +15576,7 @@
       "text": "NH-Rock-climbing wall.png"
     },
     "Price (Buy)": {
-      "text": "3,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "3,000 Bells"
     },
     "Price (Sell)": {
       "text": "750 Bells",
@@ -16175,13 +15605,7 @@
       "text": "NH-Rocket lamp.png"
     },
     "Price (Buy)": {
-      "text": "1,500 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,500 Bells"
     },
     "Price (Sell)": {
       "text": "375 Bells",
@@ -16340,13 +15764,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "3,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "3,000 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -16402,6 +15820,23 @@
   },
   {
     "Name": {
+      "text": "Rose wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "1,720 Bells"
+    },
+    "Price (Sell)": {
+      "text": "430 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Rose wreath"
     },
     "Image": {
@@ -16446,13 +15881,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "2,420 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,420 Bells"
     },
     "Price (Sell)": {
       "text": "605 Bells",
@@ -16481,13 +15910,7 @@
       "text": "NH-Rotary phone.png"
     },
     "Price (Buy)": {
-      "text": "640 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "640 Bells"
     },
     "Price (Sell)": {
       "text": "160 Bells",
@@ -16527,13 +15950,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,000 Bells"
     },
     "Price (Sell)": {
       "text": ""
@@ -16585,13 +16002,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "700 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "700 Bells"
     },
     "Price (Sell)": {
       "text": "175 Bells",
@@ -16614,19 +16025,30 @@
   },
   {
     "Name": {
+      "text": "Ruins wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Rush tatami flooring"
     },
     "Image": {
       "text": ""
     },
     "Price (Buy)": {
-      "text": "2,200 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,200 Bells"
     },
     "Price (Sell)": {
       "text": "550 Bells",
@@ -16649,19 +16071,30 @@
   },
   {
     "Name": {
+      "text": "Rustic-stone wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "7,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "1,750 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Safe"
     },
     "Image": {
       "text": "NH-Safe.png"
     },
     "Price (Buy)": {
-      "text": "3,600 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "3,600 Bells"
     },
     "Price (Sell)": {
       "text": "900 Bells",
@@ -16707,7 +16140,7 @@
       "text": "N/A"
     },
     "Price (Sell)": {
-      "text": ""
+      "text": "3,200 Bells"
     },
     "Source": {
       "text": "DIY Recipes",
@@ -16727,13 +16160,7 @@
       "text": "NH-Sand castle.png"
     },
     "Price (Buy)": {
-      "text": "2,100 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,100 Bells"
     },
     "Price (Sell)": {
       "text": "525 Bells",
@@ -16776,13 +16203,7 @@
       "text": "NH-Sandbox.png"
     },
     "Price (Buy)": {
-      "text": "2,400 Nook Miles",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Nook Miles"
-        }
-      ]
+      "text": "2,400 Nook Miles"
     },
     "Price (Sell)": {
       "text": "600 Bells",
@@ -16810,6 +16231,23 @@
     },
     "Size": {
       "text": "*"
+    }
+  },
+  {
+    "Name": {
+      "text": "Sandlot"
+    },
+    "Image": {
+      "text": "[[File:NH-Floors-Sandlot.png]]"
+    },
+    "Price (Buy)": {
+      "text": ""
+    },
+    "Price (Sell)": {
+      "text": ""
+    },
+    "Source": {
+      "text": ""
     }
   },
   {
@@ -16875,13 +16313,7 @@
       "text": "NH-School chair.png"
     },
     "Price (Buy)": {
-      "text": "980 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "980 Bells"
     },
     "Price (Sell)": {
       "text": "245 Bells",
@@ -16947,19 +16379,30 @@
   },
   {
     "Name": {
+      "text": "Sci-fi wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "30,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "7,500 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Screen wall"
     },
     "Image": {
       "text": ""
     },
     "Price (Buy)": {
-      "text": "3,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "3,000 Bells"
     },
     "Price (Sell)": {
       "text": "750 Bells",
@@ -16988,13 +16431,7 @@
       "text": "NH-Sea globe.png"
     },
     "Price (Buy)": {
-      "text": "1,200 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,200 Bells"
     },
     "Price (Sell)": {
       "text": "300 Bells",
@@ -17026,22 +16463,33 @@
   },
   {
     "Name": {
+      "text": "Sea view"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Security-monitors wall"
     },
     "Image": {
       "text": "NH-Security-monitors wall.png"
     },
     "Price (Buy)": {
-      "text": "3,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "3,000 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "750 Bells"
     },
     "Source": {
       "text": "Saharah",
@@ -17058,19 +16506,13 @@
       "text": "Sepia puzzle flooring"
     },
     "Image": {
-      "text": ""
+      "text": "[[File:NH-Floors-Sepia_puzzle_flooring.png]]"
     },
     "Price (Buy)": {
-      "text": "1,450 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,450 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "362PC-icon-Bells-coin.png"
     },
     "Source": {
       "text": "Timmy & Tommy",
@@ -17090,13 +16532,7 @@
       "text": "NH-Sepia puzzle wall.png"
     },
     "Price (Buy)": {
-      "text": "1,540 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,540 Bells"
     },
     "Price (Sell)": {
       "text": "385 Bells",
@@ -17125,13 +16561,7 @@
       "text": "NH-Server.png"
     },
     "Price (Buy)": {
-      "text": "100,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "100,000 Bells"
     },
     "Price (Sell)": {
       "text": "20,000 Bells",
@@ -17169,10 +16599,10 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "N/A"
+      "text": "3,000 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "750 Bells"
     },
     "Source": {
       "text": "Saharah",
@@ -17192,13 +16622,7 @@
       "text": "NH-Serving cart.png"
     },
     "Price (Buy)": {
-      "text": "1,300 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,300 Bells"
     },
     "Price (Sell)": {
       "text": "325 Bells",
@@ -17241,13 +16665,7 @@
       "text": "NH-Sewing machine.png"
     },
     "Price (Buy)": {
-      "text": "2,100 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,100 Bells"
     },
     "Price (Sell)": {
       "text": "525 Bells",
@@ -17290,13 +16708,7 @@
       "text": "NH-Sewing project.png"
     },
     "Price (Buy)": {
-      "text": "430 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "430 Bells"
     },
     "Price (Sell)": {
       "text": "107 Bells",
@@ -17328,13 +16740,7 @@
       "text": "NH-Shaved ice maker.png"
     },
     "Price (Buy)": {
-      "text": "1,400 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,400 Bells"
     },
     "Price (Sell)": {
       "text": "350 Bells",
@@ -17799,13 +17205,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,880 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,880 Bells"
     },
     "Price (Sell)": {
       "text": "470 Bells",
@@ -17871,13 +17271,7 @@
       "text": "NH-Shower set.png"
     },
     "Price (Buy)": {
-      "text": "1,800 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,800 Bells"
     },
     "Price (Sell)": {
       "text": "450 Bells",
@@ -17920,10 +17314,10 @@
       "text": "*"
     },
     "Price (Buy)": {
-      "text": "N/A"
+      "text": "3,000 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "750 Bells"
     },
     "Source": {
       "text": "*"
@@ -18048,13 +17442,7 @@
       "text": "NH-Silver mic.png"
     },
     "Price (Buy)": {
-      "text": "1,800 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,800 Bells"
     },
     "Price (Sell)": {
       "text": "450 Bells",
@@ -18130,13 +17518,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,500 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,500 Bells"
     },
     "Price (Sell)": {
       "text": ""
@@ -18156,13 +17538,7 @@
       "text": "NH-Simple panel.png"
     },
     "Price (Buy)": {
-      "text": "810 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "810 Bells"
     },
     "Price (Sell)": {
       "text": "202 Bells",
@@ -18220,13 +17596,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,500 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,500 Bells"
     },
     "Price (Sell)": {
       "text": "375 Bells",
@@ -18281,13 +17651,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,000 Bells"
     },
     "Price (Sell)": {
       "text": ""
@@ -18345,13 +17709,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,500 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,500 Bells"
     },
     "Price (Sell)": {
       "text": "375 Bells",
@@ -18380,13 +17738,7 @@
       "text": "NH-Skeleton.png"
     },
     "Price (Buy)": {
-      "text": "3,900 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "3,900 Bells"
     },
     "Price (Sell)": {
       "text": "975 Bells",
@@ -18418,6 +17770,23 @@
   },
   {
     "Name": {
+      "text": "Ski-slope wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "12,800 Bells"
+    },
+    "Price (Sell)": {
+      "text": "3,200 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Skull wall"
     },
     "Image": {
@@ -18444,16 +17813,10 @@
       "text": "Skull-print flooring"
     },
     "Image": {
-      "text": "NH skull-print-floor.jpg"
+      "text": "[[File:NH-Floors-Skull-print_flooring.png]]"
     },
     "Price (Buy)": {
-      "text": "3,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "3,000 Bells"
     },
     "Price (Sell)": {
       "text": "750 Bells",
@@ -18476,16 +17839,33 @@
   },
   {
     "Name": {
+      "text": "Sky wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Skyscraper wall"
     },
     "Image": {
       "text": ""
     },
     "Price (Buy)": {
-      "text": "*"
+      "text": "3,000 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "750 Bells"
     },
     "Source": {
       "text": "Saharah",
@@ -18505,13 +17885,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,380 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,380 Bells"
     },
     "Price (Sell)": {
       "text": "345 Bells",
@@ -18540,13 +17914,7 @@
       "text": "NH-Sleeping bag.png"
     },
     "Price (Buy)": {
-      "text": "1,400 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,400 Bells"
     },
     "Price (Sell)": {
       "text": "350 Bells",
@@ -18620,13 +17988,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "2,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,000 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -18684,13 +18046,7 @@
       "text": "NH-Smoker.png"
     },
     "Price (Buy)": {
-      "text": "5,500 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "5,500 Bells"
     },
     "Price (Sell)": {
       "text": "1,375 Bells",
@@ -18733,13 +18089,7 @@
       "text": "NH-Snack machine.png"
     },
     "Price (Buy)": {
-      "text": "2,000 Nook Miles",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Nook Miles"
-        }
-      ]
+      "text": "2,000 Nook Miles"
     },
     "Price (Sell)": {
       "text": "*"
@@ -18765,19 +18115,30 @@
   },
   {
     "Name": {
+      "text": "Snowflake wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "19,200 Bells"
+    },
+    "Price (Sell)": {
+      "text": "4,800 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Soccer goal"
     },
     "Image": {
       "text": "NH-Soccer goal.png"
     },
     "Price (Buy)": {
-      "text": "4,000 Nook Miles",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Nook Miles"
-        }
-      ]
+      "text": "4,000 Nook Miles"
     },
     "Price (Sell)": {
       "text": ""
@@ -18809,13 +18170,7 @@
       "text": "NH-Soft-serve lamp.png"
     },
     "Price (Buy)": {
-      "text": "3,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "3,000 Bells"
     },
     "Price (Sell)": {
       "text": "750 Bells",
@@ -18858,13 +18213,7 @@
       "text": "NH-Solar panel.png"
     },
     "Price (Buy)": {
-      "text": "4,000 Nook Miles",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Nook Miles"
-        }
-      ]
+      "text": "4,000 Nook Miles"
     },
     "Price (Sell)": {
       "text": "20,000",
@@ -18896,6 +18245,23 @@
     },
     "col9": {
       "text": "*"
+    }
+  },
+  {
+    "Name": {
+      "text": "Soothing tearoom wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "1,750 Bells"
+    },
+    "Price (Sell)": {
+      "text": "437 Bells"
+    },
+    "Source": {
+      "text": ""
     }
   },
   {
@@ -18938,13 +18304,7 @@
       "text": "NH-Speed bag.png"
     },
     "Price (Buy)": {
-      "text": "3,500 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "3,500 Bells"
     },
     "Price (Sell)": {
       "text": "875 Bells",
@@ -19013,13 +18373,7 @@
       "text": "NH-Spinning wheel.png"
     },
     "Price (Buy)": {
-      "text": "970 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "970 Bells"
     },
     "Price (Sell)": {
       "text": "242 Bells",
@@ -19094,13 +18448,7 @@
       "text": "NH-Squat toilet.png"
     },
     "Price (Buy)": {
-      "text": "1,500 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,500 Bells"
     },
     "Price (Sell)": {
       "text": "375 Bells",
@@ -19128,6 +18476,40 @@
     },
     "Size": {
       "text": "*"
+    }
+  },
+  {
+    "Name": {
+      "text": "Stacked-wood wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "7,200 Bells"
+    },
+    "Price (Sell)": {
+      "text": "1,800 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
+      "text": "Stadium wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
+      "text": ""
     }
   },
   {
@@ -19203,16 +18585,10 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,750 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,750 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "437 Bells"
     },
     "Source": {
       "text": "Timmy & Tommy",
@@ -19326,22 +18702,50 @@
   },
   {
     "Name": {
+      "text": "Starry wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "30,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "7,500 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
+      "text": "Starry-sky wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "30,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "7,500 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Stately wall"
     },
     "Image": {
       "text": "NH-Stately wall.png"
     },
     "Price (Buy)": {
-      "text": "2,450 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,450 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "612 Bells"
     },
     "Source": {
       "text": "Timmy & Tommy",
@@ -19410,25 +18814,19 @@
   },
   {
     "Name": {
-      "text": "Stone Wall"
+      "text": "Steel-frame wall"
     },
     "Image": {
-      "text": "NH-Stone wall.png"
+      "text": ""
     },
     "Price (Buy)": {
-      "text": "N/A"
+      "text": "24,000 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "6,000 Bells"
     },
     "Source": {
-      "text": "DIY Recipes",
-      "links": [
-        {
-          "type": "internal",
-          "page": "DIY Recipes"
-        }
-      ]
+      "text": ""
     }
   },
   {
@@ -19651,13 +19049,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "3,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "3,000 Bells"
     },
     "Price (Sell)": {
       "text": "750 Bells",
@@ -19674,6 +19066,29 @@
         {
           "type": "internal",
           "page": "Timmy & Tommy"
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "text": "Stone wall"
+    },
+    "Image": {
+      "text": "NH-Stone wall.png"
+    },
+    "Price (Buy)": {
+      "text": "N/A"
+    },
+    "Price (Sell)": {
+      "text": "1,500 Bells"
+    },
+    "Source": {
+      "text": "DIY Recipes",
+      "links": [
+        {
+          "type": "internal",
+          "page": "DIY Recipes"
         }
       ]
     }
@@ -19712,19 +19127,64 @@
   },
   {
     "Name": {
+      "text": "Stormy night wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
+      "text": "Straw wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
+      "text": "Strawberry-chocolate wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Street organ"
     },
     "Image": {
       "text": "NH-Street organ.png"
     },
     "Price (Buy)": {
-      "text": "5,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "5,000 Bells"
     },
     "Price (Sell)": {
       "text": "1,250 Bells",
@@ -19750,19 +19210,30 @@
   },
   {
     "Name": {
+      "text": "Street-art wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Streetlamp"
     },
     "Image": {
       "text": "NH-Streetlamp.png"
     },
     "Price (Buy)": {
-      "text": "1,000 Nook Miles",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Nook Miles"
-        }
-      ]
+      "text": "1,000 Nook Miles"
     },
     "Price (Sell)": {
       "text": "*"
@@ -19798,13 +19269,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,200 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,200 Bells"
     },
     "Price (Sell)": {
       "text": "300 Bells",
@@ -19833,13 +19298,7 @@
       "text": "NH-Studio spotlight.png"
     },
     "Price (Buy)": {
-      "text": "2,100 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,100 Bells"
     },
     "Price (Sell)": {
       "text": "525 Bells",
@@ -19882,7 +19341,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "*"
+      "text": "3,000 Bells"
     },
     "Price (Sell)": {
       "text": "750 Bells",
@@ -19963,13 +19422,7 @@
       "text": "NH-Switch.png"
     },
     "Price (Buy)": {
-      "text": "340 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "340 Bells"
     },
     "Price (Sell)": {
       "text": "85 Bells",
@@ -20007,13 +19460,7 @@
       "text": "NH-Table with cloth.png"
     },
     "Price (Buy)": {
-      "text": "5,100 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "5,100 Bells"
     },
     "Price (Sell)": {
       "text": "1,275 Bells",
@@ -20093,13 +19540,7 @@
       "text": "NH-Tankless toilet.png"
     },
     "Price (Buy)": {
-      "text": "4,100 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "4,100 Bells"
     },
     "Price (Sell)": {
       "text": "1,025 Bells",
@@ -20142,13 +19583,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "880 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "880 Bells"
     },
     "Price (Sell)": {
       "text": "220 Bells",
@@ -20192,13 +19627,7 @@
       "text": "NH-Tatami bed.png"
     },
     "Price (Buy)": {
-      "text": "2,800 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,800 Bells"
     },
     "Price (Sell)": {
       "text": "700 Bells",
@@ -20241,13 +19670,7 @@
       "text": "NH-Tatami flooring.jpg"
     },
     "Price (Buy)": {
-      "text": "2,200 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,200 Bells"
     },
     "Price (Sell)": {
       "text": "550 Bells",
@@ -20276,13 +19699,7 @@
       "text": "NH-Teacup ride.png"
     },
     "Price (Buy)": {
-      "text": "5,000 Nook Miles",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Nook Miles"
-        }
-      ]
+      "text": "5,000 Nook Miles"
     },
     "Price (Sell)": {
       "text": "*"
@@ -20314,13 +19731,7 @@
       "text": "NH-Telescope.png"
     },
     "Price (Buy)": {
-      "text": "5,600 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "5,600 Bells"
     },
     "Price (Sell)": {
       "text": "1,400 Bells"
@@ -20378,7 +19789,8 @@
       "text": "N/A"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "1,740",
+      "number": 1740
     },
     "Source": {
       "text": "DIY Recipes",
@@ -20496,13 +19908,7 @@
       "text": "NH-Throwback mitt chair.png"
     },
     "Price (Buy)": {
-      "text": "1,400 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,400 Bells"
     },
     "Price (Sell)": {
       "text": "350 Bells",
@@ -20545,13 +19951,7 @@
       "text": "NH-Throwback race-car bed.png"
     },
     "Price (Buy)": {
-      "text": "3,800 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "3,800 Bells"
     },
     "Price (Sell)": {
       "text": "950 Bells",
@@ -20625,13 +20025,7 @@
       "text": "NH-Throwback wall clock.png"
     },
     "Price (Buy)": {
-      "text": "4,200 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "4,200 Bells"
     },
     "Price (Sell)": {
       "text": "1,050 Bells",
@@ -20669,13 +20063,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,300 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,300 Bells"
     },
     "Price (Sell)": {
       "text": "325 Bells",
@@ -20908,13 +20296,7 @@
       "text": "NH-Toilet.png"
     },
     "Price (Buy)": {
-      "text": "4,400 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "4,400 Bells"
     },
     "Price (Sell)": {
       "text": "1,100 Bells",
@@ -20957,13 +20339,7 @@
       "text": "NH-Toilet-cleaning_set.png"
     },
     "Price (Buy)": {
-      "text": "670 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "670 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -20995,13 +20371,7 @@
       "text": "NH-Tool cart.png"
     },
     "Price (Buy)": {
-      "text": "2,400 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,400 Bells"
     },
     "Price (Sell)": {
       "text": "600 Bells",
@@ -21044,13 +20414,7 @@
       "text": "NH-Tool shelf.png"
     },
     "Price (Buy)": {
-      "text": "7,300 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "7,300 Bells"
     },
     "Price (Sell)": {
       "text": "1,825 Bells",
@@ -21120,13 +20484,7 @@
       "text": "NH-Train set.png"
     },
     "Price (Buy)": {
-      "text": "7,900 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "7,900 Bells"
     },
     "Price (Sell)": {
       "text": "1,975 Bells",
@@ -21207,13 +20565,7 @@
       "text": "NH-Tree's bounty arch.png"
     },
     "Price (Buy)": {
-      "text": "N/A Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "N/A Bells"
     },
     "Price (Sell)": {
       "text": "* Bells",
@@ -21256,13 +20608,7 @@
       "text": "NH-Tree's bounty big tree.png"
     },
     "Price (Buy)": {
-      "text": "N/A Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "N/A Bells"
     },
     "Price (Sell)": {
       "text": "* Bells",
@@ -21305,13 +20651,7 @@
       "text": "NH-Tree's bounty lamp.png"
     },
     "Price (Buy)": {
-      "text": "N/A Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "N/A Bells"
     },
     "Price (Sell)": {
       "text": "* Bells",
@@ -21354,13 +20694,7 @@
       "text": "NH-Tree's bounty little tree.png"
     },
     "Price (Buy)": {
-      "text": "N/A Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "N/A Bells"
     },
     "Price (Sell)": {
       "text": "* Bells",
@@ -21403,13 +20737,7 @@
       "text": "NH-Tree's bounty mobile.png"
     },
     "Price (Buy)": {
-      "text": "N/A Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "N/A Bells"
     },
     "Price (Sell)": {
       "text": "* Bells",
@@ -21446,19 +20774,30 @@
   },
   {
     "Name": {
+      "text": "Tree-lined wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Tricycle"
     },
     "Image": {
       "text": "NH-Tricycle.png"
     },
     "Price (Buy)": {
-      "text": "1,600 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,600 Bells"
     },
     "Price (Sell)": {
       "text": "400 Bells",
@@ -21489,6 +20828,23 @@
     },
     "col9": {
       "text": "*"
+    }
+  },
+  {
+    "Name": {
+      "text": "Tropical vista"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "24,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "6,000 Bells"
+    },
+    "Source": {
+      "text": ""
     }
   },
   {
@@ -21538,13 +20894,7 @@
       "text": "NH-Typewriter.png"
     },
     "Price (Buy)": {
-      "text": "2,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,000 Bells"
     },
     "Price (Sell)": {
       "text": "500 Bells"
@@ -21575,19 +20925,30 @@
   },
   {
     "Name": {
+      "text": "Underwater wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "34,400 Bells"
+    },
+    "Price (Sell)": {
+      "text": "8,600 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Unfinished puzzle"
     },
     "Image": {
       "text": "NH-Unfinished puzzle.png"
     },
     "Price (Buy)": {
-      "text": "290 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "290 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -21663,13 +21024,7 @@
       "text": "NH-Upright locker.png"
     },
     "Price (Buy)": {
-      "text": "3,700 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "3,700 Bells"
     },
     "Price (Sell)": {
       "text": "925 Bells",
@@ -21719,13 +21074,7 @@
       "text": "NH-Upright vacuum.png"
     },
     "Price (Buy)": {
-      "text": "2,500 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,500 Bells"
     },
     "Price (Sell)": {
       "text": "625 Bells",
@@ -21763,13 +21112,7 @@
       "text": "NH-Utility pole.png"
     },
     "Price (Buy)": {
-      "text": "1,000 Nook Miles",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Nook Miles"
-        }
-      ]
+      "text": "1,000 Nook Miles"
     },
     "Price (Sell)": {
       "text": "*"
@@ -21801,13 +21144,7 @@
       "text": "NH-Utility sink.png"
     },
     "Price (Buy)": {
-      "text": "3,500 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "3,500 Bells"
     },
     "Price (Sell)": {
       "text": "875 Bells"
@@ -21839,13 +21176,7 @@
       "text": "NH-Vacuum cleaner.png"
     },
     "Price (Buy)": {
-      "text": "3,800 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "3,800 Bells"
     },
     "Price (Sell)": {
       "text": "950 Bells",
@@ -21883,13 +21214,7 @@
       "text": "NH-Velvet stool.png"
     },
     "Price (Buy)": {
-      "text": "1,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,000 Bells"
     },
     "Price (Sell)": {
       "text": "250 Bells",
@@ -21927,13 +21252,7 @@
       "text": "NH-Ventilation fan.png"
     },
     "Price (Buy)": {
-      "text": "1,200 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,200 Bells"
     },
     "Price (Sell)": {
       "text": "300 Bells",
@@ -21971,13 +21290,7 @@
       "text": "NH-Vintage tea tray.png"
     },
     "Price (Buy)": {
-      "text": "1,200 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,200 Bells"
     },
     "Price (Sell)": {
       "text": "300 Bells",
@@ -22009,13 +21322,7 @@
       "text": "NH-Wall clock.png"
     },
     "Price (Buy)": {
-      "text": "690 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "690 Bells"
     },
     "Price (Sell)": {
       "text": "172 Bells",
@@ -22104,13 +21411,7 @@
       "text": "NH-Wall-mounted TV20in.png"
     },
     "Price (Buy)": {
-      "text": "8,900 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "8,900 Bells"
     },
     "Price (Sell)": {
       "text": "2,225 Bells",
@@ -22142,13 +21443,7 @@
       "text": "NH-Wall-mounted candle.png"
     },
     "Price (Buy)": {
-      "text": "800 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "800 Bells"
     },
     "Price (Sell)": {
       "text": "200",
@@ -22195,8 +21490,7 @@
       "text": "NH-Wall-mounted tool board.png"
     },
     "Price (Buy)": {
-      "text": "1,500",
-      "number": 1500
+      "text": "1,500"
     },
     "Price (Sell)": {
       "text": "Bells",
@@ -22250,13 +21544,7 @@
       "text": "NH-Wasp-head model.png"
     },
     "Price (Buy)": {
-      "text": "2,500 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,500 Bells"
     },
     "Price (Sell)": {
       "text": "625 Bells",
@@ -22294,13 +21582,7 @@
       "text": "NH-Water cooler.png"
     },
     "Price (Buy)": {
-      "text": "3,400 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "3,400 Bells"
     },
     "Price (Sell)": {
       "text": "850 Bells",
@@ -22422,6 +21704,40 @@
   },
   {
     "Name": {
+      "text": "Wavy-tile wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "1,740 Bells"
+    },
+    "Price (Sell)": {
+      "text": "435 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
+      "text": "Western vista"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Western-style stone"
     },
     "Image": {
@@ -22454,13 +21770,7 @@
       "text": "NH-Wheelchair.png"
     },
     "Price (Buy)": {
-      "text": "2,700 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,700 Bells"
     },
     "Price (Sell)": {
       "text": "675 Bells",
@@ -22513,54 +21823,13 @@
   },
   {
     "Name": {
-      "text": "While delicate-blooms wall"
-    },
-    "Image": {
-      "text": "NH-White delicate-blooms wall.png"
-    },
-    "Price (Buy)": {
-      "text": "1,900 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
-    },
-    "Price (Sell)": {
-      "text": "475 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
-    },
-    "Source": {
-      "text": "Timmy & Tommy",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Timmy & Tommy"
-        }
-      ]
-    }
-  },
-  {
-    "Name": {
       "text": "White botanical-tile wall"
     },
     "Image": {
       "text": "NH-White botanical-tile wall.png"
     },
     "Price (Buy)": {
-      "text": "1,240 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,240 Bells"
     },
     "Price (Sell)": {
       "text": "310 Bells",
@@ -22583,19 +21852,59 @@
   },
   {
     "Name": {
-      "text": "White honeycomb tile"
+      "text": "White delicate-blooms wall"
     },
     "Image": {
-      "text": ""
+      "text": "NH-White delicate-blooms wall.png"
     },
     "Price (Buy)": {
-      "text": "1,420 Bells",
+      "text": "1,900 Bells"
+    },
+    "Price (Sell)": {
+      "text": "475 Bells",
       "links": [
         {
           "type": "internal",
           "page": "Bells"
         }
       ]
+    },
+    "Source": {
+      "text": "Timmy & Tommy",
+      "links": [
+        {
+          "type": "internal",
+          "page": "Timmy & Tommy"
+        }
+      ]
+    }
+  },
+  {
+    "Name": {
+      "text": "White hallway wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "2,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "500 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
+      "text": "White honeycomb tile"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "1,420 Bells"
     },
     "Price (Sell)": {
       "text": "355 Bells",
@@ -22624,13 +21933,7 @@
       "text": "NH-White honeycomb-tile wall.png"
     },
     "Price (Buy)": {
-      "text": "1,680 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,680 Bells"
     },
     "Price (Sell)": {
       "text": "420 Bells",
@@ -22659,13 +21962,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "2,350 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,350 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -22688,13 +21985,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "900 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "900 Bells"
     },
     "Price (Sell)": {
       "text": "225 Bells",
@@ -22723,13 +22014,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,648 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,648 Bells"
     },
     "Price (Sell)": {
       "text": "412 Bells",
@@ -22752,19 +22037,30 @@
   },
   {
     "Name": {
+      "text": "White perforated-board wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "1,180 Bells"
+    },
+    "Price (Sell)": {
+      "text": "295 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "White simple-cloth wall"
     },
     "Image": {
       "text": "NH-White simple-cloth wall.png"
     },
     "Price (Buy)": {
-      "text": "750 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "750 Bells"
     },
     "Price (Sell)": {
       "text": "187 Bells"
@@ -22787,13 +22083,7 @@
       "text": "NH-White subway-tile wall.png"
     },
     "Price (Buy)": {
-      "text": "1,340 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,340 Bells"
     },
     "Price (Sell)": {
       "text": "335 Bells",
@@ -22822,13 +22112,7 @@
       "text": "NH-White-brick flooring.jpg"
     },
     "Price (Buy)": {
-      "text": "1,040 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,040 Bells"
     },
     "Price (Sell)": {
       "text": "260 Bells",
@@ -22847,6 +22131,40 @@
           "page": "Timmy & Tommy"
         }
       ]
+    }
+  },
+  {
+    "Name": {
+      "text": "White-brick wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "1,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "250 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
+      "text": "White-chocolate wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "3,000 Bells"
+    },
+    "Price (Sell)": {
+      "text": "750 Bells"
+    },
+    "Source": {
+      "text": ""
     }
   },
   {
@@ -22857,13 +22175,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,040 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,040 Bells"
     },
     "Price (Sell)": {
       "text": "260 Bells",
@@ -22886,19 +22198,30 @@
   },
   {
     "Name": {
+      "text": "White-rose wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "1,720 Bells"
+    },
+    "Price (Sell)": {
+      "text": "430 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Whiteboard"
     },
     "Image": {
       "text": "NH-Whiteboard.png"
     },
     "Price (Buy)": {
-      "text": "2,600 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,600 Bells"
     },
     "Price (Sell)": {
       "text": "650 Bells",
@@ -22979,19 +22302,30 @@
   },
   {
     "Name": {
+      "text": "Wild-wood wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "7,200 Bells"
+    },
+    "Price (Sell)": {
+      "text": "1,800 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Wind turbine"
     },
     "Image": {
       "text": "NH-Wind turbine.png"
     },
     "Price (Buy)": {
-      "text": "4,000 Nook Miles",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Nook Miles"
-        }
-      ]
+      "text": "4,000 Nook Miles"
     },
     "Price (Sell)": {
       "text": "1,000 Bells",
@@ -23116,13 +22450,7 @@
       "text": "NH-Wood-burning stove.png"
     },
     "Price (Buy)": {
-      "text": "2,100 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,100 Bells"
     },
     "Price (Sell)": {
       "text": "525 Bells",
@@ -24553,13 +23881,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "780 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "780 Bells"
     },
     "Price (Sell)": {
       "text": "195 Bells",
@@ -24591,7 +23913,7 @@
       "text": "N/A"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "1,800 Bells"
     },
     "Source": {
       "text": "Saharah",
@@ -24601,6 +23923,23 @@
           "page": "Saharah"
         }
       ]
+    }
+  },
+  {
+    "Name": {
+      "text": "Wooden-mosaic wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "7,200 Bells"
+    },
+    "Price (Sell)": {
+      "text": "1,800 Bells"
+    },
+    "Source": {
+      "text": ""
     }
   },
   {
@@ -24660,13 +23999,13 @@
       "text": "NH-Woodland wall.png"
     },
     "Price (Buy)": {
-      "text": "N/A"
-    },
-    "Price (Sell)": {
       "text": "*"
     },
+    "Price (Sell)": {
+      "text": "1,380PC-icon-Bells-coin.png"
+    },
     "Source": {
-      "text": "DIY Recipes",
+      "text": "NH-Inventory_Icons-DIY_Recipe.png Recipes",
       "links": [
         {
           "type": "internal",
@@ -24683,13 +24022,7 @@
       "text": "NH-Writing chair.png"
     },
     "Price (Buy)": {
-      "text": "1,700 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,700 Bells"
     },
     "Price (Sell)": {
       "text": "425 Bells",
@@ -24744,13 +24077,7 @@
       "text": "NH-Writing desk.png"
     },
     "Price (Buy)": {
-      "text": "7,100 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "7,100 Bells"
     },
     "Price (Sell)": {
       "text": "1,775 Bells",
@@ -24788,13 +24115,7 @@
       "text": "NH-Writing poster.png"
     },
     "Price (Buy)": {
-      "text": "640 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "640 Bells"
     },
     "Price (Sell)": {
       "text": "160 Bells",
@@ -24863,13 +24184,7 @@
       "text": "*"
     },
     "Price (Buy)": {
-      "text": "2,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,000 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -24895,13 +24210,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,500 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,500 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -24956,13 +24265,7 @@
       "text": "NH-Yellow heart-pattern wall.png"
     },
     "Price (Buy)": {
-      "text": "1,280 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,280 Bells"
     },
     "Price (Sell)": {
       "text": "320 Bells",
@@ -24991,16 +24294,10 @@
       "text": "NH-Yellow intricate wall.png"
     },
     "Price (Buy)": {
-      "text": "1,570 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,570 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "392 Bells"
     },
     "Source": {
       "text": "Timmy & Tommy",
@@ -25020,13 +24317,7 @@
       "text": "NH-Yellow kilim-style carpet.png"
     },
     "Price (Buy)": {
-      "text": "2,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "2,000 Bells"
     },
     "Price (Sell)": {
       "text": "500 Bells",
@@ -25058,13 +24349,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,000 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,000 Bells"
     },
     "Price (Sell)": {
       "text": "*"
@@ -25081,6 +24366,23 @@
   },
   {
     "Name": {
+      "text": "Yellow playroom wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "2,540 Bells"
+    },
+    "Price (Sell)": {
+      "text": "635 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Yellow quilt wall"
     },
     "Image": {
@@ -25090,7 +24392,7 @@
       "text": "2,150 Bells"
     },
     "Price (Sell)": {
-      "text": ""
+      "text": "537 Bells"
     },
     "Source": {
       "text": ""
@@ -25104,16 +24406,10 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "750 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "750 Bells"
     },
     "Price (Sell)": {
-      "text": "*"
+      "text": "187 Bells"
     },
     "Source": {
       "text": "Timmy & Tommy",
@@ -25127,19 +24423,30 @@
   },
   {
     "Name": {
+      "text": "Yellow-paint wall"
+    },
+    "Image": {
+      "text": ""
+    },
+    "Price (Buy)": {
+      "text": "1,600 Bells"
+    },
+    "Price (Sell)": {
+      "text": "400 Bells"
+    },
+    "Source": {
+      "text": ""
+    }
+  },
+  {
+    "Name": {
       "text": "Yellow-striped wall"
     },
     "Image": {
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,520 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,520 Bells"
     },
     "Price (Sell)": {
       "text": "380 Bells",
@@ -25168,13 +24475,7 @@
       "text": ""
     },
     "Price (Buy)": {
-      "text": "1,300 Bells",
-      "links": [
-        {
-          "type": "internal",
-          "page": "Bells"
-        }
-      ]
+      "text": "1,300 Bells"
     },
     "Price (Sell)": {
       "text": "325 Bells",

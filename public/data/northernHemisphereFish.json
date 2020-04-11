@@ -140,7 +140,7 @@
   {
     "name": "Black bass",
     "imageName": "/images/fish/black-bass.png",
-    "price": 400,
+    "price": 320,
     "shadowSize": "4",
     "location": "River",
     "time": "All day",
@@ -288,7 +288,7 @@
   {
     "name": "Cherry salmon",
     "imageName": "/images/fish/cherry-salmon.png",
-    "price": 1000,
+    "price": 800,
     "shadowSize": "3",
     "location": "River (Clifftop)",
     "time": "4 PM - 9 AM",
@@ -398,7 +398,7 @@
   {
     "name": "Dace",
     "imageName": "/images/fish/dace.png",
-    "price": 240,
+    "price": 192,
     "shadowSize": "3",
     "location": "River",
     "time": "4 PM - 9 AM",
