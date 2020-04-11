@@ -16,7 +16,12 @@ const ItemRenderer: React.FC<ListChildComponentProps> = ({
   return (
     <div key={x.type + x.name} style={style}>
       <div
-        style={{ margin: '0.5em 1em', display: 'flex', alignItems: 'center' }}
+        style={{
+          height: 40,
+          padding: '0.5em 1em',
+          display: 'flex',
+          alignItems: 'center',
+        }}
       >
         <div style={{ width: 40 }}>
           {x.imageName && (
