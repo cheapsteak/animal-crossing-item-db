@@ -2,10 +2,10 @@ import fs from 'fs';
 import path from 'path';
 import _ from 'lodash';
 import { extractionDirectory } from '../extractionDirectory';
-import { Wiki_NamedItemWithImage } from './types';
+import { Wiki_NamedItemMaybeWithImage } from './types';
 
 export const saveExtractedItems = (
-  wikiItems: Wiki_NamedItemWithImage[],
+  wikiItems: Wiki_NamedItemMaybeWithImage[],
   name: string,
 ) => {
   fs.writeFileSync(

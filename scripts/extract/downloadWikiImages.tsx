@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import { Wiki_NamedItemWithImage } from './types';
+import { Wiki_NamedItemMaybeWithImage } from './types';
 import slugify from 'slugify';
 import stream from 'stream';
 import { promisify } from 'util';
@@ -18,15 +18,16 @@ export const getWikiItemIconFileName = (
 };
 
 export const downloadWikiImages = async (
-  wikiItems: Wiki_NamedItemWithImage[],
+  wikiItems: Wiki_NamedItemMaybeWithImage[],
   directory: string,
 ) => {
-  let itemsMissingImages = [];
+  const itemsMissingImages = [];
   await Promise.all(
     wikiItems
       .filter((item) => !!item.Image?.text)
       .map(async (item) => {
-        const imageName = item.Image.text.replace(/(\[\[File:|\]\])/g, '');
+        const imageText = item.Image?.text as string;
+        const imageName = imageText.replace(/(\[\[File:|\]\])/g, '');
         const imageExtension = path.extname(imageName);
         const imageUrl = `https://animalcrossing.fandom.com/wiki/:Special:Filepath/${imageName}`;
         const localImageName = getWikiItemIconFileName(

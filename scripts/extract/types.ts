@@ -3,17 +3,17 @@ type YahOrNah = {
   text: '-' | '✓';
 };
 
-export interface Wiki_NamedItemWithImage {
+export interface Wiki_NamedItemMaybeWithImage {
   Name: {
     text: string;
   };
-  Image: {
+  Image?: {
     // e.g. "text": "[[File:Ribbon Eel HHD Icon.png]]"
     text: string;
   };
 }
 
-export interface Wiki_SeasonalCritter extends Wiki_NamedItemWithImage {
+export interface Wiki_SeasonalCritter extends Wiki_NamedItemMaybeWithImage {
   Name: {
     text: string;
     links?: Array<{
@@ -62,20 +62,20 @@ export interface Wiki_Fish extends Wiki_SeasonalCritter {
   };
 }
 
-export interface Wiki_Furniture extends Wiki_NamedItemWithImage {
+export interface Wiki_Furniture extends Wiki_NamedItemMaybeWithImage {
   Name: { text: string };
-  Image: { text: string };
-  'Price (Buy)': {
+  Image?: { text: string };
+  'Price (Buy)'?: {
     text: string; // '*' | 'N/A' | '3,000 Bells' | '500 Nook Miles'
   };
-  'Price (Sell)': {
+  'Price (Sell)'?: {
     text: string; // '*' | 'N/A' | '3,000 Bells'
     links?: Array<{
       type: 'internal';
       page: string;
     }>;
   };
-  Source: {
+  Source?: {
     text: string; // '*' | 'Timmy & Tommy' etc
   };
   Variations?: {

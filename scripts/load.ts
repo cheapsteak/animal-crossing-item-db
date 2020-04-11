@@ -1,6 +1,10 @@
 import path from 'path';
 import fs from 'fs-extra';
-import { Bug, Fish, Furniture } from './../src/types';
+import {
+  SerializedBug,
+  SerializedFish,
+  SerializedFurniture,
+} from './../src/types';
 import { Wiki_Fish, Wiki_Furniture } from './extract/types';
 import { getWikiItemIconFileName } from './extract/downloadWikiImages';
 import { extractionDirectory } from './extractionDirectory';
@@ -16,7 +20,7 @@ const monthNames = [
   'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec',
 ] as const;
 
-const transformWikiFish = (wikiCritters: Wiki_Fish[]): Fish[] => {
+const transformWikiFish = (wikiCritters: Wiki_Fish[]): SerializedFish[] => {
   return wikiCritters.map((wikiCritter) => {
     const imageName = getWikiItemIconFileName(
       wikiCritter.Name.text,
@@ -39,7 +43,7 @@ const transformWikiFish = (wikiCritters: Wiki_Fish[]): Fish[] => {
   });
 };
 
-const transformWikiBugs = (wikiCritters: Wiki_Fish[]): Bug[] => {
+const transformWikiBugs = (wikiCritters: Wiki_Fish[]): SerializedBug[] => {
   return wikiCritters.map((wikiCritter) => {
     const imageName = getWikiItemIconFileName(
       wikiCritter.Name.text,
@@ -61,13 +65,14 @@ const transformWikiBugs = (wikiCritters: Wiki_Fish[]): Bug[] => {
   });
 };
 
-const transformFurniture = (wikiFurniture: Wiki_Furniture[]): Furniture[] => {
+const transformFurniture = (
+  wikiFurniture: Wiki_Furniture[],
+): SerializedFurniture[] => {
   return wikiFurniture.map((wikiFurnitureItem) => {
+    const imageText = wikiFurnitureItem.Image?.text || '';
     const imageName = getWikiItemIconFileName(
       wikiFurnitureItem.Name.text,
-      path.extname(
-        wikiFurnitureItem.Image.text.replace(/(\[\[File:|\]\])/g, ''),
-      ),
+      path.extname(imageText.replace(/(\[\[File:|\]\])/g, '')),
     );
     const imageExists = fs.existsSync(
       path.join(extractionDirectory, 'images/furniture', imageName),
@@ -76,8 +81,8 @@ const transformFurniture = (wikiFurniture: Wiki_Furniture[]): Furniture[] => {
       name: wikiFurnitureItem.Name.text,
       imageName: imageExists ? `/images/bugs/${imageName}` : null,
       price: {
-        buy: parsePrice(wikiFurnitureItem['Price (Buy)'].text),
-        sell: parsePrice(wikiFurnitureItem['Price (Sell)'].text),
+        buy: parsePrice(wikiFurnitureItem['Price (Buy)']?.text || ''),
+        sell: parsePrice(wikiFurnitureItem['Price (Sell)']?.text || ''),
       },
     };
   });
