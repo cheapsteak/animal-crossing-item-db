@@ -137,6 +137,3 @@ export const load = () => {
 };
 
 load();
-
-// const furniture = require(path.join(extractionDirectory, `furniture.json`));
-// console.log(new Set(furniture.map((x: any) => x.Source.text)));
