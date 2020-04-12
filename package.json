@@ -29,6 +29,7 @@
     "wtf_wikipedia": "8.1.1"
   },
   "scripts": {
+    "analyze": "source-map-explorer 'build/static/js/*.js'",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --passWithNoTests",
@@ -62,6 +63,7 @@
     "eslint-config-prettier": "6.10.1",
     "eslint-plugin-prettier": "3.1.2",
     "prettier": "2.0.2",
+    "source-map-explorer": "2.4.2",
     "ts-jest": "25.3.1",
     "ts-node": "8.8.1",
     "ts-node-dev": "1.0.0-pre.44",
