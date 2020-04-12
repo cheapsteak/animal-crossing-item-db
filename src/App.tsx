@@ -1,64 +1,12 @@
 /** @jsx jsx */
 import { jsx, css } from '@emotion/core';
-import React, { Suspense, useState, useMemo } from 'react';
-import { FixedSizeList, ListChildComponentProps } from 'react-window';
+import { Suspense, useState, useMemo } from 'react';
+import { FixedSizeList } from 'react-window';
 import AutoSizer from 'react-virtualized-auto-sizer';
 
 import { useItemsData } from './useItemsData';
 import { Furniture, Fish, Bug } from './types';
-
-const numberFormatter = new Intl.NumberFormat();
-
-const ItemRenderer: React.FC<ListChildComponentProps> = ({
-  data,
-  index,
-  style,
-}) => {
-  const x = data[index];
-  return (
-    <div key={x.type + x.name} style={style}>
-      <div
-        css={css`
-          height: 40px;
-          padding: 0.5em 1em;
-          display: flex;
-          align-items: center;
-        `}
-      >
-        <div
-          css={css`
-            width: 40px;
-          `}
-        >
-          {x.imageName && (
-            <img
-              src={`${x.imageName}`}
-              css={css`
-                width: 32px;
-              `}
-              alt=""
-            />
-          )}
-        </div>
-        <span>{x.name}</span>
-        <div
-          css={css`
-            margin-left: auto;
-          `}
-        >
-          {x.type !== 'furniture' ? (
-            <span>{numberFormatter.format(x.price)}</span>
-          ) : (
-            <span>
-              {x.price.sell?.amount &&
-                numberFormatter.format(x.price.sell?.amount)}
-            </span>
-          )}
-        </div>
-      </div>
-    </div>
-  );
-};
+import { ListItem } from './ListItem';
 
 const Foo = () => {
   const { furniture, fish, bugs } = useItemsData({ hemisphere: 'northern' });
@@ -112,7 +60,7 @@ const Foo = () => {
               width={width}
               itemSize={40}
             >
-              {ItemRenderer}
+              {ListItem}
             </FixedSizeList>
           )}
         </AutoSizer>
