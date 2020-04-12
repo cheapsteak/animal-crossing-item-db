@@ -1,53 +1,68 @@
 /** @jsx jsx */
 import { jsx, css } from '@emotion/core';
 import React from 'react';
-import { ListChildComponentProps } from 'react-window';
+import { GridChildComponentProps } from 'react-window';
 
 const numberFormatter = new Intl.NumberFormat();
 
-export const ListItem: React.FC<ListChildComponentProps> = ({
+export const ListItem: React.FC<GridChildComponentProps> = ({
   data,
-  index,
+  rowIndex,
+  columnIndex,
   style,
 }) => {
-  const x = data[index];
+  const item = data[rowIndex][columnIndex];
+  if (!item) {
+    return null;
+  }
   return (
-    <div key={x.type + x.name} style={style}>
+    <div key={item.type + item.name} style={style}>
       <div
         css={css`
-          height: 40px;
-          padding: 0.5em 1em;
+          padding-top: 4px;
+          padding-bottom: 4px;
           display: flex;
+          flex-direction: column;
           align-items: center;
+          justify-content: center;
         `}
       >
         <div
           css={css`
-            width: 40px;
+            width: 50px;
+            min-height: 50px;
           `}
         >
-          {x.imageName && (
+          {item.imageName && (
             <img
-              src={`${x.imageName}`}
+              src={`${item.imageName}`}
               css={css`
-                width: 32px;
+                width: 100%;
               `}
               alt=""
             />
           )}
         </div>
-        <span>{x.name}</span>
-        <div
+        <span
+          className="item-name"
           css={css`
-            margin-left: auto;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            width: 100%;
+            flex-shrink: 0;
+            text-align: center;
           `}
         >
-          {x.type !== 'furniture' ? (
-            <span>{numberFormatter.format(x.price)}</span>
+          {item.name}
+        </span>
+        <div className="item-price">
+          {item.type !== 'furniture' ? (
+            <span>{numberFormatter.format(item.price)}</span>
           ) : (
             <span>
-              {x.price.sell?.amount &&
-                numberFormatter.format(x.price.sell?.amount)}
+              {item.price.sell?.amount &&
+                numberFormatter.format(item.price.sell?.amount)}
             </span>
           )}
         </div>
