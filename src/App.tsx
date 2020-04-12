@@ -1,3 +1,5 @@
+/** @jsx jsx */
+import { jsx, css } from '@emotion/core';
 import React, { Suspense, useState, useMemo } from 'react';
 import { FixedSizeList, ListChildComponentProps } from 'react-window';
 import AutoSizer from 'react-virtualized-auto-sizer';
@@ -16,20 +18,34 @@ const ItemRenderer: React.FC<ListChildComponentProps> = ({
   return (
     <div key={x.type + x.name} style={style}>
       <div
-        style={{
-          height: 40,
-          padding: '0.5em 1em',
-          display: 'flex',
-          alignItems: 'center',
-        }}
+        css={css`
+          height: 40px;
+          padding: 0.5em 1em;
+          display: flex;
+          align-items: center;
+        `}
       >
-        <div style={{ width: 40 }}>
+        <div
+          css={css`
+            width: 40px;
+          `}
+        >
           {x.imageName && (
-            <img src={`${x.imageName}`} style={{ width: 32 }} alt="" />
+            <img
+              src={`${x.imageName}`}
+              css={css`
+                width: 32px;
+              `}
+              alt=""
+            />
           )}
         </div>
         <span>{x.name}</span>
-        <div style={{ marginLeft: 'auto' }}>
+        <div
+          css={css`
+            margin-left: auto;
+          `}
+        >
           {x.type !== 'furniture' ? (
             <span>{numberFormatter.format(x.price)}</span>
           ) : (
@@ -75,14 +91,18 @@ const Foo = () => {
         type="text"
         value={searchQuery}
         onChange={(e) => setSearchQuery(e.target.value)}
-        style={{
-          padding: '0.5em',
-          margin: '0.5em',
-          borderRadius: 3,
-          border: `1px solid #ccc`,
-        }}
+        css={css`
+          padding: 0.5em;
+          margin: 0.5em;
+          border-radius: 3px;
+          border: 1px solid #ccc;
+        `}
       />
-      <div style={{ flexGrow: 1 }}>
+      <div
+        css={css`
+          flex-grow: 1;
+        `}
+      >
         <AutoSizer>
           {({ height, width }) => (
             <FixedSizeList
