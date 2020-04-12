@@ -1,12 +1,10 @@
 /** @jsx jsx */
 import { jsx, css } from '@emotion/core';
 import { Suspense, useState, useMemo } from 'react';
-import { FixedSizeList } from 'react-window';
-import AutoSizer from 'react-virtualized-auto-sizer';
 
 import { useItemsData } from './useItemsData';
 import { Furniture, Fish, Bug } from './types';
-import { ListItem } from './ListItem';
+import { List } from './List';
 
 const Foo = () => {
   const { furniture, fish, bugs } = useItemsData({ hemisphere: 'northern' });
@@ -51,19 +49,7 @@ const Foo = () => {
           flex-grow: 1;
         `}
       >
-        <AutoSizer>
-          {({ height, width }) => (
-            <FixedSizeList
-              itemData={searchResults}
-              itemCount={searchResults.length}
-              height={height}
-              width={width}
-              itemSize={40}
-            >
-              {ListItem}
-            </FixedSizeList>
-          )}
-        </AutoSizer>
+        <List items={searchResults} />
       </div>
     </div>
   );
