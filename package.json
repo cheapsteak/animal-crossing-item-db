@@ -19,6 +19,7 @@
     "ky": "0.19.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-ga": "2.7.0",
     "react-query": "1.2.1",
     "react-scripts": "3.4.1",
     "react-virtualized-auto-sizer": "1.0.2",
