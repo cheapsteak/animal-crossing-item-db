@@ -56,3 +56,10 @@ jobs:
       env:
         BUNDLEWATCH_GITHUB_TOKEN: ${{ secrets.BUNDLEWATCH_GITHUB_TOKEN }}
       run: yarn bundlewatch
+
+    - name: Create analyze bundle size page
+      run: yarn analyze --html bundle-stats.html
+    - uses: actions/upload-artifact@v1
+      with:
+        name: bundle-stats
+        path: bundle-stats.html
