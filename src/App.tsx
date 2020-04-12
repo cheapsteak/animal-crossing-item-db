@@ -1,6 +1,9 @@
-import React, { Suspense, useState, useMemo } from 'react';
+/** @jsx jsx */
+import { jsx } from 'theme-ui';
+import { Suspense, useState, useMemo } from 'react';
 import { FixedSizeList, ListChildComponentProps } from 'react-window';
 import AutoSizer from 'react-virtualized-auto-sizer';
+import { Input } from 'theme-ui';
 
 import { useItemsData } from './useItemsData';
 import { Furniture, Fish, Bug } from './types';
@@ -70,14 +73,21 @@ const Foo = () => {
   }, [queryRegex, furniture, fish, bugs]);
 
   return (
-    <div style={{ height: '100%', display: 'flex', flexDirection: 'column' }}>
-      <input
+    <div
+      sx={{
+        height: '100%',
+        display: 'flex',
+        flexDirection: 'column',
+      }}
+    >
+      <Input
+        m={2}
+        p={1}
         type="text"
         value={searchQuery}
         onChange={(e) => setSearchQuery(e.target.value)}
-        style={{
-          padding: '0.5em',
-          margin: '0.5em',
+        sx={{
+          width: 'auto',
           borderRadius: 3,
           border: `1px solid #ccc`,
         }}
