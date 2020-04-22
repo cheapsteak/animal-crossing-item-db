@@ -1,6 +1,6 @@
 /** @jsx jsx */
 import { jsx, css } from '@emotion/core';
-import React from 'react';
+import React, { useState } from 'react';
 import { GridChildComponentProps } from 'react-window';
 
 const numberFormatter = new Intl.NumberFormat();
@@ -11,12 +11,24 @@ export const ListItem: React.FC<GridChildComponentProps> = ({
   columnIndex,
   style,
 }) => {
+  const [mode, setMode] = useState<'icon' | 'detailed'>('icon');
   const item = data[rowIndex][columnIndex];
   if (!item) {
     return null;
   }
   return (
-    <div key={item.type + item.name} style={style}>
+    <div
+      key={item.type + item.name}
+      style={style}
+      css={css`
+        position: relative;
+        font-size: 14px;
+        ${mode === 'detailed' &&
+        css`
+          z-index: 1;
+        `}
+      `}
+    >
       <div
         css={css`
           padding-top: 4px;
@@ -25,7 +37,15 @@ export const ListItem: React.FC<GridChildComponentProps> = ({
           flex-direction: column;
           align-items: center;
           justify-content: center;
+          border-radius: 50%;
+
+          ${mode === 'detailed' &&
+          css`
+            background-color: #51b2a8;
+            color: #fffff5;
+          `}
         `}
+        onClick={() => setMode(mode === 'icon' ? 'detailed' : 'icon')}
       >
         <div
           css={css`
@@ -38,6 +58,8 @@ export const ListItem: React.FC<GridChildComponentProps> = ({
               src={`${item.imageName}`}
               css={css`
                 width: 100%;
+                height: 50px;
+                object-fit: contain;
               `}
               alt=""
             />
@@ -46,17 +68,32 @@ export const ListItem: React.FC<GridChildComponentProps> = ({
         <span
           className="item-name"
           css={css`
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
-            width: 100%;
             flex-shrink: 0;
             text-align: center;
+
+            font-weight: ${mode === 'icon' ? '500' : '600'};
+            margin-bottom: 2px;
+
+            ${mode === 'icon' &&
+            css`
+              width: 100%;
+              white-space: nowrap;
+              overflow: hidden;
+              text-overflow: ellipsis;
+              ${item.name.length > 16 &&
+              css`
+                font-size: 11px;
+              `}
+            `}
+            ${mode === 'detailed' &&
+            css`
+              text-shadow: 2px 2px #51b2a8;
+            `}
           `}
         >
           {item.name}
         </span>
-        <div className="item-price">
+        <div css={css``}>
           {item.type !== 'furniture' ? (
             <span>{numberFormatter.format(item.price)}</span>
           ) : (

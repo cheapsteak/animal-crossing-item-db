@@ -18,7 +18,7 @@ export const List: React.FC<{ items: Array<Furniture | Fish | Bug> }> = ({
         const columnWidth =
           containerWidth /
           Math.max(3, Math.floor(containerWidth / approximateColumnSize));
-        const rowHeight = Math.max(columnWidth + 20, 100);
+        const rowHeight = columnWidth;
         const columnsInView = Math.floor(containerWidth / columnWidth);
         const chunkedItems = _.chunk(items, columnsInView);
         return (
