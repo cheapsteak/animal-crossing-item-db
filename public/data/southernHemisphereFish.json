@@ -1,5 +1,6 @@
 [
   {
+    "slug": "anchovy",
     "name": "Anchovy",
     "imageName": "/item-images/fish/anchovy.png",
     "price": 200,
@@ -22,6 +23,7 @@
     ]
   },
   {
+    "slug": "angelfish",
     "name": "Angelfish",
     "imageName": "/item-images/fish/angelfish.png",
     "price": 3000,
@@ -38,6 +40,7 @@
     ]
   },
   {
+    "slug": "arapaima",
     "name": "Arapaima",
     "imageName": "/item-images/fish/arapaima.png",
     "price": 10000,
@@ -52,6 +55,7 @@
     ]
   },
   {
+    "slug": "arowana",
     "name": "Arowana",
     "imageName": "/item-images/fish/arowana.png",
     "price": 10000,
@@ -66,6 +70,7 @@
     ]
   },
   {
+    "slug": "barred-knifejaw",
     "name": "Barred knifejaw",
     "imageName": "/item-images/fish/barred-knifejaw.png",
     "price": 5000,
@@ -85,6 +90,7 @@
     ]
   },
   {
+    "slug": "barreleye",
     "name": "Barreleye",
     "imageName": "/item-images/fish/barreleye.png",
     "price": 15000,
@@ -107,6 +113,7 @@
     ]
   },
   {
+    "slug": "betta",
     "name": "Betta",
     "imageName": "/item-images/fish/betta.png",
     "price": 2500,
@@ -123,6 +130,7 @@
     ]
   },
   {
+    "slug": "bitterling",
     "name": "Bitterling",
     "imageName": "/item-images/fish/bitterling.png",
     "price": 900,
@@ -138,6 +146,7 @@
     ]
   },
   {
+    "slug": "black-bass",
     "name": "Black bass",
     "imageName": "/item-images/fish/black-bass.png",
     "price": 320,
@@ -160,6 +169,7 @@
     ]
   },
   {
+    "slug": "blowfish",
     "name": "Blowfish",
     "imageName": "/item-images/fish/blowfish.png",
     "price": 5000,
@@ -174,6 +184,7 @@
     ]
   },
   {
+    "slug": "blue-marlin",
     "name": "Blue marlin",
     "imageName": "/item-images/fish/blue-marlin.png",
     "price": 10000,
@@ -193,6 +204,7 @@
     ]
   },
   {
+    "slug": "bluegill",
     "name": "Bluegill",
     "imageName": "/item-images/fish/bluegill.png",
     "price": 180,
@@ -215,6 +227,7 @@
     ]
   },
   {
+    "slug": "butterfly-fish",
     "name": "Butterfly fish",
     "imageName": "/item-images/fish/butterfly-fish.png",
     "price": 1000,
@@ -231,6 +244,7 @@
     ]
   },
   {
+    "slug": "carp",
     "name": "Carp",
     "imageName": "/item-images/fish/carp.png",
     "price": 300,
@@ -253,6 +267,7 @@
     ]
   },
   {
+    "slug": "catfish",
     "name": "Catfish",
     "imageName": "/item-images/fish/catfish.png",
     "price": 800,
@@ -269,6 +284,7 @@
     ]
   },
   {
+    "slug": "char",
     "name": "Char",
     "imageName": "/item-images/fish/char.png",
     "price": 3800,
@@ -286,6 +302,7 @@
     ]
   },
   {
+    "slug": "cherry-salmon",
     "name": "Cherry salmon",
     "imageName": "/item-images/fish/cherry-salmon.png",
     "price": 800,
@@ -303,6 +320,7 @@
     ]
   },
   {
+    "slug": "clown-fish",
     "name": "Clown fish",
     "imageName": "/item-images/fish/clown-fish.png",
     "price": 650,
@@ -319,6 +337,7 @@
     ]
   },
   {
+    "slug": "coelacanth",
     "name": "Coelacanth",
     "imageName": "/item-images/fish/coelacanth.png",
     "price": 15000,
@@ -341,6 +360,7 @@
     ]
   },
   {
+    "slug": "crawfish",
     "name": "Crawfish",
     "imageName": "/item-images/fish/crawfish.png",
     "price": 200,
@@ -357,6 +377,7 @@
     ]
   },
   {
+    "slug": "crucian-carp",
     "name": "Crucian carp",
     "imageName": "/item-images/fish/crucian-carp.png",
     "price": 160,
@@ -379,6 +400,7 @@
     ]
   },
   {
+    "slug": "dab",
     "name": "Dab",
     "imageName": "/item-images/fish/dab.png",
     "price": 300,
@@ -396,6 +418,7 @@
     ]
   },
   {
+    "slug": "dace",
     "name": "Dace",
     "imageName": "/item-images/fish/dace.png",
     "price": 192,
@@ -418,6 +441,7 @@
     ]
   },
   {
+    "slug": "dorado",
     "name": "Dorado",
     "imageName": "/item-images/fish/dorado.png",
     "price": 15000,
@@ -432,6 +456,7 @@
     ]
   },
   {
+    "slug": "football-fish",
     "name": "Football fish",
     "imageName": "/item-images/fish/football-fish.png",
     "price": 2500,
@@ -447,6 +472,7 @@
     ]
   },
   {
+    "slug": "freshwater-goby",
     "name": "Freshwater goby",
     "imageName": "/item-images/fish/freshwater-goby.png",
     "price": 400,
@@ -469,6 +495,7 @@
     ]
   },
   {
+    "slug": "frog",
     "name": "Frog",
     "imageName": "/item-images/fish/frog.png",
     "price": 120,
@@ -483,6 +510,7 @@
     ]
   },
   {
+    "slug": "gar",
     "name": "Gar",
     "imageName": "/item-images/fish/gar.png",
     "price": 6000,
@@ -497,6 +525,7 @@
     ]
   },
   {
+    "slug": "giant-snakehead",
     "name": "Giant snakehead",
     "imageName": "/item-images/fish/giant-snakehead.png",
     "price": 5500,
@@ -510,6 +539,7 @@
     ]
   },
   {
+    "slug": "giant-trevally",
     "name": "Giant trevally",
     "imageName": "/item-images/fish/giant-trevally.png",
     "price": 4500,
@@ -526,6 +556,7 @@
     ]
   },
   {
+    "slug": "golden-trout",
     "name": "Golden trout",
     "imageName": "/item-images/fish/golden-trout.png",
     "price": 15000,
@@ -542,6 +573,7 @@
     ]
   },
   {
+    "slug": "goldfish",
     "name": "Goldfish",
     "imageName": "/item-images/fish/goldfish.png",
     "price": 1300,
@@ -564,6 +596,7 @@
     ]
   },
   {
+    "slug": "great-white-shark",
     "name": "Great white shark",
     "imageName": "/item-images/fish/great-white-shark.png",
     "price": 15000,
@@ -578,6 +611,7 @@
     ]
   },
   {
+    "slug": "guppy",
     "name": "Guppy",
     "imageName": "/item-images/fish/guppy.png",
     "price": 1300,
@@ -596,6 +630,7 @@
     ]
   },
   {
+    "slug": "hammerhead-shark",
     "name": "Hammerhead shark",
     "imageName": "/item-images/fish/hammerhead-shark.png",
     "price": 8000,
@@ -610,6 +645,7 @@
     ]
   },
   {
+    "slug": "horse-mackerel",
     "name": "Horse mackerel",
     "imageName": "/item-images/fish/horse-mackerel.png",
     "price": 150,
@@ -632,6 +668,7 @@
     ]
   },
   {
+    "slug": "killifish",
     "name": "Killifish",
     "imageName": "/item-images/fish/killifish.png",
     "price": 300,
@@ -647,6 +684,7 @@
     ]
   },
   {
+    "slug": "king-salmon",
     "name": "King salmon",
     "imageName": "/item-images/fish/king-salmon.png",
     "price": 1800,
@@ -658,6 +696,7 @@
     ]
   },
   {
+    "slug": "koi",
     "name": "Koi",
     "imageName": "/item-images/fish/koi.png",
     "price": 4000,
@@ -680,6 +719,7 @@
     ]
   },
   {
+    "slug": "loach",
     "name": "Loach",
     "imageName": "/item-images/fish/loach.png",
     "price": 400,
@@ -693,6 +733,7 @@
     ]
   },
   {
+    "slug": "mahi-mahi",
     "name": "Mahi-mahi",
     "imageName": "/item-images/fish/mahi-mahi.png",
     "price": 6000,
@@ -709,6 +750,7 @@
     ]
   },
   {
+    "slug": "mitten-crab",
     "name": "Mitten crab",
     "imageName": "/item-images/fish/mitten-crab.png",
     "price": 2000,
@@ -722,6 +764,7 @@
     ]
   },
   {
+    "slug": "moray-eel",
     "name": "Moray eel",
     "imageName": "/item-images/fish/moray-eel.png",
     "price": 2000,
@@ -735,6 +778,7 @@
     ]
   },
   {
+    "slug": "napoleonfish",
     "name": "Napoleonfish",
     "imageName": "/item-images/fish/napoleonfish.png",
     "price": 10000,
@@ -747,6 +791,7 @@
     ]
   },
   {
+    "slug": "neon-tetra",
     "name": "Neon tetra",
     "imageName": "/item-images/fish/neon-tetra.png",
     "price": 500,
@@ -765,6 +810,7 @@
     ]
   },
   {
+    "slug": "nibble-fish",
     "name": "Nibble fish",
     "imageName": "/item-images/fish/nibble-fish.png",
     "price": 1500,
@@ -780,6 +826,7 @@
     ]
   },
   {
+    "slug": "oarfish",
     "name": "Oarfish",
     "imageName": "/item-images/fish/oarfish.png",
     "price": 9000,
@@ -796,6 +843,7 @@
     ]
   },
   {
+    "slug": "ocean-sunfish",
     "name": "Ocean sunfish",
     "imageName": "/item-images/fish/ocean-sunfish.png",
     "price": 4000,
@@ -809,6 +857,7 @@
     ]
   },
   {
+    "slug": "olive-flounder",
     "name": "Olive flounder",
     "imageName": "/item-images/fish/olive-flounder.png",
     "price": 800,
@@ -831,6 +880,7 @@
     ]
   },
   {
+    "slug": "pale-chub",
     "name": "Pale chub",
     "imageName": "/item-images/fish/pale-chub.png",
     "price": 200,
@@ -853,6 +903,7 @@
     ]
   },
   {
+    "slug": "pike",
     "name": "Pike",
     "imageName": "/item-images/fish/pike.png",
     "price": 1800,
@@ -867,6 +918,7 @@
     ]
   },
   {
+    "slug": "piranha",
     "name": "Piranha",
     "imageName": "/item-images/fish/piranha.png",
     "price": 2500,
@@ -881,6 +933,7 @@
     ]
   },
   {
+    "slug": "pond-smelt",
     "name": "Pond smelt",
     "imageName": "/item-images/fish/pond-smelt.png",
     "price": 500,
@@ -894,6 +947,7 @@
     ]
   },
   {
+    "slug": "pop-eyed-goldfish",
     "name": "Pop-eyed goldfish",
     "imageName": "/item-images/fish/pop-eyed-goldfish.png",
     "price": 1300,
@@ -916,6 +970,7 @@
     ]
   },
   {
+    "slug": "puffer-fish",
     "name": "Puffer fish",
     "imageName": "/item-images/fish/puffer-fish.png",
     "price": 250,
@@ -929,6 +984,7 @@
     ]
   },
   {
+    "slug": "rainbowfish",
     "name": "Rainbowfish",
     "imageName": "/item-images/fish/rainbowfish.png",
     "price": 800,
@@ -945,6 +1001,7 @@
     ]
   },
   {
+    "slug": "ranchu-goldfish",
     "name": "Ranchu goldfish",
     "imageName": "/item-images/fish/ranchu-goldfish.png",
     "price": 4500,
@@ -967,6 +1024,7 @@
     ]
   },
   {
+    "slug": "ray",
     "name": "Ray",
     "imageName": "/item-images/fish/ray.png",
     "price": 3000,
@@ -981,6 +1039,7 @@
     ]
   },
   {
+    "slug": "red-snapper",
     "name": "Red snapper",
     "imageName": "/item-images/fish/red-snapper.png",
     "price": 3000,
@@ -1003,6 +1062,7 @@
     ]
   },
   {
+    "slug": "ribbon-eel",
     "name": "Ribbon eel",
     "imageName": "/item-images/fish/ribbon-eel.png",
     "price": 600,
@@ -1018,6 +1078,7 @@
     ]
   },
   {
+    "slug": "saddled-bichir",
     "name": "Saddled bichir",
     "imageName": "/item-images/fish/saddled-bichir.png",
     "price": 4000,
@@ -1032,6 +1093,7 @@
     ]
   },
   {
+    "slug": "salmon",
     "name": "Salmon",
     "imageName": "/item-images/fish/salmon.png",
     "price": 700,
@@ -1043,6 +1105,7 @@
     ]
   },
   {
+    "slug": "saw-shark",
     "name": "Saw shark",
     "imageName": "/item-images/fish/saw-shark.png",
     "price": 12000,
@@ -1057,6 +1120,7 @@
     ]
   },
   {
+    "slug": "sea-bass",
     "name": "Sea bass",
     "imageName": "/item-images/fish/sea-bass.png",
     "price": 400,
@@ -1079,6 +1143,7 @@
     ]
   },
   {
+    "slug": "sea-butterfly",
     "name": "Sea butterfly",
     "imageName": "/item-images/fish/sea-butterfly.png",
     "price": 1000,
@@ -1093,6 +1158,7 @@
     ]
   },
   {
+    "slug": "sea-horse",
     "name": "Sea horse",
     "imageName": "/item-images/fish/sea-horse.png",
     "price": 1100,
@@ -1111,6 +1177,7 @@
     ]
   },
   {
+    "slug": "snapping-turtle",
     "name": "Snapping Turtle",
     "imageName": "/item-images/fish/snapping-turtle.png",
     "price": 5000,
@@ -1128,6 +1195,7 @@
     ]
   },
   {
+    "slug": "soft-shelled-turtle",
     "name": "Soft-shelled turtle",
     "imageName": "/item-images/fish/soft-shelled-turtle.png",
     "price": 3750,
@@ -1140,6 +1208,7 @@
     ]
   },
   {
+    "slug": "squid",
     "name": "Squid",
     "imageName": "/item-images/fish/squid.png",
     "price": 500,
@@ -1159,6 +1228,7 @@
     ]
   },
   {
+    "slug": "stringfish",
     "name": "Stringfish",
     "imageName": "/item-images/fish/stringfish.png",
     "price": 15000,
@@ -1173,6 +1243,7 @@
     ]
   },
   {
+    "slug": "sturgeon",
     "name": "Sturgeon",
     "imageName": "/item-images/fish/sturgeon.png",
     "price": 10000,
@@ -1190,6 +1261,7 @@
     ]
   },
   {
+    "slug": "suckerfish",
     "name": "Suckerfish",
     "imageName": "/item-images/fish/suckerfish.png",
     "price": 1500,
@@ -1204,6 +1276,7 @@
     ]
   },
   {
+    "slug": "surgeonfish",
     "name": "Surgeonfish",
     "imageName": "/item-images/fish/surgeonfish.png",
     "price": 1000,
@@ -1220,6 +1293,7 @@
     ]
   },
   {
+    "slug": "sweetfish",
     "name": "Sweetfish",
     "imageName": "/item-images/fish/sweetfish.png",
     "price": 900,
@@ -1233,6 +1307,7 @@
     ]
   },
   {
+    "slug": "tadpole",
     "name": "Tadpole",
     "imageName": "/item-images/fish/tadpole.png",
     "price": 100,
@@ -1248,6 +1323,7 @@
     ]
   },
   {
+    "slug": "tilapia",
     "name": "Tilapia",
     "imageName": "/item-images/fish/tilapia.png",
     "price": 800,
@@ -1263,6 +1339,7 @@
     ]
   },
   {
+    "slug": "tuna",
     "name": "Tuna",
     "imageName": "/item-images/fish/tuna.png",
     "price": 7000,
@@ -1279,6 +1356,7 @@
     ]
   },
   {
+    "slug": "whale-shark",
     "name": "Whale shark",
     "imageName": "/item-images/fish/whale-shark.png",
     "price": 13000,
@@ -1293,6 +1371,7 @@
     ]
   },
   {
+    "slug": "yellow-perch",
     "name": "Yellow perch",
     "imageName": "/item-images/fish/yellow-perch.png",
     "price": 300,
@@ -1309,6 +1388,7 @@
     ]
   },
   {
+    "slug": "zebra-turkeyfish",
     "name": "Zebra turkeyfish",
     "imageName": "/item-images/fish/zebra-turkeyfish.png",
     "price": 500,

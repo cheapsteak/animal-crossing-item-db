@@ -1,5 +1,6 @@
 [
   {
+    "slug": "abstract-wall",
     "name": "Abstract wall",
     "imageName": null,
     "price": {
@@ -14,6 +15,7 @@
     }
   },
   {
+    "slug": "aluminium-rug",
     "name": "Aluminium rug",
     "imageName": null,
     "price": {
@@ -25,6 +27,7 @@
     }
   },
   {
+    "slug": "ancient-wall",
     "name": "Ancient wall",
     "imageName": null,
     "price": {
@@ -39,6 +42,7 @@
     }
   },
   {
+    "slug": "apple-wall",
     "name": "Apple wall",
     "imageName": null,
     "price": {
@@ -53,6 +57,7 @@
     }
   },
   {
+    "slug": "aqua-tile-flooring",
     "name": "Aqua tile flooring",
     "imageName": "/item-images/furniture/aqua-tile-flooring.png",
     "price": {
@@ -67,6 +72,7 @@
     }
   },
   {
+    "slug": "aqua-tile-wall",
     "name": "Aqua tile wall",
     "imageName": null,
     "price": {
@@ -81,6 +87,7 @@
     }
   },
   {
+    "slug": "arabesque-flooring",
     "name": "Arabesque flooring",
     "imageName": null,
     "price": {
@@ -95,6 +102,7 @@
     }
   },
   {
+    "slug": "arched-brick-flooring",
     "name": "Arched-brick flooring",
     "imageName": null,
     "price": {
@@ -106,6 +114,7 @@
     }
   },
   {
+    "slug": "arched-window-wall",
     "name": "Arched-window wall",
     "imageName": null,
     "price": {
@@ -120,6 +129,7 @@
     }
   },
   {
+    "slug": "artsy-parquet-flooring",
     "name": "Artsy parquet flooring",
     "imageName": null,
     "price": {
@@ -134,6 +144,7 @@
     }
   },
   {
+    "slug": "autumn-wall",
     "name": "Autumn wall",
     "imageName": null,
     "price": {
@@ -148,6 +159,7 @@
     }
   },
   {
+    "slug": "backyard-lawn",
     "name": "Backyard lawn",
     "imageName": "/item-images/furniture/backyard-lawn.png",
     "price": {
@@ -159,6 +171,7 @@
     }
   },
   {
+    "slug": "backyard-fence-wall",
     "name": "Backyard-fence wall",
     "imageName": "/item-images/furniture/backyard-fence-wall.jpg",
     "price": {
@@ -173,6 +186,7 @@
     }
   },
   {
+    "slug": "bamboo-wall",
     "name": "Bamboo wall",
     "imageName": "/item-images/furniture/bamboo-wall.jpg",
     "price": {
@@ -184,6 +198,7 @@
     }
   },
   {
+    "slug": "bamboo-grove-wall",
     "name": "Bamboo-grove wall",
     "imageName": "/item-images/furniture/bamboo-grove-wall.png",
     "price": {
@@ -195,6 +210,7 @@
     }
   },
   {
+    "slug": "bamboo-screen-wall",
     "name": "Bamboo-screen wall",
     "imageName": null,
     "price": {
@@ -209,6 +225,7 @@
     }
   },
   {
+    "slug": "bank-vault-wall",
     "name": "Bank-vault wall",
     "imageName": null,
     "price": {
@@ -223,6 +240,7 @@
     }
   },
   {
+    "slug": "basic-wall",
     "name": "Basic wall",
     "imageName": null,
     "price": {
@@ -237,6 +255,7 @@
     }
   },
   {
+    "slug": "beaded-curtain-wall",
     "name": "Beaded-curtain wall",
     "imageName": null,
     "price": {
@@ -251,6 +270,7 @@
     }
   },
   {
+    "slug": "beige-art-deco-wall",
     "name": "Beige art-deco wall",
     "imageName": null,
     "price": {
@@ -265,6 +285,7 @@
     }
   },
   {
+    "slug": "beige-blossoming-wall",
     "name": "Beige blossoming wall",
     "imageName": null,
     "price": {
@@ -279,6 +300,7 @@
     }
   },
   {
+    "slug": "beige-desert-tile-flooring",
     "name": "Beige desert-tile flooring",
     "imageName": "/item-images/furniture/beige-desert-tile-flooring.png",
     "price": {
@@ -293,6 +315,7 @@
     }
   },
   {
+    "slug": "beige-desert-tile-wall",
     "name": "Beige desert-tile wall",
     "imageName": null,
     "price": {
@@ -307,6 +330,7 @@
     }
   },
   {
+    "slug": "black-botanical-tile-wall",
     "name": "Black botanical-tile wall",
     "imageName": null,
     "price": {
@@ -321,6 +345,7 @@
     }
   },
   {
+    "slug": "black-hallway-wall",
     "name": "Black hallway wall",
     "imageName": null,
     "price": {
@@ -335,6 +360,7 @@
     }
   },
   {
+    "slug": "black-iron-parquet-flooring",
     "name": "Black iron-parquet flooring",
     "imageName": null,
     "price": {
@@ -346,6 +372,7 @@
     }
   },
   {
+    "slug": "black-perforated-board-wall",
     "name": "Black perforated-board wall",
     "imageName": null,
     "price": {
@@ -360,6 +387,7 @@
     }
   },
   {
+    "slug": "black-two-toned-tile-wall",
     "name": "Black two-toned tile wall",
     "imageName": null,
     "price": {
@@ -374,6 +402,7 @@
     }
   },
   {
+    "slug": "black-brick-wall",
     "name": "Black-brick wall",
     "imageName": null,
     "price": {
@@ -388,6 +417,7 @@
     }
   },
   {
+    "slug": "black-crown-wall",
     "name": "Black-crown wall",
     "imageName": null,
     "price": {
@@ -402,6 +432,7 @@
     }
   },
   {
+    "slug": "blackboard-wall",
     "name": "Blackboard wall",
     "imageName": null,
     "price": {
@@ -416,6 +447,7 @@
     }
   },
   {
+    "slug": "blue-blossoming-wall",
     "name": "Blue blossoming wall",
     "imageName": null,
     "price": {
@@ -430,6 +462,7 @@
     }
   },
   {
+    "slug": "blue-camo-flooring",
     "name": "Blue camo flooring",
     "imageName": null,
     "price": {
@@ -444,6 +477,7 @@
     }
   },
   {
+    "slug": "blue-camo-wall",
     "name": "Blue camo wall",
     "imageName": null,
     "price": {
@@ -458,6 +492,7 @@
     }
   },
   {
+    "slug": "blue-delicate-blooms-wall",
     "name": "Blue delicate-blooms wall",
     "imageName": null,
     "price": {
@@ -472,6 +507,7 @@
     }
   },
   {
+    "slug": "blue-desert-tile-flooring",
     "name": "Blue desert-tile flooring",
     "imageName": "/item-images/furniture/blue-desert-tile-flooring.png",
     "price": {
@@ -486,6 +522,7 @@
     }
   },
   {
+    "slug": "blue-desert-tile-wall",
     "name": "Blue desert-tile wall",
     "imageName": null,
     "price": {
@@ -500,6 +537,7 @@
     }
   },
   {
+    "slug": "blue-diner-wall",
     "name": "Blue diner wall",
     "imageName": null,
     "price": {
@@ -514,6 +552,7 @@
     }
   },
   {
+    "slug": "blue-dotted-rug",
     "name": "Blue dotted rug",
     "imageName": null,
     "price": {
@@ -525,6 +564,7 @@
     }
   },
   {
+    "slug": "blue-floral-flooring",
     "name": "Blue floral flooring",
     "imageName": null,
     "price": {
@@ -539,6 +579,7 @@
     }
   },
   {
+    "slug": "blue-flower-print-wall",
     "name": "Blue flower-print wall",
     "imageName": null,
     "price": {
@@ -553,6 +594,7 @@
     }
   },
   {
+    "slug": "blue-heart-pattern-wall",
     "name": "Blue heart-pattern wall",
     "imageName": null,
     "price": {
@@ -567,6 +609,7 @@
     }
   },
   {
+    "slug": "blue-honeycomb-tile-wall",
     "name": "Blue honeycomb-tile wall",
     "imageName": null,
     "price": {
@@ -581,6 +624,7 @@
     }
   },
   {
+    "slug": "blue-intricate-wall",
     "name": "Blue intricate wall",
     "imageName": null,
     "price": {
@@ -595,6 +639,7 @@
     }
   },
   {
+    "slug": "blue-molded-panel-wall",
     "name": "Blue molded-panel wall",
     "imageName": null,
     "price": {
@@ -609,6 +654,7 @@
     }
   },
   {
+    "slug": "blue-mosaic-tile-flooring",
     "name": "Blue mosaic-tile flooring",
     "imageName": null,
     "price": {
@@ -623,6 +669,7 @@
     }
   },
   {
+    "slug": "blue-painted-wood-wall",
     "name": "Blue painted-wood wall",
     "imageName": null,
     "price": {
@@ -634,6 +681,7 @@
     }
   },
   {
+    "slug": "blue-playroom-wall",
     "name": "Blue playroom wall",
     "imageName": "/item-images/furniture/blue-playroom-wall.jpg",
     "price": {
@@ -648,6 +696,7 @@
     }
   },
   {
+    "slug": "blue-quilt-wall",
     "name": "Blue quilt wall",
     "imageName": null,
     "price": {
@@ -662,6 +711,7 @@
     }
   },
   {
+    "slug": "blue-rubber-flooring",
     "name": "Blue rubber flooring",
     "imageName": null,
     "price": {
@@ -673,6 +723,7 @@
     }
   },
   {
+    "slug": "blue-shaggy-rug",
     "name": "Blue shaggy rug",
     "imageName": null,
     "price": {
@@ -684,6 +735,7 @@
     }
   },
   {
+    "slug": "blue-shanty-wall",
     "name": "Blue shanty wall",
     "imageName": null,
     "price": {
@@ -698,6 +750,7 @@
     }
   },
   {
+    "slug": "blue-simple-cloth-wall",
     "name": "Blue simple-cloth wall",
     "imageName": null,
     "price": {
@@ -712,6 +765,7 @@
     }
   },
   {
+    "slug": "blue-small-round-mat",
     "name": "Blue small round mat",
     "imageName": null,
     "price": {
@@ -723,6 +777,7 @@
     }
   },
   {
+    "slug": "blue-subway-tile-wall",
     "name": "Blue subway-tile wall",
     "imageName": null,
     "price": {
@@ -737,6 +792,7 @@
     }
   },
   {
+    "slug": "blue-tile-wall",
     "name": "Blue tile wall",
     "imageName": null,
     "price": {
@@ -751,6 +807,7 @@
     }
   },
   {
+    "slug": "blue-two-toned-tile-wall",
     "name": "Blue two-toned tile wall",
     "imageName": null,
     "price": {
@@ -765,6 +822,7 @@
     }
   },
   {
+    "slug": "blue-vinyl-sheet",
     "name": "Blue vinyl sheet",
     "imageName": null,
     "price": {
@@ -776,6 +834,7 @@
     }
   },
   {
+    "slug": "blue-crown-wall",
     "name": "Blue-crown wall",
     "imageName": null,
     "price": {
@@ -790,6 +849,7 @@
     }
   },
   {
+    "slug": "blue-paint-flooring",
     "name": "Blue-paint flooring",
     "imageName": null,
     "price": {
@@ -804,6 +864,7 @@
     }
   },
   {
+    "slug": "blue-paint-wall",
     "name": "Blue-paint wall",
     "imageName": null,
     "price": {
@@ -818,6 +879,7 @@
     }
   },
   {
+    "slug": "blue-rose-wall",
     "name": "Blue-rose wall",
     "imageName": null,
     "price": {
@@ -832,6 +894,7 @@
     }
   },
   {
+    "slug": "blue-striped-wall",
     "name": "Blue-striped wall",
     "imageName": null,
     "price": {
@@ -846,6 +909,7 @@
     }
   },
   {
+    "slug": "botanical-tile-wall",
     "name": "Botanical-tile wall",
     "imageName": null,
     "price": {
@@ -860,6 +924,7 @@
     }
   },
   {
+    "slug": "boxing-ring-mat",
     "name": "Boxing-ring mat",
     "imageName": null,
     "price": {
@@ -871,6 +936,7 @@
     }
   },
   {
+    "slug": "brown-argyle-rug",
     "name": "Brown argyle rug",
     "imageName": null,
     "price": {
@@ -882,6 +948,7 @@
     }
   },
   {
+    "slug": "brown-argyle-tile-flooring",
     "name": "Brown argyle-tile flooring",
     "imageName": "/item-images/furniture/brown-argyle-tile-flooring.jpg",
     "price": {
@@ -896,6 +963,7 @@
     }
   },
   {
+    "slug": "brown-botanical-tile-wall",
     "name": "Brown botanical-tile wall",
     "imageName": null,
     "price": {
@@ -910,6 +978,7 @@
     }
   },
   {
+    "slug": "brown-diner-wall",
     "name": "Brown diner wall",
     "imageName": null,
     "price": {
@@ -924,6 +993,7 @@
     }
   },
   {
+    "slug": "brown-floral-flooring",
     "name": "Brown floral flooring",
     "imageName": null,
     "price": {
@@ -938,6 +1008,7 @@
     }
   },
   {
+    "slug": "brown-hallway-wall",
     "name": "Brown hallway wall",
     "imageName": null,
     "price": {
@@ -952,6 +1023,7 @@
     }
   },
   {
+    "slug": "brown-herringbone-wall",
     "name": "Brown herringbone wall",
     "imageName": "/item-images/furniture/brown-herringbone-wall.png",
     "price": {
@@ -963,6 +1035,7 @@
     }
   },
   {
+    "slug": "brown-honeycomb-tile",
     "name": "Brown honeycomb tile",
     "imageName": null,
     "price": {
@@ -977,6 +1050,7 @@
     }
   },
   {
+    "slug": "brown-kitchen-mat",
     "name": "Brown kitchen mat",
     "imageName": "/item-images/furniture/brown-kitchen-mat.png",
     "price": {
@@ -988,6 +1062,7 @@
     }
   },
   {
+    "slug": "brown-shanty-wall",
     "name": "Brown shanty wall",
     "imageName": null,
     "price": {
@@ -1002,6 +1077,7 @@
     }
   },
   {
+    "slug": "brown-wooden-deck-rug",
     "name": "Brown wooden-deck rug",
     "imageName": "/item-images/furniture/brown-wooden-deck-rug.png",
     "price": {
@@ -1013,6 +1089,7 @@
     }
   },
   {
+    "slug": "brown-brick-flooring",
     "name": "Brown-brick flooring",
     "imageName": null,
     "price": {
@@ -1027,6 +1104,7 @@
     }
   },
   {
+    "slug": "brown-brick-wall",
     "name": "Brown-brick wall",
     "imageName": null,
     "price": {
@@ -1041,6 +1119,7 @@
     }
   },
   {
+    "slug": "brown-crown-wall",
     "name": "Brown-crown wall",
     "imageName": null,
     "price": {
@@ -1055,6 +1134,7 @@
     }
   },
   {
+    "slug": "bunny-day-flooring",
     "name": "Bunny Day flooring",
     "imageName": "/item-images/furniture/bunny-day-flooring.png",
     "price": {
@@ -1063,6 +1143,7 @@
     }
   },
   {
+    "slug": "bunny-day-rug",
     "name": "Bunny Day rug",
     "imageName": null,
     "price": {
@@ -1071,6 +1152,7 @@
     }
   },
   {
+    "slug": "bunny-day-wall",
     "name": "Bunny Day wall",
     "imageName": "/item-images/furniture/bunny-day-wall.png",
     "price": {
@@ -1082,6 +1164,7 @@
     }
   },
   {
+    "slug": "butterflies-wall",
     "name": "Butterflies wall",
     "imageName": null,
     "price": {
@@ -1096,6 +1179,7 @@
     }
   },
   {
+    "slug": "cabin-wall",
     "name": "Cabin wall",
     "imageName": null,
     "price": {
@@ -1110,6 +1194,7 @@
     }
   },
   {
+    "slug": "cafe-curtain-wall",
     "name": "Café-curtain wall",
     "imageName": null,
     "price": {
@@ -1124,6 +1209,7 @@
     }
   },
   {
+    "slug": "camo-wall",
     "name": "Camo wall",
     "imageName": null,
     "price": {
@@ -1138,6 +1224,7 @@
     }
   },
   {
+    "slug": "chain-link-fence",
     "name": "Chain-link fence",
     "imageName": null,
     "price": {
@@ -1152,6 +1239,7 @@
     }
   },
   {
+    "slug": "cherry-wall",
     "name": "Cherry wall",
     "imageName": null,
     "price": {
@@ -1166,6 +1254,7 @@
     }
   },
   {
+    "slug": "cherry-blossom-trees-wall",
     "name": "Cherry-blossom-trees wall",
     "imageName": null,
     "price": {
@@ -1177,6 +1266,7 @@
     }
   },
   {
+    "slug": "chic-wall",
     "name": "Chic Wall",
     "imageName": null,
     "price": {
@@ -1191,6 +1281,7 @@
     }
   },
   {
+    "slug": "chic-tearoom-wall",
     "name": "Chic tearoom wall",
     "imageName": "/item-images/furniture/chic-tearoom-wall.jpg",
     "price": {
@@ -1205,6 +1296,7 @@
     }
   },
   {
+    "slug": "chocolate-hallway-wall",
     "name": "Chocolate hallway wall",
     "imageName": null,
     "price": {
@@ -1219,6 +1311,7 @@
     }
   },
   {
+    "slug": "chocolate-herringbone-wall",
     "name": "Chocolate herringbone wall",
     "imageName": null,
     "price": {
@@ -1233,6 +1326,7 @@
     }
   },
   {
+    "slug": "circuit-board-wall",
     "name": "Circuit-board wall",
     "imageName": null,
     "price": {
@@ -1247,6 +1341,7 @@
     }
   },
   {
+    "slug": "cityscape-wall",
     "name": "Cityscape wall",
     "imageName": null,
     "price": {
@@ -1261,6 +1356,7 @@
     }
   },
   {
+    "slug": "classic-library-wall",
     "name": "Classic-library wall",
     "imageName": null,
     "price": {
@@ -1275,6 +1371,7 @@
     }
   },
   {
+    "slug": "colorful-mosaic-tile-flooring",
     "name": "Colorful mosaic-tile flooring",
     "imageName": null,
     "price": {
@@ -1289,6 +1386,7 @@
     }
   },
   {
+    "slug": "colorful-puzzle-flooring",
     "name": "Colorful puzzle flooring",
     "imageName": null,
     "price": {
@@ -1300,6 +1398,7 @@
     }
   },
   {
+    "slug": "colorful-puzzle-wall",
     "name": "Colorful puzzle wall",
     "imageName": null,
     "price": {
@@ -1314,6 +1413,7 @@
     }
   },
   {
+    "slug": "colorful-tile-flooring",
     "name": "Colorful tile flooring",
     "imageName": null,
     "price": {
@@ -1328,6 +1428,7 @@
     }
   },
   {
+    "slug": "colorful-tile-wall",
     "name": "Colorful-tile wall",
     "imageName": null,
     "price": {
@@ -1342,6 +1443,7 @@
     }
   },
   {
+    "slug": "common-flooring",
     "name": "Common flooring",
     "imageName": null,
     "price": {
@@ -1356,6 +1458,7 @@
     }
   },
   {
+    "slug": "common-wall",
     "name": "Common wall",
     "imageName": null,
     "price": {
@@ -1370,6 +1473,7 @@
     }
   },
   {
+    "slug": "concrete-flooring",
     "name": "Concrete flooring",
     "imageName": null,
     "price": {
@@ -1384,6 +1488,7 @@
     }
   },
   {
+    "slug": "concrete-wall",
     "name": "Concrete wall",
     "imageName": "/item-images/furniture/concrete-wall.jpg",
     "price": {
@@ -1398,6 +1503,7 @@
     }
   },
   {
+    "slug": "construction-site-wall",
     "name": "Construction-site wall",
     "imageName": null,
     "price": {
@@ -1412,6 +1518,7 @@
     }
   },
   {
+    "slug": "cool-vinyl-flooring",
     "name": "Cool vinyl flooring",
     "imageName": null,
     "price": {
@@ -1423,6 +1530,7 @@
     }
   },
   {
+    "slug": "cool-paint-flooring",
     "name": "Cool-paint flooring",
     "imageName": null,
     "price": {
@@ -1437,6 +1545,7 @@
     }
   },
   {
+    "slug": "crepe-design-wall",
     "name": "Crepe-design wall",
     "imageName": null,
     "price": {
@@ -1451,6 +1560,7 @@
     }
   },
   {
+    "slug": "cubic-parquet-flooring",
     "name": "Cubic parquet flooring",
     "imageName": null,
     "price": {
@@ -1465,6 +1575,7 @@
     }
   },
   {
+    "slug": "cute-blue-wall",
     "name": "Cute blue wall",
     "imageName": null,
     "price": {
@@ -1479,6 +1590,7 @@
     }
   },
   {
+    "slug": "cute-blue-tile-flooring",
     "name": "Cute blue-tile flooring",
     "imageName": "/item-images/furniture/cute-blue-tile-flooring.jpg",
     "price": {
@@ -1493,6 +1605,7 @@
     }
   },
   {
+    "slug": "cute-red-wall",
     "name": "Cute red wall",
     "imageName": null,
     "price": {
@@ -1507,6 +1620,7 @@
     }
   },
   {
+    "slug": "cute-red-tile-flooring",
     "name": "Cute red-tile flooring",
     "imageName": null,
     "price": {
@@ -1521,6 +1635,7 @@
     }
   },
   {
+    "slug": "cute-white-wall",
     "name": "Cute white wall",
     "imageName": null,
     "price": {
@@ -1535,6 +1650,7 @@
     }
   },
   {
+    "slug": "cute-white-tile-flooring",
     "name": "Cute white-tile flooring",
     "imageName": null,
     "price": {
@@ -1549,6 +1665,7 @@
     }
   },
   {
+    "slug": "cute-yellow-wall",
     "name": "Cute yellow wall",
     "imageName": null,
     "price": {
@@ -1563,6 +1680,7 @@
     }
   },
   {
+    "slug": "cute-yellow-tile-flooring",
     "name": "Cute yellow-tile flooring",
     "imageName": null,
     "price": {
@@ -1577,6 +1695,7 @@
     }
   },
   {
+    "slug": "cute-paint-flooring",
     "name": "Cute-paint flooring",
     "imageName": "/item-images/furniture/cute-paint-flooring.png",
     "price": {
@@ -1591,6 +1710,7 @@
     }
   },
   {
+    "slug": "dark-herringbone-flooring",
     "name": "Dark herringbone flooring",
     "imageName": "/item-images/furniture/dark-herringbone-flooring.jpg",
     "price": {
@@ -1605,6 +1725,7 @@
     }
   },
   {
+    "slug": "dark-parquet-flooring",
     "name": "Dark parquet flooring",
     "imageName": null,
     "price": {
@@ -1619,6 +1740,7 @@
     }
   },
   {
+    "slug": "dark-wood-pattern-flooring",
     "name": "Dark wood-pattern flooring",
     "imageName": null,
     "price": {
@@ -1633,6 +1755,7 @@
     }
   },
   {
+    "slug": "dark-wooden-mosaic-wall",
     "name": "Dark wooden-mosaic wall",
     "imageName": "/item-images/furniture/dark-wooden-mosaic-wall.png",
     "price": {
@@ -1647,6 +1770,7 @@
     }
   },
   {
+    "slug": "dark-block-flooring",
     "name": "Dark-block flooring",
     "imageName": null,
     "price": {
@@ -1661,6 +1785,7 @@
     }
   },
   {
+    "slug": "dark-chocolate-wall",
     "name": "Dark-chocolate wall",
     "imageName": null,
     "price": {
@@ -1675,6 +1800,7 @@
     }
   },
   {
+    "slug": "desert-vista",
     "name": "Desert vista",
     "imageName": null,
     "price": {
@@ -1689,6 +1815,7 @@
     }
   },
   {
+    "slug": "dig-site-wall",
     "name": "Dig-site Wall",
     "imageName": null,
     "price": {
@@ -1703,6 +1830,7 @@
     }
   },
   {
+    "slug": "dirt-clod-wall",
     "name": "Dirt-clod wall",
     "imageName": null,
     "price": {
@@ -1717,6 +1845,7 @@
     }
   },
   {
+    "slug": "dojo-wall",
     "name": "Dojo wall",
     "imageName": null,
     "price": {
@@ -1731,6 +1860,7 @@
     }
   },
   {
+    "slug": "dungeon-wall",
     "name": "Dungeon wall",
     "imageName": null,
     "price": {
@@ -1745,6 +1875,7 @@
     }
   },
   {
+    "slug": "exquisite-wall",
     "name": "Exquisite wall",
     "imageName": null,
     "price": {
@@ -1759,6 +1890,7 @@
     }
   },
   {
+    "slug": "flagstone-flooring",
     "name": "Flagstone flooring",
     "imageName": null,
     "price": {
@@ -1773,6 +1905,7 @@
     }
   },
   {
+    "slug": "floral-mosaic-tile-flooring",
     "name": "Floral mosaic-tile flooring",
     "imageName": null,
     "price": {
@@ -1787,6 +1920,7 @@
     }
   },
   {
+    "slug": "forest-wall",
     "name": "Forest wall",
     "imageName": null,
     "price": {
@@ -1801,6 +1935,7 @@
     }
   },
   {
+    "slug": "fossil-rug",
     "name": "Fossil rug",
     "imageName": "/item-images/furniture/fossil-rug.png",
     "price": {
@@ -1812,6 +1947,7 @@
     }
   },
   {
+    "slug": "future-tech-flooring",
     "name": "Future-tech flooring",
     "imageName": null,
     "price": {
@@ -1823,6 +1959,7 @@
     }
   },
   {
+    "slug": "future-tech-wall",
     "name": "Future-tech wall",
     "imageName": null,
     "price": {
@@ -1837,6 +1974,7 @@
     }
   },
   {
+    "slug": "garbage-heap-flooring",
     "name": "Garbage-heap flooring",
     "imageName": "/item-images/furniture/garbage-heap-flooring.png",
     "price": {
@@ -1845,6 +1983,7 @@
     }
   },
   {
+    "slug": "garbage-heap-wall",
     "name": "Garbage-heap wall",
     "imageName": "/item-images/furniture/garbage-heap-wall.png",
     "price": {
@@ -1856,6 +1995,7 @@
     }
   },
   {
+    "slug": "giraffe-print-flooring",
     "name": "Giraffe-print flooring",
     "imageName": "/item-images/furniture/giraffe-print-flooring.png",
     "price": {
@@ -1870,6 +2010,7 @@
     }
   },
   {
+    "slug": "gold-screen-wall",
     "name": "Gold-screen wall",
     "imageName": null,
     "price": {
@@ -1884,6 +2025,7 @@
     }
   },
   {
+    "slug": "golden-iron-parquet-flooring",
     "name": "Golden iron-parquet flooring",
     "imageName": null,
     "price": {
@@ -1895,6 +2037,7 @@
     }
   },
   {
+    "slug": "golden-wall",
     "name": "Golden wall",
     "imageName": null,
     "price": {
@@ -1909,6 +2052,7 @@
     }
   },
   {
+    "slug": "gray-diner-wall",
     "name": "Gray diner wall",
     "imageName": null,
     "price": {
@@ -1923,6 +2067,7 @@
     }
   },
   {
+    "slug": "gray-molded-panel-wall",
     "name": "Gray molded-panel wall",
     "imageName": null,
     "price": {
@@ -1937,6 +2082,7 @@
     }
   },
   {
+    "slug": "gray-shanty-wall",
     "name": "Gray shanty wall",
     "imageName": null,
     "price": {
@@ -1951,6 +2097,7 @@
     }
   },
   {
+    "slug": "gray-vinyl-flooring",
     "name": "Gray vinyl flooring",
     "imageName": null,
     "price": {
@@ -1962,6 +2109,7 @@
     }
   },
   {
+    "slug": "gray-striped-wall",
     "name": "Gray-striped wall",
     "imageName": null,
     "price": {
@@ -1976,6 +2124,7 @@
     }
   },
   {
+    "slug": "green-blossoming-wall",
     "name": "Green blossoming wall",
     "imageName": null,
     "price": {
@@ -1990,6 +2139,7 @@
     }
   },
   {
+    "slug": "green-checked-rug",
     "name": "Green checked rug",
     "imageName": "/item-images/furniture/green-checked-rug.png",
     "price": {
@@ -2001,6 +2151,7 @@
     }
   },
   {
+    "slug": "green-delicate-blooms-wall",
     "name": "Green delicate-blooms wall",
     "imageName": null,
     "price": {
@@ -2015,6 +2166,7 @@
     }
   },
   {
+    "slug": "green-flower-print-wall",
     "name": "Green flower-print wall",
     "imageName": null,
     "price": {
@@ -2029,6 +2181,7 @@
     }
   },
   {
+    "slug": "green-honeycomb-tile",
     "name": "Green honeycomb tile",
     "imageName": null,
     "price": {
@@ -2043,6 +2196,7 @@
     }
   },
   {
+    "slug": "green-honeycomb-tile-wall",
     "name": "Green honeycomb-tile wall",
     "imageName": null,
     "price": {
@@ -2057,6 +2211,7 @@
     }
   },
   {
+    "slug": "green-intricate-wall",
     "name": "Green intricate wall",
     "imageName": null,
     "price": {
@@ -2071,6 +2226,7 @@
     }
   },
   {
+    "slug": "green-kilim-style-carpet",
     "name": "Green kilim-style carpet",
     "imageName": null,
     "price": {
@@ -2082,6 +2238,7 @@
     }
   },
   {
+    "slug": "green-kitchen-mat",
     "name": "Green kitchen mat",
     "imageName": null,
     "price": {
@@ -2093,6 +2250,7 @@
     }
   },
   {
+    "slug": "green-molded-panel-wall",
     "name": "Green molded-panel wall",
     "imageName": null,
     "price": {
@@ -2107,6 +2265,7 @@
     }
   },
   {
+    "slug": "green-painted-wood-wall",
     "name": "Green painted-wood wall",
     "imageName": null,
     "price": {
@@ -2121,6 +2280,7 @@
     }
   },
   {
+    "slug": "green-playroom-wall",
     "name": "Green playroom wall",
     "imageName": null,
     "price": {
@@ -2135,6 +2295,7 @@
     }
   },
   {
+    "slug": "green-retro-flooring",
     "name": "Green retro flooring",
     "imageName": null,
     "price": {
@@ -2149,6 +2310,7 @@
     }
   },
   {
+    "slug": "green-rubber-flooring",
     "name": "Green rubber flooring",
     "imageName": null,
     "price": {
@@ -2160,6 +2322,7 @@
     }
   },
   {
+    "slug": "green-paint-flooring",
     "name": "Green-paint flooring",
     "imageName": null,
     "price": {
@@ -2174,6 +2337,7 @@
     }
   },
   {
+    "slug": "green-paint-wall",
     "name": "Green-paint wall",
     "imageName": null,
     "price": {
@@ -2188,6 +2352,7 @@
     }
   },
   {
+    "slug": "groovy-wall",
     "name": "Groovy wall",
     "imageName": null,
     "price": {
@@ -2202,6 +2367,7 @@
     }
   },
   {
+    "slug": "hha-pennant",
     "name": "HHA pennant",
     "imageName": "/item-images/furniture/hha-pennant.png",
     "price": {
@@ -2213,6 +2379,7 @@
     }
   },
   {
+    "slug": "hamster-cage",
     "name": "Hamster cage",
     "imageName": "/item-images/furniture/hamster-cage.png",
     "price": {
@@ -2227,6 +2394,7 @@
     }
   },
   {
+    "slug": "handy-water-cooler",
     "name": "Handy water cooler",
     "imageName": null,
     "price": {
@@ -2241,6 +2409,7 @@
     }
   },
   {
+    "slug": "harmonious-wall",
     "name": "Harmonious wall",
     "imageName": null,
     "price": {
@@ -2255,6 +2424,7 @@
     }
   },
   {
+    "slug": "heart-doorplate",
     "name": "Heart doorplate",
     "imageName": "/item-images/furniture/heart-doorplate.png",
     "price": {
@@ -2269,6 +2439,7 @@
     }
   },
   {
+    "slug": "heavy-curtain-wall",
     "name": "Heavy-curtain wall",
     "imageName": null,
     "price": {
@@ -2283,6 +2454,7 @@
     }
   },
   {
+    "slug": "hedge-standee",
     "name": "Hedge standee",
     "imageName": "/item-images/furniture/hedge-standee.png",
     "price": {
@@ -2291,6 +2463,7 @@
     }
   },
   {
+    "slug": "hexagonal-floral-flooring",
     "name": "Hexagonal floral flooring",
     "imageName": null,
     "price": {
@@ -2305,6 +2478,7 @@
     }
   },
   {
+    "slug": "high-end-stereo",
     "name": "High-end stereo",
     "imageName": null,
     "price": {
@@ -2319,6 +2493,7 @@
     }
   },
   {
+    "slug": "highway-flooring",
     "name": "Highway flooring",
     "imageName": null,
     "price": {
@@ -2327,6 +2502,7 @@
     }
   },
   {
+    "slug": "homework-set",
     "name": "Homework set",
     "imageName": "/item-images/furniture/homework-set.png",
     "price": {
@@ -2338,6 +2514,7 @@
     }
   },
   {
+    "slug": "honeycomb-wall",
     "name": "Honeycomb wall",
     "imageName": null,
     "price": {
@@ -2352,6 +2529,7 @@
     }
   },
   {
+    "slug": "honeycomb-tile-wall",
     "name": "Honeycomb-tile wall",
     "imageName": null,
     "price": {
@@ -2366,6 +2544,7 @@
     }
   },
   {
+    "slug": "hose-reel",
     "name": "Hose reel",
     "imageName": "/item-images/furniture/hose-reel.png",
     "price": {
@@ -2380,6 +2559,7 @@
     }
   },
   {
+    "slug": "hourglass",
     "name": "Hourglass",
     "imageName": "/item-images/furniture/hourglass.png",
     "price": {
@@ -2391,6 +2571,7 @@
     }
   },
   {
+    "slug": "hula-doll",
     "name": "Hula doll",
     "imageName": null,
     "price": {
@@ -2402,6 +2583,7 @@
     }
   },
   {
+    "slug": "humidifier",
     "name": "Humidifier",
     "imageName": "/item-images/furniture/humidifier.png",
     "price": {
@@ -2416,6 +2598,7 @@
     }
   },
   {
+    "slug": "hyacinth-lamp",
     "name": "Hyacinth lamp",
     "imageName": "/item-images/furniture/hyacinth-lamp.png",
     "price": {
@@ -2424,6 +2607,7 @@
     }
   },
   {
+    "slug": "hyacinth-wreath",
     "name": "Hyacinth wreath",
     "imageName": "/item-images/furniture/hyacinth-wreath.png",
     "price": {
@@ -2432,6 +2616,7 @@
     }
   },
   {
+    "slug": "ice-wall",
     "name": "Ice wall",
     "imageName": null,
     "price": {
@@ -2446,6 +2631,7 @@
     }
   },
   {
+    "slug": "iceberg-wall",
     "name": "Iceberg wall",
     "imageName": null,
     "price": {
@@ -2460,6 +2646,7 @@
     }
   },
   {
+    "slug": "imperial-bed",
     "name": "Imperial bed",
     "imageName": "/item-images/furniture/imperial-bed.png",
     "price": {
@@ -2474,6 +2661,7 @@
     }
   },
   {
+    "slug": "imperial-chest",
     "name": "Imperial chest",
     "imageName": "/item-images/furniture/imperial-chest.png",
     "price": {
@@ -2488,6 +2676,7 @@
     }
   },
   {
+    "slug": "imperial-decorative-shelves",
     "name": "Imperial decorative shelves",
     "imageName": "/item-images/furniture/imperial-decorative-shelves.png",
     "price": {
@@ -2502,6 +2691,7 @@
     }
   },
   {
+    "slug": "imperial-low-table",
     "name": "Imperial low table",
     "imageName": "/item-images/furniture/imperial-low-table.png",
     "price": {
@@ -2516,6 +2706,7 @@
     }
   },
   {
+    "slug": "imperial-partition",
     "name": "Imperial partition",
     "imageName": "/item-images/furniture/imperial-partition.png",
     "price": {
@@ -2530,6 +2721,7 @@
     }
   },
   {
+    "slug": "imperial-wall",
     "name": "Imperial wall",
     "imageName": null,
     "price": {
@@ -2544,6 +2736,7 @@
     }
   },
   {
+    "slug": "incense-burner",
     "name": "Incense burner",
     "imageName": "/item-images/furniture/incense-burner.png",
     "price": {
@@ -2558,6 +2751,7 @@
     }
   },
   {
+    "slug": "industrial-wall",
     "name": "Industrial wall",
     "imageName": null,
     "price": {
@@ -2572,6 +2766,7 @@
     }
   },
   {
+    "slug": "inflatable-sofa",
     "name": "Inflatable sofa",
     "imageName": "/item-images/furniture/inflatable-sofa.png",
     "price": {
@@ -2586,6 +2781,7 @@
     }
   },
   {
+    "slug": "iron-closet",
     "name": "Iron closet",
     "imageName": "/item-images/furniture/iron-closet.png",
     "price": {
@@ -2594,6 +2790,7 @@
     }
   },
   {
+    "slug": "iron-frame",
     "name": "Iron frame",
     "imageName": "/item-images/furniture/iron-frame.png",
     "price": {
@@ -2605,6 +2802,7 @@
     }
   },
   {
+    "slug": "iron-garden-bench",
     "name": "Iron garden bench",
     "imageName": "/item-images/furniture/iron-garden-bench.png",
     "price": {
@@ -2616,6 +2814,7 @@
     }
   },
   {
+    "slug": "iron-garden-chair",
     "name": "Iron garden chair",
     "imageName": "/item-images/furniture/iron-garden-chair.png",
     "price": {
@@ -2627,6 +2826,7 @@
     }
   },
   {
+    "slug": "iron-garden-table",
     "name": "Iron garden table",
     "imageName": "/item-images/furniture/iron-garden-table.png",
     "price": {
@@ -2638,6 +2838,7 @@
     }
   },
   {
+    "slug": "iron-shelf",
     "name": "Iron shelf",
     "imageName": "/item-images/furniture/iron-shelf.png",
     "price": {
@@ -2649,6 +2850,7 @@
     }
   },
   {
+    "slug": "iron-wall-lamp",
     "name": "Iron wall lamp",
     "imageName": "/item-images/furniture/iron-wall-lamp.png",
     "price": {
@@ -2660,6 +2862,7 @@
     }
   },
   {
+    "slug": "iron-wall-rack",
     "name": "Iron wall rack",
     "imageName": "/item-images/furniture/iron-wall-rack.png",
     "price": {
@@ -2668,6 +2871,7 @@
     }
   },
   {
+    "slug": "iron-worktable",
     "name": "Iron worktable",
     "imageName": "/item-images/furniture/iron-worktable.png",
     "price": {
@@ -2679,6 +2883,7 @@
     }
   },
   {
+    "slug": "ironing-board",
     "name": "Ironing board",
     "imageName": "/item-images/furniture/ironing-board.png",
     "price": {
@@ -2693,6 +2898,7 @@
     }
   },
   {
+    "slug": "ironing-set",
     "name": "Ironing set",
     "imageName": "/item-images/furniture/ironing-set.png",
     "price": {
@@ -2707,6 +2913,7 @@
     }
   },
   {
+    "slug": "ironwood-diy-workbench",
     "name": "Ironwood DIY workbench",
     "imageName": "/item-images/furniture/ironwood-diy-workbench.png",
     "price": {
@@ -2715,6 +2922,7 @@
     }
   },
   {
+    "slug": "ironwood-bed",
     "name": "Ironwood bed",
     "imageName": "/item-images/furniture/ironwood-bed.png",
     "price": {
@@ -2726,6 +2934,7 @@
     }
   },
   {
+    "slug": "ironwood-cart",
     "name": "Ironwood cart",
     "imageName": "/item-images/furniture/ironwood-cart.png",
     "price": {
@@ -2734,6 +2943,7 @@
     }
   },
   {
+    "slug": "ironwood-chair",
     "name": "Ironwood chair",
     "imageName": "/item-images/furniture/ironwood-chair.png",
     "price": {
@@ -2742,6 +2952,7 @@
     }
   },
   {
+    "slug": "ironwood-clock",
     "name": "Ironwood clock",
     "imageName": "/item-images/furniture/ironwood-clock.png",
     "price": {
@@ -2750,6 +2961,7 @@
     }
   },
   {
+    "slug": "ironwood-cupboard",
     "name": "Ironwood cupboard",
     "imageName": "/item-images/furniture/ironwood-cupboard.png",
     "price": {
@@ -2758,6 +2970,7 @@
     }
   },
   {
+    "slug": "ironwood-dresser",
     "name": "Ironwood dresser",
     "imageName": "/item-images/furniture/ironwood-dresser.png",
     "price": {
@@ -2769,6 +2982,7 @@
     }
   },
   {
+    "slug": "ironwood-kitchenette",
     "name": "Ironwood kitchenette",
     "imageName": "/item-images/furniture/ironwood-kitchenette.png",
     "price": {
@@ -2777,6 +2991,7 @@
     }
   },
   {
+    "slug": "ironwood-low-table",
     "name": "Ironwood low table",
     "imageName": "/item-images/furniture/ironwood-low-table.png",
     "price": {
@@ -2788,6 +3003,7 @@
     }
   },
   {
+    "slug": "ivory-medium-round-mat",
     "name": "Ivory medium round mat",
     "imageName": null,
     "price": {
@@ -2799,6 +3015,7 @@
     }
   },
   {
+    "slug": "ivory-simple-bath-mat",
     "name": "Ivory simple bath mat",
     "imageName": null,
     "price": {
@@ -2810,6 +3027,7 @@
     }
   },
   {
+    "slug": "ivory-small-round-mat",
     "name": "Ivory small round mat",
     "imageName": null,
     "price": {
@@ -2821,6 +3039,7 @@
     }
   },
   {
+    "slug": "ivy-wall",
     "name": "Ivy wall",
     "imageName": null,
     "price": {
@@ -2835,6 +3054,7 @@
     }
   },
   {
+    "slug": "jail-bars",
     "name": "Jail bars",
     "imageName": "/item-images/furniture/jail-bars.png",
     "price": {
@@ -2846,6 +3066,7 @@
     }
   },
   {
+    "slug": "jingle-wall",
     "name": "Jingle wall",
     "imageName": null,
     "price": {
@@ -2860,6 +3081,7 @@
     }
   },
   {
+    "slug": "jointed-mat-flooring",
     "name": "Jointed-mat flooring",
     "imageName": "/item-images/furniture/jointed-mat-flooring.jpg",
     "price": {
@@ -2874,6 +3096,7 @@
     }
   },
   {
+    "slug": "judge's-bell",
     "name": "Judge's bell",
     "imageName": null,
     "price": {
@@ -2888,6 +3111,7 @@
     }
   },
   {
+    "slug": "juicy-apple-tv",
     "name": "Juicy-apple TV",
     "imageName": "/item-images/furniture/juicy-apple-tv.png",
     "price": {
@@ -2896,6 +3120,7 @@
     }
   },
   {
+    "slug": "jukebox",
     "name": "Jukebox",
     "imageName": "/item-images/furniture/jukebox.png",
     "price": {
@@ -2910,6 +3135,7 @@
     }
   },
   {
+    "slug": "jungle-wall",
     "name": "Jungle wall",
     "imageName": null,
     "price": {
@@ -2924,6 +3150,7 @@
     }
   },
   {
+    "slug": "katana",
     "name": "Katana",
     "imageName": null,
     "price": {
@@ -2932,6 +3159,7 @@
     }
   },
   {
+    "slug": "kettle",
     "name": "Kettle",
     "imageName": null,
     "price": {
@@ -2943,6 +3171,7 @@
     }
   },
   {
+    "slug": "kettle-bathtub",
     "name": "Kettle bathtub",
     "imageName": "/item-images/furniture/kettle-bathtub.png",
     "price": {
@@ -2951,6 +3180,7 @@
     }
   },
   {
+    "slug": "kettlebell",
     "name": "Kettlebell",
     "imageName": null,
     "price": {
@@ -2959,6 +3189,7 @@
     }
   },
   {
+    "slug": "kimono-stand",
     "name": "Kimono stand",
     "imageName": "/item-images/furniture/kimono-stand.png",
     "price": {
@@ -2973,6 +3204,7 @@
     }
   },
   {
+    "slug": "kisses-wall",
     "name": "Kisses wall",
     "imageName": null,
     "price": {
@@ -2987,6 +3219,7 @@
     }
   },
   {
+    "slug": "kitschy-tile",
     "name": "Kitschy tile",
     "imageName": null,
     "price": {
@@ -3001,6 +3234,7 @@
     }
   },
   {
+    "slug": "kitty-litter-box",
     "name": "Kitty litter box",
     "imageName": "/item-images/furniture/kitty-litter-box.png",
     "price": {
@@ -3015,6 +3249,7 @@
     }
   },
   {
+    "slug": "knife-block",
     "name": "Knife block",
     "imageName": "/item-images/furniture/knife-block.png",
     "price": {
@@ -3029,6 +3264,7 @@
     }
   },
   {
+    "slug": "kotatsu",
     "name": "Kotatsu",
     "imageName": "/item-images/furniture/kotatsu.png",
     "price": {
@@ -3043,6 +3279,7 @@
     }
   },
   {
+    "slug": "lab-experiments-set",
     "name": "Lab-experiments set",
     "imageName": "/item-images/furniture/lab-experiments-set.png",
     "price": {
@@ -3057,6 +3294,7 @@
     }
   },
   {
+    "slug": "laboratory-wall",
     "name": "Laboratory wall",
     "imageName": null,
     "price": {
@@ -3071,6 +3309,7 @@
     }
   },
   {
+    "slug": "lantern",
     "name": "Lantern",
     "imageName": "/item-images/furniture/lantern.png",
     "price": {
@@ -3085,6 +3324,7 @@
     }
   },
   {
+    "slug": "large-cardboard-boxes",
     "name": "Large cardboard boxes",
     "imageName": "/item-images/furniture/large-cardboard-boxes.png",
     "price": {
@@ -3093,6 +3333,7 @@
     }
   },
   {
+    "slug": "lattice-wall",
     "name": "Lattice wall",
     "imageName": null,
     "price": {
@@ -3107,6 +3348,7 @@
     }
   },
   {
+    "slug": "lawn-chair",
     "name": "Lawn Chair",
     "imageName": "/item-images/furniture/lawn-chair.png",
     "price": {
@@ -3121,6 +3363,7 @@
     }
   },
   {
+    "slug": "lawn-mower",
     "name": "Lawn mower",
     "imageName": "/item-images/furniture/lawn-mower.png",
     "price": {
@@ -3135,6 +3378,7 @@
     }
   },
   {
+    "slug": "lecture-hall-bench",
     "name": "Lecture-hall bench",
     "imageName": "/item-images/furniture/lecture-hall-bench.png",
     "price": {
@@ -3149,6 +3393,7 @@
     }
   },
   {
+    "slug": "lecture-hall-desk",
     "name": "Lecture-hall desk",
     "imageName": "/item-images/furniture/lecture-hall-desk.png",
     "price": {
@@ -3163,6 +3408,7 @@
     }
   },
   {
+    "slug": "life-ring",
     "name": "Life ring",
     "imageName": "/item-images/furniture/life-ring.png",
     "price": {
@@ -3177,6 +3423,7 @@
     }
   },
   {
+    "slug": "lifeguard-chair",
     "name": "Lifeguard chair",
     "imageName": "/item-images/furniture/lifeguard-chair.png",
     "price": {
@@ -3191,6 +3438,7 @@
     }
   },
   {
+    "slug": "light-bamboo-rug",
     "name": "Light bamboo rug",
     "imageName": "/item-images/furniture/light-bamboo-rug.png",
     "price": {
@@ -3199,6 +3447,7 @@
     }
   },
   {
+    "slug": "light-herringbone-flooring",
     "name": "Light herringbone flooring",
     "imageName": null,
     "price": {
@@ -3213,6 +3462,7 @@
     }
   },
   {
+    "slug": "light-parquet-flooring",
     "name": "Light parquet flooring",
     "imageName": null,
     "price": {
@@ -3227,6 +3477,7 @@
     }
   },
   {
+    "slug": "light-wood-pattern-flooring",
     "name": "Light wood-pattern flooring",
     "imageName": null,
     "price": {
@@ -3241,6 +3492,7 @@
     }
   },
   {
+    "slug": "lighthouse",
     "name": "Lighthouse",
     "imageName": "/item-images/furniture/lighthouse.png",
     "price": {
@@ -3252,6 +3504,7 @@
     }
   },
   {
+    "slug": "lily-record-player",
     "name": "Lily record player",
     "imageName": "/item-images/furniture/lily-record-player.png",
     "price": {
@@ -3260,6 +3513,7 @@
     }
   },
   {
+    "slug": "lily-wreath",
     "name": "Lily wreath",
     "imageName": "/item-images/furniture/lily-wreath.png",
     "price": {
@@ -3271,6 +3525,7 @@
     }
   },
   {
+    "slug": "loft-bed-with-desk",
     "name": "Loft bed with desk",
     "imageName": "/item-images/furniture/loft-bed-with-desk.png",
     "price": {
@@ -3285,6 +3540,7 @@
     }
   },
   {
+    "slug": "log-wall-clock*",
     "name": "Log Wall Clock*",
     "imageName": "/item-images/furniture/log-wall-clock*.png",
     "price": {
@@ -3293,6 +3549,7 @@
     }
   },
   {
+    "slug": "log-bed",
     "name": "Log bed",
     "imageName": "/item-images/furniture/log-bed.png",
     "price": {
@@ -3304,6 +3561,7 @@
     }
   },
   {
+    "slug": "log-bench",
     "name": "Log bench",
     "imageName": "/item-images/furniture/log-bench.png",
     "price": {
@@ -3315,6 +3573,7 @@
     }
   },
   {
+    "slug": "log-dining-table",
     "name": "Log dining table",
     "imageName": "/item-images/furniture/log-dining-table.png",
     "price": {
@@ -3326,6 +3585,7 @@
     }
   },
   {
+    "slug": "log-extra-long-sofa",
     "name": "Log extra-long sofa",
     "imageName": "/item-images/furniture/log-extra-long-sofa.png",
     "price": {
@@ -3334,6 +3594,7 @@
     }
   },
   {
+    "slug": "log-garden-lounge",
     "name": "Log garden lounge",
     "imageName": "/item-images/furniture/log-garden-lounge.png",
     "price": {
@@ -3345,6 +3606,7 @@
     }
   },
   {
+    "slug": "log-round-table",
     "name": "Log round table",
     "imageName": "/item-images/furniture/log-round-table.png",
     "price": {
@@ -3353,6 +3615,7 @@
     }
   },
   {
+    "slug": "log-sofa",
     "name": "Log sofa",
     "imageName": "/item-images/furniture/log-sofa.png",
     "price": {
@@ -3364,6 +3627,7 @@
     }
   },
   {
+    "slug": "log-stakes",
     "name": "Log stakes",
     "imageName": "/item-images/furniture/log-stakes.png",
     "price": {
@@ -3375,6 +3639,7 @@
     }
   },
   {
+    "slug": "log-stool",
     "name": "Log stool",
     "imageName": "/item-images/furniture/log-stool.png",
     "price": {
@@ -3386,6 +3651,7 @@
     }
   },
   {
+    "slug": "long-bathtub",
     "name": "Long bathtub",
     "imageName": "/item-images/furniture/long-bathtub.png",
     "price": {
@@ -3400,6 +3666,7 @@
     }
   },
   {
+    "slug": "loom",
     "name": "Loom",
     "imageName": "/item-images/furniture/loom.png",
     "price": {
@@ -3414,6 +3681,7 @@
     }
   },
   {
+    "slug": "low-screen",
     "name": "Low screen",
     "imageName": "/item-images/furniture/low-screen.png",
     "price": {
@@ -3428,6 +3696,7 @@
     }
   },
   {
+    "slug": "lucky-cat",
     "name": "Lucky cat",
     "imageName": "/item-images/furniture/lucky-cat.png",
     "price": {
@@ -3436,6 +3705,7 @@
     }
   },
   {
+    "slug": "lucky-gold-cat",
     "name": "Lucky gold cat",
     "imageName": "/item-images/furniture/lucky-gold-cat.png",
     "price": {
@@ -3444,6 +3714,7 @@
     }
   },
   {
+    "slug": "lunar-lander",
     "name": "Lunar lander",
     "imageName": "/item-images/furniture/lunar-lander.png",
     "price": {
@@ -3452,6 +3723,7 @@
     }
   },
   {
+    "slug": "lunar-rover",
     "name": "Lunar rover",
     "imageName": "/item-images/furniture/lunar-rover.png",
     "price": {
@@ -3460,6 +3732,7 @@
     }
   },
   {
+    "slug": "lunar-surface",
     "name": "Lunar surface",
     "imageName": null,
     "price": {
@@ -3468,6 +3741,7 @@
     }
   },
   {
+    "slug": "macrame-tapestry",
     "name": "Macrame tapestry",
     "imageName": "/item-images/furniture/macrame-tapestry.png",
     "price": {
@@ -3482,6 +3756,7 @@
     }
   },
   {
+    "slug": "magazine",
     "name": "Magazine",
     "imageName": "/item-images/furniture/magazine.png",
     "price": {
@@ -3496,6 +3771,7 @@
     }
   },
   {
+    "slug": "magic-kit",
     "name": "Magic kit",
     "imageName": "/item-images/furniture/magic-kit.png",
     "price": {
@@ -3510,6 +3786,7 @@
     }
   },
   {
+    "slug": "magic-circle-rug",
     "name": "Magic-circle rug",
     "imageName": null,
     "price": {
@@ -3521,6 +3798,7 @@
     }
   },
   {
+    "slug": "magma-cavern-wall",
     "name": "Magma-cavern wall",
     "imageName": null,
     "price": {
@@ -3535,6 +3813,7 @@
     }
   },
   {
+    "slug": "magnetic-knife-rack",
     "name": "Magnetic knife rack",
     "imageName": "/item-images/furniture/magnetic-knife-rack.png",
     "price": {
@@ -3549,6 +3828,7 @@
     }
   },
   {
+    "slug": "mama-bear",
     "name": "Mama bear",
     "imageName": "/item-images/furniture/mama-bear.png",
     "price": {
@@ -3563,6 +3843,7 @@
     }
   },
   {
+    "slug": "mama-panda",
     "name": "Mama panda",
     "imageName": "/item-images/furniture/mama-panda.png",
     "price": {
@@ -3574,6 +3855,7 @@
     }
   },
   {
+    "slug": "manga-lirary-wall",
     "name": "Manga-lirary wall",
     "imageName": null,
     "price": {
@@ -3588,6 +3870,7 @@
     }
   },
   {
+    "slug": "mangrove-wall",
     "name": "Mangrove wall",
     "imageName": null,
     "price": {
@@ -3602,6 +3885,7 @@
     }
   },
   {
+    "slug": "manhole-cover",
     "name": "Manhole cover",
     "imageName": "/item-images/furniture/manhole-cover.png",
     "price": {
@@ -3613,6 +3897,7 @@
     }
   },
   {
+    "slug": "mantis-head-model",
     "name": "Mantis-head model",
     "imageName": "/item-images/furniture/mantis-head-model.png",
     "price": {
@@ -3627,6 +3912,7 @@
     }
   },
   {
+    "slug": "marine-pop-flooring",
     "name": "Marine pop flooring",
     "imageName": null,
     "price": {
@@ -3641,6 +3927,7 @@
     }
   },
   {
+    "slug": "marine-pop-wall",
     "name": "Marine pop wall",
     "imageName": null,
     "price": {
@@ -3655,6 +3942,7 @@
     }
   },
   {
+    "slug": "matryoshka",
     "name": "Matryoshka",
     "imageName": "/item-images/furniture/matryoshka.png",
     "price": {
@@ -3663,6 +3951,7 @@
     }
   },
   {
+    "slug": "meadow-vista",
     "name": "Meadow vista",
     "imageName": null,
     "price": {
@@ -3677,6 +3966,7 @@
     }
   },
   {
+    "slug": "metal-can",
     "name": "Metal can",
     "imageName": null,
     "price": {
@@ -3691,6 +3981,7 @@
     }
   },
   {
+    "slug": "metronome",
     "name": "Metronome",
     "imageName": "/item-images/furniture/metronome.png",
     "price": {
@@ -3705,6 +3996,7 @@
     }
   },
   {
+    "slug": "microscope",
     "name": "Microscope",
     "imageName": "/item-images/furniture/microscope.png",
     "price": {
@@ -3719,6 +4011,7 @@
     }
   },
   {
+    "slug": "microwave",
     "name": "Microwave",
     "imageName": "/item-images/furniture/microwave.png",
     "price": {
@@ -3733,6 +4026,7 @@
     }
   },
   {
+    "slug": "mini-dot-flooring",
     "name": "Mini dot flooring",
     "imageName": null,
     "price": {
@@ -3747,6 +4041,7 @@
     }
   },
   {
+    "slug": "mini-cactus-set",
     "name": "Mini-cactus set",
     "imageName": "/item-images/furniture/mini-cactus-set.png",
     "price": {
@@ -3761,6 +4056,7 @@
     }
   },
   {
+    "slug": "misty-garden-wall",
     "name": "Misty-garden wall",
     "imageName": null,
     "price": {
@@ -3775,6 +4071,7 @@
     }
   },
   {
+    "slug": "mixer",
     "name": "Mixer",
     "imageName": "/item-images/furniture/mixer.png",
     "price": {
@@ -3789,6 +4086,7 @@
     }
   },
   {
+    "slug": "mobile",
     "name": "Mobile",
     "imageName": "/item-images/furniture/mobile.png",
     "price": {
@@ -3803,6 +4101,7 @@
     }
   },
   {
+    "slug": "mod-wall",
     "name": "Mod wall",
     "imageName": null,
     "price": {
@@ -3817,6 +4116,7 @@
     }
   },
   {
+    "slug": "modern-shoji-screen-wall",
     "name": "Modern shoji-screen wall",
     "imageName": null,
     "price": {
@@ -3831,6 +4131,7 @@
     }
   },
   {
+    "slug": "modern-tearoom-wall",
     "name": "Modern tearoom wall",
     "imageName": null,
     "price": {
@@ -3845,6 +4146,7 @@
     }
   },
   {
+    "slug": "modern-wood-flooring",
     "name": "Modern wood flooring",
     "imageName": null,
     "price": {
@@ -3859,6 +4161,7 @@
     }
   },
   {
+    "slug": "modern-wood-wall",
     "name": "Modern wood wall",
     "imageName": "/item-images/furniture/modern-wood-wall.png",
     "price": {
@@ -3870,6 +4173,7 @@
     }
   },
   {
+    "slug": "monochromatic-dot-flooring",
     "name": "Monochromatic dot flooring",
     "imageName": null,
     "price": {
@@ -3884,6 +4188,7 @@
     }
   },
   {
+    "slug": "monochromatic-dotted-rug",
     "name": "Monochromatic dotted rug",
     "imageName": "/item-images/furniture/monochromatic-dotted-rug.png",
     "price": {
@@ -3895,6 +4200,7 @@
     }
   },
   {
+    "slug": "monochromatic-dotted-wall",
     "name": "Monochromatic dotted wall",
     "imageName": null,
     "price": {
@@ -3903,6 +4209,7 @@
     }
   },
   {
+    "slug": "monochromatic-tile-flooring",
     "name": "Monochromatic tile flooring",
     "imageName": null,
     "price": {
@@ -3917,6 +4224,7 @@
     }
   },
   {
+    "slug": "monochromatic-tile-wall",
     "name": "Monochromatic-tile wall",
     "imageName": null,
     "price": {
@@ -3931,6 +4239,7 @@
     }
   },
   {
+    "slug": "mortar-wall",
     "name": "Mortar wall",
     "imageName": null,
     "price": {
@@ -3945,6 +4254,7 @@
     }
   },
   {
+    "slug": "mosaic-tile-wall",
     "name": "Mosaic-tile wall",
     "imageName": null,
     "price": {
@@ -3959,6 +4269,7 @@
     }
   },
   {
+    "slug": "moss-ball",
     "name": "Moss ball",
     "imageName": "/item-images/furniture/moss-ball.png",
     "price": {
@@ -3973,6 +4284,7 @@
     }
   },
   {
+    "slug": "mossy-garden-wall",
     "name": "Mossy-garden wall",
     "imageName": null,
     "price": {
@@ -3987,6 +4299,7 @@
     }
   },
   {
+    "slug": "mounted-blue-marlin",
     "name": "Mounted blue marlin",
     "imageName": "/item-images/furniture/mounted-blue-marlin.png",
     "price": {
@@ -4001,6 +4314,7 @@
     }
   },
   {
+    "slug": "mug",
     "name": "Mug",
     "imageName": "/item-images/furniture/mug.png",
     "price": {
@@ -4015,6 +4329,7 @@
     }
   },
   {
+    "slug": "mum-wreath",
     "name": "Mum wreath",
     "imageName": "/item-images/furniture/mum-wreath.png",
     "price": {
@@ -4023,6 +4338,7 @@
     }
   },
   {
+    "slug": "mush-rug",
     "name": "Mush rug",
     "imageName": null,
     "price": {
@@ -4034,6 +4350,7 @@
     }
   },
   {
+    "slug": "mush-wall",
     "name": "Mush wall",
     "imageName": null,
     "price": {
@@ -4048,6 +4365,7 @@
     }
   },
   {
+    "slug": "nail-art-set",
     "name": "Nail art set",
     "imageName": "/item-images/furniture/nail-art-set.png",
     "price": {
@@ -4062,6 +4380,7 @@
     }
   },
   {
+    "slug": "natural-block-flooring",
     "name": "Natural-block flooring",
     "imageName": null,
     "price": {
@@ -4076,6 +4395,7 @@
     }
   },
   {
+    "slug": "neutral-corner",
     "name": "Neutral corner",
     "imageName": "/item-images/furniture/neutral-corner.png",
     "price": {
@@ -4090,6 +4410,7 @@
     }
   },
   {
+    "slug": "newton's-cradle",
     "name": "Newton's cradle",
     "imageName": "/item-images/furniture/newton's-cradle.png",
     "price": {
@@ -4104,6 +4425,7 @@
     }
   },
   {
+    "slug": "nintendo-switch",
     "name": "Nintendo Switch",
     "imageName": "/item-images/furniture/nintendo-switch.png",
     "price": {
@@ -4118,6 +4440,7 @@
     }
   },
   {
+    "slug": "nook-inc.-botanical-rug",
     "name": "Nook Inc. botanical rug",
     "imageName": "/item-images/furniture/nook-inc.-botanical-rug.png",
     "price": {
@@ -4129,6 +4452,7 @@
     }
   },
   {
+    "slug": "nook-inc.-flooring",
     "name": "Nook Inc. flooring",
     "imageName": "/item-images/furniture/nook-inc.-flooring.jpg",
     "price": {
@@ -4143,6 +4467,7 @@
     }
   },
   {
+    "slug": "nook-inc.-rug",
     "name": "Nook Inc. rug",
     "imageName": "/item-images/furniture/nook-inc.-rug.png",
     "price": {
@@ -4154,6 +4479,7 @@
     }
   },
   {
+    "slug": "nook-inc.-silk-rug",
     "name": "Nook Inc. silk rug",
     "imageName": null,
     "price": {
@@ -4165,6 +4491,7 @@
     }
   },
   {
+    "slug": "nook-inc.-wall",
     "name": "Nook Inc. wall",
     "imageName": null,
     "price": {
@@ -4179,6 +4506,7 @@
     }
   },
   {
+    "slug": "oasis-flooring",
     "name": "Oasis flooring",
     "imageName": null,
     "price": {
@@ -4187,6 +4515,7 @@
     }
   },
   {
+    "slug": "ocean-horizon-wall",
     "name": "Ocean-horizon wall",
     "imageName": null,
     "price": {
@@ -4201,6 +4530,7 @@
     }
   },
   {
+    "slug": "office-desk",
     "name": "Office desk",
     "imageName": "/item-images/furniture/office-desk.png",
     "price": {
@@ -4215,6 +4545,7 @@
     }
   },
   {
+    "slug": "office-wall",
     "name": "Office wall",
     "imageName": null,
     "price": {
@@ -4229,6 +4560,7 @@
     }
   },
   {
+    "slug": "oil-lamp",
     "name": "Oil Lamp",
     "imageName": null,
     "price": {
@@ -4243,6 +4575,7 @@
     }
   },
   {
+    "slug": "oil-barrel",
     "name": "Oil barrel",
     "imageName": "/item-images/furniture/oil-barrel.png",
     "price": {
@@ -4257,6 +4590,7 @@
     }
   },
   {
+    "slug": "old-sewing-machine",
     "name": "Old sewing machine",
     "imageName": "/item-images/furniture/old-sewing-machine.png",
     "price": {
@@ -4271,6 +4605,7 @@
     }
   },
   {
+    "slug": "old-wallpaper",
     "name": "Old wallpaper",
     "imageName": null,
     "price": {
@@ -4285,6 +4620,7 @@
     }
   },
   {
+    "slug": "old-fashioned-alarm-clock",
     "name": "Old-fashioned alarm clock",
     "imageName": null,
     "price": {
@@ -4299,6 +4635,7 @@
     }
   },
   {
+    "slug": "old-fashioned-washtub",
     "name": "Old-fashioned washtub",
     "imageName": "/item-images/furniture/old-fashioned-washtub.png",
     "price": {
@@ -4310,6 +4647,7 @@
     }
   },
   {
+    "slug": "olive-desert-tile-flooring",
     "name": "Olive desert-tile flooring",
     "imageName": null,
     "price": {
@@ -4324,6 +4662,7 @@
     }
   },
   {
+    "slug": "olive-desert-tile-wall",
     "name": "Olive desert-tile wall",
     "imageName": null,
     "price": {
@@ -4338,6 +4677,7 @@
     }
   },
   {
+    "slug": "orange-camo-flooring",
     "name": "Orange camo flooring",
     "imageName": null,
     "price": {
@@ -4352,6 +4692,7 @@
     }
   },
   {
+    "slug": "orange-camo-wall",
     "name": "Orange camo wall",
     "imageName": null,
     "price": {
@@ -4366,6 +4707,7 @@
     }
   },
   {
+    "slug": "orange-end-table",
     "name": "Orange end table",
     "imageName": "/item-images/furniture/orange-end-table.png",
     "price": {
@@ -4377,6 +4719,7 @@
     }
   },
   {
+    "slug": "orange-molded-panel-wall",
     "name": "Orange molded-panel wall",
     "imageName": null,
     "price": {
@@ -4391,6 +4734,7 @@
     }
   },
   {
+    "slug": "orange-retro-flooring",
     "name": "Orange retro flooring",
     "imageName": "/item-images/furniture/orange-retro-flooring.png",
     "price": {
@@ -4405,6 +4749,7 @@
     }
   },
   {
+    "slug": "orange-wall",
     "name": "Orange wall",
     "imageName": null,
     "price": {
@@ -4419,6 +4764,7 @@
     }
   },
   {
+    "slug": "orange-wall-mounted-clock",
     "name": "Orange wall-mounted clock",
     "imageName": "/item-images/furniture/orange-wall-mounted-clock.png",
     "price": {
@@ -4430,6 +4776,7 @@
     }
   },
   {
+    "slug": "orange-paint-wall",
     "name": "Orange-paint wall",
     "imageName": null,
     "price": {
@@ -4444,6 +4791,7 @@
     }
   },
   {
+    "slug": "ornament-mobile",
     "name": "Ornament mobile",
     "imageName": "/item-images/furniture/ornament-mobile.png",
     "price": {
@@ -4452,6 +4800,7 @@
     }
   },
   {
+    "slug": "outdoor-air-conditioner",
     "name": "Outdoor air conditioner",
     "imageName": "/item-images/furniture/outdoor-air-conditioner.png",
     "price": {
@@ -4466,6 +4815,7 @@
     }
   },
   {
+    "slug": "outdoor-bath",
     "name": "Outdoor bath",
     "imageName": "/item-images/furniture/outdoor-bath.png",
     "price": {
@@ -4477,6 +4827,7 @@
     }
   },
   {
+    "slug": "outdoor-bench",
     "name": "Outdoor bench",
     "imageName": "/item-images/furniture/outdoor-bench.png",
     "price": {
@@ -4491,6 +4842,7 @@
     }
   },
   {
+    "slug": "outdoor-generator",
     "name": "Outdoor generator",
     "imageName": "/item-images/furniture/outdoor-generator.png",
     "price": {
@@ -4505,6 +4857,7 @@
     }
   },
   {
+    "slug": "outdoor-table",
     "name": "Outdoor table",
     "imageName": "/item-images/furniture/outdoor-table.png",
     "price": {
@@ -4519,6 +4872,7 @@
     }
   },
   {
+    "slug": "pagoda",
     "name": "Pagoda",
     "imageName": "/item-images/furniture/pagoda.png",
     "price": {
@@ -4527,6 +4881,7 @@
     }
   },
   {
+    "slug": "paintball-flooring",
     "name": "Paintball flooring",
     "imageName": "/item-images/furniture/paintball-flooring.jpg",
     "price": {
@@ -4541,6 +4896,7 @@
     }
   },
   {
+    "slug": "paintball-wall",
     "name": "Paintball wall",
     "imageName": null,
     "price": {
@@ -4555,6 +4911,7 @@
     }
   },
   {
+    "slug": "painting-set",
     "name": "Painting Set",
     "imageName": null,
     "price": {
@@ -4569,6 +4926,7 @@
     }
   },
   {
+    "slug": "palace-tile",
     "name": "Palace tile",
     "imageName": "/item-images/furniture/palace-tile.png",
     "price": {
@@ -4577,6 +4935,7 @@
     }
   },
   {
+    "slug": "palace-wall",
     "name": "Palace wall",
     "imageName": null,
     "price": {
@@ -4591,6 +4950,7 @@
     }
   },
   {
+    "slug": "palm-tree-lamp",
     "name": "Palm-tree lamp",
     "imageName": "/item-images/furniture/palm-tree-lamp.png",
     "price": {
@@ -4599,6 +4959,7 @@
     }
   },
   {
+    "slug": "pansy-table",
     "name": "Pansy table",
     "imageName": "/item-images/furniture/pansy-table.png",
     "price": {
@@ -4610,6 +4971,7 @@
     }
   },
   {
+    "slug": "pansy-wreath",
     "name": "Pansy wreath",
     "imageName": "/item-images/furniture/pansy-wreath.png",
     "price": {
@@ -4621,6 +4983,7 @@
     }
   },
   {
+    "slug": "pants-press",
     "name": "Pants press",
     "imageName": "/item-images/furniture/pants-press.png",
     "price": {
@@ -4635,6 +4998,7 @@
     }
   },
   {
+    "slug": "papa-bear",
     "name": "Papa bear",
     "imageName": "/item-images/furniture/papa-bear.png",
     "price": {
@@ -4643,6 +5007,7 @@
     }
   },
   {
+    "slug": "papa-panda",
     "name": "Papa panda",
     "imageName": "/item-images/furniture/papa-panda.png",
     "price": {
@@ -4657,6 +5022,7 @@
     }
   },
   {
+    "slug": "paper-lantern",
     "name": "Paper lantern",
     "imageName": "/item-images/furniture/paper-lantern.png",
     "price": {
@@ -4671,6 +5037,7 @@
     }
   },
   {
+    "slug": "paper-tiger",
     "name": "Paper tiger",
     "imageName": null,
     "price": {
@@ -4685,6 +5052,7 @@
     }
   },
   {
+    "slug": "parabolic-antenna",
     "name": "Parabolic antenna",
     "imageName": "/item-images/furniture/parabolic-antenna.png",
     "price": {
@@ -4696,6 +5064,7 @@
     }
   },
   {
+    "slug": "park-clock",
     "name": "Park clock",
     "imageName": "/item-images/furniture/park-clock.png",
     "price": {
@@ -4707,6 +5076,7 @@
     }
   },
   {
+    "slug": "parking-flooring",
     "name": "Parking flooring",
     "imageName": "/item-images/furniture/parking-flooring.jpg",
     "price": {
@@ -4721,6 +5091,7 @@
     }
   },
   {
+    "slug": "party-garland",
     "name": "Party garland",
     "imageName": "/item-images/furniture/party-garland.png",
     "price": {
@@ -4735,6 +5106,7 @@
     }
   },
   {
+    "slug": "party-wall",
     "name": "Party wall",
     "imageName": null,
     "price": {
@@ -4749,6 +5121,7 @@
     }
   },
   {
+    "slug": "pastel-dotted-wall",
     "name": "Pastel dotted wall",
     "imageName": null,
     "price": {
@@ -4763,6 +5136,7 @@
     }
   },
   {
+    "slug": "pastel-puzzle-flooring",
     "name": "Pastel puzzle flooring",
     "imageName": null,
     "price": {
@@ -4774,6 +5148,7 @@
     }
   },
   {
+    "slug": "pastel-puzzle-wall",
     "name": "Pastel puzzle wall",
     "imageName": null,
     "price": {
@@ -4788,6 +5163,7 @@
     }
   },
   {
+    "slug": "patchwork-tile-flooring",
     "name": "Patchwork-tile flooring",
     "imageName": null,
     "price": {
@@ -4802,6 +5178,7 @@
     }
   },
   {
+    "slug": "paw-print-doorplate",
     "name": "Paw-print doorplate",
     "imageName": "/item-images/furniture/paw-print-doorplate.png",
     "price": {
@@ -4810,6 +5187,7 @@
     }
   },
   {
+    "slug": "peach-surprise-box",
     "name": "Peach surprise box",
     "imageName": "/item-images/furniture/peach-surprise-box.png",
     "price": {
@@ -4821,6 +5199,7 @@
     }
   },
   {
+    "slug": "peach-two-toned-tile-wall",
     "name": "Peach two-toned tile wall",
     "imageName": null,
     "price": {
@@ -4835,6 +5214,7 @@
     }
   },
   {
+    "slug": "peach-wall",
     "name": "Peach wall",
     "imageName": null,
     "price": {
@@ -4849,6 +5229,7 @@
     }
   },
   {
+    "slug": "pear-wall",
     "name": "Pear wall",
     "imageName": null,
     "price": {
@@ -4863,6 +5244,7 @@
     }
   },
   {
+    "slug": "pedal-board",
     "name": "Pedal board",
     "imageName": null,
     "price": {
@@ -4877,6 +5259,7 @@
     }
   },
   {
+    "slug": "pendulum-clock",
     "name": "Pendulum clock",
     "imageName": "/item-images/furniture/pendulum-clock.png",
     "price": {
@@ -4891,6 +5274,7 @@
     }
   },
   {
+    "slug": "pennant",
     "name": "Pennant",
     "imageName": null,
     "price": {
@@ -4902,6 +5286,7 @@
     }
   },
   {
+    "slug": "perforated-board-wall",
     "name": "Perforated-board wall",
     "imageName": null,
     "price": {
@@ -4916,6 +5301,7 @@
     }
   },
   {
+    "slug": "pet-bed",
     "name": "Pet bed",
     "imageName": "/item-images/furniture/pet-bed.png",
     "price": {
@@ -4930,6 +5316,7 @@
     }
   },
   {
+    "slug": "pet-food-bowl",
     "name": "Pet food bowl",
     "imageName": "/item-images/furniture/pet-food-bowl.png",
     "price": {
@@ -4941,6 +5328,7 @@
     }
   },
   {
+    "slug": "phone-box",
     "name": "Phone box",
     "imageName": "/item-images/furniture/phone-box.png",
     "price": {
@@ -4952,6 +5340,7 @@
     }
   },
   {
+    "slug": "picnic-basket",
     "name": "Picnic basket",
     "imageName": "/item-images/furniture/picnic-basket.png",
     "price": {
@@ -4966,6 +5355,7 @@
     }
   },
   {
+    "slug": "pile-of-zen-cushions",
     "name": "Pile of zen cushions",
     "imageName": "/item-images/furniture/pile-of-zen-cushions.png",
     "price": {
@@ -4974,6 +5364,7 @@
     }
   },
   {
+    "slug": "pinball-machine",
     "name": "Pinball machine",
     "imageName": "/item-images/furniture/pinball-machine.png",
     "price": {
@@ -4985,6 +5376,7 @@
     }
   },
   {
+    "slug": "pine-bonsai-tree",
     "name": "Pine bonsai tree",
     "imageName": "/item-images/furniture/pine-bonsai-tree.png",
     "price": {
@@ -4993,6 +5385,7 @@
     }
   },
   {
+    "slug": "pine-board-flooring",
     "name": "Pine-board flooring",
     "imageName": "/item-images/furniture/pine-board-flooring.jpg",
     "price": {
@@ -5007,6 +5400,7 @@
     }
   },
   {
+    "slug": "pink-blossoming-wall",
     "name": "Pink blossoming wall",
     "imageName": null,
     "price": {
@@ -5021,6 +5415,7 @@
     }
   },
   {
+    "slug": "pink-diner-wall",
     "name": "Pink diner wall",
     "imageName": null,
     "price": {
@@ -5035,6 +5430,7 @@
     }
   },
   {
+    "slug": "pink-flower-print-wall",
     "name": "Pink flower-print wall",
     "imageName": null,
     "price": {
@@ -5049,6 +5445,7 @@
     }
   },
   {
+    "slug": "pink-heart-pattern-wall",
     "name": "Pink heart-pattern wall",
     "imageName": null,
     "price": {
@@ -5063,6 +5460,7 @@
     }
   },
   {
+    "slug": "pink-painted-wood-wall",
     "name": "Pink painted-wood wall",
     "imageName": null,
     "price": {
@@ -5077,6 +5475,7 @@
     }
   },
   {
+    "slug": "pink-playroom-wall",
     "name": "Pink playroom wall",
     "imageName": null,
     "price": {
@@ -5091,6 +5490,7 @@
     }
   },
   {
+    "slug": "pink-quilt-wall",
     "name": "Pink quilt wall",
     "imageName": null,
     "price": {
@@ -5105,6 +5505,7 @@
     }
   },
   {
+    "slug": "pink-shanty-wall",
     "name": "Pink shanty wall",
     "imageName": null,
     "price": {
@@ -5119,6 +5520,7 @@
     }
   },
   {
+    "slug": "pink-simple-cloth-wall",
     "name": "Pink simple-cloth wall",
     "imageName": null,
     "price": {
@@ -5133,6 +5535,7 @@
     }
   },
   {
+    "slug": "pink-crown-wall",
     "name": "Pink-crown wall",
     "imageName": null,
     "price": {
@@ -5147,6 +5550,7 @@
     }
   },
   {
+    "slug": "pink-paint-flooring",
     "name": "Pink-paint flooring",
     "imageName": null,
     "price": {
@@ -5161,6 +5565,7 @@
     }
   },
   {
+    "slug": "pink-striped-wall",
     "name": "Pink-striped wall",
     "imageName": null,
     "price": {
@@ -5175,6 +5580,7 @@
     }
   },
   {
+    "slug": "plain-sink",
     "name": "Plain sink",
     "imageName": "/item-images/furniture/plain-sink.png",
     "price": {
@@ -5186,6 +5592,7 @@
     }
   },
   {
+    "slug": "plain-wooden-shop-sign",
     "name": "Plain wooden shop sign",
     "imageName": "/item-images/furniture/plain-wooden-shop-sign.png",
     "price": {
@@ -5194,6 +5601,7 @@
     }
   },
   {
+    "slug": "plasma-ball",
     "name": "Plasma ball",
     "imageName": "/item-images/furniture/plasma-ball.png",
     "price": {
@@ -5208,6 +5616,7 @@
     }
   },
   {
+    "slug": "plastic-canister",
     "name": "Plastic canister",
     "imageName": "/item-images/furniture/plastic-canister.png",
     "price": {
@@ -5222,6 +5631,7 @@
     }
   },
   {
+    "slug": "playground-gym",
     "name": "Playground gym",
     "imageName": "/item-images/furniture/playground-gym.png",
     "price": {
@@ -5233,6 +5643,7 @@
     }
   },
   {
+    "slug": "pond-stone",
     "name": "Pond stone",
     "imageName": "/item-images/furniture/pond-stone.png",
     "price": {
@@ -5244,6 +5655,7 @@
     }
   },
   {
+    "slug": "pool",
     "name": "Pool",
     "imageName": "/item-images/furniture/pool.png",
     "price": {
@@ -5255,6 +5667,7 @@
     }
   },
   {
+    "slug": "poolside-bed",
     "name": "Poolside bed",
     "imageName": "/item-images/furniture/poolside-bed.png",
     "price": {
@@ -5269,6 +5682,7 @@
     }
   },
   {
+    "slug": "pop-up-toaster",
     "name": "Pop-up toaster",
     "imageName": null,
     "price": {
@@ -5283,6 +5697,7 @@
     }
   },
   {
+    "slug": "popcorn-machine",
     "name": "Popcorn machine",
     "imageName": "/item-images/furniture/popcorn-machine.png",
     "price": {
@@ -5297,6 +5712,7 @@
     }
   },
   {
+    "slug": "portable-radio",
     "name": "Portable radio",
     "imageName": "/item-images/furniture/portable-radio.png",
     "price": {
@@ -5311,6 +5727,7 @@
     }
   },
   {
+    "slug": "portable-record-player",
     "name": "Portable record player",
     "imageName": "/item-images/furniture/portable-record-player.png",
     "price": {
@@ -5325,6 +5742,7 @@
     }
   },
   {
+    "slug": "portable-toilet",
     "name": "Portable toilet",
     "imageName": "/item-images/furniture/portable-toilet.png",
     "price": {
@@ -5336,6 +5754,7 @@
     }
   },
   {
+    "slug": "pot",
     "name": "Pot",
     "imageName": "/item-images/furniture/pot.png",
     "price": {
@@ -5347,6 +5766,7 @@
     }
   },
   {
+    "slug": "pot-rack",
     "name": "Pot rack",
     "imageName": "/item-images/furniture/pot-rack.png",
     "price": {
@@ -5361,6 +5781,7 @@
     }
   },
   {
+    "slug": "potted-ivy",
     "name": "Potted ivy",
     "imageName": "/item-images/furniture/potted-ivy.png",
     "price": {
@@ -5369,6 +5790,7 @@
     }
   },
   {
+    "slug": "pro-tape-recorder",
     "name": "Pro tape recorder",
     "imageName": "/item-images/furniture/pro-tape-recorder.png",
     "price": {
@@ -5383,6 +5805,7 @@
     }
   },
   {
+    "slug": "protein-shaker-bottle",
     "name": "Protein shaker bottle",
     "imageName": "/item-images/furniture/protein-shaker-bottle.png",
     "price": {
@@ -5397,6 +5820,7 @@
     }
   },
   {
+    "slug": "public-bench",
     "name": "Public bench",
     "imageName": "/item-images/furniture/public-bench.png",
     "price": {
@@ -5411,6 +5835,7 @@
     }
   },
   {
+    "slug": "pull-up-bar-stand",
     "name": "Pull-up-bar stand",
     "imageName": "/item-images/furniture/pull-up-bar-stand.png",
     "price": {
@@ -5425,6 +5850,7 @@
     }
   },
   {
+    "slug": "punching-bag",
     "name": "Punching bag",
     "imageName": "/item-images/furniture/punching-bag.png",
     "price": {
@@ -5439,6 +5865,7 @@
     }
   },
   {
+    "slug": "purple-persian-rug",
     "name": "Purple Persian rug",
     "imageName": "/item-images/furniture/purple-persian-rug.png",
     "price": {
@@ -5450,6 +5877,7 @@
     }
   },
   {
+    "slug": "purple-camo-flooring",
     "name": "Purple camo flooring",
     "imageName": null,
     "price": {
@@ -5461,6 +5889,7 @@
     }
   },
   {
+    "slug": "purple-camo-wall",
     "name": "Purple camo wall",
     "imageName": null,
     "price": {
@@ -5475,6 +5904,7 @@
     }
   },
   {
+    "slug": "purple-desert-tile-flooring",
     "name": "Purple desert-tile flooring",
     "imageName": null,
     "price": {
@@ -5489,6 +5919,7 @@
     }
   },
   {
+    "slug": "purple-desert-tile-wall",
     "name": "Purple desert-tile wall",
     "imageName": null,
     "price": {
@@ -5503,6 +5934,7 @@
     }
   },
   {
+    "slug": "purple-dotted-wall",
     "name": "Purple dotted wall",
     "imageName": null,
     "price": {
@@ -5517,6 +5949,7 @@
     }
   },
   {
+    "slug": "purple-puzzle-flooring",
     "name": "Purple puzzle flooring",
     "imageName": "/item-images/furniture/purple-puzzle-flooring.jpg",
     "price": {
@@ -5531,6 +5964,7 @@
     }
   },
   {
+    "slug": "purple-puzzle-wall",
     "name": "Purple puzzle wall",
     "imageName": null,
     "price": {
@@ -5545,6 +5979,7 @@
     }
   },
   {
+    "slug": "purple-quilt-wall",
     "name": "Purple quilt wall",
     "imageName": null,
     "price": {
@@ -5559,6 +5994,7 @@
     }
   },
   {
+    "slug": "purple-rose-wall",
     "name": "Purple-rose wall",
     "imageName": null,
     "price": {
@@ -5573,6 +6009,7 @@
     }
   },
   {
+    "slug": "pyramid",
     "name": "Pyramid",
     "imageName": "/item-images/furniture/pyramid.png",
     "price": {
@@ -5581,6 +6018,7 @@
     }
   },
   {
+    "slug": "pyramid-tile",
     "name": "Pyramid tile",
     "imageName": null,
     "price": {
@@ -5589,6 +6027,7 @@
     }
   },
   {
+    "slug": "raccoon-figurine",
     "name": "Raccoon figurine",
     "imageName": "/item-images/furniture/raccoon-figurine.png",
     "price": {
@@ -5597,6 +6036,7 @@
     }
   },
   {
+    "slug": "rammed-earth-wall",
     "name": "Rammed-earth wall",
     "imageName": null,
     "price": {
@@ -5611,6 +6051,7 @@
     }
   },
   {
+    "slug": "ramshackle-wall",
     "name": "Ramshackle wall",
     "imageName": null,
     "price": {
@@ -5625,6 +6066,7 @@
     }
   },
   {
+    "slug": "random-square-tile-flooring",
     "name": "Random-square-tile flooring",
     "imageName": null,
     "price": {
@@ -5639,6 +6081,7 @@
     }
   },
   {
+    "slug": "rattan-armchair",
     "name": "Rattan armchair",
     "imageName": "/item-images/furniture/rattan-armchair.png",
     "price": {
@@ -5653,6 +6096,7 @@
     }
   },
   {
+    "slug": "rattan-bed",
     "name": "Rattan bed",
     "imageName": "/item-images/furniture/rattan-bed.png",
     "price": {
@@ -5667,6 +6111,7 @@
     }
   },
   {
+    "slug": "rattan-end-table",
     "name": "Rattan end table",
     "imageName": "/item-images/furniture/rattan-end-table.png",
     "price": {
@@ -5675,6 +6120,7 @@
     }
   },
   {
+    "slug": "rattan-flooring",
     "name": "Rattan flooring",
     "imageName": null,
     "price": {
@@ -5689,6 +6135,7 @@
     }
   },
   {
+    "slug": "rattan-low-table",
     "name": "Rattan low table",
     "imageName": "/item-images/furniture/rattan-low-table.png",
     "price": {
@@ -5703,6 +6150,7 @@
     }
   },
   {
+    "slug": "rattan-stool",
     "name": "Rattan stool",
     "imageName": "/item-images/furniture/rattan-stool.png",
     "price": {
@@ -5717,6 +6165,7 @@
     }
   },
   {
+    "slug": "rattan-table-lamp",
     "name": "Rattan table lamp",
     "imageName": "/item-images/furniture/rattan-table-lamp.png",
     "price": {
@@ -5725,6 +6174,7 @@
     }
   },
   {
+    "slug": "rattan-towel-basket",
     "name": "Rattan towel basket",
     "imageName": "/item-images/furniture/rattan-towel-basket.png",
     "price": {
@@ -5733,6 +6183,7 @@
     }
   },
   {
+    "slug": "rattan-vanity",
     "name": "Rattan vanity",
     "imageName": "/item-images/furniture/rattan-vanity.png",
     "price": {
@@ -5747,6 +6198,7 @@
     }
   },
   {
+    "slug": "rattan-wardrobe",
     "name": "Rattan wardrobe",
     "imageName": "/item-images/furniture/rattan-wardrobe.png",
     "price": {
@@ -5761,6 +6213,7 @@
     }
   },
   {
+    "slug": "rattan-waste-bin",
     "name": "Rattan waste bin",
     "imageName": "/item-images/furniture/rattan-waste-bin.png",
     "price": {
@@ -5775,6 +6228,7 @@
     }
   },
   {
+    "slug": "record-box",
     "name": "Record box",
     "imageName": "/item-images/furniture/record-box.png",
     "price": {
@@ -5789,6 +6243,7 @@
     }
   },
   {
+    "slug": "recycled-can-thumb-piano",
     "name": "Recycled-can thumb piano",
     "imageName": "/item-images/furniture/recycled-can-thumb-piano.png",
     "price": {
@@ -5800,6 +6255,7 @@
     }
   },
   {
+    "slug": "red-art-deco-wall",
     "name": "Red art-deco wall",
     "imageName": null,
     "price": {
@@ -5814,6 +6270,7 @@
     }
   },
   {
+    "slug": "red-corner",
     "name": "Red corner",
     "imageName": "/item-images/furniture/red-corner.png",
     "price": {
@@ -5828,6 +6285,7 @@
     }
   },
   {
+    "slug": "red-delicate-blooms-wall",
     "name": "Red delicate-blooms wall",
     "imageName": null,
     "price": {
@@ -5842,6 +6300,7 @@
     }
   },
   {
+    "slug": "red-dot-flooring",
     "name": "Red dot flooring",
     "imageName": null,
     "price": {
@@ -5853,6 +6312,7 @@
     }
   },
   {
+    "slug": "red-dotted-wall",
     "name": "Red dotted wall",
     "imageName": null,
     "price": {
@@ -5867,6 +6327,7 @@
     }
   },
   {
+    "slug": "red-heart-pattern-wall",
     "name": "Red heart-pattern wall",
     "imageName": null,
     "price": {
@@ -5881,6 +6342,7 @@
     }
   },
   {
+    "slug": "red-intricate-wall",
     "name": "Red intricate wall",
     "imageName": null,
     "price": {
@@ -5895,6 +6357,7 @@
     }
   },
   {
+    "slug": "red-message-mat",
     "name": "Red message mat",
     "imageName": null,
     "price": {
@@ -5906,6 +6369,7 @@
     }
   },
   {
+    "slug": "red-perforated-board-wall",
     "name": "Red perforated-board wall",
     "imageName": null,
     "price": {
@@ -5920,6 +6384,7 @@
     }
   },
   {
+    "slug": "red-two-toned-tile-wall",
     "name": "Red two-toned tile wall",
     "imageName": null,
     "price": {
@@ -5934,6 +6399,7 @@
     }
   },
   {
+    "slug": "red-and-black-vinyl-flooring",
     "name": "Red-and-black vinyl flooring",
     "imageName": "/item-images/furniture/red-and-black-vinyl-flooring.jpg",
     "price": {
@@ -5948,6 +6414,7 @@
     }
   },
   {
+    "slug": "red-brick-flooring",
     "name": "Red-brick flooring",
     "imageName": null,
     "price": {
@@ -5962,6 +6429,7 @@
     }
   },
   {
+    "slug": "red-brick-wall",
     "name": "Red-brick wall",
     "imageName": null,
     "price": {
@@ -5976,6 +6444,7 @@
     }
   },
   {
+    "slug": "refrigerator",
     "name": "Refrigerator",
     "imageName": "/item-images/furniture/refrigerator.png",
     "price": {
@@ -5987,6 +6456,7 @@
     }
   },
   {
+    "slug": "retro-dotted-rug",
     "name": "Retro dotted rug",
     "imageName": null,
     "price": {
@@ -5998,6 +6468,7 @@
     }
   },
   {
+    "slug": "retro-flower-print-wall",
     "name": "Retro flower-print wall",
     "imageName": null,
     "price": {
@@ -6012,6 +6483,7 @@
     }
   },
   {
+    "slug": "retro-gas-pump",
     "name": "Retro gas pump",
     "imageName": "/item-images/furniture/retro-gas-pump.png",
     "price": {
@@ -6026,6 +6498,7 @@
     }
   },
   {
+    "slug": "retro-radiator",
     "name": "Retro radiator",
     "imageName": null,
     "price": {
@@ -6040,6 +6513,7 @@
     }
   },
   {
+    "slug": "retro-stereo",
     "name": "Retro stereo",
     "imageName": "/item-images/furniture/retro-stereo.png",
     "price": {
@@ -6054,6 +6528,7 @@
     }
   },
   {
+    "slug": "revolving-spice-rack",
     "name": "Revolving spice rack",
     "imageName": "/item-images/furniture/revolving-spice-rack.png",
     "price": {
@@ -6068,6 +6543,7 @@
     }
   },
   {
+    "slug": "rice-cooker",
     "name": "Rice cooker",
     "imageName": "/item-images/furniture/rice-cooker.png",
     "price": {
@@ -6082,6 +6558,7 @@
     }
   },
   {
+    "slug": "rice-paddy-wall",
     "name": "Rice-paddy wall",
     "imageName": null,
     "price": {
@@ -6096,6 +6573,7 @@
     }
   },
   {
+    "slug": "ringside-seating",
     "name": "Ringside seating",
     "imageName": null,
     "price": {
@@ -6110,6 +6588,7 @@
     }
   },
   {
+    "slug": "ringtoss",
     "name": "Ringtoss",
     "imageName": "/item-images/furniture/ringtoss.png",
     "price": {
@@ -6118,6 +6597,7 @@
     }
   },
   {
+    "slug": "rock-guitar",
     "name": "Rock guitar",
     "imageName": "/item-images/furniture/rock-guitar.png",
     "price": {
@@ -6132,6 +6612,7 @@
     }
   },
   {
+    "slug": "rock-climbing-wall",
     "name": "Rock-climbing wall",
     "imageName": null,
     "price": {
@@ -6146,6 +6627,7 @@
     }
   },
   {
+    "slug": "rocket-lamp",
     "name": "Rocket lamp",
     "imageName": "/item-images/furniture/rocket-lamp.png",
     "price": {
@@ -6160,6 +6642,7 @@
     }
   },
   {
+    "slug": "rocking-horse",
     "name": "Rocking Horse",
     "imageName": "/item-images/furniture/rocking-horse.png",
     "price": {
@@ -6171,6 +6654,7 @@
     }
   },
   {
+    "slug": "rocking-chair",
     "name": "Rocking chair",
     "imageName": "/item-images/furniture/rocking-chair.png",
     "price": {
@@ -6182,6 +6666,7 @@
     }
   },
   {
+    "slug": "rocky-mountain-flooring",
     "name": "Rocky mountain flooring",
     "imageName": null,
     "price": {
@@ -6193,6 +6678,7 @@
     }
   },
   {
+    "slug": "rose-bed",
     "name": "Rose bed",
     "imageName": "/item-images/furniture/rose-bed.png",
     "price": {
@@ -6201,6 +6687,7 @@
     }
   },
   {
+    "slug": "rose-wall",
     "name": "Rose wall",
     "imageName": null,
     "price": {
@@ -6215,6 +6702,7 @@
     }
   },
   {
+    "slug": "rose-wreath",
     "name": "Rose wreath",
     "imageName": "/item-images/furniture/rose-wreath.png",
     "price": {
@@ -6226,6 +6714,7 @@
     }
   },
   {
+    "slug": "rosewood-flooring",
     "name": "Rosewood flooring",
     "imageName": null,
     "price": {
@@ -6240,6 +6729,7 @@
     }
   },
   {
+    "slug": "rotary-phone",
     "name": "Rotary phone",
     "imageName": "/item-images/furniture/rotary-phone.png",
     "price": {
@@ -6254,6 +6744,7 @@
     }
   },
   {
+    "slug": "rough-rug",
     "name": "Rough rug",
     "imageName": null,
     "price": {
@@ -6265,6 +6756,7 @@
     }
   },
   {
+    "slug": "round-space-heater",
     "name": "Round space heater",
     "imageName": "/item-images/furniture/round-space-heater.png",
     "price": {
@@ -6279,6 +6771,7 @@
     }
   },
   {
+    "slug": "rubber-tile-flooring",
     "name": "Rubber-tile flooring",
     "imageName": null,
     "price": {
@@ -6293,6 +6786,7 @@
     }
   },
   {
+    "slug": "ruins-wall",
     "name": "Ruins wall",
     "imageName": null,
     "price": {
@@ -6307,6 +6801,7 @@
     }
   },
   {
+    "slug": "rush-tatami-flooring",
     "name": "Rush tatami flooring",
     "imageName": null,
     "price": {
@@ -6321,6 +6816,7 @@
     }
   },
   {
+    "slug": "rustic-stone-wall",
     "name": "Rustic-stone wall",
     "imageName": null,
     "price": {
@@ -6335,6 +6831,7 @@
     }
   },
   {
+    "slug": "safe",
     "name": "Safe",
     "imageName": "/item-images/furniture/safe.png",
     "price": {
@@ -6349,6 +6846,7 @@
     }
   },
   {
+    "slug": "sakura-wood-wall",
     "name": "Sakura-wood wall",
     "imageName": null,
     "price": {
@@ -6360,6 +6858,7 @@
     }
   },
   {
+    "slug": "sand-castle",
     "name": "Sand castle",
     "imageName": "/item-images/furniture/sand-castle.png",
     "price": {
@@ -6374,6 +6873,7 @@
     }
   },
   {
+    "slug": "sandbox",
     "name": "Sandbox",
     "imageName": "/item-images/furniture/sandbox.png",
     "price": {
@@ -6388,6 +6888,7 @@
     }
   },
   {
+    "slug": "sandlot",
     "name": "Sandlot",
     "imageName": "/item-images/furniture/sandlot.png",
     "price": {
@@ -6396,6 +6897,7 @@
     }
   },
   {
+    "slug": "sandy-beach-flooring",
     "name": "Sandy-beach flooring",
     "imageName": null,
     "price": {
@@ -6404,6 +6906,7 @@
     }
   },
   {
+    "slug": "sauna-heater",
     "name": "Sauna heater",
     "imageName": "/item-images/furniture/sauna-heater.png",
     "price": {
@@ -6415,6 +6918,7 @@
     }
   },
   {
+    "slug": "school-chair",
     "name": "School chair",
     "imageName": "/item-images/furniture/school-chair.png",
     "price": {
@@ -6429,6 +6933,7 @@
     }
   },
   {
+    "slug": "school-desk",
     "name": "School desk",
     "imageName": "/item-images/furniture/school-desk.png",
     "price": {
@@ -6437,6 +6942,7 @@
     }
   },
   {
+    "slug": "sci-fi-wall",
     "name": "Sci-fi wall",
     "imageName": null,
     "price": {
@@ -6451,6 +6957,7 @@
     }
   },
   {
+    "slug": "screen-wall",
     "name": "Screen wall",
     "imageName": null,
     "price": {
@@ -6465,6 +6972,7 @@
     }
   },
   {
+    "slug": "sea-globe",
     "name": "Sea globe",
     "imageName": "/item-images/furniture/sea-globe.png",
     "price": {
@@ -6479,6 +6987,7 @@
     }
   },
   {
+    "slug": "sea-view",
     "name": "Sea view",
     "imageName": null,
     "price": {
@@ -6493,6 +7002,7 @@
     }
   },
   {
+    "slug": "security-monitors-wall",
     "name": "Security-monitors wall",
     "imageName": null,
     "price": {
@@ -6507,6 +7017,7 @@
     }
   },
   {
+    "slug": "sepia-puzzle-flooring",
     "name": "Sepia puzzle flooring",
     "imageName": "/item-images/furniture/sepia-puzzle-flooring.png",
     "price": {
@@ -6518,6 +7029,7 @@
     }
   },
   {
+    "slug": "sepia-puzzle-wall",
     "name": "Sepia puzzle wall",
     "imageName": null,
     "price": {
@@ -6532,6 +7044,7 @@
     }
   },
   {
+    "slug": "server",
     "name": "Server",
     "imageName": "/item-images/furniture/server.png",
     "price": {
@@ -6546,6 +7059,7 @@
     }
   },
   {
+    "slug": "server-room-wall",
     "name": "Server-room wall",
     "imageName": null,
     "price": {
@@ -6560,6 +7074,7 @@
     }
   },
   {
+    "slug": "serving-cart",
     "name": "Serving cart",
     "imageName": "/item-images/furniture/serving-cart.png",
     "price": {
@@ -6574,6 +7089,7 @@
     }
   },
   {
+    "slug": "sewing-machine",
     "name": "Sewing machine",
     "imageName": "/item-images/furniture/sewing-machine.png",
     "price": {
@@ -6588,6 +7104,7 @@
     }
   },
   {
+    "slug": "sewing-project",
     "name": "Sewing project",
     "imageName": "/item-images/furniture/sewing-project.png",
     "price": {
@@ -6602,6 +7119,7 @@
     }
   },
   {
+    "slug": "shaved-ice-maker",
     "name": "Shaved ice maker",
     "imageName": null,
     "price": {
@@ -6616,6 +7134,7 @@
     }
   },
   {
+    "slug": "shell-arch",
     "name": "Shell arch",
     "imageName": "/item-images/furniture/shell-arch.png",
     "price": {
@@ -6624,6 +7143,7 @@
     }
   },
   {
+    "slug": "shell-bed",
     "name": "Shell bed",
     "imageName": "/item-images/furniture/shell-bed.png",
     "price": {
@@ -6635,6 +7155,7 @@
     }
   },
   {
+    "slug": "shell-fountain",
     "name": "Shell fountain",
     "imageName": "/item-images/furniture/shell-fountain.png",
     "price": {
@@ -6643,6 +7164,7 @@
     }
   },
   {
+    "slug": "shell-lamp",
     "name": "Shell lamp",
     "imageName": "/item-images/furniture/shell-lamp.png",
     "price": {
@@ -6654,6 +7176,7 @@
     }
   },
   {
+    "slug": "shell-partition",
     "name": "Shell partition",
     "imageName": "/item-images/furniture/shell-partition.png",
     "price": {
@@ -6662,6 +7185,7 @@
     }
   },
   {
+    "slug": "shell-rug",
     "name": "Shell rug",
     "imageName": "/item-images/furniture/shell-rug.png",
     "price": {
@@ -6670,6 +7194,7 @@
     }
   },
   {
+    "slug": "shell-speaker",
     "name": "Shell speaker",
     "imageName": "/item-images/furniture/shell-speaker.png",
     "price": {
@@ -6678,6 +7203,7 @@
     }
   },
   {
+    "slug": "shell-stool",
     "name": "Shell stool",
     "imageName": "/item-images/furniture/shell-stool.png",
     "price": {
@@ -6686,6 +7212,7 @@
     }
   },
   {
+    "slug": "shell-table",
     "name": "Shell table",
     "imageName": "/item-images/furniture/shell-table.png",
     "price": {
@@ -6694,6 +7221,7 @@
     }
   },
   {
+    "slug": "shoji-screen",
     "name": "Shoji screen",
     "imageName": null,
     "price": {
@@ -6708,6 +7236,7 @@
     }
   },
   {
+    "slug": "shower-booth",
     "name": "Shower booth",
     "imageName": "/item-images/furniture/shower-booth.png",
     "price": {
@@ -6716,6 +7245,7 @@
     }
   },
   {
+    "slug": "shower-set",
     "name": "Shower set",
     "imageName": "/item-images/furniture/shower-set.png",
     "price": {
@@ -6730,6 +7260,7 @@
     }
   },
   {
+    "slug": "shutter-wall",
     "name": "Shutter wall",
     "imageName": null,
     "price": {
@@ -6744,6 +7275,7 @@
     }
   },
   {
+    "slug": "signpost",
     "name": "Signpost",
     "imageName": "/item-images/furniture/signpost.png",
     "price": {
@@ -6752,6 +7284,7 @@
     }
   },
   {
+    "slug": "silo",
     "name": "Silo",
     "imageName": "/item-images/furniture/silo.png",
     "price": {
@@ -6760,6 +7293,7 @@
     }
   },
   {
+    "slug": "silver-hha-plaque",
     "name": "Silver HHA plaque",
     "imageName": "/item-images/furniture/silver-hha-plaque.png",
     "price": {
@@ -6768,6 +7302,7 @@
     }
   },
   {
+    "slug": "silver-mic",
     "name": "Silver mic",
     "imageName": "/item-images/furniture/silver-mic.png",
     "price": {
@@ -6782,6 +7317,7 @@
     }
   },
   {
+    "slug": "simple-diy-workbench",
     "name": "Simple DIY workbench",
     "imageName": "/item-images/furniture/simple-diy-workbench.png",
     "price": {
@@ -6793,6 +7329,7 @@
     }
   },
   {
+    "slug": "simple-medium-black-mat",
     "name": "Simple medium black mat",
     "imageName": null,
     "price": {
@@ -6804,6 +7341,7 @@
     }
   },
   {
+    "slug": "simple-panel",
     "name": "Simple panel",
     "imageName": "/item-images/furniture/simple-panel.png",
     "price": {
@@ -6818,6 +7356,7 @@
     }
   },
   {
+    "slug": "simple-red-flooring",
     "name": "Simple red flooring",
     "imageName": null,
     "price": {
@@ -6832,6 +7371,7 @@
     }
   },
   {
+    "slug": "simple-small-avocado-mat",
     "name": "Simple small avocado mat",
     "imageName": null,
     "price": {
@@ -6843,6 +7383,7 @@
     }
   },
   {
+    "slug": "simple-small-red-mat",
     "name": "Simple small red mat",
     "imageName": null,
     "price": {
@@ -6854,6 +7395,7 @@
     }
   },
   {
+    "slug": "simple-well",
     "name": "Simple well",
     "imageName": "/item-images/furniture/simple-well.png",
     "price": {
@@ -6865,6 +7407,7 @@
     }
   },
   {
+    "slug": "simple-white-flooring",
     "name": "Simple white flooring",
     "imageName": null,
     "price": {
@@ -6879,6 +7422,7 @@
     }
   },
   {
+    "slug": "skeleton",
     "name": "Skeleton",
     "imageName": "/item-images/furniture/skeleton.png",
     "price": {
@@ -6893,6 +7437,7 @@
     }
   },
   {
+    "slug": "ski-slope-wall",
     "name": "Ski-slope wall",
     "imageName": null,
     "price": {
@@ -6907,6 +7452,7 @@
     }
   },
   {
+    "slug": "skull-wall",
     "name": "Skull wall",
     "imageName": null,
     "price": {
@@ -6921,6 +7467,7 @@
     }
   },
   {
+    "slug": "skull-print-flooring",
     "name": "Skull-print flooring",
     "imageName": "/item-images/furniture/skull-print-flooring.png",
     "price": {
@@ -6935,6 +7482,7 @@
     }
   },
   {
+    "slug": "sky-wall",
     "name": "Sky wall",
     "imageName": null,
     "price": {
@@ -6949,6 +7497,7 @@
     }
   },
   {
+    "slug": "skyscraper-wall",
     "name": "Skyscraper wall",
     "imageName": null,
     "price": {
@@ -6963,6 +7512,7 @@
     }
   },
   {
+    "slug": "slate-flooring",
     "name": "Slate flooring",
     "imageName": null,
     "price": {
@@ -6977,6 +7527,7 @@
     }
   },
   {
+    "slug": "sleeping-bag",
     "name": "Sleeping bag",
     "imageName": "/item-images/furniture/sleeping-bag.png",
     "price": {
@@ -6991,6 +7542,7 @@
     }
   },
   {
+    "slug": "sleigh",
     "name": "Sleigh",
     "imageName": "/item-images/furniture/sleigh.png",
     "price": {
@@ -6999,6 +7551,7 @@
     }
   },
   {
+    "slug": "sloppy-rug",
     "name": "Sloppy Rug",
     "imageName": null,
     "price": {
@@ -7010,6 +7563,7 @@
     }
   },
   {
+    "slug": "small-cardboard-boxes",
     "name": "Small cardboard boxes",
     "imageName": "/item-images/furniture/small-cardboard-boxes.png",
     "price": {
@@ -7018,6 +7572,7 @@
     }
   },
   {
+    "slug": "smoker",
     "name": "Smoker",
     "imageName": "/item-images/furniture/smoker.png",
     "price": {
@@ -7032,6 +7587,7 @@
     }
   },
   {
+    "slug": "snack-machine",
     "name": "Snack machine",
     "imageName": null,
     "price": {
@@ -7043,6 +7599,7 @@
     }
   },
   {
+    "slug": "snowflake-wall",
     "name": "Snowflake wall",
     "imageName": null,
     "price": {
@@ -7057,6 +7614,7 @@
     }
   },
   {
+    "slug": "soccer-goal",
     "name": "Soccer goal",
     "imageName": "/item-images/furniture/soccer-goal.png",
     "price": {
@@ -7068,6 +7626,7 @@
     }
   },
   {
+    "slug": "soft-serve-lamp",
     "name": "Soft-serve lamp",
     "imageName": "/item-images/furniture/soft-serve-lamp.png",
     "price": {
@@ -7082,6 +7641,7 @@
     }
   },
   {
+    "slug": "solar-panel",
     "name": "Solar panel",
     "imageName": "/item-images/furniture/solar-panel.png",
     "price": {
@@ -7093,6 +7653,7 @@
     }
   },
   {
+    "slug": "soothing-tearoom-wall",
     "name": "Soothing tearoom wall",
     "imageName": null,
     "price": {
@@ -7107,6 +7668,7 @@
     }
   },
   {
+    "slug": "south-pole",
     "name": "South Pole",
     "imageName": "/item-images/furniture/south-pole.png",
     "price": {
@@ -7115,6 +7677,7 @@
     }
   },
   {
+    "slug": "speed-bag",
     "name": "Speed bag",
     "imageName": "/item-images/furniture/speed-bag.png",
     "price": {
@@ -7129,6 +7692,7 @@
     }
   },
   {
+    "slug": "sphinx",
     "name": "Sphinx",
     "imageName": "/item-images/furniture/sphinx.png",
     "price": {
@@ -7137,6 +7701,7 @@
     }
   },
   {
+    "slug": "spinning-wheel",
     "name": "Spinning wheel",
     "imageName": "/item-images/furniture/spinning-wheel.png",
     "price": {
@@ -7151,6 +7716,7 @@
     }
   },
   {
+    "slug": "springy-ride-on",
     "name": "Springy ride-on",
     "imageName": "/item-images/furniture/springy-ride-on.png",
     "price": {
@@ -7162,6 +7728,7 @@
     }
   },
   {
+    "slug": "squat-toilet",
     "name": "Squat toilet",
     "imageName": "/item-images/furniture/squat-toilet.png",
     "price": {
@@ -7176,6 +7743,7 @@
     }
   },
   {
+    "slug": "stacked-wood-wall",
     "name": "Stacked-wood wall",
     "imageName": null,
     "price": {
@@ -7190,6 +7758,7 @@
     }
   },
   {
+    "slug": "stadium-wall",
     "name": "Stadium wall",
     "imageName": null,
     "price": {
@@ -7204,6 +7773,7 @@
     }
   },
   {
+    "slug": "stall",
     "name": "Stall",
     "imageName": "/item-images/furniture/stall.png",
     "price": {
@@ -7212,6 +7782,7 @@
     }
   },
   {
+    "slug": "standard-tearoom-wall",
     "name": "Standard tearoom wall",
     "imageName": null,
     "price": {
@@ -7226,6 +7797,7 @@
     }
   },
   {
+    "slug": "standard-umbrella-stand",
     "name": "Standard umbrella stand",
     "imageName": "/item-images/furniture/standard-umbrella-stand.png",
     "price": {
@@ -7234,6 +7806,7 @@
     }
   },
   {
+    "slug": "standing-toilet",
     "name": "Standing toilet",
     "imageName": "/item-images/furniture/standing-toilet.png",
     "price": {
@@ -7248,6 +7821,7 @@
     }
   },
   {
+    "slug": "starry-garland",
     "name": "Starry garland",
     "imageName": "/item-images/furniture/starry-garland.png",
     "price": {
@@ -7256,6 +7830,7 @@
     }
   },
   {
+    "slug": "starry-wall",
     "name": "Starry wall",
     "imageName": null,
     "price": {
@@ -7270,6 +7845,7 @@
     }
   },
   {
+    "slug": "starry-sky-wall",
     "name": "Starry-sky wall",
     "imageName": null,
     "price": {
@@ -7284,6 +7860,7 @@
     }
   },
   {
+    "slug": "stately-wall",
     "name": "Stately wall",
     "imageName": null,
     "price": {
@@ -7298,6 +7875,7 @@
     }
   },
   {
+    "slug": "statue-of-liberty",
     "name": "Statue of Liberty",
     "imageName": "/item-images/furniture/statue-of-liberty.png",
     "price": {
@@ -7306,6 +7884,7 @@
     }
   },
   {
+    "slug": "steel-flooring",
     "name": "Steel flooring",
     "imageName": null,
     "price": {
@@ -7314,6 +7893,7 @@
     }
   },
   {
+    "slug": "steel-frame-wall",
     "name": "Steel-frame wall",
     "imageName": null,
     "price": {
@@ -7328,6 +7908,7 @@
     }
   },
   {
+    "slug": "stone-arch",
     "name": "Stone arch",
     "imageName": "/item-images/furniture/stone-arch.png",
     "price": {
@@ -7336,6 +7917,7 @@
     }
   },
   {
+    "slug": "stone-lion-dog",
     "name": "Stone lion-dog",
     "imageName": "/item-images/furniture/stone-lion-dog.png",
     "price": {
@@ -7344,6 +7926,7 @@
     }
   },
   {
+    "slug": "stone-stool",
     "name": "Stone stool",
     "imageName": "/item-images/furniture/stone-stool.png",
     "price": {
@@ -7355,6 +7938,7 @@
     }
   },
   {
+    "slug": "stone-table",
     "name": "Stone table",
     "imageName": "/item-images/furniture/stone-table.png",
     "price": {
@@ -7366,6 +7950,7 @@
     }
   },
   {
+    "slug": "stone-tablet",
     "name": "Stone tablet",
     "imageName": "/item-images/furniture/stone-tablet.png",
     "price": {
@@ -7377,6 +7962,7 @@
     }
   },
   {
+    "slug": "stone-tile",
     "name": "Stone tile",
     "imageName": null,
     "price": {
@@ -7391,6 +7977,7 @@
     }
   },
   {
+    "slug": "stone-wall",
     "name": "Stone wall",
     "imageName": "/item-images/furniture/stone-wall.png",
     "price": {
@@ -7402,6 +7989,7 @@
     }
   },
   {
+    "slug": "stonehenge",
     "name": "Stonehenge",
     "imageName": "/item-images/furniture/stonehenge.png",
     "price": {
@@ -7413,6 +8001,7 @@
     }
   },
   {
+    "slug": "stormy-night-wall",
     "name": "Stormy night wall",
     "imageName": null,
     "price": {
@@ -7427,6 +8016,7 @@
     }
   },
   {
+    "slug": "straw-wall",
     "name": "Straw wall",
     "imageName": null,
     "price": {
@@ -7441,6 +8031,7 @@
     }
   },
   {
+    "slug": "strawberry-chocolate-wall",
     "name": "Strawberry-chocolate wall",
     "imageName": null,
     "price": {
@@ -7455,6 +8046,7 @@
     }
   },
   {
+    "slug": "street-organ",
     "name": "Street organ",
     "imageName": "/item-images/furniture/street-organ.png",
     "price": {
@@ -7469,6 +8061,7 @@
     }
   },
   {
+    "slug": "street-art-wall",
     "name": "Street-art wall",
     "imageName": null,
     "price": {
@@ -7483,6 +8076,7 @@
     }
   },
   {
+    "slug": "streetlamp",
     "name": "Streetlamp",
     "imageName": "/item-images/furniture/streetlamp.png",
     "price": {
@@ -7494,6 +8088,7 @@
     }
   },
   {
+    "slug": "stripe-flooring",
     "name": "Stripe flooring",
     "imageName": null,
     "price": {
@@ -7508,6 +8103,7 @@
     }
   },
   {
+    "slug": "studio-spotlight",
     "name": "Studio spotlight",
     "imageName": "/item-images/furniture/studio-spotlight.png",
     "price": {
@@ -7522,6 +8118,7 @@
     }
   },
   {
+    "slug": "summit-wall",
     "name": "Summit Wall",
     "imageName": null,
     "price": {
@@ -7536,6 +8133,7 @@
     }
   },
   {
+    "slug": "swinging-bench",
     "name": "Swinging bench",
     "imageName": "/item-images/furniture/swinging-bench.png",
     "price": {
@@ -7547,6 +8145,7 @@
     }
   },
   {
+    "slug": "switch",
     "name": "Switch",
     "imageName": "/item-images/furniture/switch.png",
     "price": {
@@ -7561,6 +8160,7 @@
     }
   },
   {
+    "slug": "table-with-cloth",
     "name": "Table with cloth",
     "imageName": "/item-images/furniture/table-with-cloth.png",
     "price": {
@@ -7575,6 +8175,7 @@
     }
   },
   {
+    "slug": "tall-lantern",
     "name": "Tall lantern",
     "imageName": "/item-images/furniture/tall-lantern.png",
     "price": {
@@ -7583,6 +8184,7 @@
     }
   },
   {
+    "slug": "tankless-toilet",
     "name": "Tankless toilet",
     "imageName": "/item-images/furniture/tankless-toilet.png",
     "price": {
@@ -7597,6 +8199,7 @@
     }
   },
   {
+    "slug": "tapestry",
     "name": "Tapestry",
     "imageName": null,
     "price": {
@@ -7611,6 +8214,7 @@
     }
   },
   {
+    "slug": "tatami-bed",
     "name": "Tatami bed",
     "imageName": "/item-images/furniture/tatami-bed.png",
     "price": {
@@ -7625,6 +8229,7 @@
     }
   },
   {
+    "slug": "tatami-flooring",
     "name": "Tatami flooring",
     "imageName": "/item-images/furniture/tatami-flooring.jpg",
     "price": {
@@ -7639,6 +8244,7 @@
     }
   },
   {
+    "slug": "teacup-ride",
     "name": "Teacup ride",
     "imageName": "/item-images/furniture/teacup-ride.png",
     "price": {
@@ -7650,6 +8256,7 @@
     }
   },
   {
+    "slug": "telescope",
     "name": "Telescope",
     "imageName": "/item-images/furniture/telescope.png",
     "price": {
@@ -7664,6 +8271,7 @@
     }
   },
   {
+    "slug": "terra-cotta-flooring",
     "name": "Terra-cotta flooring",
     "imageName": null,
     "price": {
@@ -7675,6 +8283,7 @@
     }
   },
   {
+    "slug": "terrarium",
     "name": "Terrarium",
     "imageName": "/item-images/furniture/terrarium.png",
     "price": {
@@ -7683,6 +8292,7 @@
     }
   },
   {
+    "slug": "three-tiered-snow-person",
     "name": "Three-tiered snow person",
     "imageName": null,
     "price": {
@@ -7691,6 +8301,7 @@
     }
   },
   {
+    "slug": "throwback-dino-screen",
     "name": "Throwback dino screen",
     "imageName": "/item-images/furniture/throwback-dino-screen.png",
     "price": {
@@ -7699,6 +8310,7 @@
     }
   },
   {
+    "slug": "throwback-hat-table",
     "name": "Throwback hat table",
     "imageName": "/item-images/furniture/throwback-hat-table.png",
     "price": {
@@ -7707,6 +8319,7 @@
     }
   },
   {
+    "slug": "throwback-mitt-chair",
     "name": "Throwback mitt chair",
     "imageName": "/item-images/furniture/throwback-mitt-chair.png",
     "price": {
@@ -7721,6 +8334,7 @@
     }
   },
   {
+    "slug": "throwback-race-car-bed",
     "name": "Throwback race-car bed",
     "imageName": "/item-images/furniture/throwback-race-car-bed.png",
     "price": {
@@ -7735,6 +8349,7 @@
     }
   },
   {
+    "slug": "throwback-rocket",
     "name": "Throwback rocket",
     "imageName": "/item-images/furniture/throwback-rocket.png",
     "price": {
@@ -7743,6 +8358,7 @@
     }
   },
   {
+    "slug": "throwback-wall-clock",
     "name": "Throwback wall clock",
     "imageName": "/item-images/furniture/throwback-wall-clock.png",
     "price": {
@@ -7757,6 +8373,7 @@
     }
   },
   {
+    "slug": "tiger-print-flooring",
     "name": "Tiger-print flooring",
     "imageName": null,
     "price": {
@@ -7771,6 +8388,7 @@
     }
   },
   {
+    "slug": "tiki-torch",
     "name": "Tiki torch",
     "imageName": "/item-images/furniture/tiki-torch.png",
     "price": {
@@ -7782,6 +8400,7 @@
     }
   },
   {
+    "slug": "tiny-library",
     "name": "Tiny library",
     "imageName": "/item-images/furniture/tiny-library.png",
     "price": {
@@ -7793,6 +8412,7 @@
     }
   },
   {
+    "slug": "tire-stack",
     "name": "Tire stack",
     "imageName": "/item-images/furniture/tire-stack.png",
     "price": {
@@ -7804,6 +8424,7 @@
     }
   },
   {
+    "slug": "tire-toy",
     "name": "Tire toy",
     "imageName": "/item-images/furniture/tire-toy.png",
     "price": {
@@ -7815,6 +8436,7 @@
     }
   },
   {
+    "slug": "toilet",
     "name": "Toilet",
     "imageName": "/item-images/furniture/toilet.png",
     "price": {
@@ -7829,6 +8451,7 @@
     }
   },
   {
+    "slug": "toilet-cleaning-set",
     "name": "Toilet-cleaning set",
     "imageName": "/item-images/furniture/toilet-cleaning-set.png",
     "price": {
@@ -7840,6 +8463,7 @@
     }
   },
   {
+    "slug": "tool-cart",
     "name": "Tool cart",
     "imageName": "/item-images/furniture/tool-cart.png",
     "price": {
@@ -7854,6 +8478,7 @@
     }
   },
   {
+    "slug": "tool-shelf",
     "name": "Tool shelf",
     "imageName": "/item-images/furniture/tool-shelf.png",
     "price": {
@@ -7868,6 +8493,7 @@
     }
   },
   {
+    "slug": "tourist-telescope",
     "name": "Tourist telescope",
     "imageName": "/item-images/furniture/tourist-telescope.png",
     "price": {
@@ -7876,6 +8502,7 @@
     }
   },
   {
+    "slug": "train-set",
     "name": "Train set",
     "imageName": "/item-images/furniture/train-set.png",
     "price": {
@@ -7890,6 +8517,7 @@
     }
   },
   {
+    "slug": "tree-branch-wreath",
     "name": "Tree branch wreath",
     "imageName": "/item-images/furniture/tree-branch-wreath.png",
     "price": {
@@ -7901,6 +8529,7 @@
     }
   },
   {
+    "slug": "tree's-bounty-arch",
     "name": "Tree's bounty arch",
     "imageName": "/item-images/furniture/tree's-bounty-arch.png",
     "price": {
@@ -7909,6 +8538,7 @@
     }
   },
   {
+    "slug": "tree's-bounty-big-tree",
     "name": "Tree's bounty big tree",
     "imageName": "/item-images/furniture/tree's-bounty-big-tree.png",
     "price": {
@@ -7917,6 +8547,7 @@
     }
   },
   {
+    "slug": "tree's-bounty-lamp",
     "name": "Tree's bounty lamp",
     "imageName": "/item-images/furniture/tree's-bounty-lamp.png",
     "price": {
@@ -7925,6 +8556,7 @@
     }
   },
   {
+    "slug": "tree's-bounty-little-tree",
     "name": "Tree's bounty little tree",
     "imageName": "/item-images/furniture/tree's-bounty-little-tree.png",
     "price": {
@@ -7933,6 +8565,7 @@
     }
   },
   {
+    "slug": "tree's-bounty-mobile",
     "name": "Tree's bounty mobile",
     "imageName": "/item-images/furniture/tree's-bounty-mobile.png",
     "price": {
@@ -7941,6 +8574,7 @@
     }
   },
   {
+    "slug": "tree-lined-wall",
     "name": "Tree-lined wall",
     "imageName": null,
     "price": {
@@ -7955,6 +8589,7 @@
     }
   },
   {
+    "slug": "tricycle",
     "name": "Tricycle",
     "imageName": "/item-images/furniture/tricycle.png",
     "price": {
@@ -7969,6 +8604,7 @@
     }
   },
   {
+    "slug": "tropical-vista",
     "name": "Tropical vista",
     "imageName": null,
     "price": {
@@ -7983,6 +8619,7 @@
     }
   },
   {
+    "slug": "tulip-surprise-box",
     "name": "Tulip surprise box",
     "imageName": "/item-images/furniture/tulip-surprise-box.png",
     "price": {
@@ -7991,6 +8628,7 @@
     }
   },
   {
+    "slug": "typewriter",
     "name": "Typewriter",
     "imageName": "/item-images/furniture/typewriter.png",
     "price": {
@@ -8005,6 +8643,7 @@
     }
   },
   {
+    "slug": "underwater-wall",
     "name": "Underwater wall",
     "imageName": null,
     "price": {
@@ -8019,6 +8658,7 @@
     }
   },
   {
+    "slug": "unfinished-puzzle",
     "name": "Unfinished puzzle",
     "imageName": "/item-images/furniture/unfinished-puzzle.png",
     "price": {
@@ -8030,6 +8670,7 @@
     }
   },
   {
+    "slug": "unglazed-dish-set",
     "name": "Unglazed dish set",
     "imageName": "/item-images/furniture/unglazed-dish-set.png",
     "price": {
@@ -8038,6 +8679,7 @@
     }
   },
   {
+    "slug": "upright-locker",
     "name": "Upright locker",
     "imageName": "/item-images/furniture/upright-locker.png",
     "price": {
@@ -8052,6 +8694,7 @@
     }
   },
   {
+    "slug": "upright-vacuum",
     "name": "Upright vacuum",
     "imageName": "/item-images/furniture/upright-vacuum.png",
     "price": {
@@ -8066,6 +8709,7 @@
     }
   },
   {
+    "slug": "utility-pole",
     "name": "Utility pole",
     "imageName": "/item-images/furniture/utility-pole.png",
     "price": {
@@ -8077,6 +8721,7 @@
     }
   },
   {
+    "slug": "utility-sink",
     "name": "Utility sink",
     "imageName": "/item-images/furniture/utility-sink.png",
     "price": {
@@ -8091,6 +8736,7 @@
     }
   },
   {
+    "slug": "vacuum-cleaner",
     "name": "Vacuum cleaner",
     "imageName": "/item-images/furniture/vacuum-cleaner.png",
     "price": {
@@ -8105,6 +8751,7 @@
     }
   },
   {
+    "slug": "velvet-stool",
     "name": "Velvet stool",
     "imageName": "/item-images/furniture/velvet-stool.png",
     "price": {
@@ -8119,6 +8766,7 @@
     }
   },
   {
+    "slug": "ventilation-fan",
     "name": "Ventilation fan",
     "imageName": null,
     "price": {
@@ -8133,6 +8781,7 @@
     }
   },
   {
+    "slug": "vintage-tea-tray",
     "name": "Vintage tea tray",
     "imageName": null,
     "price": {
@@ -8147,6 +8796,7 @@
     }
   },
   {
+    "slug": "wall-clock",
     "name": "Wall clock",
     "imageName": "/item-images/furniture/wall-clock.png",
     "price": {
@@ -8161,6 +8811,7 @@
     }
   },
   {
+    "slug": "wall-fan",
     "name": "Wall fan",
     "imageName": null,
     "price": {
@@ -8175,6 +8826,7 @@
     }
   },
   {
+    "slug": "wall-mounted-tv-(20-in.)",
     "name": "Wall-mounted TV (20 in.)",
     "imageName": "/item-images/furniture/wall-mounted-tv-(20-in.).png",
     "price": {
@@ -8189,6 +8841,7 @@
     }
   },
   {
+    "slug": "wall-mounted-candle",
     "name": "Wall-mounted candle",
     "imageName": "/item-images/furniture/wall-mounted-candle.png",
     "price": {
@@ -8200,6 +8853,7 @@
     }
   },
   {
+    "slug": "wall-mounted-tool-board",
     "name": "Wall-mounted tool board",
     "imageName": null,
     "price": {
@@ -8208,6 +8862,7 @@
     }
   },
   {
+    "slug": "wasp-head-model",
     "name": "Wasp-head model",
     "imageName": "/item-images/furniture/wasp-head-model.png",
     "price": {
@@ -8222,6 +8877,7 @@
     }
   },
   {
+    "slug": "water-cooler",
     "name": "Water cooler",
     "imageName": null,
     "price": {
@@ -8236,6 +8892,7 @@
     }
   },
   {
+    "slug": "water-pump",
     "name": "Water pump",
     "imageName": "/item-images/furniture/water-pump.png",
     "price": {
@@ -8247,6 +8904,7 @@
     }
   },
   {
+    "slug": "wave-breaker",
     "name": "Wave breaker",
     "imageName": "/item-images/furniture/wave-breaker.png",
     "price": {
@@ -8255,6 +8913,7 @@
     }
   },
   {
+    "slug": "wavy-tile-wall",
     "name": "Wavy-tile wall",
     "imageName": null,
     "price": {
@@ -8269,6 +8928,7 @@
     }
   },
   {
+    "slug": "western-vista",
     "name": "Western vista",
     "imageName": null,
     "price": {
@@ -8283,6 +8943,7 @@
     }
   },
   {
+    "slug": "western-style-stone",
     "name": "Western-style stone",
     "imageName": null,
     "price": {
@@ -8291,6 +8952,7 @@
     }
   },
   {
+    "slug": "wheelchair",
     "name": "Wheelchair",
     "imageName": "/item-images/furniture/wheelchair.png",
     "price": {
@@ -8305,6 +8967,7 @@
     }
   },
   {
+    "slug": "white-botanical-tile-wall",
     "name": "White botanical-tile wall",
     "imageName": null,
     "price": {
@@ -8319,6 +8982,7 @@
     }
   },
   {
+    "slug": "white-delicate-blooms-wall",
     "name": "White delicate-blooms wall",
     "imageName": null,
     "price": {
@@ -8333,6 +8997,7 @@
     }
   },
   {
+    "slug": "white-hallway-wall",
     "name": "White hallway wall",
     "imageName": null,
     "price": {
@@ -8347,6 +9012,7 @@
     }
   },
   {
+    "slug": "white-honeycomb-tile",
     "name": "White honeycomb tile",
     "imageName": null,
     "price": {
@@ -8361,6 +9027,7 @@
     }
   },
   {
+    "slug": "white-honeycomb-tile-wall",
     "name": "White honeycomb-tile wall",
     "imageName": null,
     "price": {
@@ -8375,6 +9042,7 @@
     }
   },
   {
+    "slug": "white-iron-parquet-flooring",
     "name": "White iron-parquet flooring",
     "imageName": null,
     "price": {
@@ -8386,6 +9054,7 @@
     }
   },
   {
+    "slug": "white-mosaic-tile-flooring",
     "name": "White mosaic-tile flooring",
     "imageName": null,
     "price": {
@@ -8400,6 +9069,7 @@
     }
   },
   {
+    "slug": "white-painted-wood-wall",
     "name": "White painted-wood wall",
     "imageName": null,
     "price": {
@@ -8414,6 +9084,7 @@
     }
   },
   {
+    "slug": "white-perforated-board-wall",
     "name": "White perforated-board wall",
     "imageName": null,
     "price": {
@@ -8428,6 +9099,7 @@
     }
   },
   {
+    "slug": "white-simple-cloth-wall",
     "name": "White simple-cloth wall",
     "imageName": null,
     "price": {
@@ -8442,6 +9114,7 @@
     }
   },
   {
+    "slug": "white-subway-tile-wall",
     "name": "White subway-tile wall",
     "imageName": null,
     "price": {
@@ -8456,6 +9129,7 @@
     }
   },
   {
+    "slug": "white-brick-flooring",
     "name": "White-brick flooring",
     "imageName": "/item-images/furniture/white-brick-flooring.jpg",
     "price": {
@@ -8470,6 +9144,7 @@
     }
   },
   {
+    "slug": "white-brick-wall",
     "name": "White-brick wall",
     "imageName": null,
     "price": {
@@ -8484,6 +9159,7 @@
     }
   },
   {
+    "slug": "white-chocolate-wall",
     "name": "White-chocolate wall",
     "imageName": null,
     "price": {
@@ -8498,6 +9174,7 @@
     }
   },
   {
+    "slug": "white-paint-flooring",
     "name": "White-paint flooring",
     "imageName": null,
     "price": {
@@ -8512,6 +9189,7 @@
     }
   },
   {
+    "slug": "white-rose-wall",
     "name": "White-rose wall",
     "imageName": null,
     "price": {
@@ -8526,6 +9204,7 @@
     }
   },
   {
+    "slug": "whiteboard",
     "name": "Whiteboard",
     "imageName": "/item-images/furniture/whiteboard.png",
     "price": {
@@ -8540,6 +9219,7 @@
     }
   },
   {
+    "slug": "wild-log-bench",
     "name": "Wild log bench",
     "imageName": "/item-images/furniture/wild-log-bench.png",
     "price": {
@@ -8551,6 +9231,7 @@
     }
   },
   {
+    "slug": "wild-wood-wall",
     "name": "Wild-wood wall",
     "imageName": null,
     "price": {
@@ -8565,6 +9246,7 @@
     }
   },
   {
+    "slug": "wind-turbine",
     "name": "Wind turbine",
     "imageName": "/item-images/furniture/wind-turbine.png",
     "price": {
@@ -8579,6 +9261,7 @@
     }
   },
   {
+    "slug": "windflower-fan",
     "name": "Windflower fan",
     "imageName": null,
     "price": {
@@ -8587,6 +9270,7 @@
     }
   },
   {
+    "slug": "windflower-wreath",
     "name": "Windflower wreath",
     "imageName": "/item-images/furniture/windflower-wreath.png",
     "price": {
@@ -8598,6 +9282,7 @@
     }
   },
   {
+    "slug": "wood-burning-stove",
     "name": "Wood-burning stove",
     "imageName": "/item-images/furniture/wood-burning-stove.png",
     "price": {
@@ -8612,6 +9297,7 @@
     }
   },
   {
+    "slug": "wooden-bookshelf",
     "name": "Wooden bookshelf",
     "imageName": "/item-images/furniture/wooden-bookshelf.png",
     "price": {
@@ -8620,6 +9306,7 @@
     }
   },
   {
+    "slug": "wooden-bucket",
     "name": "Wooden bucket",
     "imageName": "/item-images/furniture/wooden-bucket.png",
     "price": {
@@ -8631,6 +9318,7 @@
     }
   },
   {
+    "slug": "wooden-chair",
     "name": "Wooden chair",
     "imageName": "/item-images/furniture/wooden-chair.png",
     "price": {
@@ -8642,6 +9330,7 @@
     }
   },
   {
+    "slug": "wooden-chest",
     "name": "Wooden chest",
     "imageName": "/item-images/furniture/wooden-chest.png",
     "price": {
@@ -8650,6 +9339,7 @@
     }
   },
   {
+    "slug": "wooden-double-bed",
     "name": "Wooden double bed",
     "imageName": "/item-images/furniture/wooden-double-bed.png",
     "price": {
@@ -8661,6 +9351,7 @@
     }
   },
   {
+    "slug": "wooden-end-table",
     "name": "Wooden end table",
     "imageName": "/item-images/furniture/wooden-end-table.png",
     "price": {
@@ -8672,6 +9363,7 @@
     }
   },
   {
+    "slug": "wooden-fish",
     "name": "Wooden fish",
     "imageName": "/item-images/furniture/wooden-fish.png",
     "price": {
@@ -8683,6 +9375,7 @@
     }
   },
   {
+    "slug": "wooden-full-length-mirror",
     "name": "Wooden full-length mirror",
     "imageName": "/item-images/furniture/wooden-full-length-mirror.png",
     "price": {
@@ -8694,6 +9387,7 @@
     }
   },
   {
+    "slug": "wooden-low-table",
     "name": "Wooden low table",
     "imageName": "/item-images/furniture/wooden-low-table.png",
     "price": {
@@ -8705,6 +9399,7 @@
     }
   },
   {
+    "slug": "wooden-mini-table",
     "name": "Wooden mini table",
     "imageName": "/item-images/furniture/wooden-mini-table.png",
     "price": {
@@ -8716,6 +9411,7 @@
     }
   },
   {
+    "slug": "wooden-simple-bed",
     "name": "Wooden simple bed",
     "imageName": "/item-images/furniture/wooden-simple-bed.png",
     "price": {
@@ -8727,6 +9423,7 @@
     }
   },
   {
+    "slug": "wooden-stool",
     "name": "Wooden stool",
     "imageName": "/item-images/furniture/wooden-stool.png",
     "price": {
@@ -8735,6 +9432,7 @@
     }
   },
   {
+    "slug": "wooden-table",
     "name": "Wooden table",
     "imageName": "/item-images/furniture/wooden-table.png",
     "price": {
@@ -8743,6 +9441,7 @@
     }
   },
   {
+    "slug": "wooden-table-mirror",
     "name": "Wooden table mirror",
     "imageName": "/item-images/furniture/wooden-table-mirror.png",
     "price": {
@@ -8754,6 +9453,7 @@
     }
   },
   {
+    "slug": "wooden-toolbox",
     "name": "Wooden toolbox",
     "imageName": "/item-images/furniture/wooden-toolbox.png",
     "price": {
@@ -8765,6 +9465,7 @@
     }
   },
   {
+    "slug": "wooden-wardrobe",
     "name": "Wooden wardrobe",
     "imageName": "/item-images/furniture/wooden-wardrobe.png",
     "price": {
@@ -8776,6 +9477,7 @@
     }
   },
   {
+    "slug": "wooden-block-bed",
     "name": "Wooden-block bed",
     "imageName": "/item-images/furniture/wooden-block-bed.png",
     "price": {
@@ -8787,6 +9489,7 @@
     }
   },
   {
+    "slug": "wooden-block-bookshelf",
     "name": "Wooden-block bookshelf",
     "imageName": "/item-images/furniture/wooden-block-bookshelf.png",
     "price": {
@@ -8798,6 +9501,7 @@
     }
   },
   {
+    "slug": "wooden-block-chair",
     "name": "Wooden-block chair",
     "imageName": "/item-images/furniture/wooden-block-chair.png",
     "price": {
@@ -8809,6 +9513,7 @@
     }
   },
   {
+    "slug": "wooden-block-chest",
     "name": "Wooden-block chest",
     "imageName": "/item-images/furniture/wooden-block-chest.png",
     "price": {
@@ -8820,6 +9525,7 @@
     }
   },
   {
+    "slug": "wooden-block-stereo",
     "name": "Wooden-block stereo",
     "imageName": "/item-images/furniture/wooden-block-stereo.png",
     "price": {
@@ -8831,6 +9537,7 @@
     }
   },
   {
+    "slug": "wooden-block-stool",
     "name": "Wooden-block stool",
     "imageName": "/item-images/furniture/wooden-block-stool.png",
     "price": {
@@ -8842,6 +9549,7 @@
     }
   },
   {
+    "slug": "wooden-block-table",
     "name": "Wooden-block table",
     "imageName": "/item-images/furniture/wooden-block-table.png",
     "price": {
@@ -8853,6 +9561,7 @@
     }
   },
   {
+    "slug": "wooden-block-toy",
     "name": "Wooden-block toy",
     "imageName": "/item-images/furniture/wooden-block-toy.png",
     "price": {
@@ -8864,6 +9573,7 @@
     }
   },
   {
+    "slug": "wooden-block-wall-clock",
     "name": "Wooden-block wall clock",
     "imageName": "/item-images/furniture/wooden-block-wall-clock.png",
     "price": {
@@ -8872,6 +9582,7 @@
     }
   },
   {
+    "slug": "wooden-knot-flooring",
     "name": "Wooden-knot flooring",
     "imageName": null,
     "price": {
@@ -8886,6 +9597,7 @@
     }
   },
   {
+    "slug": "wooden-knot-wall",
     "name": "Wooden-knot wall",
     "imageName": "/item-images/furniture/wooden-knot-wall.png",
     "price": {
@@ -8897,6 +9609,7 @@
     }
   },
   {
+    "slug": "wooden-mosaic-wall",
     "name": "Wooden-mosaic wall",
     "imageName": null,
     "price": {
@@ -8911,6 +9624,7 @@
     }
   },
   {
+    "slug": "wooden-plank-sign",
     "name": "Wooden-plank sign",
     "imageName": "/item-images/furniture/wooden-plank-sign.png",
     "price": {
@@ -8919,6 +9633,7 @@
     }
   },
   {
+    "slug": "woodland-wall",
     "name": "Woodland wall",
     "imageName": "/item-images/furniture/woodland-wall.png",
     "price": {
@@ -8927,6 +9642,7 @@
     }
   },
   {
+    "slug": "writing-chair",
     "name": "Writing chair",
     "imageName": "/item-images/furniture/writing-chair.png",
     "price": {
@@ -8941,6 +9657,7 @@
     }
   },
   {
+    "slug": "writing-desk",
     "name": "Writing desk",
     "imageName": "/item-images/furniture/writing-desk.png",
     "price": {
@@ -8955,6 +9672,7 @@
     }
   },
   {
+    "slug": "writing-poster",
     "name": "Writing poster",
     "imageName": "/item-images/furniture/writing-poster.png",
     "price": {
@@ -8969,6 +9687,7 @@
     }
   },
   {
+    "slug": "yellow-persian-rug",
     "name": "Yellow Persian rug",
     "imageName": null,
     "price": {
@@ -8980,6 +9699,7 @@
     }
   },
   {
+    "slug": "yellow-argyle-rug",
     "name": "Yellow argyle rug",
     "imageName": null,
     "price": {
@@ -8991,6 +9711,7 @@
     }
   },
   {
+    "slug": "yellow-blocks-rug",
     "name": "Yellow blocks rug",
     "imageName": null,
     "price": {
@@ -9002,6 +9723,7 @@
     }
   },
   {
+    "slug": "yellow-flower-print-wall",
     "name": "Yellow flower-print wall",
     "imageName": null,
     "price": {
@@ -9016,6 +9738,7 @@
     }
   },
   {
+    "slug": "yellow-heart-pattern-wall",
     "name": "Yellow heart-pattern wall",
     "imageName": null,
     "price": {
@@ -9030,6 +9753,7 @@
     }
   },
   {
+    "slug": "yellow-intricate-wall",
     "name": "Yellow intricate wall",
     "imageName": null,
     "price": {
@@ -9044,6 +9768,7 @@
     }
   },
   {
+    "slug": "yellow-kilim-style-carpet",
     "name": "Yellow kilim-style carpet",
     "imageName": "/item-images/furniture/yellow-kilim-style-carpet.png",
     "price": {
@@ -9058,6 +9783,7 @@
     }
   },
   {
+    "slug": "yellow-message-mat",
     "name": "Yellow message mat",
     "imageName": null,
     "price": {
@@ -9069,6 +9795,7 @@
     }
   },
   {
+    "slug": "yellow-playroom-wall",
     "name": "Yellow playroom wall",
     "imageName": null,
     "price": {
@@ -9083,6 +9810,7 @@
     }
   },
   {
+    "slug": "yellow-quilt-wall",
     "name": "Yellow quilt wall",
     "imageName": null,
     "price": {
@@ -9097,6 +9825,7 @@
     }
   },
   {
+    "slug": "yellow-simple-cloth-wall",
     "name": "Yellow simple-cloth wall",
     "imageName": null,
     "price": {
@@ -9111,6 +9840,7 @@
     }
   },
   {
+    "slug": "yellow-paint-wall",
     "name": "Yellow-paint wall",
     "imageName": null,
     "price": {
@@ -9125,6 +9855,7 @@
     }
   },
   {
+    "slug": "yellow-striped-wall",
     "name": "Yellow-striped wall",
     "imageName": null,
     "price": {
@@ -9139,6 +9870,7 @@
     }
   },
   {
+    "slug": "zebra-print-flooring",
     "name": "Zebra-print flooring",
     "imageName": null,
     "price": {
