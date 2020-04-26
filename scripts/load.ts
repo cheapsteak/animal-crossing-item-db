@@ -1,5 +1,6 @@
 import path from 'path';
 import fs from 'fs-extra';
+import slugify from 'slugify';
 import {
   SerializedBug,
   SerializedFish,
@@ -32,6 +33,7 @@ const transformWikiFish = (wikiCritters: Wiki_Fish[]): SerializedFish[] => {
       path.join(extractionDirectory, 'images/fish', imageName),
     );
     return {
+      slug: slugify(wikiCritter.Name.text, { lower: true }),
       name: wikiCritter.Name.text,
       imageName: imageExists
         ? `/${ITEM_IMAGES_DIR_NAME}/fish/${imageName}`
@@ -57,6 +59,7 @@ const transformWikiBugs = (wikiCritters: Wiki_Fish[]): SerializedBug[] => {
       path.join(extractionDirectory, 'images/bugs', imageName),
     );
     return {
+      slug: slugify(wikiCritter.Name.text, { lower: true }),
       name: wikiCritter.Name.text,
       imageName: imageExists
         ? `/${ITEM_IMAGES_DIR_NAME}/bugs/${imageName}`
@@ -84,6 +87,7 @@ const transformFurniture = (
       path.join(extractionDirectory, 'images/furniture', imageName),
     );
     return {
+      slug: slugify(wikiFurnitureItem.Name.text, { lower: true }),
       name: wikiFurnitureItem.Name.text,
       imageName: imageExists
         ? `/${ITEM_IMAGES_DIR_NAME}/furniture/${imageName}`
