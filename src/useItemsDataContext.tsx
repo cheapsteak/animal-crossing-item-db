@@ -46,7 +46,7 @@ const fetchFish = (
 
 const ITEM_DATA_STALE_TIME = 24 * 60 * 60 * 1000; // 24 hours
 
-export const useItemsData = ({ hemisphere }: { hemisphere: Hemisphere }) => {
+const useItemsData = ({ hemisphere }: { hemisphere: Hemisphere }) => {
   const furnitureResponse = useQuery('furniture', fetchFurniture, {
     suspense: true,
     staleTime: ITEM_DATA_STALE_TIME,
