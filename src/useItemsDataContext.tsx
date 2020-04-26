@@ -1,6 +1,8 @@
 import ky from 'ky';
+import React from 'react';
 import { useQuery } from 'react-query';
 import { Furniture, Bug, Fish, Hemisphere } from './types';
+import { useGlobalStateContext } from './useGlobalStateContext';
 
 const fetchFurniture = (): Promise<Furniture[]> => {
   console.log('fetchFurniture');
@@ -66,4 +68,30 @@ export const useItemsData = ({ hemisphere }: { hemisphere: Hemisphere }) => {
     fish: fishResponse.data || [],
     bugs: bugsResponse.data || [],
   };
+};
+
+const ItemsDataContext = React.createContext<ReturnType<
+  typeof useItemsData
+> | null>(null);
+
+export const ItemsDataProvider: React.FC<{
+  children: React.ReactNode;
+}> = ({ children }) => {
+  const { hemisphere } = useGlobalStateContext();
+  const itemData = useItemsData({ hemisphere });
+  return (
+    <ItemsDataContext.Provider value={itemData}>
+      {children}
+    </ItemsDataContext.Provider>
+  );
+};
+
+export const useItemsDataContext = () => {
+  const context = React.useContext(ItemsDataContext);
+  if (!context) {
+    throw new Error(
+      'useGlobalStateContext must be used within a GlobalStateProvider',
+    );
+  }
+  return context;
 };

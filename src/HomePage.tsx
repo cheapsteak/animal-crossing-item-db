@@ -2,12 +2,12 @@
 import { jsx, css } from '@emotion/core';
 import { useState, useMemo } from 'react';
 
-import { useItemsData } from './useItemsData';
+import { useItemsDataContext } from './useItemsDataContext';
 import { Furniture, Fish, Bug } from './types';
 import { List } from './List';
 
 export const HomePage = () => {
-  const { furniture, fish, bugs } = useItemsData({ hemisphere: 'northern' });
+  const { furniture, fish, bugs } = useItemsDataContext();
   const [searchQuery, setSearchQuery] = useState('');
 
   const queryRegex = useMemo(() => {
