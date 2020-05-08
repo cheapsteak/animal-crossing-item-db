@@ -4,6 +4,7 @@ export type Hemisphere = 'northern' | 'southern';
 
 export interface NamedItem {
   name: string;
+  slug: string;
 }
 export interface SeasonalCritter extends NamedItem {
   name: string;

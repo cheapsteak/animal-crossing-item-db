@@ -1,7 +1,11 @@
 /** @jsx jsx */
 import { jsx, css } from '@emotion/core';
-import React, { useState } from 'react';
+import { motion } from 'framer-motion';
+import React from 'react';
 import { GridChildComponentProps } from 'react-window';
+import { Link, useLocation, matchPath } from 'react-router-dom';
+
+import { itemDetailsRoute } from './routes';
 
 const numberFormatter = new Intl.NumberFormat();
 
@@ -11,25 +15,34 @@ export const ListItem: React.FC<GridChildComponentProps> = ({
   columnIndex,
   style,
 }) => {
-  const [mode, setMode] = useState<'icon' | 'detailed'>('icon');
   const item = data[rowIndex][columnIndex];
+  const location = useLocation();
+  const match = matchPath(location.pathname, {
+    path: itemDetailsRoute(item.type, item.slug),
+    exact: true,
+  });
+
   if (!item) {
     return null;
   }
   return (
-    <div
+    <Link
       key={item.type + item.name}
+      to={match ? '/' : itemDetailsRoute(item.type, item.slug)}
       style={style}
       css={css`
         position: relative;
         font-size: 14px;
-        ${mode === 'detailed' &&
-        css`
-          z-index: 1;
-        `}
+        text-decoration: none;
+        color: #222;
+
+        border-radius: 4px;
+        /* disable blue flash */
+        -webkit-tap-highlight-color: rgba(11, 162, 60, 0.1);
       `}
     >
-      <div
+      <motion.div
+        layoutId="item-wrapper"
         css={css`
           padding-top: 4px;
           padding-bottom: 4px;
@@ -38,14 +51,7 @@ export const ListItem: React.FC<GridChildComponentProps> = ({
           align-items: center;
           justify-content: center;
           border-radius: 50%;
-
-          ${mode === 'detailed' &&
-          css`
-            background-color: #51b2a8;
-            color: #fffff5;
-          `}
         `}
-        onClick={() => setMode(mode === 'icon' ? 'detailed' : 'icon')}
       >
         <div
           css={css`
@@ -71,23 +77,16 @@ export const ListItem: React.FC<GridChildComponentProps> = ({
             flex-shrink: 0;
             text-align: center;
 
-            font-weight: ${mode === 'icon' ? '500' : '600'};
+            font-weight: 500;
             margin-bottom: 2px;
 
-            ${mode === 'icon' &&
+            width: 100%;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            ${item.name.length > 16 &&
             css`
-              width: 100%;
-              white-space: nowrap;
-              overflow: hidden;
-              text-overflow: ellipsis;
-              ${item.name.length > 16 &&
-              css`
-                font-size: 11px;
-              `}
-            `}
-            ${mode === 'detailed' &&
-            css`
-              text-shadow: 2px 2px #51b2a8;
+              font-size: 11px;
             `}
           `}
         >
@@ -103,7 +102,7 @@ export const ListItem: React.FC<GridChildComponentProps> = ({
             </span>
           )}
         </div>
-      </div>
-    </div>
+      </motion.div>
+    </Link>
   );
 };
