@@ -79,15 +79,15 @@
     "files": [
       {
         "path": "build/static/js/*.js",
-        "maxSize": "100kB"
+        "maxSize": "300kB"
       },
       {
         "path": "build/static/css/*.css",
-        "maxSize": "100kB"
+        "maxSize": "300kB"
       },
       {
         "path": "build/data/*.json",
-        "maxSize": "100kB"
+        "maxSize": "300kB"
       }
     ]
   }
