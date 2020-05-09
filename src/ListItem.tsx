@@ -16,10 +16,12 @@ export const ListItem: React.FC<GridChildComponentProps> = ({
 }) => {
   const item = data[rowIndex][columnIndex];
   const location = useLocation();
-  const match = matchPath(location.pathname, {
-    path: itemDetailsRoute(item.type, item.slug),
-    exact: true,
-  });
+  const match =
+    item &&
+    matchPath(location.pathname, {
+      path: itemDetailsRoute(item.type, item.slug),
+      exact: true,
+    });
 
   if (!item) {
     return null;
