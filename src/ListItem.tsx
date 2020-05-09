@@ -6,8 +6,7 @@ import { GridChildComponentProps } from 'react-window';
 import { Link, useLocation, matchPath } from 'react-router-dom';
 
 import { itemDetailsRoute } from './routes';
-
-const numberFormatter = new Intl.NumberFormat();
+import { numberFormatter } from './numberFormatter';
 
 export const ListItem: React.FC<GridChildComponentProps> = ({
   data,

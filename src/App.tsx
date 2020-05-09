@@ -6,9 +6,10 @@ import { AnimatePresence } from 'framer-motion';
 
 import * as routes from './routes';
 import { HomePage } from './HomePage';
-import { ItemDetails, ItemDetailsWrapper } from './ItemDetails';
+import { ItemDetails } from './ItemDetails';
 import { GlobalStateProvider } from './useGlobalStateContext';
 import { ItemsDataProvider } from './useItemsDataContext';
+import { ItemDetailsWrapper } from './ItemDetailsWrapper';
 
 const GlobalSuspenseFallback = () => {
   return <div>Loading...</div>;
