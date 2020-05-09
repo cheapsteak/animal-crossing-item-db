@@ -4,23 +4,29 @@
   "private": true,
   "license": "CC BY-NC 3.0",
   "dependencies": {
+    "@emotion/core": "10.0.28",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "@types/fs-extra": "8.1.0",
     "@types/got": "9.6.9",
     "@types/jest": "^24.0.0",
+    "@types/lodash": "4.14.150",
     "@types/node": "^12.0.0",
     "@types/react": "^16.9.0",
     "@types/react-dom": "^16.9.0",
+    "@types/react-router-dom": "5.1.4",
     "@types/react-virtualized-auto-sizer": "1.0.0",
+    "framer-motion": "2.0.0-beta.55",
     "fs-extra": "9.0.0",
     "got": "10.7.0",
     "ky": "0.19.0",
+    "lodash": "4.17.15",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-ga": "2.7.0",
     "react-query": "1.2.1",
+    "react-router-dom": "5.1.2",
     "react-scripts": "3.4.1",
     "react-virtualized-auto-sizer": "1.0.2",
     "react-window": "1.8.5",
@@ -73,15 +79,15 @@
     "files": [
       {
         "path": "build/static/js/*.js",
-        "maxSize": "100kB"
+        "maxSize": "300kB"
       },
       {
         "path": "build/static/css/*.css",
-        "maxSize": "100kB"
+        "maxSize": "300kB"
       },
       {
         "path": "build/data/*.json",
-        "maxSize": "100kB"
+        "maxSize": "300kB"
       }
     ]
   }

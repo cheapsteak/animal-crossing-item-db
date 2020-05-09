@@ -1,5 +1,6 @@
 [
   {
+    "slug": "agrias-butterfly",
     "name": "Agrias butterfly",
     "imageName": "/item-images/bugs/agrias-butterfly.png",
     "price": 3000,
@@ -15,6 +16,7 @@
     ]
   },
   {
+    "slug": "ant",
     "name": "Ant",
     "imageName": "/item-images/bugs/ant.png",
     "price": 80,
@@ -36,6 +38,7 @@
     ]
   },
   {
+    "slug": "atlas-moth",
     "name": "Atlas moth",
     "imageName": "/item-images/bugs/atlas-moth.png",
     "price": 3000,
@@ -51,6 +54,7 @@
     ]
   },
   {
+    "slug": "bagworm",
     "name": "Bagworm",
     "imageName": "/item-images/bugs/bagworm.png",
     "price": 600,
@@ -72,6 +76,7 @@
     ]
   },
   {
+    "slug": "banded-dragonfly",
     "name": "Banded dragonfly",
     "imageName": "/item-images/bugs/banded-dragonfly.png",
     "price": 4500,
@@ -87,6 +92,7 @@
     ]
   },
   {
+    "slug": "bell-cricket",
     "name": "Bell cricket",
     "imageName": "/item-images/bugs/bell-cricket.png",
     "price": 430,
@@ -98,6 +104,7 @@
     ]
   },
   {
+    "slug": "blue-weevil-beetle",
     "name": "Blue weevil beetle",
     "imageName": "/item-images/bugs/blue-weevil-beetle.png",
     "price": 800,
@@ -109,6 +116,7 @@
     ]
   },
   {
+    "slug": "brown-cicada",
     "name": "Brown cicada",
     "imageName": "/item-images/bugs/brown-cicada.png",
     "price": 250,
@@ -120,6 +128,7 @@
     ]
   },
   {
+    "slug": "centipede",
     "name": "Centipede",
     "imageName": "/item-images/bugs/centipede.png",
     "price": 300,
@@ -139,6 +148,7 @@
     ]
   },
   {
+    "slug": "cicada-shell",
     "name": "Cicada shell",
     "imageName": "/item-images/bugs/cicada-shell.png",
     "price": 10,
@@ -150,6 +160,7 @@
     ]
   },
   {
+    "slug": "citrus-long-horned-beetle",
     "name": "Citrus long-horned beetle",
     "imageName": "/item-images/bugs/citrus-long-horned-beetle.png",
     "price": 350,
@@ -171,6 +182,7 @@
     ]
   },
   {
+    "slug": "common-bluebottle",
     "name": "Common bluebottle",
     "imageName": "/item-images/bugs/common-bluebottle.png",
     "price": 300,
@@ -185,6 +197,7 @@
     ]
   },
   {
+    "slug": "common-butterfly",
     "name": "Common butterfly",
     "imageName": "/item-images/bugs/common-butterfly.png",
     "price": 160,
@@ -204,6 +217,7 @@
     ]
   },
   {
+    "slug": "cricket",
     "name": "Cricket",
     "imageName": "/item-images/bugs/cricket.png",
     "price": 130,
@@ -216,6 +230,7 @@
     ]
   },
   {
+    "slug": "cyclommatus-stag",
     "name": "Cyclommatus stag",
     "imageName": "/item-images/bugs/cyclommatus-stag.png",
     "price": 8000,
@@ -227,6 +242,7 @@
     ]
   },
   {
+    "slug": "damselfly",
     "name": "Damselfly",
     "imageName": "/item-images/bugs/damselfly.png",
     "price": 500,
@@ -240,6 +256,7 @@
     ]
   },
   {
+    "slug": "darner-dragonfly",
     "name": "Darner dragonfly",
     "imageName": "/item-images/bugs/darner-dragonfly.png",
     "price": 230,
@@ -256,6 +273,7 @@
     ]
   },
   {
+    "slug": "diving-beetle",
     "name": "Diving beetle",
     "imageName": "/item-images/bugs/diving-beetle.png",
     "price": 800,
@@ -270,6 +288,7 @@
     ]
   },
   {
+    "slug": "drone-beetle",
     "name": "Drone beetle",
     "imageName": "/item-images/bugs/drone-beetle.png",
     "price": 200,
@@ -282,6 +301,7 @@
     ]
   },
   {
+    "slug": "dung-beetle",
     "name": "Dung beetle",
     "imageName": "/item-images/bugs/dung-beetle.png",
     "price": 3000,
@@ -294,6 +314,7 @@
     ]
   },
   {
+    "slug": "earth-boring-dung-beetle",
     "name": "Earth-boring dung beetle",
     "imageName": "/item-images/bugs/earth-boring-dung-beetle.png",
     "price": 300,
@@ -306,6 +327,7 @@
     ]
   },
   {
+    "slug": "emperor-butterfly",
     "name": "Emperor butterfly",
     "imageName": "/item-images/bugs/emperor-butterfly.png",
     "price": 4000,
@@ -323,6 +345,7 @@
     ]
   },
   {
+    "slug": "evening-cicada",
     "name": "Evening cicada",
     "imageName": "/item-images/bugs/evening-cicada.png",
     "price": 550,
@@ -334,6 +357,7 @@
     ]
   },
   {
+    "slug": "firefly",
     "name": "Firefly",
     "imageName": "/item-images/bugs/firefly.png",
     "price": 300,
@@ -344,6 +368,7 @@
     ]
   },
   {
+    "slug": "flea",
     "name": "Flea",
     "imageName": "/item-images/bugs/flea.png",
     "price": 70,
@@ -361,6 +386,7 @@
     ]
   },
   {
+    "slug": "fly",
     "name": "Fly",
     "imageName": "/item-images/bugs/fly.png",
     "price": 60,
@@ -382,6 +408,7 @@
     ]
   },
   {
+    "slug": "giant-cicada",
     "name": "Giant cicada",
     "imageName": "/item-images/bugs/giant-cicada.png",
     "price": 500,
@@ -393,6 +420,7 @@
     ]
   },
   {
+    "slug": "giant-stag",
     "name": "Giant stag",
     "imageName": "/item-images/bugs/giant-stag.png",
     "price": 10000,
@@ -404,6 +432,7 @@
     ]
   },
   {
+    "slug": "giant-water-bug",
     "name": "Giant water bug",
     "imageName": "/item-images/bugs/giant-water-bug.png",
     "price": 2000,
@@ -419,6 +448,7 @@
     ]
   },
   {
+    "slug": "giraffe-stag",
     "name": "Giraffe stag",
     "imageName": "/item-images/bugs/giraffe-stag.png",
     "price": 12000,
@@ -430,6 +460,7 @@
     ]
   },
   {
+    "slug": "golden-stag",
     "name": "Golden stag",
     "imageName": "/item-images/bugs/golden-stag.png",
     "price": 12000,
@@ -441,6 +472,7 @@
     ]
   },
   {
+    "slug": "goliath-beetle",
     "name": "Goliath beetle",
     "imageName": "/item-images/bugs/goliath-beetle.png",
     "price": 8000,
@@ -454,6 +486,7 @@
     ]
   },
   {
+    "slug": "grasshopper",
     "name": "Grasshopper",
     "imageName": "/item-images/bugs/grasshopper.png",
     "price": 160,
@@ -466,6 +499,7 @@
     ]
   },
   {
+    "slug": "great-purple-emperor",
     "name": "Great purple emperor",
     "imageName": "/item-images/bugs/great-purple-emperor.png",
     "price": 3000,
@@ -479,6 +513,7 @@
     ]
   },
   {
+    "slug": "hermit-crab",
     "name": "Hermit crab",
     "imageName": "/item-images/bugs/hermit-crab.png",
     "price": 1000,
@@ -500,6 +535,7 @@
     ]
   },
   {
+    "slug": "honeybee",
     "name": "Honeybee",
     "imageName": "/item-images/bugs/honeybee.png",
     "price": 200,
@@ -514,6 +550,7 @@
     ]
   },
   {
+    "slug": "horned-atlas",
     "name": "Horned atlas",
     "imageName": "/item-images/bugs/horned-atlas.png",
     "price": 8000,
@@ -525,6 +562,7 @@
     ]
   },
   {
+    "slug": "horned-dynastid",
     "name": "Horned dynastid",
     "imageName": "/item-images/bugs/horned-dynastid.png",
     "price": 1350,
@@ -536,6 +574,7 @@
     ]
   },
   {
+    "slug": "horned-elephant",
     "name": "Horned elephant",
     "imageName": "/item-images/bugs/horned-elephant.png",
     "price": 8000,
@@ -547,6 +586,7 @@
     ]
   },
   {
+    "slug": "horned-hercules",
     "name": "Horned hercules",
     "imageName": "/item-images/bugs/horned-hercules.png",
     "price": 12000,
@@ -558,6 +598,7 @@
     ]
   },
   {
+    "slug": "jewel-beetle",
     "name": "Jewel beetle",
     "imageName": "/item-images/bugs/jewel-beetle.png",
     "price": 2400,
@@ -572,6 +613,7 @@
     ]
   },
   {
+    "slug": "ladybug",
     "name": "Ladybug",
     "imageName": "/item-images/bugs/ladybug.png",
     "price": 200,
@@ -586,6 +628,7 @@
     ]
   },
   {
+    "slug": "long-locust",
     "name": "Long locust",
     "imageName": "/item-images/bugs/long-locust.png",
     "price": 200,
@@ -603,6 +646,7 @@
     ]
   },
   {
+    "slug": "madagascan-sunset-moth",
     "name": "Madagascan sunset moth",
     "imageName": "/item-images/bugs/madagascan-sunset-moth.png",
     "price": 2500,
@@ -618,6 +662,7 @@
     ]
   },
   {
+    "slug": "man-faced-stink-bug",
     "name": "Man-faced stink bug",
     "imageName": "/item-images/bugs/man-faced-stink-bug.png",
     "price": 1000,
@@ -635,6 +680,7 @@
     ]
   },
   {
+    "slug": "mantis",
     "name": "Mantis",
     "imageName": "/item-images/bugs/mantis.png",
     "price": 430,
@@ -653,6 +699,7 @@
     ]
   },
   {
+    "slug": "migratory-locust",
     "name": "Migratory locust",
     "imageName": "/item-images/bugs/migratory-locust.png",
     "price": 600,
@@ -666,6 +713,7 @@
     ]
   },
   {
+    "slug": "miyama-stag",
     "name": "Miyama stag",
     "imageName": "/item-images/bugs/miyama-stag.png",
     "price": 1000,
@@ -677,6 +725,7 @@
     ]
   },
   {
+    "slug": "mole-cricket",
     "name": "Mole cricket",
     "imageName": "/item-images/bugs/mole-cricket.png",
     "price": 500,
@@ -693,6 +742,7 @@
     ]
   },
   {
+    "slug": "monarch-butterfly",
     "name": "Monarch butterfly",
     "imageName": "/item-images/bugs/monarch-butterfly.png",
     "price": 140,
@@ -705,6 +755,7 @@
     ]
   },
   {
+    "slug": "mosquito",
     "name": "Mosquito",
     "imageName": "/item-images/bugs/mosquito.png",
     "price": 130,
@@ -718,6 +769,7 @@
     ]
   },
   {
+    "slug": "moth",
     "name": "Moth",
     "imageName": "/item-images/bugs/moth.png",
     "price": 130,
@@ -739,6 +791,7 @@
     ]
   },
   {
+    "slug": "orchid-mantis",
     "name": "Orchid mantis",
     "imageName": "/item-images/bugs/orchid-mantis.png",
     "price": 2400,
@@ -757,6 +810,7 @@
     ]
   },
   {
+    "slug": "paper-kite-butterfly",
     "name": "Paper kite butterfly",
     "imageName": "/item-images/bugs/paper-kite-butterfly.png",
     "price": 1000,
@@ -778,6 +832,7 @@
     ]
   },
   {
+    "slug": "peacock-butterfly",
     "name": "Peacock butterfly",
     "imageName": "/item-images/bugs/peacock-butterfly.png",
     "price": 2500,
@@ -791,6 +846,7 @@
     ]
   },
   {
+    "slug": "pill-bug",
     "name": "Pill bug",
     "imageName": "/item-images/bugs/pill-bug.png",
     "price": 250,
@@ -810,6 +866,7 @@
     ]
   },
   {
+    "slug": "pondskater",
     "name": "Pondskater",
     "imageName": "/item-images/bugs/pondskater.png",
     "price": 130,
@@ -824,6 +881,7 @@
     ]
   },
   {
+    "slug": "queen-alexandra's-birdwing",
     "name": "Queen Alexandra's birdwing",
     "imageName": "/item-images/bugs/queen-alexandra's-birdwing.png",
     "price": 4000,
@@ -838,6 +896,7 @@
     ]
   },
   {
+    "slug": "rainbow-stag",
     "name": "Rainbow stag",
     "imageName": "/item-images/bugs/rainbow-stag.png",
     "price": 6000,
@@ -851,6 +910,7 @@
     ]
   },
   {
+    "slug": "rajah-brooke's-birdwing",
     "name": "Rajah Brooke's birdwing",
     "imageName": "/item-images/bugs/rajah-brooke's-birdwing.png",
     "price": 2500,
@@ -869,6 +929,7 @@
     ]
   },
   {
+    "slug": "red-dragonfly",
     "name": "Red dragonfly",
     "imageName": "/item-images/bugs/red-dragonfly.png",
     "price": 180,
@@ -880,6 +941,7 @@
     ]
   },
   {
+    "slug": "rice-grasshopper",
     "name": "Rice grasshopper",
     "imageName": "/item-images/bugs/rice-grasshopper.png",
     "price": 160,
@@ -893,6 +955,7 @@
     ]
   },
   {
+    "slug": "robust-cicada",
     "name": "Robust cicada",
     "imageName": "/item-images/bugs/robust-cicada.png",
     "price": 300,
@@ -904,6 +967,7 @@
     ]
   },
   {
+    "slug": "rosalia-batesi-beetle",
     "name": "Rosalia batesi beetle",
     "imageName": "/item-images/bugs/rosalia-batesi-beetle.png",
     "price": 3000,
@@ -918,6 +982,7 @@
     ]
   },
   {
+    "slug": "saw-stag",
     "name": "Saw stag",
     "imageName": "/item-images/bugs/saw-stag.png",
     "price": 2000,
@@ -929,6 +994,7 @@
     ]
   },
   {
+    "slug": "scarab-beetle",
     "name": "Scarab beetle",
     "imageName": "/item-images/bugs/scarab-beetle.png",
     "price": 10000,
@@ -940,6 +1006,7 @@
     ]
   },
   {
+    "slug": "scorpion",
     "name": "Scorpion",
     "imageName": "/item-images/bugs/scorpion.png",
     "price": 8000,
@@ -955,6 +1022,7 @@
     ]
   },
   {
+    "slug": "snail",
     "name": "Snail",
     "imageName": "/item-images/bugs/snail.png",
     "price": 250,
@@ -976,6 +1044,7 @@
     ]
   },
   {
+    "slug": "spider",
     "name": "Spider",
     "imageName": "/item-images/bugs/spider.png",
     "price": 480,
@@ -997,6 +1066,7 @@
     ]
   },
   {
+    "slug": "stinkbug",
     "name": "Stinkbug",
     "imageName": "/item-images/bugs/stinkbug.png",
     "price": 120,
@@ -1014,6 +1084,7 @@
     ]
   },
   {
+    "slug": "tarantula",
     "name": "Tarantula",
     "imageName": "/item-images/bugs/tarantula.png",
     "price": 8000,
@@ -1029,6 +1100,7 @@
     ]
   },
   {
+    "slug": "tiger-beetle",
     "name": "Tiger beetle",
     "imageName": "/item-images/bugs/tiger-beetle.png",
     "price": 1500,
@@ -1047,6 +1119,7 @@
     ]
   },
   {
+    "slug": "tiger-butterfly",
     "name": "Tiger butterfly",
     "imageName": "/item-images/bugs/tiger-butterfly.png",
     "price": 240,
@@ -1063,6 +1136,7 @@
     ]
   },
   {
+    "slug": "violin-beetle",
     "name": "Violin beetle",
     "imageName": "/item-images/bugs/violin-beetle.png",
     "price": 450,
@@ -1077,6 +1151,7 @@
     ]
   },
   {
+    "slug": "walker-cicada",
     "name": "Walker cicada",
     "imageName": "/item-images/bugs/walker-cicada.png",
     "price": 400,
@@ -1088,6 +1163,7 @@
     ]
   },
   {
+    "slug": "walking-leaf",
     "name": "Walking leaf",
     "imageName": "/item-images/bugs/walking-leaf.png",
     "price": 600,
@@ -1100,6 +1176,7 @@
     ]
   },
   {
+    "slug": "walking-stick",
     "name": "Walking stick",
     "imageName": "/item-images/bugs/walking-stick.png",
     "price": 600,
@@ -1114,6 +1191,7 @@
     ]
   },
   {
+    "slug": "wasp",
     "name": "Wasp",
     "imageName": "/item-images/bugs/wasp.png",
     "price": 2500,
@@ -1135,6 +1213,7 @@
     ]
   },
   {
+    "slug": "wharf-roach",
     "name": "Wharf roach",
     "imageName": "/item-images/bugs/wharf-roach.png",
     "price": 200,
@@ -1156,6 +1235,7 @@
     ]
   },
   {
+    "slug": "yellow-butterfly",
     "name": "Yellow butterfly",
     "imageName": "/item-images/bugs/yellow-butterfly.png",
     "price": 160,

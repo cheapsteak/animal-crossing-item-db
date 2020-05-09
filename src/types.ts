@@ -1,10 +1,13 @@
 import { Wiki_Fish } from './../scripts/extract/types';
+import { monthCodes } from './constants';
 
 export type Hemisphere = 'northern' | 'southern';
 
 export interface NamedItem {
   name: string;
+  slug: string;
 }
+
 export interface SeasonalCritter extends NamedItem {
   name: string;
   imageName: string | null;
@@ -12,7 +15,7 @@ export interface SeasonalCritter extends NamedItem {
   location: string;
   time: string;
   // eslint-disable-next-line prettier/prettier
-  appearsInMonths: ReadonlyArray<'Jan'|'Feb'|'Mar'|'Apr'|'May'|'Jun'|'Jul'|'Aug'|'Sep'|'Oct'|'Nov'|'Dec'>;
+  appearsInMonths: ReadonlyArray<typeof monthCodes[number]>;
 }
 
 export interface SerializedFish extends SeasonalCritter {

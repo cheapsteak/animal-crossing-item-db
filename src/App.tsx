@@ -1,115 +1,60 @@
-import React, { Suspense, useState, useMemo } from 'react';
-import { FixedSizeList, ListChildComponentProps } from 'react-window';
-import AutoSizer from 'react-virtualized-auto-sizer';
+/** @jsx jsx */
+import { jsx } from '@emotion/core';
+import { Suspense, PropsWithChildren } from 'react';
+import { BrowserRouter, useLocation, matchPath } from 'react-router-dom';
+import { AnimatePresence } from 'framer-motion';
 
-import { useItemsData } from './useItemsData';
-import { Furniture, Fish, Bug } from './types';
-
-const numberFormatter = new Intl.NumberFormat();
-
-const ItemRenderer: React.FC<ListChildComponentProps> = ({
-  data,
-  index,
-  style,
-}) => {
-  const x = data[index];
-  return (
-    <div key={x.type + x.name} style={style}>
-      <div
-        style={{
-          height: 40,
-          padding: '0.5em 1em',
-          display: 'flex',
-          alignItems: 'center',
-        }}
-      >
-        <div style={{ width: 40 }}>
-          {x.imageName && (
-            <img src={`${x.imageName}`} style={{ width: 32 }} alt="" />
-          )}
-        </div>
-        <span>{x.name}</span>
-        <div style={{ marginLeft: 'auto' }}>
-          {x.type !== 'furniture' ? (
-            <span>{numberFormatter.format(x.price)}</span>
-          ) : (
-            <span>
-              {x.price.sell?.amount &&
-                numberFormatter.format(x.price.sell?.amount)}
-            </span>
-          )}
-        </div>
-      </div>
-    </div>
-  );
-};
-
-const Foo = () => {
-  const { furniture, fish, bugs } = useItemsData({ hemisphere: 'northern' });
-  const [searchQuery, setSearchQuery] = useState('');
-
-  const queryRegex = useMemo(() => {
-    return new RegExp(
-      '(?:[\\s]|^)' + // don't start match in the middle of a word
-        // e.g. searchQuery is `aqua wall`, match `aqua tile wall`
-        searchQuery
-          .split(' ')
-          // assume subsequent words in search are also the start of words
-          .join('.*\\s'),
-      'i',
-    );
-  }, [searchQuery]);
-
-  const searchResults = useMemo(() => {
-    const allItems: Array<Furniture | Fish | Bug> = [
-      ...bugs,
-      ...fish,
-      ...furniture,
-    ];
-    return allItems.filter((item) => queryRegex.test(item.name));
-  }, [queryRegex, furniture, fish, bugs]);
-
-  return (
-    <div style={{ height: '100%', display: 'flex', flexDirection: 'column' }}>
-      <input
-        type="text"
-        value={searchQuery}
-        onChange={(e) => setSearchQuery(e.target.value)}
-        style={{
-          padding: '0.5em',
-          margin: '0.5em',
-          borderRadius: 3,
-          border: `1px solid #ccc`,
-        }}
-      />
-      <div style={{ flexGrow: 1 }}>
-        <AutoSizer>
-          {({ height, width }) => (
-            <FixedSizeList
-              itemData={searchResults}
-              itemCount={searchResults.length}
-              height={height}
-              width={width}
-              itemSize={40}
-            >
-              {ItemRenderer}
-            </FixedSizeList>
-          )}
-        </AutoSizer>
-      </div>
-    </div>
-  );
-};
+import * as routes from './routes';
+import { HomePage } from './HomePage';
+import { ItemDetails, ItemDetailsWrapper } from './ItemDetails';
+import { GlobalStateProvider } from './useGlobalStateContext';
+import { ItemsDataProvider } from './useItemsDataContext';
 
 const GlobalSuspenseFallback = () => {
   return <div>Loading...</div>;
+};
+
+const Providers: React.FC<PropsWithChildren<{}>> = ({ children }) => {
+  return (
+    <BrowserRouter>
+      <GlobalStateProvider>
+        <ItemsDataProvider>{children}</ItemsDataProvider>
+      </GlobalStateProvider>
+    </BrowserRouter>
+  );
+};
+
+const ItemDetailsRoute = () => {
+  const location = useLocation();
+  const match = matchPath<{
+    itemType: 'furniture' | 'bug' | 'fish';
+    itemSlug: string;
+  }>(location.pathname, {
+    path: routes.itemDetailsRoute(),
+    exact: true,
+  });
+  return (
+    <AnimatePresence>
+      {match && (
+        <ItemDetailsWrapper>
+          <ItemDetails
+            itemType={match.params.itemType}
+            itemSlug={match.params.itemSlug}
+          />
+        </ItemDetailsWrapper>
+      )}
+    </AnimatePresence>
+  );
 };
 
 function App() {
   return (
     <div className="App">
       <Suspense fallback={<GlobalSuspenseFallback />}>
-        <Foo />
+        <Providers>
+          <HomePage />
+          <ItemDetailsRoute />
+        </Providers>
       </Suspense>
     </div>
   );
