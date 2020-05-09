@@ -4,6 +4,7 @@ import React from 'react';
 import { HydratedItem, Fish, Bug, Furniture } from '../types';
 import { useItemsDataContext } from '../useItemsDataContext';
 import { CritterDetails } from './CritterDetails';
+import { FurnitureDetails } from './FurnitureDetails';
 
 const isCritter = (x: Furniture | Bug | Fish): x is Fish | Bug =>
   x.type === 'bug' || x.type === 'fish';
@@ -38,7 +39,11 @@ export const ItemDetails: React.FC<{
   }, [itemType, itemSlug, bugs, fish, furniture]);
   return (
     <React.Fragment>
-      {isCritter(item) ? <CritterDetails critter={item} /> : 'todo'}
+      {isCritter(item) ? (
+        <CritterDetails critter={item} />
+      ) : (
+        <FurnitureDetails item={item} />
+      )}
     </React.Fragment>
   );
 };
