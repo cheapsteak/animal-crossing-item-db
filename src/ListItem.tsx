@@ -86,7 +86,7 @@ export const ListItem: React.FC<GridChildComponentProps> = ({
             text-overflow: ellipsis;
             ${item.name.length > 16 &&
             css`
-              font-size: 11px;
+              font-size: 12px;
             `}
           `}
         >

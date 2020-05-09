@@ -6,6 +6,7 @@ import {
   SerializedFish,
   SerializedFurniture,
 } from './../src/types';
+import { monthCodes } from './../src/constants';
 import { Wiki_Fish, Wiki_Furniture } from './extract/types';
 import { getWikiItemIconFileName } from './extract/downloadWikiImages';
 import { extractionDirectory } from './extractionDirectory';
@@ -15,11 +16,6 @@ import { parsePrice } from './parsePrice';
 // and copy over images
 // might have to do some data merging in the future if there's data we want
 // that's outside of wikia.
-
-const monthNames = [
-  // eslint-disable-next-line prettier/prettier
-  'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec',
-] as const;
 
 export const ITEM_IMAGES_DIR_NAME = `item-images`;
 
@@ -42,7 +38,7 @@ const transformWikiFish = (wikiCritters: Wiki_Fish[]): SerializedFish[] => {
       shadowSize: wikiCritter['Shadow size'].text,
       location: wikiCritter.Location.text,
       time: wikiCritter.Time.text,
-      appearsInMonths: monthNames.filter(
+      appearsInMonths: monthCodes.filter(
         (monthName) => wikiCritter[monthName].text === '✓',
       ),
     };
@@ -67,7 +63,7 @@ const transformWikiBugs = (wikiCritters: Wiki_Fish[]): SerializedBug[] => {
       price: wikiCritter.Price.number,
       location: wikiCritter.Location.text,
       time: wikiCritter.Time.text,
-      appearsInMonths: monthNames.filter(
+      appearsInMonths: monthCodes.filter(
         (monthName) => wikiCritter[monthName].text === '✓',
       ),
     };

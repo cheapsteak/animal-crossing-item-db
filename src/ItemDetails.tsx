@@ -5,6 +5,7 @@ import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { HydratedItem, Fish, Bug, Furniture } from './types';
 import { useItemsDataContext } from './useItemsDataContext';
+import { monthCodes } from './constants';
 
 const isCritter = (x: Furniture | Bug | Fish): x is Fish | Bug =>
   x.type === 'bug' || x.type === 'fish';
@@ -122,20 +123,21 @@ const CritterDetails: React.FC<{ critter: Fish | Bug }> = ({ critter }) => {
           css={css`
             display: flex;
             flex-grow: 1;
+            flex-direction: column;
             justify-content: flex-start;
-            align-items: center;
-            padding-top: 10px;
-            padding-bottom: 10px;
+            align-items: stretch;
           `}
         >
           <h1
             css={css`
               display: flex;
               flex-grow: 1;
-
               flex-direction: row;
               margin-right: 20px;
+              margin-top: 16px;
+              margin-bottom: 10px;
               font-size: 20px;
+              font-weight: 500;
             `}
           >
             {critter.name}
@@ -147,7 +149,54 @@ const CritterDetails: React.FC<{ critter: Fish | Bug }> = ({ critter }) => {
               {numberFormatter.format(critter.price)}
             </span>
           </h1>
+          <div
+            css={css`
+              display: flex;
+              font-size: 14px;
+              font-weight: 500;
+              color: #333;
+            `}
+          >
+            <span css={css``}>{critter.time}</span>
+            <span
+              css={css`
+                margin-left: auto;
+                margin-right: 20px;
+              `}
+            >
+              {critter.location}
+            </span>
+          </div>
         </div>
+      </div>
+
+      <div
+        css={css`
+          display: flex;
+          justify-content: space-between;
+          margin-left: 20px;
+          margin-right: 20px;
+          margin-bottom: 10px;
+          margin-top: 10px;
+          font-size: 14px;
+        `}
+      >
+        {monthCodes.map((monthCode) => (
+          <div
+            css={css`
+              ${!critter.appearsInMonths.includes(monthCode)
+                ? css`
+                    color: #aaa;
+                  `
+                : css`
+                    color: #333;
+                  `}
+              font-weight: 400;
+            `}
+          >
+            {monthCode}
+          </div>
+        ))}
       </div>
     </motion.div>
   );
