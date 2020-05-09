@@ -5,6 +5,7 @@
   "license": "CC BY-NC 3.0",
   "dependencies": {
     "@emotion/core": "10.0.28",
+    "@craco/craco": "5.6.4",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
@@ -18,6 +19,7 @@
     "@types/react-router-dom": "5.1.4",
     "@types/react-virtualized-auto-sizer": "1.0.0",
     "framer-motion": "2.0.0-beta.55",
+    "babel-plugin-lodash": "3.3.4",
     "fs-extra": "9.0.0",
     "got": "10.7.0",
     "ky": "0.19.0",
@@ -36,9 +38,9 @@
   },
   "scripts": {
     "analyze": "source-map-explorer 'build/static/js/*.js'",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --passWithNoTests",
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test --passWithNoTests",
     "eject": "react-scripts eject",
     "lint": "eslint --ext .js,.jsx,.ts,.tsx .",
     "lint:fix": "yarn lint --fix",
