@@ -3,9 +3,9 @@ import { jsx, css } from '@emotion/core';
 import React, { PropsWithChildren } from 'react';
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import { HydratedItem, Fish, Bug, Furniture } from './types';
-import { useItemsDataContext } from './useItemsDataContext';
-import { monthCodes } from './constants';
+import { HydratedItem, Fish, Bug, Furniture } from '../types';
+import { useItemsDataContext } from '../useItemsDataContext';
+import { monthCodes } from '../constants';
 
 const isCritter = (x: Furniture | Bug | Fish): x is Fish | Bug =>
   x.type === 'bug' || x.type === 'fish';
