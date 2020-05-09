@@ -1,5 +1,5 @@
 /** @jsx jsx */
-import { jsx } from '@emotion/core';
+import { jsx, css } from '@emotion/core';
 import { Suspense, PropsWithChildren } from 'react';
 import { BrowserRouter, useLocation, matchPath } from 'react-router-dom';
 import { AnimatePresence } from 'framer-motion';
@@ -12,7 +12,20 @@ import { ItemsDataProvider } from './useItemsDataContext';
 import { ItemDetailsWrapper } from './ItemDetailsWrapper';
 
 const GlobalSuspenseFallback = () => {
-  return <div>Loading...</div>;
+  return (
+    <div
+      css={css`
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 20px;
+      `}
+    >
+      Loading...
+    </div>
+  );
 };
 
 const Providers: React.FC<PropsWithChildren<{}>> = ({ children }) => {
