@@ -183,6 +183,7 @@ const CritterDetails: React.FC<{ critter: Fish | Bug }> = ({ critter }) => {
       >
         {monthCodes.map((monthCode) => (
           <div
+            key={monthCode}
             css={css`
               ${!critter.appearsInMonths.includes(monthCode)
                 ? css`
