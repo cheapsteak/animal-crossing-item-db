@@ -1026,7 +1026,7 @@
     "name": "Snail",
     "imageName": "/item-images/bugs/snail.png",
     "price": 250,
-    "location": "On Rocks (Rain)",
+    "location": "On Rocks and Bushes (Rain)",
     "time": "All day",
     "appearsInMonths": [
       "Jan",
@@ -1047,7 +1047,7 @@
     "slug": "spider",
     "name": "Spider",
     "imageName": "/item-images/bugs/spider.png",
-    "price": 480,
+    "price": 600,
     "location": "Shaking Trees",
     "time": "7 PM - 8 AM",
     "appearsInMonths": [

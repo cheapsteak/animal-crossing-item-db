@@ -4037,7 +4037,7 @@
       "number": 250
     },
     "Location": {
-      "text": "On Rocks (Rain)"
+      "text": "On Rocks and Bushes (Rain)"
     },
     "Time": {
       "text": "All day"
@@ -4093,8 +4093,8 @@
       "text": "NH-Icon-spider.png"
     },
     "Price": {
-      "text": "480",
-      "number": 480
+      "text": "600",
+      "number": 600
     },
     "Location": {
       "text": "Shaking Trees"

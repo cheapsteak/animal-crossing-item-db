@@ -1026,7 +1026,7 @@
     "name": "Snail",
     "imageName": "/item-images/bugs/snail.png",
     "price": 250,
-    "location": "On rocks during rain",
+    "location": "On rocks and bushes (Rain)",
     "time": "All day",
     "appearsInMonths": [
       "Jan",
