@@ -38,6 +38,7 @@ export const HomePage = () => {
         value={searchQuery}
         onChange={(e) => setSearchQuery(e.target.value)}
         css={css`
+          font-size: 16px;
           padding: 0.5em;
           margin: 0.5em;
           border-radius: 3px;
