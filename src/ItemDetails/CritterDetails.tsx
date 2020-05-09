@@ -24,7 +24,7 @@ export const CritterDetails: React.FC<{ critter: Fish | Bug }> = ({
               width: 60px;
               height: 50px;
               object-fit: contain;
-              margin-top: 10px;
+              align-self: center;
               margin-left: 20px;
               margin-right: 20px;
             `}
@@ -46,8 +46,8 @@ export const CritterDetails: React.FC<{ critter: Fish | Bug }> = ({
               flex-grow: 1;
               flex-direction: row;
               margin-right: 20px;
-              margin-top: 16px;
-              margin-bottom: 10px;
+              margin-top: 20px;
+              margin-bottom: 16px;
               font-size: 20px;
               font-weight: 500;
             `}
@@ -67,6 +67,7 @@ export const CritterDetails: React.FC<{ critter: Fish | Bug }> = ({
               font-size: 14px;
               font-weight: 500;
               color: #333;
+              margin-bottom: 8px;
             `}
           >
             <span css={css``}>{critter.time}</span>
@@ -88,7 +89,7 @@ export const CritterDetails: React.FC<{ critter: Fish | Bug }> = ({
           justify-content: space-between;
           margin-left: 20px;
           margin-right: 20px;
-          margin-bottom: 10px;
+          margin-bottom: 16px;
           margin-top: 10px;
           font-size: 14px;
         `}

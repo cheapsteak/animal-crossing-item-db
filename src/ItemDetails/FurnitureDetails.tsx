@@ -22,6 +22,7 @@ export const FurnitureDetails: React.FC<{ item: Furniture }> = ({ item }) => {
               width: 60px;
               height: 50px;
               object-fit: contain;
+              align-self: center;
               margin-top: 10px;
               margin-bottom: 10px;
               margin-right: 20px;
