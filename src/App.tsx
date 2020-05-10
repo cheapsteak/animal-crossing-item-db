@@ -10,6 +10,7 @@ import { ItemDetails } from './ItemDetails';
 import { GlobalStateProvider } from './useGlobalStateContext';
 import { ItemsDataProvider } from './useItemsDataContext';
 import { ItemDetailsWrapper } from './ItemDetailsWrapper';
+import { ReactQueryConfigProvider } from 'react-query';
 
 const GlobalSuspenseFallback = () => {
   return (
@@ -30,11 +31,13 @@ const GlobalSuspenseFallback = () => {
 
 const Providers: React.FC<PropsWithChildren<{}>> = ({ children }) => {
   return (
-    <BrowserRouter>
-      <GlobalStateProvider>
-        <ItemsDataProvider>{children}</ItemsDataProvider>
-      </GlobalStateProvider>
-    </BrowserRouter>
+    <ReactQueryConfigProvider config={{ refetchAllOnWindowFocus: false }}>
+      <BrowserRouter>
+        <GlobalStateProvider>
+          <ItemsDataProvider>{children}</ItemsDataProvider>
+        </GlobalStateProvider>
+      </BrowserRouter>
+    </ReactQueryConfigProvider>
   );
 };
 
