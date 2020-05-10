@@ -2,7 +2,7 @@ import ky from 'ky';
 import React from 'react';
 import { useQuery } from 'react-query';
 import { Furniture, Bug, Fish, Hemisphere } from './types';
-import { useGlobalStateContext } from './useGlobalStateContext';
+import { useFiltersContext } from './useFiltersContext';
 
 const fetchFurniture = (): Promise<Furniture[]> => {
   console.log('fetchFurniture');
@@ -77,8 +77,8 @@ const ItemsDataContext = React.createContext<ReturnType<
 export const ItemsDataProvider: React.FC<{
   children: React.ReactNode;
 }> = ({ children }) => {
-  const { hemisphere } = useGlobalStateContext();
-  const itemData = useItemsData({ hemisphere });
+  const { filters } = useFiltersContext();
+  const itemData = useItemsData({ hemisphere: filters.hemisphere });
   return (
     <ItemsDataContext.Provider value={itemData}>
       {children}

@@ -7,10 +7,10 @@ import { AnimatePresence } from 'framer-motion';
 import * as routes from './routes';
 import { HomePage } from './HomePage';
 import { ItemDetails } from './ItemDetails';
-import { GlobalStateProvider } from './useGlobalStateContext';
 import { ItemsDataProvider } from './useItemsDataContext';
 import { ItemDetailsWrapper } from './ItemDetailsWrapper';
 import { ReactQueryConfigProvider } from 'react-query';
+import { FiltersContextProvider } from './useFiltersContext';
 
 const GlobalSuspenseFallback = () => {
   return (
@@ -33,9 +33,9 @@ const Providers: React.FC<PropsWithChildren<{}>> = ({ children }) => {
   return (
     <ReactQueryConfigProvider config={{ refetchAllOnWindowFocus: false }}>
       <BrowserRouter>
-        <GlobalStateProvider>
+        <FiltersContextProvider>
           <ItemsDataProvider>{children}</ItemsDataProvider>
-        </GlobalStateProvider>
+        </FiltersContextProvider>
       </BrowserRouter>
     </ReactQueryConfigProvider>
   );
