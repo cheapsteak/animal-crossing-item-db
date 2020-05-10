@@ -10,7 +10,6 @@ import { monthCodes } from './../src/constants';
 import { Wiki_Fish, Wiki_Furniture } from './extract/types';
 import { getWikiItemIconFileName } from './extract/downloadWikiImages';
 import { extractionDirectory } from './extractionDirectory';
-import { parsePrice } from './parsePrice';
 
 // for now, just transform wiki data into something more suitable for app use
 // and copy over images
@@ -74,23 +73,34 @@ const transformFurniture = (
   wikiFurniture: Wiki_Furniture[],
 ): SerializedFurniture[] => {
   return wikiFurniture.map((wikiFurnitureItem) => {
-    const imageText = wikiFurnitureItem.Image?.text || '';
-    const imageName = getWikiItemIconFileName(
-      wikiFurnitureItem.Name.text,
-      path.extname(imageText.replace(/(\[\[File:|\]\])/g, '')),
-    );
+    const imageName = getWikiItemIconFileName(wikiFurnitureItem.name, '.png');
     const imageExists = fs.existsSync(
       path.join(extractionDirectory, 'images/furniture', imageName),
     );
     return {
-      slug: slugify(wikiFurnitureItem.Name.text, { lower: true }),
-      name: wikiFurnitureItem.Name.text,
+      slug: slugify(wikiFurnitureItem.name, { lower: true }),
+      name: wikiFurnitureItem.name,
+      source: wikiFurnitureItem.source,
       imageName: imageExists
         ? `/${ITEM_IMAGES_DIR_NAME}/furniture/${imageName}`
         : null,
       price: {
-        buy: parsePrice(wikiFurnitureItem['Price (Buy)']?.text || ''),
-        sell: parsePrice(wikiFurnitureItem['Price (Sell)']?.text || ''),
+        buy: ((amount) =>
+          amount
+            ? {
+                amount,
+                currency: wikiFurnitureItem.template.endsWith('/nook')
+                  ? 'Nook Miles'
+                  : 'Bells',
+              }
+            : null)(Number(wikiFurnitureItem.buy?.replace(/,/g, '')) || null),
+        sell: ((amount) =>
+          amount
+            ? {
+                amount,
+                currency: 'Bells',
+              }
+            : null)(Number(wikiFurnitureItem.sell.replace(/,/g, '')) || null),
       },
     };
   });

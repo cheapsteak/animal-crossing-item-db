@@ -62,25 +62,13 @@ export interface Wiki_Fish extends Wiki_SeasonalCritter {
   };
 }
 
-export interface Wiki_Furniture extends Wiki_NamedItemMaybeWithImage {
-  Name: { text: string };
-  Image?: { text: string };
-  'Price (Buy)'?: {
-    text: string; // '*' | 'N/A' | '3,000 Bells' | '500 Nook Miles'
-  };
-  'Price (Sell)'?: {
-    text: string; // '*' | 'N/A' | '3,000 Bells'
-    links?: Array<{
-      type: 'internal';
-      page: string;
-    }>;
-  };
-  Source?: {
-    text: string; // '*' | 'Timmy & Tommy' etc
-  };
-  Variations?: {
-    text: string; // *** * Red * Yellow * Green * * * Black
-  };
-  'Customize?'?: { text: string };
-  Size?: { text: string };
+export interface Wiki_Furniture {
+  name: string;
+  buy?: string;
+  sell: string;
+  source?: string;
+  variations?: string;
+  custom?: string;
+  size?: string;
+  template: string;
 }

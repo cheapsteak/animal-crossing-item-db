@@ -23,8 +23,16 @@ export const extractBugs = async () => {
   >;
 
   console.log('[extractBugs] writing json');
-  saveExtractedItems(northernHemisphereBugs, 'bugs-northern-hemisphere');
-  saveExtractedItems(southernHemisphereBugs, 'bugs-southern-hemisphere');
+  saveExtractedItems(
+    'bugs-northern-hemisphere',
+    northernHemisphereBugs,
+    (x) => x.Name.text,
+  );
+  saveExtractedItems(
+    'bugs-southern-hemisphere',
+    southernHemisphereBugs,
+    (x) => x.Name.text,
+  );
 
   const allBugs = _.uniqBy(
     northernHemisphereBugs.concat(southernHemisphereBugs),

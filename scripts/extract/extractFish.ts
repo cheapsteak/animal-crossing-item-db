@@ -35,11 +35,18 @@ export const extractFish = async () => {
   const southernHemisphereFish = (doc?.tables(2).json() as object[]).map(
     cleanFishData,
   ) as Array<Wiki_SeasonalCritter>;
-  console.log(southernHemisphereFish);
 
   console.log('[extractFish] writing json');
-  saveExtractedItems(northernHemisphereFish, 'fish-northern-hemisphere');
-  saveExtractedItems(southernHemisphereFish, 'fish-southern-hemisphere');
+  saveExtractedItems(
+    'fish-northern-hemisphere',
+    northernHemisphereFish,
+    (x) => x.Name.text,
+  );
+  saveExtractedItems(
+    'fish-southern-hemisphere',
+    southernHemisphereFish,
+    (x) => x.Name.text,
+  );
 
   const allFish = _.uniqBy(
     northernHemisphereFish.concat(southernHemisphereFish),
