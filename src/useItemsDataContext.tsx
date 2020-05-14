@@ -2,10 +2,9 @@ import ky from 'ky';
 import React from 'react';
 import { useQuery } from 'react-query';
 import { Furniture, Bug, Fish, Hemisphere } from './types';
-import { useFiltersContext } from './useFiltersContext';
+import { useFiltersContext, Filters } from './useFiltersContext';
 
 const fetchFurniture = (): Promise<Furniture[]> => {
-  console.log('fetchFurniture');
   return ky
     .get('/data/furniture.json')
     .json()
@@ -46,18 +45,18 @@ const fetchFish = (
 
 const ITEM_DATA_STALE_TIME = 24 * 60 * 60 * 1000; // 24 hours
 
-const useItemsData = ({ hemisphere }: { hemisphere: Hemisphere }) => {
-  const furnitureResponse = useQuery('furniture', fetchFurniture, {
+const useItemsData = ({ hemisphere, bugs, fish, furniture }: Filters) => {
+  const furnitureResponse = useQuery(furniture && 'furniture', fetchFurniture, {
     suspense: true,
     staleTime: ITEM_DATA_STALE_TIME,
     refetchOnWindowFocus: false,
   });
-  const fishResponse = useQuery(['fish', hemisphere], fetchFish, {
+  const fishResponse = useQuery(fish && ['fish', hemisphere], fetchFish, {
     suspense: true,
     staleTime: ITEM_DATA_STALE_TIME,
     refetchOnWindowFocus: false,
   });
-  const bugsResponse = useQuery(['bugs', hemisphere], fetchBugs, {
+  const bugsResponse = useQuery(bugs && ['bugs', hemisphere], fetchBugs, {
     suspense: true,
     staleTime: ITEM_DATA_STALE_TIME,
     refetchOnWindowFocus: false,
@@ -78,7 +77,7 @@ export const ItemsDataProvider: React.FC<{
   children: React.ReactNode;
 }> = ({ children }) => {
   const { filters } = useFiltersContext();
-  const itemData = useItemsData({ hemisphere: filters.hemisphere });
+  const itemData = useItemsData(filters);
   return (
     <ItemsDataContext.Provider value={itemData}>
       {children}
