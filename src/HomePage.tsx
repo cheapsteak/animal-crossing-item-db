@@ -1,5 +1,6 @@
 /** @jsx jsx */
 import { jsx, css } from '@emotion/core';
+import styled from '@emotion/styled';
 import { useState, useMemo } from 'react';
 
 import { GoSearch } from 'react-icons/go';
@@ -7,9 +8,28 @@ import { GoSearch } from 'react-icons/go';
 import { useItemsDataContext } from './useItemsDataContext';
 import { Furniture, Fish, Bug } from './types';
 import { List } from './List';
+import { useFiltersContext } from './useFiltersContext';
+
+const FilterButton = styled.button<{ active: boolean }>`
+  padding: 4px 12px;
+  border-radius: 16px;
+  border: 0;
+  ${({ active }) =>
+    active
+      ? css`
+          background-color: #ffebbf;
+          color: #5d4208;
+        `
+      : css`
+          background-color: transparent;
+          color: #777;
+        `}
+  font-size: 14px;
+`;
 
 export const HomePage = () => {
   const { furniture, fish, bugs } = useItemsDataContext();
+  const { filters, setFilters } = useFiltersContext();
   const [searchQuery, setSearchQuery] = useState('');
 
   const queryRegex = useMemo(() => {
@@ -49,6 +69,46 @@ export const HomePage = () => {
         `}
       >
         <Searchbox searchQuery={searchQuery} setSearchQuery={setSearchQuery} />
+        <div
+          css={css`
+            margin: 8px 12px;
+          `}
+        >
+          <FilterButton
+            active={filters.bugs}
+            onClick={() =>
+              setFilters((filters) => ({ ...filters, bugs: !filters.bugs }))
+            }
+          >
+            Bugs
+          </FilterButton>
+
+          <FilterButton
+            css={css`
+              margin-left: 8px;
+            `}
+            active={filters.fish}
+            onClick={() =>
+              setFilters((filters) => ({ ...filters, fish: !filters.fish }))
+            }
+          >
+            Fish
+          </FilterButton>
+          <FilterButton
+            css={css`
+              margin-left: 8px;
+            `}
+            active={filters.furniture}
+            onClick={() =>
+              setFilters((filters) => ({
+                ...filters,
+                furniture: !filters.furniture,
+              }))
+            }
+          >
+            Furniture
+          </FilterButton>
+        </div>
       </div>
       <div
         css={css`

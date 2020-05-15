@@ -32,7 +32,6 @@ const fetchFish = (
   _queryKey: 'fish',
   hemisphere: Hemisphere,
 ): Promise<Fish[]> => {
-  console.log('fetchFish');
   return ky
     .get(
       hemisphere === 'northern'
