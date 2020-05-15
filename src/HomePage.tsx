@@ -34,13 +34,26 @@ export const HomePage = () => {
   }, [queryRegex, furniture, fish, bugs]);
 
   return (
-    <div style={{ height: '100%', display: 'flex', flexDirection: 'column' }}>
-      <div>
+    <div
+      css={css`
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        background: #fffff8;
+      `}
+    >
+      <div
+        css={css`
+          z-index: 1;
+          box-shadow: 0 3px 5px 5px rgb(255, 255, 248);
+        `}
+      >
         <Searchbox searchQuery={searchQuery} setSearchQuery={setSearchQuery} />
       </div>
       <div
         css={css`
           flex-grow: 1;
+          padding: 0 12px;
         `}
       >
         <List items={searchResults} />
@@ -66,11 +79,12 @@ const Searchbox: React.FC<{
       <div
         css={css`
           border-radius: 25px;
-          border: 1px solid #ccc;
+          border: 1px solid #999;
           opacity: 1;
-          margin: 0.5em;
+          margin: 0.5em 0.5em 0;
           width: 100%;
           display: flex;
+          background-color: #ffffff;
         `}
       >
         <input
@@ -93,14 +107,16 @@ const Searchbox: React.FC<{
           top: 18px;
           left: 18px;
           pointer-events: none;
-          /* transform: translateZ(0); */
         `}
       >
         <GoSearch
-          css={{
-            width: 18,
-            height: 'auto',
-          }}
+          css={css`
+            width: 18px;
+            height: auto;
+            & > * {
+              fill: #555;
+            }
+          `}
         />
       </div>
     </div>

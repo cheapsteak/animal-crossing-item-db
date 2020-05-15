@@ -43,7 +43,8 @@ export const ItemDetailsWrapper: React.FC<PropsWithChildren<{}>> = ({
           },
         }}
         css={css`
-          background-color: #ffffff;
+          background-color: #fffdf4c6;
+          backdrop-filter: blur(8px) contrast(90%) brightness(100%) sepia(10%);
           box-shadow: 0 0px 40px 2px rgba(0, 0, 0, 0.2);
         `}
       >

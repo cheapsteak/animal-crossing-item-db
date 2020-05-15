@@ -30,6 +30,7 @@ export const List: React.FC<{ items: Array<Furniture | Fish | Bug> }> = ({
             rowCount={chunkedItems.length}
             height={containerHeight}
             width={containerWidth}
+            overscanRowCount={2}
             itemKey={({ data, columnIndex, rowIndex }) =>
               data[rowIndex][columnIndex]?.name || `${rowIndex}-${columnIndex}`
             }
