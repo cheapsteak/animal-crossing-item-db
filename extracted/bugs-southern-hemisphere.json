@@ -13,7 +13,7 @@
       "text": "NH-Icon-agriasbutterfly.png"
     },
     "Price": {
-      "text": "3000",
+      "text": "3,000",
       "number": 3000
     },
     "Location": {
@@ -133,7 +133,7 @@
       "text": "NH-Icon-atlasmoth.png"
     },
     "Price": {
-      "text": "3000",
+      "text": "3,000",
       "number": 3000
     },
     "Location": {
@@ -253,7 +253,7 @@
       "text": "NH-Icon-bandeddragonfly.png"
     },
     "Price": {
-      "text": "4500",
+      "text": "4,500",
       "number": 4500
     },
     "Location": {
@@ -853,7 +853,7 @@
       "text": "NH-Icon-cyclommatusstag.png"
     },
     "Price": {
-      "text": "8000",
+      "text": "8,000",
       "number": 8000
     },
     "Location": {
@@ -1153,7 +1153,7 @@
       "text": "NH-Icon-dungbeetle.png"
     },
     "Price": {
-      "text": "3000",
+      "text": "3,000",
       "number": 3000
     },
     "Location": {
@@ -1273,7 +1273,7 @@
       "text": "NH-Icon-emperorbutterfly.png"
     },
     "Price": {
-      "text": "4000",
+      "text": "4,000",
       "number": 4000
     },
     "Location": {
@@ -1633,7 +1633,7 @@
       "text": "NH-Icon-giantstag.png"
     },
     "Price": {
-      "text": "10000",
+      "text": "10,000",
       "number": 10000
     },
     "Location": {
@@ -1693,7 +1693,7 @@
       "text": "NH-Icon-giantwaterbug.png"
     },
     "Price": {
-      "text": "2000",
+      "text": "2,000",
       "number": 2000
     },
     "Location": {
@@ -1753,7 +1753,7 @@
       "text": "NH-Icon-giraffestag.png"
     },
     "Price": {
-      "text": "12000",
+      "text": "12,000",
       "number": 12000
     },
     "Location": {
@@ -1813,7 +1813,7 @@
       "text": "NH-Icon-goldenstag.png"
     },
     "Price": {
-      "text": "12000",
+      "text": "12,000",
       "number": 12000
     },
     "Location": {
@@ -1873,7 +1873,7 @@
       "text": "NH-Icon-goliathbeetle.png"
     },
     "Price": {
-      "text": "8000",
+      "text": "8,000",
       "number": 8000
     },
     "Location": {
@@ -1993,7 +1993,7 @@
       "text": "NH-Icon-greatpurpleemperor.png"
     },
     "Price": {
-      "text": "3000",
+      "text": "3,000",
       "number": 3000
     },
     "Location": {
@@ -2053,7 +2053,7 @@
       "text": "NH-Icon-hermitcrab.png"
     },
     "Price": {
-      "text": "1000",
+      "text": "1,000",
       "number": 1000
     },
     "Location": {
@@ -2173,7 +2173,7 @@
       "text": "NH-Icon-hornedatlas.png"
     },
     "Price": {
-      "text": "8000",
+      "text": "8,000",
       "number": 8000
     },
     "Location": {
@@ -2293,7 +2293,7 @@
       "text": "NH-Icon-hornedelephant.png"
     },
     "Price": {
-      "text": "8000",
+      "text": "8,000",
       "number": 8000
     },
     "Location": {
@@ -2353,7 +2353,7 @@
       "text": "NH-Icon-hornedhercules.png"
     },
     "Price": {
-      "text": "12000",
+      "text": "12,000",
       "number": 12000
     },
     "Location": {
@@ -2413,7 +2413,7 @@
       "text": "NH-Icon-jewelbeetle.png"
     },
     "Price": {
-      "text": "2400",
+      "text": "2,400",
       "number": 2400
     },
     "Location": {
@@ -2593,7 +2593,7 @@
       "text": "NH-Icon-madagascansunsetmoth.png"
     },
     "Price": {
-      "text": "2500",
+      "text": "2,500",
       "number": 2500
     },
     "Location": {
@@ -2653,7 +2653,7 @@
       "text": "NH-Icon-manfacedstinkbug.png"
     },
     "Price": {
-      "text": "1000",
+      "text": "1,000",
       "number": 1000
     },
     "Location": {
@@ -2833,7 +2833,7 @@
       "text": "NH-Icon-miyamastag.png"
     },
     "Price": {
-      "text": "1000",
+      "text": "1,000",
       "number": 1000
     },
     "Location": {
@@ -3133,7 +3133,7 @@
       "text": "NH-Icon-orchidmantis.png"
     },
     "Price": {
-      "text": "2400",
+      "text": "2,400",
       "number": 2400
     },
     "Location": {
@@ -3193,7 +3193,7 @@
       "text": "NH-Icon-paperkitebutterfly.png"
     },
     "Price": {
-      "text": "1000",
+      "text": "1,000",
       "number": 1000
     },
     "Location": {
@@ -3253,7 +3253,7 @@
       "text": "NH-Icon-peacockbutterfly.png"
     },
     "Price": {
-      "text": "2500",
+      "text": "2,500",
       "number": 2500
     },
     "Location": {
@@ -3433,7 +3433,7 @@
       "text": "NH-Icon-queenalexandrasbirdwing.png"
     },
     "Price": {
-      "text": "4000",
+      "text": "4,000",
       "number": 4000
     },
     "Location": {
@@ -3493,7 +3493,7 @@
       "text": "NH-Icon-rainbowstag.png"
     },
     "Price": {
-      "text": "6000",
+      "text": "6,000",
       "number": 6000
     },
     "Location": {
@@ -3553,7 +3553,7 @@
       "text": "NH-Icon-rajahbrookesbirdwing.png"
     },
     "Price": {
-      "text": "2500",
+      "text": "2,500",
       "number": 2500
     },
     "Location": {
@@ -3793,7 +3793,7 @@
       "text": "NH-Icon-rosaliabatesibeetle.png"
     },
     "Price": {
-      "text": "3000",
+      "text": "3,000",
       "number": 3000
     },
     "Location": {
@@ -3853,7 +3853,7 @@
       "text": "NH-Icon-sawstag.png"
     },
     "Price": {
-      "text": "2000",
+      "text": "2,000",
       "number": 2000
     },
     "Location": {
@@ -3913,7 +3913,7 @@
       "text": "NH-Icon-scarabbeetle.png"
     },
     "Price": {
-      "text": "10000",
+      "text": "10,000",
       "number": 10000
     },
     "Location": {
@@ -3973,7 +3973,7 @@
       "text": "NH-Icon-scorpion.png"
     },
     "Price": {
-      "text": "8000",
+      "text": "8,000",
       "number": 8000
     },
     "Location": {
@@ -4037,7 +4037,7 @@
       "number": 250
     },
     "Location": {
-      "text": "On rocks and bushes (Rain)"
+      "text": "On rocks and bushes (rain)"
     },
     "Time": {
       "text": "All day"
@@ -4213,7 +4213,7 @@
       "text": "NH-Icon-tarantula.png"
     },
     "Price": {
-      "text": "8000",
+      "text": "8,000",
       "number": 8000
     },
     "Location": {
@@ -4273,7 +4273,7 @@
       "text": "NH-Icon-tigerbeetle.png"
     },
     "Price": {
-      "text": "1500",
+      "text": "1,500",
       "number": 1500
     },
     "Location": {
@@ -4633,7 +4633,7 @@
       "text": "NH-Icon-wasp.png"
     },
     "Price": {
-      "text": "2500",
+      "text": "2,500",
       "number": 2500
     },
     "Location": {

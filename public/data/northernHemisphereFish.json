@@ -6,7 +6,7 @@
     "price": 200,
     "shadowSize": "2",
     "location": "Sea",
-    "time": "4 AM - 9 PM",
+    "time": "4am - 9pm",
     "appearsInMonths": [
       "Jan",
       "Feb",
@@ -29,7 +29,7 @@
     "price": 3000,
     "shadowSize": "2",
     "location": "River",
-    "time": "4 PM - 9 AM",
+    "time": "4pm - 9am",
     "appearsInMonths": [
       "May",
       "Jun",
@@ -46,7 +46,7 @@
     "price": 10000,
     "shadowSize": "6",
     "location": "River",
-    "time": "4 PM - 9 AM",
+    "time": "4pm - 9am",
     "appearsInMonths": [
       "Jun",
       "Jul",
@@ -61,7 +61,7 @@
     "price": 10000,
     "shadowSize": "4",
     "location": "River",
-    "time": "4 PM - 9 AM",
+    "time": "4pm - 9am",
     "appearsInMonths": [
       "Jun",
       "Jul",
@@ -96,7 +96,7 @@
     "price": 15000,
     "shadowSize": "2",
     "location": "Sea",
-    "time": "9 PM - 4 AM",
+    "time": "9pm - 4am",
     "appearsInMonths": [
       "Jan",
       "Feb",
@@ -119,7 +119,7 @@
     "price": 2500,
     "shadowSize": "2",
     "location": "River",
-    "time": "9 AM - 4 PM",
+    "time": "9am - 4pm",
     "appearsInMonths": [
       "May",
       "Jun",
@@ -175,7 +175,7 @@
     "price": 5000,
     "shadowSize": "3",
     "location": "Sea",
-    "time": "9 PM - 4 AM",
+    "time": "9pm - 4am",
     "appearsInMonths": [
       "Jan",
       "Feb",
@@ -210,7 +210,7 @@
     "price": 180,
     "shadowSize": "2",
     "location": "River",
-    "time": "9 AM - 4 PM",
+    "time": "9am - 4pm",
     "appearsInMonths": [
       "Jan",
       "Feb",
@@ -273,7 +273,7 @@
     "price": 800,
     "shadowSize": "4",
     "location": "Pond",
-    "time": "4 PM - 9 AM",
+    "time": "4pm - 9am",
     "appearsInMonths": [
       "May",
       "Jun",
@@ -290,7 +290,7 @@
     "price": 3800,
     "shadowSize": "3",
     "location": "River (Clifftop) Pond",
-    "time": "4 PM - 9 AM",
+    "time": "4pm - 9am (Mar-Jun) All day (Sep-Nov)",
     "appearsInMonths": [
       "Mar",
       "Apr",
@@ -305,10 +305,10 @@
     "slug": "cherry-salmon",
     "name": "Cherry salmon",
     "imageName": "/item-images/fish/cherry-salmon.png",
-    "price": 800,
+    "price": 1000,
     "shadowSize": "3",
     "location": "River (Clifftop)",
-    "time": "4 PM - 9 AM",
+    "time": "4pm - 9am",
     "appearsInMonths": [
       "Mar",
       "Apr",
@@ -342,7 +342,7 @@
     "imageName": "/item-images/fish/coelacanth.png",
     "price": 15000,
     "shadowSize": "6",
-    "location": "Sea (Raining)",
+    "location": "Sea (Rain)",
     "time": "All day",
     "appearsInMonths": [
       "Jan",
@@ -424,7 +424,7 @@
     "price": 240,
     "shadowSize": "3",
     "location": "River",
-    "time": "4 PM - 9 AM",
+    "time": "4pm - 9am",
     "appearsInMonths": [
       "Jan",
       "Feb",
@@ -447,7 +447,7 @@
     "price": 15000,
     "shadowSize": "5",
     "location": "River",
-    "time": "4 AM - 9 PM",
+    "time": "4am - 9pm",
     "appearsInMonths": [
       "Jun",
       "Jul",
@@ -462,7 +462,7 @@
     "price": 2500,
     "shadowSize": "4",
     "location": "Sea",
-    "time": "4 PM - 9 AM",
+    "time": "4pm - 9am",
     "appearsInMonths": [
       "Jan",
       "Feb",
@@ -478,7 +478,7 @@
     "price": 400,
     "shadowSize": "2",
     "location": "River",
-    "time": "4 PM - 9 AM",
+    "time": "4pm - 9am",
     "appearsInMonths": [
       "Jan",
       "Feb",
@@ -514,9 +514,9 @@
     "name": "Gar",
     "imageName": "/item-images/fish/gar.png",
     "price": 6000,
-    "shadowSize": "6",
+    "shadowSize": "5",
     "location": "Pond",
-    "time": "4 PM - 9 AM",
+    "time": "4pm - 9am",
     "appearsInMonths": [
       "Jun",
       "Jul",
@@ -529,9 +529,9 @@
     "name": "Giant snakehead",
     "imageName": "/item-images/fish/giant-snakehead.png",
     "price": 5500,
-    "shadowSize": "5",
+    "shadowSize": "4",
     "location": "Pond",
-    "time": "9 AM - 4 PM",
+    "time": "9am - 4pm",
     "appearsInMonths": [
       "Jun",
       "Jul",
@@ -562,7 +562,7 @@
     "price": 15000,
     "shadowSize": "3",
     "location": "River (Clifftop)",
-    "time": "4 PM - 9 AM",
+    "time": "4pm - 9am",
     "appearsInMonths": [
       "Mar",
       "Apr",
@@ -602,7 +602,7 @@
     "price": 15000,
     "shadowSize": "6 (Fin)",
     "location": "Sea",
-    "time": "4 PM - 9 AM",
+    "time": "4pm - 9am",
     "appearsInMonths": [
       "Jun",
       "Jul",
@@ -617,7 +617,7 @@
     "price": 1300,
     "shadowSize": "1",
     "location": "River",
-    "time": "9 AM - 4 PM",
+    "time": "9am - 4pm",
     "appearsInMonths": [
       "Apr",
       "May",
@@ -636,7 +636,7 @@
     "price": 8000,
     "shadowSize": "6 (Fin)",
     "location": "Sea",
-    "time": "4 PM - 9 AM",
+    "time": "4pm - 9am",
     "appearsInMonths": [
       "Jun",
       "Jul",
@@ -688,7 +688,7 @@
     "name": "King salmon",
     "imageName": "/item-images/fish/king-salmon.png",
     "price": 1800,
-    "shadowSize": "6",
+    "shadowSize": "5",
     "location": "River (Mouth)",
     "time": "All day",
     "appearsInMonths": [
@@ -702,7 +702,7 @@
     "price": 4000,
     "shadowSize": "4",
     "location": "Pond",
-    "time": "4 PM - 9 AM",
+    "time": "4pm - 9am",
     "appearsInMonths": [
       "Jan",
       "Feb",
@@ -756,7 +756,7 @@
     "price": 2000,
     "shadowSize": "2",
     "location": "River",
-    "time": "4 PM - 9 AM",
+    "time": "4pm - 9am",
     "appearsInMonths": [
       "Sep",
       "Oct",
@@ -784,7 +784,7 @@
     "price": 10000,
     "shadowSize": "6",
     "location": "Sea",
-    "time": "4 AM - 9 PM",
+    "time": "4am - 9pm",
     "appearsInMonths": [
       "Jul",
       "Aug"
@@ -797,7 +797,7 @@
     "price": 500,
     "shadowSize": "1",
     "location": "River",
-    "time": "9 AM - 4 PM",
+    "time": "9am - 4pm",
     "appearsInMonths": [
       "Apr",
       "May",
@@ -816,7 +816,7 @@
     "price": 1500,
     "shadowSize": "1",
     "location": "River",
-    "time": "9 AM - 4 PM",
+    "time": "9am - 4pm",
     "appearsInMonths": [
       "May",
       "Jun",
@@ -849,7 +849,7 @@
     "price": 4000,
     "shadowSize": "6 (Fin)",
     "location": "Sea",
-    "time": "4 AM - 9 PM",
+    "time": "4am - 9pm",
     "appearsInMonths": [
       "Jul",
       "Aug",
@@ -886,7 +886,7 @@
     "price": 200,
     "shadowSize": "1",
     "location": "River",
-    "time": "9 AM - 4 PM",
+    "time": "9am - 4pm",
     "appearsInMonths": [
       "Jan",
       "Feb",
@@ -924,7 +924,7 @@
     "price": 2500,
     "shadowSize": "2",
     "location": "River",
-    "time": "9 AM - 4 PM & 9 PM - 4 AM",
+    "time": "9am - 4pm & 9pm - 4am",
     "appearsInMonths": [
       "Jun",
       "Jul",
@@ -936,7 +936,7 @@
     "slug": "pond-smelt",
     "name": "Pond smelt",
     "imageName": "/item-images/fish/pond-smelt.png",
-    "price": 500,
+    "price": 400,
     "shadowSize": "2",
     "location": "River",
     "time": "All day",
@@ -953,7 +953,7 @@
     "price": 1300,
     "shadowSize": "1",
     "location": "Pond",
-    "time": "9 AM - 4 PM",
+    "time": "9am - 4pm",
     "appearsInMonths": [
       "Jan",
       "Feb",
@@ -990,7 +990,7 @@
     "price": 800,
     "shadowSize": "1",
     "location": "River",
-    "time": "9 AM - 4 PM",
+    "time": "9am - 4pm",
     "appearsInMonths": [
       "May",
       "Jun",
@@ -1007,7 +1007,7 @@
     "price": 4500,
     "shadowSize": "2",
     "location": "Pond",
-    "time": "9 AM - 4 PM",
+    "time": "9am - 4pm",
     "appearsInMonths": [
       "Jan",
       "Feb",
@@ -1030,7 +1030,7 @@
     "price": 3000,
     "shadowSize": "5",
     "location": "Sea",
-    "time": "4 AM - 9 PM",
+    "time": "4am - 9pm",
     "appearsInMonths": [
       "Aug",
       "Sep",
@@ -1084,7 +1084,7 @@
     "price": 4000,
     "shadowSize": "4",
     "location": "River",
-    "time": "9 PM - 4 AM",
+    "time": "9pm - 4am",
     "appearsInMonths": [
       "Jun",
       "Jul",
@@ -1111,7 +1111,7 @@
     "price": 12000,
     "shadowSize": "6 (Fin)",
     "location": "Sea",
-    "time": "4 PM - 9 AM",
+    "time": "4pm - 9am",
     "appearsInMonths": [
       "Jun",
       "Jul",
@@ -1181,9 +1181,9 @@
     "name": "Snapping Turtle",
     "imageName": "/item-images/fish/snapping-turtle.png",
     "price": 5000,
-    "shadowSize": "5",
+    "shadowSize": "4",
     "location": "River",
-    "time": "9 PM - 4 AM",
+    "time": "9pm - 4am",
     "appearsInMonths": [
       "Apr",
       "May",
@@ -1201,7 +1201,7 @@
     "price": 3750,
     "shadowSize": "4",
     "location": "River",
-    "time": "4 PM - 9 AM",
+    "time": "4pm - 9am",
     "appearsInMonths": [
       "Aug",
       "Sep"
@@ -1234,7 +1234,7 @@
     "price": 15000,
     "shadowSize": "5",
     "location": "River (Clifftop)",
-    "time": "4 PM - 9 AM",
+    "time": "4pm - 9am",
     "appearsInMonths": [
       "Jan",
       "Feb",
@@ -1265,7 +1265,7 @@
     "name": "Suckerfish",
     "imageName": "/item-images/fish/suckerfish.png",
     "price": 1500,
-    "shadowSize": "4 (Fin)",
+    "shadowSize": "6 (Fin)",
     "location": "Sea",
     "time": "All day",
     "appearsInMonths": [

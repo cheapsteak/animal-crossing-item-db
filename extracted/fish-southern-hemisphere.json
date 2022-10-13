@@ -4,8 +4,9 @@
       "text": "Anchovy",
       "links": [
         {
+          "text": "Anchovy",
           "type": "internal",
-          "page": "Anchovy"
+          "page": "Anchovy (fish)"
         }
       ]
     },
@@ -77,7 +78,7 @@
       "text": "NH-Icon-angelfish.png"
     },
     "Price": {
-      "text": "3000",
+      "text": "3,000",
       "number": 3000
     },
     "Location": {
@@ -141,7 +142,7 @@
       "text": "NH-Icon-arapaima.png"
     },
     "Price": {
-      "text": "10000",
+      "text": "10,000",
       "number": 10000
     },
     "Location": {
@@ -205,7 +206,7 @@
       "text": "NH-Icon-arowana.png"
     },
     "Price": {
-      "text": "10000",
+      "text": "10,000",
       "number": 10000
     },
     "Location": {
@@ -269,7 +270,7 @@
       "text": "NH-Icon-barredknifejaw.png"
     },
     "Price": {
-      "text": "5000",
+      "text": "5,000",
       "number": 5000
     },
     "Location": {
@@ -333,7 +334,7 @@
       "text": "NH-Icon-barreleye.png"
     },
     "Price": {
-      "text": "15000",
+      "text": "15,000",
       "number": 15000
     },
     "Location": {
@@ -397,7 +398,7 @@
       "text": "NH-Icon-betta.png"
     },
     "Price": {
-      "text": "2500",
+      "text": "2,500",
       "number": 2500
     },
     "Location": {
@@ -589,7 +590,7 @@
       "text": "NH-Icon-blowfish.png"
     },
     "Price": {
-      "text": "5000",
+      "text": "5,000",
       "number": 5000
     },
     "Location": {
@@ -653,7 +654,7 @@
       "text": "NH-Icon-bluemarlin.png"
     },
     "Price": {
-      "text": "10000",
+      "text": "10,000",
       "number": 10000
     },
     "Location": {
@@ -781,7 +782,7 @@
       "text": "NH-Icon-butterflyfish.png"
     },
     "Price": {
-      "text": "1000",
+      "text": "1,000",
       "number": 1000
     },
     "Location": {
@@ -973,7 +974,7 @@
       "text": "NH-Icon-char.png"
     },
     "Price": {
-      "text": "3800",
+      "text": "3,800",
       "number": 3800
     },
     "Location": {
@@ -984,7 +985,7 @@
       "number": 3
     },
     "Time": {
-      "text": "4pm - 9am"
+      "text": "4pm - 9am (Sep-Dec) All day (Mar-May)"
     },
     "Jan": {
       "text": "-"
@@ -1037,7 +1038,7 @@
       "text": "NH-Icon-cherrysalmon.png"
     },
     "Price": {
-      "text": "1000",
+      "text": "1,000",
       "number": 1000
     },
     "Location": {
@@ -1048,7 +1049,7 @@
       "number": 3
     },
     "Time": {
-      "text": "4pm - 9am"
+      "text": "All day"
     },
     "Jan": {
       "text": "-"
@@ -1165,11 +1166,11 @@
       "text": "NH-Icon-coelacanth.png"
     },
     "Price": {
-      "text": "15000",
+      "text": "15,000",
       "number": 15000
     },
     "Location": {
-      "text": "Sea (Raining)"
+      "text": "Sea (Rain)"
     },
     "Shadow size": {
       "text": "6",
@@ -1485,7 +1486,7 @@
       "text": "NH-Icon-dorado.png"
     },
     "Price": {
-      "text": "15000",
+      "text": "15,000",
       "number": 15000
     },
     "Location": {
@@ -1549,7 +1550,7 @@
       "text": "NH-Icon-footballfish.png"
     },
     "Price": {
-      "text": "2500",
+      "text": "2,500",
       "number": 2500
     },
     "Location": {
@@ -1668,8 +1669,9 @@
       "text": "Frog",
       "links": [
         {
+          "text": "Frog",
           "type": "internal",
-          "page": "Frog"
+          "page": "Frog (fish)"
         }
       ]
     },
@@ -1741,7 +1743,7 @@
       "text": "NH-Icon-gar.png"
     },
     "Price": {
-      "text": "6000",
+      "text": "6,000",
       "number": 6000
     },
     "Location": {
@@ -1805,7 +1807,7 @@
       "text": "NH-Icon-giantsnakehead.png"
     },
     "Price": {
-      "text": "5500",
+      "text": "5,500",
       "number": 5500
     },
     "Location": {
@@ -1869,7 +1871,7 @@
       "text": "NH-Icon-gianttrevally.png"
     },
     "Price": {
-      "text": "4500",
+      "text": "4,500",
       "number": 4500
     },
     "Location": {
@@ -1933,7 +1935,7 @@
       "text": "NH-Icon-goldentrout.png"
     },
     "Price": {
-      "text": "15000",
+      "text": "15,000",
       "number": 15000
     },
     "Location": {
@@ -1997,7 +1999,7 @@
       "text": "NH-Icon-goldfish.png"
     },
     "Price": {
-      "text": "1300",
+      "text": "1,300",
       "number": 1300
     },
     "Location": {
@@ -2061,7 +2063,7 @@
       "text": "NH-Icon-greatwhiteshark.png"
     },
     "Price": {
-      "text": "15000",
+      "text": "15,000",
       "number": 15000
     },
     "Location": {
@@ -2125,7 +2127,7 @@
       "text": "NH-Icon-guppy.png"
     },
     "Price": {
-      "text": "1300",
+      "text": "1,300",
       "number": 1300
     },
     "Location": {
@@ -2189,7 +2191,7 @@
       "text": "NH-Icon-hammerheadshark.png"
     },
     "Price": {
-      "text": "8000",
+      "text": "8,000",
       "number": 8000
     },
     "Location": {
@@ -2381,7 +2383,7 @@
       "text": "NH-Icon-kingsalmon.png"
     },
     "Price": {
-      "text": "1800",
+      "text": "1,800",
       "number": 1800
     },
     "Location": {
@@ -2445,7 +2447,7 @@
       "text": "NH-Icon-koi.png"
     },
     "Price": {
-      "text": "4000",
+      "text": "4,000",
       "number": 4000
     },
     "Location": {
@@ -2573,7 +2575,7 @@
       "text": "NH-Icon-mahimahi.png"
     },
     "Price": {
-      "text": "6000",
+      "text": "6,000",
       "number": 6000
     },
     "Location": {
@@ -2637,7 +2639,7 @@
       "text": "NH-Icon-mittencrab.png"
     },
     "Price": {
-      "text": "2000",
+      "text": "2,000",
       "number": 2000
     },
     "Location": {
@@ -2701,7 +2703,7 @@
       "text": "NH-Icon-morayeel.png"
     },
     "Price": {
-      "text": "2000",
+      "text": "2,000",
       "number": 2000
     },
     "Location": {
@@ -2765,7 +2767,7 @@
       "text": "NH-Icon-napoleonfish.png"
     },
     "Price": {
-      "text": "10000",
+      "text": "10,000",
       "number": 10000
     },
     "Location": {
@@ -2893,7 +2895,7 @@
       "text": "NH-Icon-nibblefish.png"
     },
     "Price": {
-      "text": "1500",
+      "text": "1,500",
       "number": 1500
     },
     "Location": {
@@ -2957,7 +2959,7 @@
       "text": "NH-Icon-oarfish.png"
     },
     "Price": {
-      "text": "9000",
+      "text": "9,000",
       "number": 9000
     },
     "Location": {
@@ -3021,7 +3023,7 @@
       "text": "NH-Icon-oceansunfish.png"
     },
     "Price": {
-      "text": "4000",
+      "text": "4,000",
       "number": 4000
     },
     "Location": {
@@ -3213,7 +3215,7 @@
       "text": "NH-Icon-pike.png"
     },
     "Price": {
-      "text": "1800",
+      "text": "1,800",
       "number": 1800
     },
     "Location": {
@@ -3277,7 +3279,7 @@
       "text": "NH-Icon-piranha.png"
     },
     "Price": {
-      "text": "2500",
+      "text": "2,500",
       "number": 2500
     },
     "Location": {
@@ -3405,7 +3407,7 @@
       "text": "NH-Icon-popeyedgoldfish.png"
     },
     "Price": {
-      "text": "1300",
+      "text": "1,300",
       "number": 1300
     },
     "Location": {
@@ -3597,7 +3599,7 @@
       "text": "NH-Icon-ranchugoldfish.png"
     },
     "Price": {
-      "text": "4500",
+      "text": "4,500",
       "number": 4500
     },
     "Location": {
@@ -3661,7 +3663,7 @@
       "text": "NH-Icon-ray.png"
     },
     "Price": {
-      "text": "3000",
+      "text": "3,000",
       "number": 3000
     },
     "Location": {
@@ -3725,7 +3727,7 @@
       "text": "NH-Icon-redsnapper.png"
     },
     "Price": {
-      "text": "3000",
+      "text": "3,000",
       "number": 3000
     },
     "Location": {
@@ -3853,7 +3855,7 @@
       "text": "NH-Icon-saddledbichir.png"
     },
     "Price": {
-      "text": "4000",
+      "text": "4,000",
       "number": 4000
     },
     "Location": {
@@ -3981,7 +3983,7 @@
       "text": "NH-Icon-sawshark.png"
     },
     "Price": {
-      "text": "12000",
+      "text": "12,000",
       "number": 12000
     },
     "Location": {
@@ -4173,7 +4175,7 @@
       "text": "NH-Icon-seahorse.png"
     },
     "Price": {
-      "text": "1100",
+      "text": "1,100",
       "number": 1100
     },
     "Location": {
@@ -4237,7 +4239,7 @@
       "text": "NH-Icon-snappingturtle.png"
     },
     "Price": {
-      "text": "5000",
+      "text": "5,000",
       "number": 5000
     },
     "Location": {
@@ -4301,7 +4303,7 @@
       "text": "NH-Icon-softshelledturtle.png"
     },
     "Price": {
-      "text": "3750",
+      "text": "3,750",
       "number": 3750
     },
     "Location": {
@@ -4429,7 +4431,7 @@
       "text": "NH-Icon-stringfish.png"
     },
     "Price": {
-      "text": "15000",
+      "text": "15,000",
       "number": 15000
     },
     "Location": {
@@ -4493,7 +4495,7 @@
       "text": "NH-Icon-sturgeon.png"
     },
     "Price": {
-      "text": "10000",
+      "text": "10,000",
       "number": 10000
     },
     "Location": {
@@ -4557,15 +4559,15 @@
       "text": "NH-Icon-suckerfish.png"
     },
     "Price": {
-      "text": "1500",
+      "text": "1,500",
       "number": 1500
     },
     "Location": {
       "text": "Sea"
     },
     "Shadow size": {
-      "text": "9",
-      "number": 9
+      "text": "7",
+      "number": 7
     },
     "Time": {
       "text": "All day"
@@ -4621,7 +4623,7 @@
       "text": "NH-Icon-surgeonfish.png"
     },
     "Price": {
-      "text": "1000",
+      "text": "1,000",
       "number": 1000
     },
     "Location": {
@@ -4877,7 +4879,7 @@
       "text": "NH-Icon-tuna.png"
     },
     "Price": {
-      "text": "7000",
+      "text": "7,000",
       "number": 7000
     },
     "Location": {
@@ -4941,7 +4943,7 @@
       "text": "NH-Icon-whaleshark.png"
     },
     "Price": {
-      "text": "13000",
+      "text": "13,000",
       "number": 13000
     },
     "Location": {

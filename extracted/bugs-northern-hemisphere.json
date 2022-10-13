@@ -13,14 +13,14 @@
       "text": "NH-Icon-agriasbutterfly.png"
     },
     "Price": {
-      "text": "3000",
+      "text": "3,000",
       "number": 3000
     },
     "Location": {
       "text": "Flying"
     },
     "Time": {
-      "text": "8 AM - 5 PM"
+      "text": "8am - 5pm"
     },
     "Jan": {
       "text": "-"
@@ -133,14 +133,14 @@
       "text": "NH-Icon-atlasmoth.png"
     },
     "Price": {
-      "text": "3000",
+      "text": "3,000",
       "number": 3000
     },
     "Location": {
-      "text": "On Trees"
+      "text": "On trees"
     },
     "Time": {
-      "text": "7 PM - 4 AM"
+      "text": "7pm - 4am"
     },
     "Jan": {
       "text": "-"
@@ -197,7 +197,7 @@
       "number": 600
     },
     "Location": {
-      "text": "Shaking Trees"
+      "text": "Shaking trees"
     },
     "Time": {
       "text": "All day"
@@ -253,14 +253,14 @@
       "text": "NH-Icon-bandeddragonfly.png"
     },
     "Price": {
-      "text": "4500",
+      "text": "4,500",
       "number": 4500
     },
     "Location": {
       "text": "Flying"
     },
     "Time": {
-      "text": "8 AM - 5 PM"
+      "text": "8am - 5pm"
     },
     "Jan": {
       "text": "-"
@@ -317,10 +317,10 @@
       "number": 430
     },
     "Location": {
-      "text": "On the Ground"
+      "text": "On the ground"
     },
     "Time": {
-      "text": "5 PM - 8 AM"
+      "text": "5pm - 8am"
     },
     "Jan": {
       "text": "-"
@@ -377,7 +377,7 @@
       "number": 800
     },
     "Location": {
-      "text": "On Trees (Coconut?)"
+      "text": "On palm trees"
     },
     "Time": {
       "text": "All day"
@@ -437,10 +437,10 @@
       "number": 250
     },
     "Location": {
-      "text": "On Trees"
+      "text": "On trees"
     },
     "Time": {
-      "text": "8 AM - 5 PM"
+      "text": "8am - 5pm"
     },
     "Jan": {
       "text": "-"
@@ -497,10 +497,10 @@
       "number": 300
     },
     "Location": {
-      "text": "Hitting Rocks"
+      "text": "Hitting rocks"
     },
     "Time": {
-      "text": "4 PM - 11 PM"
+      "text": "4pm - 11pm"
     },
     "Jan": {
       "text": "✓"
@@ -557,7 +557,7 @@
       "number": 10
     },
     "Location": {
-      "text": "On Trees"
+      "text": "On trees"
     },
     "Time": {
       "text": "All day"
@@ -617,7 +617,7 @@
       "number": 350
     },
     "Location": {
-      "text": "On Tree Stumps"
+      "text": "On tree stumps"
     },
     "Time": {
       "text": "All day"
@@ -680,7 +680,7 @@
       "text": "Flying"
     },
     "Time": {
-      "text": "4 AM - 7 PM"
+      "text": "4am - 7pm"
     },
     "Jan": {
       "text": "-"
@@ -740,7 +740,7 @@
       "text": "Flying"
     },
     "Time": {
-      "text": "4 AM - 7 PM"
+      "text": "4am - 7pm"
     },
     "Jan": {
       "text": "✓"
@@ -797,10 +797,10 @@
       "number": 130
     },
     "Location": {
-      "text": "On the Ground"
+      "text": "On the ground"
     },
     "Time": {
-      "text": "5 PM - 8 AM"
+      "text": "5pm - 8am"
     },
     "Jan": {
       "text": "-"
@@ -853,14 +853,14 @@
       "text": "NH-Icon-cyclommatusstag.png"
     },
     "Price": {
-      "text": "8000",
+      "text": "8,000",
       "number": 8000
     },
     "Location": {
-      "text": "On Trees (Coconut)"
+      "text": "On palm trees"
     },
     "Time": {
-      "text": "5 PM - 8 AM"
+      "text": "5pm - 8am"
     },
     "Jan": {
       "text": "-"
@@ -980,7 +980,7 @@
       "text": "Flying"
     },
     "Time": {
-      "text": "8 AM - 5 PM"
+      "text": "8am - 5pm"
     },
     "Jan": {
       "text": "-"
@@ -1037,10 +1037,10 @@
       "number": 800
     },
     "Location": {
-      "text": "On Ponds and Rivers"
+      "text": "On ponds and rivers"
     },
     "Time": {
-      "text": "8 AM - 7 PM"
+      "text": "8am - 7pm"
     },
     "Jan": {
       "text": "-"
@@ -1097,7 +1097,7 @@
       "number": 200
     },
     "Location": {
-      "text": "On Trees"
+      "text": "On trees"
     },
     "Time": {
       "text": "All day"
@@ -1153,11 +1153,11 @@
       "text": "NH-Icon-dungbeetle.png"
     },
     "Price": {
-      "text": "3000",
+      "text": "3,000",
       "number": 3000
     },
     "Location": {
-      "text": "On the Ground (rolling snowballs)"
+      "text": "On the ground (rolling snowballs)"
     },
     "Time": {
       "text": "All day"
@@ -1217,7 +1217,7 @@
       "number": 300
     },
     "Location": {
-      "text": "On the Ground"
+      "text": "On the ground"
     },
     "Time": {
       "text": "All day"
@@ -1273,14 +1273,14 @@
       "text": "NH-Icon-emperorbutterfly.png"
     },
     "Price": {
-      "text": "4000",
+      "text": "4,000",
       "number": 4000
     },
     "Location": {
       "text": "Flying"
     },
     "Time": {
-      "text": "5 PM - 8 AM"
+      "text": "5pm - 8am"
     },
     "Jan": {
       "text": "✓"
@@ -1337,10 +1337,10 @@
       "number": 550
     },
     "Location": {
-      "text": "On Trees"
+      "text": "On trees"
     },
     "Time": {
-      "text": "4 AM - 8 AM & 4 PM - 7 PM"
+      "text": "4am - 8am & 4pm - 7pm"
     },
     "Jan": {
       "text": "-"
@@ -1400,7 +1400,7 @@
       "text": "Flying"
     },
     "Time": {
-      "text": "7 PM - 4 AM"
+      "text": "7pm - 4am"
     },
     "Jan": {
       "text": "-"
@@ -1457,7 +1457,7 @@
       "number": 70
     },
     "Location": {
-      "text": "Villager's Heads"
+      "text": "Villager's heads"
     },
     "Time": {
       "text": "All day"
@@ -1517,7 +1517,7 @@
       "number": 60
     },
     "Location": {
-      "text": "On Trash Items"
+      "text": "On trash items"
     },
     "Time": {
       "text": "All day"
@@ -1577,10 +1577,10 @@
       "number": 500
     },
     "Location": {
-      "text": "On Trees"
+      "text": "On trees"
     },
     "Time": {
-      "text": "8 AM - 5 PM"
+      "text": "8am - 5pm"
     },
     "Jan": {
       "text": "-"
@@ -1633,14 +1633,14 @@
       "text": "NH-Icon-giantstag.png"
     },
     "Price": {
-      "text": "10000",
+      "text": "10,000",
       "number": 10000
     },
     "Location": {
-      "text": "On Trees"
+      "text": "On trees"
     },
     "Time": {
-      "text": "11 PM - 8 AM"
+      "text": "11pm - 8am"
     },
     "Jan": {
       "text": "-"
@@ -1693,14 +1693,14 @@
       "text": "NH-Icon-giantwaterbug.png"
     },
     "Price": {
-      "text": "2000",
+      "text": "2,000",
       "number": 2000
     },
     "Location": {
-      "text": "On Ponds and Rivers"
+      "text": "On ponds and rivers"
     },
     "Time": {
-      "text": "7 PM - 8 AM"
+      "text": "7pm - 8am"
     },
     "Jan": {
       "text": "-"
@@ -1753,14 +1753,14 @@
       "text": "NH-Icon-giraffestag.png"
     },
     "Price": {
-      "text": "12000",
+      "text": "12,000",
       "number": 12000
     },
     "Location": {
-      "text": "On Trees (Coconut?)"
+      "text": "On palm trees"
     },
     "Time": {
-      "text": "5 PM - 8 AM"
+      "text": "5pm - 8am"
     },
     "Jan": {
       "text": "-"
@@ -1813,14 +1813,14 @@
       "text": "NH-Icon-goldenstag.png"
     },
     "Price": {
-      "text": "12000",
+      "text": "12,000",
       "number": 12000
     },
     "Location": {
-      "text": "On Trees (Coconut)"
+      "text": "On palm trees"
     },
     "Time": {
-      "text": "5 PM - 8 AM"
+      "text": "5pm - 8am"
     },
     "Jan": {
       "text": "-"
@@ -1873,14 +1873,14 @@
       "text": "NH-Icon-goliathbeetle.png"
     },
     "Price": {
-      "text": "8000",
+      "text": "8,000",
       "number": 8000
     },
     "Location": {
-      "text": "On Trees (Coconut)"
+      "text": "On palm trees"
     },
     "Time": {
-      "text": "5 PM - 8 AM"
+      "text": "5pm - 8am"
     },
     "Jan": {
       "text": "-"
@@ -1937,10 +1937,10 @@
       "number": 160
     },
     "Location": {
-      "text": "On the Ground"
+      "text": "On the ground"
     },
     "Time": {
-      "text": "8 AM - 5 PM"
+      "text": "8am - 5pm"
     },
     "Jan": {
       "text": "-"
@@ -1993,14 +1993,14 @@
       "text": "NH-Icon-greatpurpleemperor.png"
     },
     "Price": {
-      "text": "3000",
+      "text": "3,000",
       "number": 3000
     },
     "Location": {
       "text": "Flying"
     },
     "Time": {
-      "text": "4 AM - 7 PM"
+      "text": "4am - 7pm"
     },
     "Jan": {
       "text": "-"
@@ -2053,14 +2053,14 @@
       "text": "NH-Icon-hermitcrab.png"
     },
     "Price": {
-      "text": "1000",
+      "text": "1,000",
       "number": 1000
     },
     "Location": {
-      "text": "Beach disguised as Shells"
+      "text": "Beach disguised as shells"
     },
     "Time": {
-      "text": "7 PM - 8 AM"
+      "text": "7pm - 8am"
     },
     "Jan": {
       "text": "✓"
@@ -2120,7 +2120,7 @@
       "text": "Flying"
     },
     "Time": {
-      "text": "8 AM - 5 PM"
+      "text": "8am - 5pm"
     },
     "Jan": {
       "text": "-"
@@ -2173,14 +2173,14 @@
       "text": "NH-Icon-hornedatlas.png"
     },
     "Price": {
-      "text": "8000",
+      "text": "8,000",
       "number": 8000
     },
     "Location": {
-      "text": "On Trees (Coconut)"
+      "text": "On palm trees"
     },
     "Time": {
-      "text": "5 PM - 8 AM"
+      "text": "5pm - 8am"
     },
     "Jan": {
       "text": "-"
@@ -2233,14 +2233,14 @@
       "text": "NH-Icon-horneddynastid.png"
     },
     "Price": {
-      "text": "1350",
+      "text": "1,350",
       "number": 1350
     },
     "Location": {
-      "text": "On Trees"
+      "text": "On trees"
     },
     "Time": {
-      "text": "5 PM - 8 AM"
+      "text": "5pm - 8am"
     },
     "Jan": {
       "text": "-"
@@ -2293,14 +2293,14 @@
       "text": "NH-Icon-hornedelephant.png"
     },
     "Price": {
-      "text": "8000",
+      "text": "8,000",
       "number": 8000
     },
     "Location": {
-      "text": "On Trees (Coconut)"
+      "text": "On palm trees"
     },
     "Time": {
-      "text": "5 PM - 8 AM"
+      "text": "5pm - 8am"
     },
     "Jan": {
       "text": "-"
@@ -2353,14 +2353,14 @@
       "text": "NH-Icon-hornedhercules.png"
     },
     "Price": {
-      "text": "12000",
+      "text": "12,000",
       "number": 12000
     },
     "Location": {
-      "text": "On Trees (Coconut)"
+      "text": "On palm trees"
     },
     "Time": {
-      "text": "5 PM - 8 AM"
+      "text": "5pm - 8am"
     },
     "Jan": {
       "text": "-"
@@ -2413,11 +2413,11 @@
       "text": "NH-Icon-jewelbeetle.png"
     },
     "Price": {
-      "text": "2400",
+      "text": "2,400",
       "number": 2400
     },
     "Location": {
-      "text": "On Tree Stumps"
+      "text": "On tree stumps"
     },
     "Time": {
       "text": "All day"
@@ -2477,10 +2477,10 @@
       "number": 200
     },
     "Location": {
-      "text": "On Flowers"
+      "text": "On flowers"
     },
     "Time": {
-      "text": "8 AM - 5 PM"
+      "text": "8am - 5pm"
     },
     "Jan": {
       "text": "-"
@@ -2537,10 +2537,10 @@
       "number": 200
     },
     "Location": {
-      "text": "On the Ground"
+      "text": "On the ground"
     },
     "Time": {
-      "text": "8 AM - 7 PM"
+      "text": "8am - 7pm"
     },
     "Jan": {
       "text": "-"
@@ -2593,14 +2593,14 @@
       "text": "NH-Icon-madagascansunsetmoth.png"
     },
     "Price": {
-      "text": "2500",
+      "text": "2,500",
       "number": 2500
     },
     "Location": {
       "text": "Flying"
     },
     "Time": {
-      "text": "8 AM - 4 PM"
+      "text": "8am - 4pm"
     },
     "Jan": {
       "text": "-"
@@ -2653,14 +2653,14 @@
       "text": "NH-Icon-manfacedstinkbug.png"
     },
     "Price": {
-      "text": "1000",
+      "text": "1,000",
       "number": 1000
     },
     "Location": {
-      "text": "On Flowers"
+      "text": "On flowers"
     },
     "Time": {
-      "text": "7 PM - 8 AM"
+      "text": "7pm - 8am"
     },
     "Jan": {
       "text": "-"
@@ -2717,10 +2717,10 @@
       "number": 430
     },
     "Location": {
-      "text": "On Flowers"
+      "text": "On flowers"
     },
     "Time": {
-      "text": "8 AM - 5 PM"
+      "text": "8am - 5pm"
     },
     "Jan": {
       "text": "-"
@@ -2777,10 +2777,10 @@
       "number": 600
     },
     "Location": {
-      "text": "On the Ground"
+      "text": "On the ground"
     },
     "Time": {
-      "text": "8 AM - 7 PM"
+      "text": "8am - 7pm"
     },
     "Jan": {
       "text": "-"
@@ -2833,11 +2833,11 @@
       "text": "NH-Icon-miyamastag.png"
     },
     "Price": {
-      "text": "1000",
+      "text": "1,000",
       "number": 1000
     },
     "Location": {
-      "text": "On Trees"
+      "text": "On trees"
     },
     "Time": {
       "text": "All day"
@@ -2960,7 +2960,7 @@
       "text": "Flying"
     },
     "Time": {
-      "text": "4 AM - 5 PM"
+      "text": "4am - 5pm"
     },
     "Jan": {
       "text": "-"
@@ -3020,7 +3020,7 @@
       "text": "Flying"
     },
     "Time": {
-      "text": "5 PM - 4 AM"
+      "text": "5pm - 4am"
     },
     "Jan": {
       "text": "-"
@@ -3077,10 +3077,10 @@
       "number": 130
     },
     "Location": {
-      "text": "Flying by Light"
+      "text": "Flying by light"
     },
     "Time": {
-      "text": "7 PM - 4 AM"
+      "text": "7pm - 4am"
     },
     "Jan": {
       "text": "✓"
@@ -3133,14 +3133,14 @@
       "text": "NH-Icon-orchidmantis.png"
     },
     "Price": {
-      "text": "2400",
+      "text": "2,400",
       "number": 2400
     },
     "Location": {
-      "text": "On Flowers (White)"
+      "text": "On flowers (white)"
     },
     "Time": {
-      "text": "8 AM - 5 PM"
+      "text": "8am - 5pm"
     },
     "Jan": {
       "text": "-"
@@ -3193,14 +3193,14 @@
       "text": "NH-Icon-paperkitebutterfly.png"
     },
     "Price": {
-      "text": "1000",
+      "text": "1,000",
       "number": 1000
     },
     "Location": {
       "text": "Flying"
     },
     "Time": {
-      "text": "8 AM - 7 PM"
+      "text": "8am - 7pm"
     },
     "Jan": {
       "text": "✓"
@@ -3253,14 +3253,14 @@
       "text": "NH-Icon-peacockbutterfly.png"
     },
     "Price": {
-      "text": "2500",
+      "text": "2,500",
       "number": 2500
     },
     "Location": {
-      "text": "Flying by Hybrid Flowers"
+      "text": "Flying by hybrid flowers"
     },
     "Time": {
-      "text": "4 AM - 7 PM"
+      "text": "4am - 7pm"
     },
     "Jan": {
       "text": "-"
@@ -3317,10 +3317,10 @@
       "number": 250
     },
     "Location": {
-      "text": "Hitting Rocks"
+      "text": "Hitting rocks"
     },
     "Time": {
-      "text": "11 PM - 4 PM"
+      "text": "11pm - 4pm"
     },
     "Jan": {
       "text": "✓"
@@ -3377,10 +3377,10 @@
       "number": 130
     },
     "Location": {
-      "text": "On Ponds and Rivers"
+      "text": "On ponds and rivers"
     },
     "Time": {
-      "text": "8 AM - 7 PM"
+      "text": "8am - 7pm"
     },
     "Jan": {
       "text": "-"
@@ -3433,14 +3433,14 @@
       "text": "NH-Icon-queenalexandrasbirdwing.png"
     },
     "Price": {
-      "text": "4000",
+      "text": "4,000",
       "number": 4000
     },
     "Location": {
       "text": "Flying"
     },
     "Time": {
-      "text": "8 AM - 4 PM"
+      "text": "8am - 4pm"
     },
     "Jan": {
       "text": "-"
@@ -3493,14 +3493,14 @@
       "text": "NH-Icon-rainbowstag.png"
     },
     "Price": {
-      "text": "6000",
+      "text": "6,000",
       "number": 6000
     },
     "Location": {
-      "text": "On Trees"
+      "text": "On trees"
     },
     "Time": {
-      "text": "7 PM - 8 AM"
+      "text": "7pm - 8am"
     },
     "Jan": {
       "text": "-"
@@ -3553,14 +3553,14 @@
       "text": "NH-Icon-rajahbrookesbirdwing.png"
     },
     "Price": {
-      "text": "2500",
+      "text": "2,500",
       "number": 2500
     },
     "Location": {
       "text": "Flying"
     },
     "Time": {
-      "text": "8 AM - 5 PM"
+      "text": "8am - 5pm"
     },
     "Jan": {
       "text": "✓"
@@ -3620,7 +3620,7 @@
       "text": "Flying"
     },
     "Time": {
-      "text": "8 AM - 7 PM"
+      "text": "8am - 7pm"
     },
     "Jan": {
       "text": "-"
@@ -3677,10 +3677,10 @@
       "number": 160
     },
     "Location": {
-      "text": "On the Ground"
+      "text": "On the ground"
     },
     "Time": {
-      "text": "8 AM - 7 PM"
+      "text": "8am - 7pm"
     },
     "Jan": {
       "text": "-"
@@ -3737,10 +3737,10 @@
       "number": 300
     },
     "Location": {
-      "text": "On Trees"
+      "text": "On trees"
     },
     "Time": {
-      "text": "8 AM - 5 PM"
+      "text": "8am - 5pm"
     },
     "Jan": {
       "text": "-"
@@ -3793,11 +3793,11 @@
       "text": "NH-Icon-rosaliabatesibeetle.png"
     },
     "Price": {
-      "text": "3000",
+      "text": "3,000",
       "number": 3000
     },
     "Location": {
-      "text": "On Tree Stumps"
+      "text": "On tree stumps"
     },
     "Time": {
       "text": "All day"
@@ -3853,11 +3853,11 @@
       "text": "NH-Icon-sawstag.png"
     },
     "Price": {
-      "text": "2000",
+      "text": "2,000",
       "number": 2000
     },
     "Location": {
-      "text": "On Trees"
+      "text": "On trees"
     },
     "Time": {
       "text": "All day"
@@ -3913,14 +3913,14 @@
       "text": "NH-Icon-scarabbeetle.png"
     },
     "Price": {
-      "text": "10000",
+      "text": "10,000",
       "number": 10000
     },
     "Location": {
-      "text": "On Trees"
+      "text": "On trees"
     },
     "Time": {
-      "text": "11 PM - 8 AM"
+      "text": "11pm - 8am"
     },
     "Jan": {
       "text": "-"
@@ -3973,14 +3973,14 @@
       "text": "NH-Icon-scorpion.png"
     },
     "Price": {
-      "text": "8000",
+      "text": "8,000",
       "number": 8000
     },
     "Location": {
-      "text": "On the Ground"
+      "text": "On the ground"
     },
     "Time": {
-      "text": "7 PM - 4 AM"
+      "text": "7pm - 4am"
     },
     "Jan": {
       "text": "-"
@@ -4037,7 +4037,7 @@
       "number": 250
     },
     "Location": {
-      "text": "On Rocks and Bushes (Rain)"
+      "text": "On rocks and bushes (rain)"
     },
     "Time": {
       "text": "All day"
@@ -4097,10 +4097,10 @@
       "number": 600
     },
     "Location": {
-      "text": "Shaking Trees"
+      "text": "Shaking trees"
     },
     "Time": {
-      "text": "7 PM - 8 AM"
+      "text": "7pm - 8am"
     },
     "Jan": {
       "text": "✓"
@@ -4157,7 +4157,7 @@
       "number": 120
     },
     "Location": {
-      "text": "On Flowers"
+      "text": "On flowers"
     },
     "Time": {
       "text": "All day"
@@ -4213,14 +4213,14 @@
       "text": "NH-Icon-tarantula.png"
     },
     "Price": {
-      "text": "8000",
+      "text": "8,000",
       "number": 8000
     },
     "Location": {
-      "text": "On the Ground"
+      "text": "On the ground"
     },
     "Time": {
-      "text": "7 PM - 4 AM"
+      "text": "7pm - 4am"
     },
     "Jan": {
       "text": "✓"
@@ -4273,11 +4273,11 @@
       "text": "NH-Icon-tigerbeetle.png"
     },
     "Price": {
-      "text": "1500",
+      "text": "1,500",
       "number": 1500
     },
     "Location": {
-      "text": "On the Ground"
+      "text": "On the ground"
     },
     "Time": {
       "text": "All day"
@@ -4340,7 +4340,7 @@
       "text": "Flying"
     },
     "Time": {
-      "text": "4 AM - 7 PM"
+      "text": "4am - 7pm"
     },
     "Jan": {
       "text": "-"
@@ -4397,7 +4397,7 @@
       "number": 450
     },
     "Location": {
-      "text": "On Tree Stumps"
+      "text": "On tree stumps"
     },
     "Time": {
       "text": "All day"
@@ -4457,10 +4457,10 @@
       "number": 400
     },
     "Location": {
-      "text": "On Trees"
+      "text": "On trees"
     },
     "Time": {
-      "text": "8 AM - 5 PM"
+      "text": "8am - 5pm"
     },
     "Jan": {
       "text": "-"
@@ -4517,7 +4517,7 @@
       "number": 600
     },
     "Location": {
-      "text": "Under Trees Disguised as Leafs"
+      "text": "Under trees disguised as leaves"
     },
     "Time": {
       "text": "All day"
@@ -4577,10 +4577,10 @@
       "number": 600
     },
     "Location": {
-      "text": "On Trees"
+      "text": "On trees"
     },
     "Time": {
-      "text": "4 AM - 8 AM & 5 PM - 7 PM"
+      "text": "4am - 8am & 5pm - 7pm"
     },
     "Jan": {
       "text": "-"
@@ -4633,11 +4633,11 @@
       "text": "NH-Icon-wasp.png"
     },
     "Price": {
-      "text": "2500",
+      "text": "2,500",
       "number": 2500
     },
     "Location": {
-      "text": "Shaking Trees"
+      "text": "Shaking trees"
     },
     "Time": {
       "text": "All day"
@@ -4697,7 +4697,7 @@
       "number": 200
     },
     "Location": {
-      "text": "On Beach Rocks"
+      "text": "On beach rocks"
     },
     "Time": {
       "text": "All day"
@@ -4760,7 +4760,7 @@
       "text": "Flying"
     },
     "Time": {
-      "text": "4 AM - 7 PM"
+      "text": "4am - 7pm"
     },
     "Jan": {
       "text": "-"

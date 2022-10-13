@@ -141,7 +141,7 @@
     "slug": "aluminum-rug",
     "name": "Aluminum rug",
     "source": "saharah",
-    "imageName": null,
+    "imageName": "/item-images/furniture/aluminum-rug.png",
     "price": {
       "buy": {
         "amount": 1500,
@@ -591,7 +591,7 @@
     "slug": "arcade-combat-game",
     "name": "Arcade combat game",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/arcade-combat-game.png",
     "price": {
       "buy": {
         "amount": 64000,
@@ -623,7 +623,7 @@
     "slug": "arcade-mahjong-game",
     "name": "Arcade mahjong game",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/arcade-mahjong-game.png",
     "price": {
       "buy": {
         "amount": 64000,
@@ -1031,6 +1031,22 @@
       "buy": null,
       "sell": {
         "amount": 2400,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "slug": "bamboo-grass",
+    "name": "Bamboo grass",
+    "source": "nookshopseason",
+    "imageName": "/item-images/furniture/bamboo-grass.png",
+    "price": {
+      "buy": {
+        "amount": 3080,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 770,
         "currency": "Bells"
       }
     }
@@ -1542,7 +1558,7 @@
     "slug": "bell-bag-rug",
     "name": "Bell-bag rug",
     "source": "nookstop",
-    "imageName": null,
+    "imageName": "/item-images/furniture/bell-bag-rug.png",
     "price": {
       "buy": {
         "amount": 1200,
@@ -1702,6 +1718,7 @@
   {
     "slug": "birthday-cake",
     "name": "Birthday cake",
+    "source": "birthday",
     "imageName": "/item-images/furniture/birthday-cake.png",
     "price": {
       "buy": null,
@@ -1714,6 +1731,7 @@
   {
     "slug": "birthday-candles",
     "name": "Birthday candles",
+    "source": "birthday",
     "imageName": "/item-images/furniture/birthday-candles.png",
     "price": {
       "buy": null,
@@ -1726,6 +1744,7 @@
   {
     "slug": "birthday-sign",
     "name": "Birthday sign",
+    "source": "birthday",
     "imageName": "/item-images/furniture/birthday-sign.png",
     "price": {
       "buy": null,
@@ -1738,6 +1757,7 @@
   {
     "slug": "birthday-table",
     "name": "Birthday table",
+    "source": "birthday",
     "imageName": "/item-images/furniture/birthday-table.png",
     "price": {
       "buy": null,
@@ -1921,7 +1941,7 @@
     "slug": "black-crown-wall",
     "name": "Black-crown wall",
     "source": "timmy",
-    "imageName": "/item-images/furniture/black-crown-wall.png",
+    "imageName": null,
     "price": {
       "buy": {
         "amount": 2350,
@@ -1969,7 +1989,7 @@
     "slug": "blossom-viewing-lantern",
     "name": "Blossom-viewing lantern",
     "source": "diy",
-    "imageName": "/item-images/furniture/blossom-viewing-lantern.png",
+    "imageName": null,
     "price": {
       "buy": null,
       "sell": {
@@ -1995,7 +2015,7 @@
     "slug": "blue-persian-rug",
     "name": "Blue Persian rug",
     "source": "saharah",
-    "imageName": null,
+    "imageName": "/item-images/furniture/blue-persian-rug.png",
     "price": {
       "buy": {
         "amount": 2000,
@@ -2456,7 +2476,7 @@
     "slug": "blue-rose-wreath",
     "name": "Blue rose wreath",
     "source": "diy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/blue-rose-wreath.png",
     "price": {
       "buy": null,
       "sell": {
@@ -2644,12 +2664,10 @@
   {
     "slug": "blue-wedding-rug",
     "name": "Blue wedding rug",
-    "imageName": null,
+    "source": "cyrus",
+    "imageName": "/item-images/furniture/blue-wedding-rug.png",
     "price": {
-      "buy": {
-        "amount": 1500,
-        "currency": "Bells"
-      },
+      "buy": null,
       "sell": {
         "amount": 375,
         "currency": "Bells"
@@ -2737,7 +2755,7 @@
     "slug": "blue-rose-wall",
     "name": "Blue-rose wall",
     "source": "timmy",
-    "imageName": "/item-images/furniture/blue-rose-wall.png",
+    "imageName": null,
     "price": {
       "buy": {
         "amount": 1720,
@@ -2977,8 +2995,8 @@
   {
     "slug": "brake-tapper",
     "name": "Brake Tapper",
-    "source": "nookshop",
-    "imageName": null,
+    "source": "nookshoppromo",
+    "imageName": "/item-images/furniture/brake-tapper.png",
     "price": {
       "buy": {
         "amount": 2700,
@@ -3321,10 +3339,11 @@
   {
     "slug": "brown-wedding-flooring",
     "name": "Brown wedding flooring",
-    "imageName": null,
+    "source": "cyrus",
+    "imageName": "/item-images/furniture/brown-wedding-flooring.png",
     "price": {
       "buy": {
-        "amount": 3000,
+        "amount": 12,
         "currency": "Bells"
       },
       "sell": {
@@ -3336,10 +3355,11 @@
   {
     "slug": "brown-wedding-wall",
     "name": "Brown wedding wall",
-    "imageName": null,
+    "source": "cyrus",
+    "imageName": "/item-images/furniture/brown-wedding-wall.png",
     "price": {
       "buy": {
-        "amount": 3000,
+        "amount": 12,
         "currency": "Bells"
       },
       "sell": {
@@ -3415,12 +3435,10 @@
   {
     "slug": "bug-plaque",
     "name": "Bug plaque",
-    "imageName": null,
+    "source": "museumday",
+    "imageName": "/item-images/furniture/bug-plaque.png",
     "price": {
-      "buy": {
-        "amount": 1200,
-        "currency": "Bells"
-      },
+      "buy": null,
       "sell": {
         "amount": 300,
         "currency": "Bells"
@@ -3459,7 +3477,7 @@
   {
     "slug": "bunny-day-basket",
     "name": "Bunny Day basket",
-    "source": "diy",
+    "source": "zipper",
     "imageName": "/item-images/furniture/bunny-day-basket.png",
     "price": {
       "buy": null,
@@ -3681,7 +3699,7 @@
     "slug": "butterfly-fish-model",
     "name": "Butterfly fish model",
     "source": "cj",
-    "imageName": null,
+    "imageName": "/item-images/furniture/butterfly-fish-model.png",
     "price": {
       "buy": null,
       "sell": {
@@ -3694,7 +3712,7 @@
     "slug": "butterfly-fish-model",
     "name": "Butterfly-fish model",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/butterfly-fish-model.png",
     "price": {
       "buy": {
         "amount": 1300,
@@ -3846,8 +3864,8 @@
   {
     "slug": "campsite-sign",
     "name": "Campsite sign",
-    "source": "nookshop",
-    "imageName": null,
+    "source": "nookshoppromo",
+    "imageName": "/item-images/furniture/campsite-sign.png",
     "price": {
       "buy": {
         "amount": 2500,
@@ -4018,7 +4036,7 @@
     "slug": "cassette-player",
     "name": "Cassette player",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/cassette-player.png",
     "price": {
       "buy": {
         "amount": 2000,
@@ -4373,7 +4391,7 @@
     "slug": "chic-cosmos-wreath",
     "name": "Chic cosmos wreath",
     "source": "diy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/chic-cosmos-wreath.png",
     "price": {
       "buy": null,
       "sell": {
@@ -4418,7 +4436,7 @@
     "slug": "chic-windflower-wreath",
     "name": "Chic windflower wreath",
     "source": "diy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/chic-windflower-wreath.png",
     "price": {
       "buy": null,
       "sell": {
@@ -4505,7 +4523,7 @@
     "slug": "citrus-long-horned-b.-model",
     "name": "Citrus long-horned b. model",
     "source": "flick",
-    "imageName": null,
+    "imageName": "/item-images/furniture/citrus-long-horned-b.-model.png",
     "price": {
       "buy": null,
       "sell": {
@@ -4621,7 +4639,7 @@
     "slug": "clothes-closet",
     "name": "Clothes closet",
     "source": "timmy",
-    "imageName": "/item-images/furniture/clothes-closet.png",
+    "imageName": null,
     "price": {
       "buy": {
         "amount": 3100,
@@ -4981,7 +4999,7 @@
     "slug": "cone",
     "name": "Cone",
     "source": "timmy",
-    "imageName": "/item-images/furniture/cone.png",
+    "imageName": null,
     "price": {
       "buy": {
         "amount": 630,
@@ -4996,7 +5014,7 @@
   {
     "slug": "construction-sign",
     "name": "Construction sign",
-    "source": "Nook Stop",
+    "source": "nookstop",
     "imageName": "/item-images/furniture/construction-sign.png",
     "price": {
       "buy": {
@@ -5058,7 +5076,7 @@
     "slug": "cool-pansy-wreath",
     "name": "Cool pansy wreath",
     "source": "diy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/cool-pansy-wreath.png",
     "price": {
       "buy": null,
       "sell": {
@@ -5087,7 +5105,7 @@
     "slug": "cool-windflower-wreath",
     "name": "Cool windflower wreath",
     "source": "diy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/cool-windflower-wreath.png",
     "price": {
       "buy": null,
       "sell": {
@@ -5180,7 +5198,7 @@
     "slug": "cosmos-shower",
     "name": "Cosmos shower",
     "source": "diy",
-    "imageName": "/item-images/furniture/cosmos-shower.png",
+    "imageName": null,
     "price": {
       "buy": null,
       "sell": {
@@ -5205,7 +5223,7 @@
   {
     "slug": "cotton-candy-stall",
     "name": "Cotton-candy stall",
-    "source": "Nook Stop",
+    "source": "nookstop",
     "imageName": "/item-images/furniture/cotton-candy-stall.png",
     "price": {
       "buy": {
@@ -5267,7 +5285,7 @@
     "slug": "crescent-moon-chair",
     "name": "Crescent-moon chair",
     "source": "diy",
-    "imageName": "/item-images/furniture/crescent-moon-chair.png",
+    "imageName": null,
     "price": {
       "buy": null,
       "sell": {
@@ -5556,7 +5574,7 @@
     "slug": "cute-sofa",
     "name": "Cute sofa",
     "source": "timmy",
-    "imageName": "/item-images/furniture/cute-sofa.png",
+    "imageName": null,
     "price": {
       "buy": {
         "amount": 9600,
@@ -5620,7 +5638,7 @@
     "slug": "cute-wardrobe",
     "name": "Cute wardrobe",
     "source": "timmy",
-    "imageName": "/item-images/furniture/cute-wardrobe.png",
+    "imageName": null,
     "price": {
       "buy": {
         "amount": 7300,
@@ -5758,7 +5776,7 @@
     "slug": "cypress-plant",
     "name": "Cypress plant",
     "source": "timmy",
-    "imageName": "/item-images/furniture/cypress-plant.png",
+    "imageName": null,
     "price": {
       "buy": {
         "amount": 1000,
@@ -5813,7 +5831,7 @@
     "slug": "dj's-turntable",
     "name": "DJ's turntable",
     "source": "timmy",
-    "imageName": "/item-images/furniture/dj's-turntable.png",
+    "imageName": null,
     "price": {
       "buy": {
         "amount": 9300,
@@ -5926,7 +5944,7 @@
     "slug": "dark-lily-wreath",
     "name": "Dark lily wreath",
     "source": "diy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/dark-lily-wreath.png",
     "price": {
       "buy": null,
       "sell": {
@@ -5955,7 +5973,7 @@
     "slug": "dark-rose-wreath",
     "name": "Dark rose wreath",
     "source": "diy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/dark-rose-wreath.png",
     "price": {
       "buy": null,
       "sell": {
@@ -5968,7 +5986,7 @@
     "slug": "dark-tulip-wreath",
     "name": "Dark tulip wreath",
     "source": "diy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/dark-tulip-wreath.png",
     "price": {
       "buy": null,
       "sell": {
@@ -6071,7 +6089,7 @@
     "slug": "dartboard",
     "name": "Dartboard",
     "source": "timmy",
-    "imageName": "/item-images/furniture/dartboard.png",
+    "imageName": null,
     "price": {
       "buy": {
         "amount": 5200,
@@ -6158,7 +6176,7 @@
     "slug": "den-desk",
     "name": "Den desk",
     "source": "timmy",
-    "imageName": "/item-images/furniture/den-desk.png",
+    "imageName": null,
     "price": {
       "buy": {
         "amount": 10000,
@@ -6267,7 +6285,7 @@
     "slug": "digital-alarm-clock",
     "name": "Digital alarm clock",
     "source": "timmy",
-    "imageName": "/item-images/furniture/digital-alarm-clock.png",
+    "imageName": null,
     "price": {
       "buy": {
         "amount": 1600,
@@ -6299,7 +6317,7 @@
     "slug": "diner-chair",
     "name": "Diner chair",
     "source": "timmy",
-    "imageName": "/item-images/furniture/diner-chair.png",
+    "imageName": null,
     "price": {
       "buy": {
         "amount": 1600,
@@ -6363,7 +6381,7 @@
     "slug": "diner-mini-table",
     "name": "Diner mini table",
     "source": "timmy",
-    "imageName": "/item-images/furniture/diner-mini-table.png",
+    "imageName": null,
     "price": {
       "buy": {
         "amount": 1600,
@@ -6395,7 +6413,7 @@
     "slug": "diner-neon-sign",
     "name": "Diner neon sign",
     "source": "timmy",
-    "imageName": "/item-images/furniture/diner-neon-sign.png",
+    "imageName": null,
     "price": {
       "buy": {
         "amount": 3900,
@@ -6459,7 +6477,7 @@
     "slug": "dirt-flooring",
     "name": "Dirt flooring",
     "source": "saharah",
-    "imageName": null,
+    "imageName": "/item-images/furniture/dirt-flooring.png",
     "price": {
       "buy": {
         "amount": 3000,
@@ -6536,7 +6554,7 @@
     "slug": "doghouse",
     "name": "Doghouse",
     "source": "diy",
-    "imageName": "/item-images/furniture/doghouse.png",
+    "imageName": null,
     "price": {
       "buy": null,
       "sell": {
@@ -6641,7 +6659,7 @@
   {
     "slug": "drink-machine",
     "name": "Drink machine",
-    "source": "Nook Stop",
+    "source": "nookstop",
     "imageName": "/item-images/furniture/drink-machine.png",
     "price": {
       "buy": {
@@ -6761,7 +6779,7 @@
     "slug": "earth-boring-dung-b.-model",
     "name": "Earth-boring dung b. model",
     "source": "flick",
-    "imageName": null,
+    "imageName": "/item-images/furniture/earth-boring-dung-b.-model.png",
     "price": {
       "buy": null,
       "sell": {
@@ -6854,7 +6872,7 @@
     "slug": "electronics-kit",
     "name": "Electronics kit",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/electronics-kit.png",
     "price": {
       "buy": {
         "amount": 1300,
@@ -6944,7 +6962,7 @@
     "slug": "exercise-ball",
     "name": "Exercise ball",
     "source": "timmy",
-    "imageName": "/item-images/furniture/exercise-ball.png",
+    "imageName": null,
     "price": {
       "buy": {
         "amount": 1100,
@@ -7040,7 +7058,7 @@
     "slug": "fancy-lily-wreath",
     "name": "Fancy lily wreath",
     "source": "diy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/fancy-lily-wreath.png",
     "price": {
       "buy": null,
       "sell": {
@@ -7053,7 +7071,7 @@
     "slug": "fancy-mum-wreath",
     "name": "Fancy mum wreath",
     "source": "diy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/fancy-mum-wreath.png",
     "price": {
       "buy": null,
       "sell": {
@@ -7066,7 +7084,7 @@
     "slug": "fancy-rose-wreath",
     "name": "Fancy rose wreath",
     "source": "diy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/fancy-rose-wreath.png",
     "price": {
       "buy": null,
       "sell": {
@@ -7137,7 +7155,7 @@
     "slug": "field-flooring",
     "name": "Field flooring",
     "source": "saharah",
-    "imageName": null,
+    "imageName": "/item-images/furniture/field-flooring.png",
     "price": {
       "buy": {
         "amount": 3000,
@@ -7169,7 +7187,7 @@
     "slug": "fire-pit",
     "name": "Fire pit",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/fire-pit.png",
     "price": {
       "buy": {
         "amount": 96000,
@@ -7224,6 +7242,19 @@
     }
   },
   {
+    "slug": "first-anniversary-cake",
+    "name": "First-anniversary cake",
+    "source": "timmy",
+    "imageName": "/item-images/furniture/first-anniversary-cake.png",
+    "price": {
+      "buy": null,
+      "sell": {
+        "amount": 5000,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "slug": "fish-doorplate",
     "name": "Fish doorplate",
     "source": "fishingtourney",
@@ -7239,12 +7270,10 @@
   {
     "slug": "fish-plaque",
     "name": "Fish plaque",
-    "imageName": null,
+    "source": "museumday",
+    "imageName": "/item-images/furniture/fish-plaque.png",
     "price": {
-      "buy": {
-        "amount": 1200,
-        "currency": "Bells"
-      },
+      "buy": null,
       "sell": {
         "amount": 300,
         "currency": "Bells"
@@ -7355,7 +7384,7 @@
     "slug": "flat-garden-rock",
     "name": "Flat garden rock",
     "source": "diy",
-    "imageName": "/item-images/furniture/flat-garden-rock.png",
+    "imageName": null,
     "price": {
       "buy": null,
       "sell": {
@@ -7397,7 +7426,7 @@
     "slug": "floor-lamp",
     "name": "Floor lamp",
     "source": "timmy",
-    "imageName": "/item-images/furniture/floor-lamp.png",
+    "imageName": null,
     "price": {
       "buy": {
         "amount": 1400,
@@ -7413,7 +7442,7 @@
     "slug": "floor-light",
     "name": "Floor light",
     "source": "timmy",
-    "imageName": "/item-images/furniture/floor-light.png",
+    "imageName": null,
     "price": {
       "buy": {
         "amount": 2200,
@@ -7519,7 +7548,7 @@
     "slug": "flowing-river-flooring",
     "name": "Flowing-river flooring",
     "source": "saharah",
-    "imageName": null,
+    "imageName": "/item-images/furniture/flowing-river-flooring.png",
     "price": {
       "buy": {
         "amount": 3000,
@@ -7564,7 +7593,7 @@
     "slug": "flying-saucer",
     "name": "Flying saucer",
     "source": "diy",
-    "imageName": "/item-images/furniture/flying-saucer.png",
+    "imageName": null,
     "price": {
       "buy": null,
       "sell": {
@@ -7641,7 +7670,7 @@
     "slug": "football-fish-model",
     "name": "Football fish model",
     "source": "cj",
-    "imageName": "/item-images/furniture/football-fish-model.png",
+    "imageName": null,
     "price": {
       "buy": null,
       "sell": {
@@ -7695,8 +7724,8 @@
   {
     "slug": "fortune-cookie-cart",
     "name": "Fortune-cookie cart",
-    "source": "nookshop",
-    "imageName": null,
+    "source": "nookshoppromo",
+    "imageName": "/item-images/furniture/fortune-cookie-cart.png",
     "price": {
       "buy": {
         "amount": 2600,
@@ -7740,12 +7769,10 @@
   {
     "slug": "fossil-plaque",
     "name": "Fossil plaque",
-    "imageName": null,
+    "source": "museumday",
+    "imageName": "/item-images/furniture/fossil-plaque.png",
     "price": {
-      "buy": {
-        "amount": 1200,
-        "currency": "Bells"
-      },
+      "buy": null,
       "sell": {
         "amount": 300,
         "currency": "Bells"
@@ -7869,6 +7896,16 @@
     }
   },
   {
+    "slug": "froggy-chair",
+    "name": "Froggy chair",
+    "source": "timmy",
+    "imageName": "/item-images/furniture/froggy-chair.png",
+    "price": {
+      "buy": null,
+      "sell": null
+    }
+  },
+  {
     "slug": "frozen-arch",
     "name": "Frozen arch",
     "source": "diy",
@@ -7885,7 +7922,7 @@
     "slug": "frozen-bed",
     "name": "Frozen bed",
     "source": "diy",
-    "imageName": "/item-images/furniture/frozen-bed.png",
+    "imageName": null,
     "price": {
       "buy": null,
       "sell": {
@@ -8234,7 +8271,7 @@
     "slug": "garden-lantern",
     "name": "Garden lantern",
     "source": "timmy",
-    "imageName": "/item-images/furniture/garden-lantern.png",
+    "imageName": null,
     "price": {
       "buy": {
         "amount": 1400,
@@ -8463,7 +8500,7 @@
     "slug": "gold-hha-plaque",
     "name": "Gold HHA plaque",
     "source": "hha",
-    "imageName": "/item-images/furniture/gold-hha-plaque.png",
+    "imageName": null,
     "price": {
       "buy": null,
       "sell": {
@@ -8544,7 +8581,7 @@
     "slug": "gold-rose-wreath",
     "name": "Gold rose wreath",
     "source": "diy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/gold-rose-wreath.png",
     "price": {
       "buy": null,
       "sell": {
@@ -8661,7 +8698,7 @@
     "slug": "golden-seat",
     "name": "Golden seat",
     "source": "diy",
-    "imageName": "/item-images/furniture/golden-seat.png",
+    "imageName": null,
     "price": {
       "buy": null,
       "sell": {
@@ -8904,7 +8941,7 @@
     "slug": "gravel-flooring",
     "name": "Gravel flooring",
     "source": "saharah",
-    "imageName": null,
+    "imageName": "/item-images/furniture/gravel-flooring.png",
     "price": {
       "buy": {
         "amount": 3000,
@@ -9106,7 +9143,7 @@
     "slug": "green-flower-print-wall",
     "name": "Green flower-print wall",
     "source": "timmy",
-    "imageName": "/item-images/furniture/green-flower-print-wall.png",
+    "imageName": null,
     "price": {
       "buy": {
         "amount": 1780,
@@ -9329,10 +9366,11 @@
   {
     "slug": "green-wedding-flooring",
     "name": "Green wedding flooring",
-    "imageName": null,
+    "source": "cyrus",
+    "imageName": "/item-images/furniture/green-wedding-flooring.png",
     "price": {
       "buy": {
-        "amount": 3000,
+        "amount": 12,
         "currency": "Bells"
       },
       "sell": {
@@ -9344,10 +9382,11 @@
   {
     "slug": "green-wedding-wall",
     "name": "Green wedding wall",
-    "imageName": null,
+    "source": "cyrus",
+    "imageName": "/item-images/furniture/green-wedding-wall.png",
     "price": {
       "buy": {
-        "amount": 3000,
+        "amount": 12,
         "currency": "Bells"
       },
       "sell": {
@@ -9360,7 +9399,7 @@
     "slug": "green-leaf-pile",
     "name": "Green-leaf pile",
     "source": "diy",
-    "imageName": "/item-images/furniture/green-leaf-pile.png",
+    "imageName": null,
     "price": {
       "buy": null,
       "sell": {
@@ -9524,7 +9563,7 @@
     "slug": "hanging-scroll",
     "name": "Hanging scroll",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/hanging-scroll.png",
     "price": {
       "buy": {
         "amount": 140000,
@@ -9569,7 +9608,7 @@
     "slug": "harp",
     "name": "Harp",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/harp.png",
     "price": {
       "buy": {
         "amount": 130000,
@@ -9685,7 +9724,7 @@
     "slug": "hi-fi-stereo",
     "name": "Hi-fi stereo",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/hi-fi-stereo.png",
     "price": {
       "buy": {
         "amount": 82000,
@@ -10108,7 +10147,7 @@
     "slug": "imperial-dining-chair",
     "name": "Imperial dining chair",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/imperial-dining-chair.png",
     "price": {
       "buy": {
         "amount": 29000,
@@ -10124,7 +10163,7 @@
     "slug": "imperial-dining-lantern",
     "name": "Imperial dining lantern",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/imperial-dining-lantern.png",
     "price": {
       "buy": {
         "amount": 19000,
@@ -10140,7 +10179,7 @@
     "slug": "imperial-dining-table",
     "name": "Imperial dining table",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/imperial-dining-table.png",
     "price": {
       "buy": {
         "amount": 73000,
@@ -10553,7 +10592,7 @@
     "slug": "ironwood-cupboard",
     "name": "Ironwood cupboard",
     "source": "diy",
-    "imageName": "/item-images/furniture/ironwood-cupboard.png",
+    "imageName": null,
     "price": {
       "buy": null,
       "sell": {
@@ -10737,7 +10776,7 @@
     "slug": "judge's-bell",
     "name": "Judge's bell",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/judge's-bell.png",
     "price": {
       "buy": {
         "amount": 920,
@@ -10766,7 +10805,7 @@
     "slug": "jukebox",
     "name": "Jukebox",
     "source": "timmy",
-    "imageName": "/item-images/furniture/jukebox.png",
+    "imageName": null,
     "price": {
       "buy": {
         "amount": 5600,
@@ -10821,7 +10860,7 @@
     "slug": "kettle",
     "name": "Kettle",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/kettle.png",
     "price": {
       "buy": {
         "amount": 710,
@@ -10863,7 +10902,7 @@
     "slug": "key-holder",
     "name": "Key holder",
     "source": "diy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/key-holder.png",
     "price": {
       "buy": null,
       "sell": {
@@ -10934,7 +10973,7 @@
     "slug": "kitchen-island",
     "name": "Kitchen island",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/kitchen-island.png",
     "price": {
       "buy": {
         "amount": 170000,
@@ -11043,7 +11082,7 @@
     "slug": "lcd-tv-(50-in.)",
     "name": "LCD TV (50 in.)",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/lcd-tv-(50-in.).png",
     "price": {
       "buy": {
         "amount": 99000,
@@ -11148,7 +11187,7 @@
     "slug": "laptop",
     "name": "Laptop",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/laptop.png",
     "price": {
       "buy": {
         "amount": 70000,
@@ -11164,7 +11203,7 @@
     "slug": "large-cardboard-boxes",
     "name": "Large cardboard boxes",
     "source": "diy",
-    "imageName": "/item-images/furniture/large-cardboard-boxes.png",
+    "imageName": null,
     "price": {
       "buy": null,
       "sell": {
@@ -11299,7 +11338,7 @@
     "slug": "leo-sculpture",
     "name": "Leo sculpture",
     "source": "diy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/leo-sculpture.png",
     "price": {
       "buy": null,
       "sell": {
@@ -11356,7 +11395,7 @@
   {
     "slug": "lifeguard-chair",
     "name": "Lifeguard chair",
-    "source": "Nook Stop",
+    "source": "nookstop",
     "imageName": "/item-images/furniture/lifeguard-chair.png",
     "price": {
       "buy": {
@@ -11418,7 +11457,7 @@
     "slug": "light-switch",
     "name": "Light switch",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/light-switch.png",
     "price": {
       "buy": {
         "amount": 340,
@@ -11449,7 +11488,7 @@
   {
     "slug": "lighthouse",
     "name": "Lighthouse",
-    "source": "Nook Stop",
+    "source": "nookstop",
     "imageName": "/item-images/furniture/lighthouse.png",
     "price": {
       "buy": {
@@ -11806,7 +11845,7 @@
     "slug": "m.-sunset-moth-model",
     "name": "M. sunset moth model",
     "source": "flick",
-    "imageName": null,
+    "imageName": "/item-images/furniture/m.-sunset-moth-model.png",
     "price": {
       "buy": null,
       "sell": {
@@ -11957,7 +11996,7 @@
     "slug": "mama-panda",
     "name": "Mama panda",
     "source": "timmy",
-    "imageName": "/item-images/furniture/mama-panda.png",
+    "imageName": null,
     "price": {
       "buy": {
         "amount": 3500,
@@ -12114,8 +12153,8 @@
   {
     "slug": "market-place-decoration",
     "name": "Market Place decoration",
-    "source": "nookshop",
-    "imageName": null,
+    "source": "nookshoppromo",
+    "imageName": "/item-images/furniture/market-place-decoration.png",
     "price": {
       "buy": {
         "amount": 3200,
@@ -12181,6 +12220,188 @@
       },
       "sell": {
         "amount": 450,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "slug": "mermaid-bed",
+    "name": "Mermaid bed",
+    "source": "diy",
+    "imageName": "/item-images/furniture/mermaid-bed.png",
+    "price": {
+      "buy": null,
+      "sell": {
+        "amount": 22400,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "slug": "mermaid-chair",
+    "name": "Mermaid chair",
+    "source": "diy",
+    "imageName": "/item-images/furniture/mermaid-chair.png",
+    "price": {
+      "buy": null,
+      "sell": {
+        "amount": 11140,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "slug": "mermaid-closet",
+    "name": "Mermaid closet",
+    "source": "diy",
+    "imageName": "/item-images/furniture/mermaid-closet.png",
+    "price": {
+      "buy": null,
+      "sell": {
+        "amount": 22500,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "slug": "mermaid-dresser",
+    "name": "Mermaid dresser",
+    "source": "diy",
+    "imageName": "/item-images/furniture/mermaid-dresser.png",
+    "price": {
+      "buy": null,
+      "sell": {
+        "amount": 22400,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "slug": "mermaid-flooring",
+    "name": "Mermaid flooring",
+    "source": "diy",
+    "imageName": "/item-images/furniture/mermaid-flooring.png",
+    "price": {
+      "buy": null,
+      "sell": {
+        "amount": 20975,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "slug": "mermaid-lamp",
+    "name": "Mermaid lamp",
+    "source": "diy",
+    "imageName": "/item-images/furniture/mermaid-lamp.png",
+    "price": {
+      "buy": null,
+      "sell": {
+        "amount": 13850,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "slug": "mermaid-rug",
+    "name": "Mermaid rug",
+    "source": "diy",
+    "imageName": "/item-images/furniture/mermaid-rug.png",
+    "price": {
+      "buy": null,
+      "sell": {
+        "amount": 10360,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "slug": "mermaid-screen",
+    "name": "Mermaid screen",
+    "source": "diy",
+    "imageName": "/item-images/furniture/mermaid-screen.png",
+    "price": {
+      "buy": null,
+      "sell": {
+        "amount": 23300,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "slug": "mermaid-shelf",
+    "name": "Mermaid shelf",
+    "source": "diy",
+    "imageName": "/item-images/furniture/mermaid-shelf.png",
+    "price": {
+      "buy": null,
+      "sell": {
+        "amount": 12900,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "slug": "mermaid-sofa",
+    "name": "Mermaid sofa",
+    "source": "diy",
+    "imageName": "/item-images/furniture/mermaid-sofa.png",
+    "price": {
+      "buy": null,
+      "sell": {
+        "amount": 11200,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "slug": "mermaid-table",
+    "name": "Mermaid table",
+    "source": "diy",
+    "imageName": "/item-images/furniture/mermaid-table.png",
+    "price": {
+      "buy": null,
+      "sell": {
+        "amount": 10480,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "slug": "mermaid-vanity",
+    "name": "Mermaid vanity",
+    "source": "diy",
+    "imageName": "/item-images/furniture/mermaid-vanity.png",
+    "price": {
+      "buy": null,
+      "sell": {
+        "amount": 12650,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "slug": "mermaid-wall",
+    "name": "Mermaid wall",
+    "source": "diy",
+    "imageName": "/item-images/furniture/mermaid-wall.png",
+    "price": {
+      "buy": null,
+      "sell": {
+        "amount": 23520,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "slug": "mermaid-wall-clock",
+    "name": "Mermaid wall clock",
+    "source": "diy",
+    "imageName": "/item-images/furniture/mermaid-wall-clock.png",
+    "price": {
+      "buy": null,
+      "sell": {
+        "amount": 12290,
         "currency": "Bells"
       }
     }
@@ -12282,7 +12503,7 @@
     "slug": "mini-diy-workbench",
     "name": "Mini DIY workbench",
     "source": "diy",
-    "imageName": "/item-images/furniture/mini-diy-workbench.png",
+    "imageName": null,
     "price": {
       "buy": null,
       "sell": {
@@ -12565,7 +12786,7 @@
     "slug": "mom's-art",
     "name": "Mom's art",
     "source": "mom",
-    "imageName": null,
+    "imageName": "/item-images/furniture/mom's-art.png",
     "price": {
       "buy": null,
       "sell": {
@@ -12578,7 +12799,7 @@
     "slug": "mom's-candle-set",
     "name": "Mom's candle set",
     "source": "mom",
-    "imageName": null,
+    "imageName": "/item-images/furniture/mom's-candle-set.png",
     "price": {
       "buy": null,
       "sell": {
@@ -12604,7 +12825,7 @@
     "slug": "mom's-cushion",
     "name": "Mom's cushion",
     "source": "mom",
-    "imageName": null,
+    "imageName": "/item-images/furniture/mom's-cushion.png",
     "price": {
       "buy": null,
       "sell": {
@@ -12617,7 +12838,7 @@
     "slug": "mom's-embroidery",
     "name": "Mom's embroidery",
     "source": "mom",
-    "imageName": null,
+    "imageName": "/item-images/furniture/mom's-embroidery.png",
     "price": {
       "buy": null,
       "sell": {
@@ -12630,7 +12851,7 @@
     "slug": "mom's-homemade-cake",
     "name": "Mom's homemade cake",
     "source": "mom",
-    "imageName": null,
+    "imageName": "/item-images/furniture/mom's-homemade-cake.png",
     "price": {
       "buy": null,
       "sell": {
@@ -12656,7 +12877,7 @@
     "slug": "mom's-pen-stand",
     "name": "Mom's pen stand",
     "source": "mom",
-    "imageName": null,
+    "imageName": "/item-images/furniture/mom's-pen-stand.png",
     "price": {
       "buy": null,
       "sell": {
@@ -12855,7 +13076,7 @@
   {
     "slug": "monster-statue",
     "name": "Monster statue",
-    "source": "Nook Stop",
+    "source": "nookstop",
     "imageName": "/item-images/furniture/monster-statue.png",
     "price": {
       "buy": {
@@ -12914,7 +13135,7 @@
     "slug": "mortar-wall",
     "name": "Mortar wall",
     "source": "saharah",
-    "imageName": null,
+    "imageName": "/item-images/furniture/mortar-wall.png",
     "price": {
       "buy": {
         "amount": 3000,
@@ -13301,7 +13522,7 @@
     "slug": "nail-art-set",
     "name": "Nail-art set",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/nail-art-set.png",
     "price": {
       "buy": {
         "amount": 1000,
@@ -13356,7 +13577,7 @@
     "slug": "natural-mum-wreath",
     "name": "Natural mum wreath",
     "source": "diy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/natural-mum-wreath.png",
     "price": {
       "buy": null,
       "sell": {
@@ -13581,7 +13802,7 @@
     "slug": "nutcracker",
     "name": "Nutcracker",
     "source": "gulliver",
-    "imageName": null,
+    "imageName": "/item-images/furniture/nutcracker.png",
     "price": {
       "buy": null,
       "sell": {
@@ -13593,8 +13814,8 @@
   {
     "slug": "ok-motors-sign",
     "name": "OK Motors sign",
-    "source": "nookshop",
-    "imageName": null,
+    "source": "nookshoppromo",
+    "imageName": "/item-images/furniture/ok-motors-sign.png",
     "price": {
       "buy": {
         "amount": 3000,
@@ -13732,7 +13953,7 @@
     "slug": "oil-barrel-bathtub",
     "name": "Oil-barrel bathtub",
     "source": "diy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/oil-barrel-bathtub.png",
     "price": {
       "buy": null,
       "sell": {
@@ -13777,7 +13998,7 @@
     "slug": "old-fashioned-alarm-clock",
     "name": "Old-fashioned alarm clock",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/old-fashioned-alarm-clock.png",
     "price": {
       "buy": {
         "amount": 1200,
@@ -13851,7 +14072,7 @@
     "slug": "open-frame-kitchen",
     "name": "Open-frame kitchen",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/open-frame-kitchen.png",
     "price": {
       "buy": {
         "amount": 140000,
@@ -14025,7 +14246,7 @@
     "slug": "ornament-wreath",
     "name": "Ornament wreath",
     "source": "diy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/ornament-wreath.png",
     "price": {
       "buy": null,
       "sell": {
@@ -14112,7 +14333,7 @@
     "slug": "outdoor-table",
     "name": "Outdoor table",
     "source": "timmy",
-    "imageName": "/item-images/furniture/outdoor-table.png",
+    "imageName": null,
     "price": {
       "buy": {
         "amount": 2200,
@@ -14381,7 +14602,7 @@
   {
     "slug": "parabolic-antenna",
     "name": "Parabolic antenna",
-    "source": "Nook Stop",
+    "source": "nookstop",
     "imageName": "/item-images/furniture/parabolic-antenna.png",
     "price": {
       "buy": {
@@ -14397,7 +14618,7 @@
   {
     "slug": "park-clock",
     "name": "Park clock",
-    "source": "Nook Stop",
+    "source": "nookstop",
     "imageName": "/item-images/furniture/park-clock.png",
     "price": {
       "buy": {
@@ -14429,6 +14650,7 @@
   {
     "slug": "party-flooring",
     "name": "Party flooring",
+    "source": "birthday",
     "imageName": "/item-images/furniture/party-flooring.png",
     "price": {
       "buy": null,
@@ -14457,6 +14679,7 @@
   {
     "slug": "party-wall",
     "name": "Party wall",
+    "source": "birthday",
     "imageName": "/item-images/furniture/party-wall.png",
     "price": {
       "buy": null,
@@ -14744,7 +14967,7 @@
     "slug": "pennant",
     "name": "Pennant",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/pennant.png",
     "price": {
       "buy": {
         "amount": 1300,
@@ -14807,7 +15030,7 @@
   {
     "slug": "phone-box",
     "name": "Phone box",
-    "source": "Nook Stop",
+    "source": "nookstop",
     "imageName": "/item-images/furniture/phone-box.png",
     "price": {
       "buy": {
@@ -14824,7 +15047,7 @@
     "slug": "phonograph",
     "name": "Phonograph",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/phonograph.png",
     "price": {
       "buy": {
         "amount": 53000,
@@ -15203,6 +15426,97 @@
     }
   },
   {
+    "slug": "pirate-barrel",
+    "name": "Pirate barrel",
+    "source": "gullivarrr",
+    "imageName": "/item-images/furniture/pirate-barrel.png",
+    "price": {
+      "buy": null,
+      "sell": {
+        "amount": 200,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "slug": "pirate-flooring",
+    "name": "Pirate flooring",
+    "source": "gullivarrr",
+    "imageName": "/item-images/furniture/pirate-flooring.png",
+    "price": {
+      "buy": null,
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "slug": "pirate-rug",
+    "name": "Pirate rug",
+    "source": "gullivarrr",
+    "imageName": "/item-images/furniture/pirate-rug.png",
+    "price": {
+      "buy": null,
+      "sell": {
+        "amount": 375,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "slug": "pirate-wall",
+    "name": "Pirate wall",
+    "source": "gullivarrr",
+    "imageName": "/item-images/furniture/pirate-wall.png",
+    "price": {
+      "buy": null,
+      "sell": {
+        "amount": 750,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "slug": "pirate-ship-cannon",
+    "name": "Pirate-ship cannon",
+    "source": "gullivarrr",
+    "imageName": "/item-images/furniture/pirate-ship-cannon.png",
+    "price": {
+      "buy": null,
+      "sell": {
+        "amount": 455,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "slug": "pirate-ship-helm",
+    "name": "Pirate-ship helm",
+    "source": "gullivarrr",
+    "imageName": "/item-images/furniture/pirate-ship-helm.png",
+    "price": {
+      "buy": null,
+      "sell": {
+        "amount": 280,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "slug": "pirate-treasure-chest",
+    "name": "Pirate-treasure chest",
+    "source": "gullivarrr",
+    "imageName": "/item-images/furniture/pirate-treasure-chest.png",
+    "price": {
+      "buy": null,
+      "sell": {
+        "amount": 20000,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "slug": "pisces-lamp",
     "name": "Pisces lamp",
     "source": "diy",
@@ -15292,8 +15606,8 @@
   {
     "slug": "playground-gym",
     "name": "Playground gym",
-    "source": "Nook Stop",
-    "imageName": "/item-images/furniture/playground-gym.png",
+    "source": "nookstop",
+    "imageName": null,
     "price": {
       "buy": {
         "amount": 3000,
@@ -15308,8 +15622,8 @@
   {
     "slug": "pocket-modern-camper",
     "name": "Pocket modern camper",
-    "source": "nookshop",
-    "imageName": null,
+    "source": "nookshoppromo",
+    "imageName": "/item-images/furniture/pocket-modern-camper.png",
     "price": {
       "buy": {
         "amount": 1500,
@@ -15324,8 +15638,8 @@
   {
     "slug": "pocket-vintage-camper",
     "name": "Pocket vintage camper",
-    "source": "nookshop",
-    "imageName": null,
+    "source": "nookshoppromo",
+    "imageName": "/item-images/furniture/pocket-vintage-camper.png",
     "price": {
       "buy": {
         "amount": 1500,
@@ -15341,7 +15655,7 @@
     "slug": "podium",
     "name": "Podium",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/podium.png",
     "price": {
       "buy": {
         "amount": 3400,
@@ -15395,7 +15709,7 @@
   {
     "slug": "pool",
     "name": "Pool",
-    "source": "Nook Stop",
+    "source": "nookstop",
     "imageName": "/item-images/furniture/pool.png",
     "price": {
       "buy": {
@@ -15412,7 +15726,7 @@
     "slug": "poolside-bed",
     "name": "Poolside bed",
     "source": "timmy",
-    "imageName": "/item-images/furniture/poolside-bed.png",
+    "imageName": null,
     "price": {
       "buy": {
         "amount": 3400,
@@ -15503,7 +15817,7 @@
   {
     "slug": "portable-toilet",
     "name": "Portable toilet",
-    "source": "Nook Stop",
+    "source": "nookstop",
     "imageName": "/item-images/furniture/portable-toilet.png",
     "price": {
       "buy": {
@@ -15562,7 +15876,7 @@
     "slug": "pretty-cosmos-wreath",
     "name": "Pretty cosmos wreath",
     "source": "diy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/pretty-cosmos-wreath.png",
     "price": {
       "buy": null,
       "sell": {
@@ -15575,7 +15889,7 @@
     "slug": "pretty-tulip-wreath",
     "name": "Pretty tulip wreath",
     "source": "diy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/pretty-tulip-wreath.png",
     "price": {
       "buy": null,
       "sell": {
@@ -15619,7 +15933,7 @@
   {
     "slug": "public-bench",
     "name": "Public bench",
-    "source": "Nook Stop",
+    "source": "nookstop",
     "imageName": "/item-images/furniture/public-bench.png",
     "price": {
       "buy": {
@@ -15793,7 +16107,7 @@
     "slug": "purple-hyacinth-wreath",
     "name": "Purple hyacinth wreath",
     "source": "diy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/purple-hyacinth-wreath.png",
     "price": {
       "buy": null,
       "sell": {
@@ -15915,7 +16229,7 @@
     "slug": "r.-brooke's-birdwing-model",
     "name": "R. Brooke's birdwing model",
     "source": "flick",
-    "imageName": null,
+    "imageName": "/item-images/furniture/r.-brooke's-birdwing-model.png",
     "price": {
       "buy": null,
       "sell": {
@@ -16204,7 +16518,7 @@
     "slug": "rattan-wardrobe",
     "name": "Rattan wardrobe",
     "source": "timmy",
-    "imageName": "/item-images/furniture/rattan-wardrobe.png",
+    "imageName": null,
     "price": {
       "buy": {
         "amount": 6900,
@@ -16639,12 +16953,10 @@
   {
     "slug": "red-wedding-rug",
     "name": "Red wedding rug",
-    "imageName": null,
+    "source": "cyrus",
+    "imageName": "/item-images/furniture/red-wedding-rug.png",
     "price": {
-      "buy": {
-        "amount": 1500,
-        "currency": "Bells"
-      },
+      "buy": null,
       "sell": {
         "amount": 375,
         "currency": "Bells"
@@ -16747,12 +17059,10 @@
   {
     "slug": "reese-and-cyrus-photo-plate",
     "name": "Reese & Cyrus photo plate",
-    "imageName": null,
+    "source": "reese",
+    "imageName": "/item-images/furniture/reese-and-cyrus-photo-plate.png",
     "price": {
-      "buy": {
-        "amount": 400,
-        "currency": "Bells"
-      },
+      "buy": null,
       "sell": {
         "amount": 100,
         "currency": "Bells"
@@ -16795,7 +17105,7 @@
     "slug": "retro-fan",
     "name": "Retro fan",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/retro-fan.png",
     "price": {
       "buy": {
         "amount": 2100,
@@ -16843,7 +17153,7 @@
     "slug": "retro-radiator",
     "name": "Retro radiator",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/retro-radiator.png",
     "price": {
       "buy": {
         "amount": 1300,
@@ -16949,7 +17259,7 @@
     "slug": "ring",
     "name": "Ring",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/ring.png",
     "price": {
       "buy": {
         "amount": 69000,
@@ -17107,7 +17417,7 @@
     "slug": "rocky-mountain-flooring",
     "name": "Rocky-mountain flooring",
     "source": "saharah",
-    "imageName": null,
+    "imageName": "/item-images/furniture/rocky-mountain-flooring.png",
     "price": {
       "buy": {
         "amount": 3000,
@@ -17258,7 +17568,7 @@
     "slug": "rover's-briefcase",
     "name": "Rover's briefcase",
     "source": "rover",
-    "imageName": null,
+    "imageName": "/item-images/furniture/rover's-briefcase.png",
     "price": {
       "buy": null,
       "sell": {
@@ -17393,7 +17703,7 @@
     "slug": "sagittarius-arrow",
     "name": "Sagittarius arrow",
     "source": "diy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/sagittarius-arrow.png",
     "price": {
       "buy": null,
       "sell": {
@@ -17476,10 +17786,13 @@
   {
     "slug": "sandbox",
     "name": "Sandbox",
-    "source": "Nook Stop",
+    "source": "nookstop",
     "imageName": "/item-images/furniture/sandbox.png",
     "price": {
-      "buy": null,
+      "buy": {
+        "amount": 2400,
+        "currency": "Nook Miles"
+      },
       "sell": {
         "amount": 12000,
         "currency": "Bells"
@@ -17694,7 +18007,7 @@
     "slug": "scramble-crosswalk",
     "name": "Scramble crosswalk",
     "source": "saharah",
-    "imageName": null,
+    "imageName": "/item-images/furniture/scramble-crosswalk.png",
     "price": {
       "buy": {
         "amount": 3000,
@@ -17710,7 +18023,7 @@
     "slug": "screen",
     "name": "Screen",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/screen.png",
     "price": {
       "buy": {
         "amount": 140000,
@@ -17781,19 +18094,6 @@
     }
   },
   {
-    "slug": "sea-horse-model",
-    "name": "Sea horse model",
-    "source": "cj",
-    "imageName": "/item-images/furniture/sea-horse-model.png",
-    "price": {
-      "buy": null,
-      "sell": {
-        "amount": 3300,
-        "currency": "Bells"
-      }
-    }
-  },
-  {
     "slug": "sea-view",
     "name": "Sea view",
     "source": "saharah",
@@ -17805,6 +18105,19 @@
       },
       "sell": {
         "amount": 750,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "slug": "seahorse-model",
+    "name": "Seahorse model",
+    "source": "cj",
+    "imageName": "/item-images/furniture/seahorse-model.png",
+    "price": {
+      "buy": null,
+      "sell": {
+        "amount": 3300,
         "currency": "Bells"
       }
     }
@@ -17925,7 +18238,7 @@
     "slug": "sewing-project",
     "name": "Sewing project",
     "source": "timmy",
-    "imageName": "/item-images/furniture/sewing-project.png",
+    "imageName": null,
     "price": {
       "buy": {
         "amount": 430,
@@ -17941,7 +18254,7 @@
     "slug": "shaded-floor-lamp",
     "name": "Shaded floor lamp",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/shaded-floor-lamp.png",
     "price": {
       "buy": {
         "amount": 1700,
@@ -17973,7 +18286,7 @@
     "slug": "shaved-ice-maker",
     "name": "Shaved-ice maker",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/shaved-ice-maker.png",
     "price": {
       "buy": {
         "amount": 1400,
@@ -18080,7 +18393,7 @@
     "slug": "shell-stool",
     "name": "Shell stool",
     "source": "diy",
-    "imageName": "/item-images/furniture/shell-stool.png",
+    "imageName": null,
     "price": {
       "buy": null,
       "sell": {
@@ -18106,7 +18419,7 @@
     "slug": "shell-wreath",
     "name": "Shell wreath",
     "source": "diy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/shell-wreath.png",
     "price": {
       "buy": null,
       "sell": {
@@ -18207,6 +18520,19 @@
       },
       "sell": {
         "amount": 750,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "slug": "sideways-pirate-barrel",
+    "name": "Sideways pirate barrel",
+    "source": "gullivarrr",
+    "imageName": "/item-images/furniture/sideways-pirate-barrel.png",
+    "price": {
+      "buy": null,
+      "sell": {
+        "amount": 200,
         "currency": "Bells"
       }
     }
@@ -18870,7 +19196,7 @@
     "slug": "sloppy-rug",
     "name": "Sloppy rug",
     "source": "saharah",
-    "imageName": null,
+    "imageName": "/item-images/furniture/sloppy-rug.png",
     "price": {
       "buy": {
         "amount": 2000,
@@ -18914,8 +19240,8 @@
   {
     "slug": "snack-machine",
     "name": "Snack machine",
-    "source": "Nook Stop",
-    "imageName": "/item-images/furniture/snack-machine.png",
+    "source": "nookstop",
+    "imageName": null,
     "price": {
       "buy": {
         "amount": 2000,
@@ -18957,7 +19283,7 @@
     "slug": "snazzy-pansy-wreath",
     "name": "Snazzy pansy wreath",
     "source": "diy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/snazzy-pansy-wreath.png",
     "price": {
       "buy": null,
       "sell": {
@@ -19015,7 +19341,7 @@
     "slug": "snowflake-wreath",
     "name": "Snowflake wreath",
     "source": "diy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/snowflake-wreath.png",
     "price": {
       "buy": null,
       "sell": {
@@ -19027,7 +19353,7 @@
   {
     "slug": "soccer-goal",
     "name": "Soccer goal",
-    "source": "Nook Stop",
+    "source": "nookstop",
     "imageName": "/item-images/furniture/soccer-goal.png",
     "price": {
       "buy": {
@@ -19072,7 +19398,7 @@
   {
     "slug": "solar-panel",
     "name": "Solar panel",
-    "source": "Nook Stop",
+    "source": "nookstop",
     "imageName": "/item-images/furniture/solar-panel.png",
     "price": {
       "buy": {
@@ -19176,12 +19502,9 @@
     "slug": "spider-doorplate",
     "name": "Spider doorplate",
     "source": "bugoff",
-    "imageName": null,
+    "imageName": "/item-images/furniture/spider-doorplate.png",
     "price": {
-      "buy": {
-        "amount": 360,
-        "currency": "Bells"
-      },
+      "buy": null,
       "sell": {
         "amount": 90,
         "currency": "Bells"
@@ -19205,7 +19528,7 @@
     "slug": "spider-web",
     "name": "Spider web",
     "source": "bugoff",
-    "imageName": null,
+    "imageName": "/item-images/furniture/spider-web.png",
     "price": {
       "buy": null,
       "sell": {
@@ -19231,9 +19554,48 @@
     }
   },
   {
+    "slug": "spooky-flooring",
+    "name": "Spooky flooring",
+    "source": "diy",
+    "imageName": "/item-images/furniture/spooky-flooring.png",
+    "price": {
+      "buy": null,
+      "sell": {
+        "amount": 3000,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "slug": "spooky-rug",
+    "name": "Spooky rug",
+    "source": "diy",
+    "imageName": "/item-images/furniture/spooky-rug.png",
+    "price": {
+      "buy": null,
+      "sell": {
+        "amount": 2000,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "slug": "spooky-wall",
+    "name": "Spooky wall",
+    "source": "jack",
+    "imageName": "/item-images/furniture/spooky-wall.png",
+    "price": {
+      "buy": null,
+      "sell": {
+        "amount": 3000,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
     "slug": "springy-ride-on",
     "name": "Springy ride-on",
-    "source": "Nook Stop",
+    "source": "nookstop",
     "imageName": "/item-images/furniture/springy-ride-on.png",
     "price": {
       "buy": {
@@ -19279,7 +19641,7 @@
     "slug": "stack-of-books",
     "name": "Stack of books",
     "source": "diy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/stack-of-books.png",
     "price": {
       "buy": null,
       "sell": {
@@ -19292,7 +19654,7 @@
     "slug": "stacked-magazines",
     "name": "Stacked magazines",
     "source": "diy",
-    "imageName": "/item-images/furniture/stacked-magazines.png",
+    "imageName": null,
     "price": {
       "buy": null,
       "sell": {
@@ -19318,7 +19680,7 @@
     "slug": "stadiometer",
     "name": "Stadiometer",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/stadiometer.png",
     "price": {
       "buy": {
         "amount": 2100,
@@ -19677,7 +20039,7 @@
     "slug": "stormy-night-wall",
     "name": "Stormy-night wall",
     "source": "saharah",
-    "imageName": null,
+    "imageName": "/item-images/furniture/stormy-night-wall.png",
     "price": {
       "buy": {
         "amount": 3000,
@@ -19785,7 +20147,7 @@
   {
     "slug": "streetlamp",
     "name": "Streetlamp",
-    "source": "Nook Stop",
+    "source": "nookstop",
     "imageName": "/item-images/furniture/streetlamp.png",
     "price": {
       "buy": {
@@ -19847,7 +20209,7 @@
     "slug": "studio-wall-spotlight",
     "name": "Studio wall spotlight",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/studio-wall-spotlight.png",
     "price": {
       "buy": {
         "amount": 2300,
@@ -19855,6 +20217,54 @@
       },
       "sell": {
         "amount": 575,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "slug": "study-chair",
+    "name": "Study chair",
+    "source": "timmy",
+    "imageName": "/item-images/furniture/study-chair.png",
+    "price": {
+      "buy": {
+        "amount": 1700,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 425,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "slug": "study-desk",
+    "name": "Study desk",
+    "source": "timmy",
+    "imageName": "/item-images/furniture/study-desk.png",
+    "price": {
+      "buy": {
+        "amount": 7100,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 1775,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "slug": "study-poster",
+    "name": "Study poster",
+    "source": "timmy",
+    "imageName": "/item-images/furniture/study-poster.png",
+    "price": {
+      "buy": {
+        "amount": 640,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 160,
         "currency": "Bells"
       }
     }
@@ -19918,7 +20328,7 @@
     "slug": "summit-wall",
     "name": "Summit wall",
     "source": "saharah",
-    "imageName": null,
+    "imageName": "/item-images/furniture/summit-wall.png",
     "price": {
       "buy": {
         "amount": 3000,
@@ -19950,7 +20360,7 @@
     "slug": "surfboard",
     "name": "Surfboard",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/surfboard.png",
     "price": {
       "buy": {
         "amount": 4100,
@@ -19979,7 +20389,7 @@
     "slug": "surveillance-camera",
     "name": "Surveillance camera",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/surveillance-camera.png",
     "price": {
       "buy": {
         "amount": 1000,
@@ -20037,7 +20447,7 @@
     "slug": "synthesizer",
     "name": "Synthesizer",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/synthesizer.png",
     "price": {
       "buy": {
         "amount": 66000,
@@ -20053,7 +20463,7 @@
     "slug": "system-kitchen",
     "name": "System kitchen",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/system-kitchen.png",
     "price": {
       "buy": {
         "amount": 130000,
@@ -20085,7 +20495,7 @@
     "slug": "table-lamp",
     "name": "Table lamp",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/table-lamp.png",
     "price": {
       "buy": {
         "amount": 1100,
@@ -20172,7 +20582,7 @@
     "slug": "tall-lantern",
     "name": "Tall lantern",
     "source": "diy",
-    "imageName": "/item-images/furniture/tall-lantern.png",
+    "imageName": null,
     "price": {
       "buy": null,
       "sell": {
@@ -20185,7 +20595,7 @@
     "slug": "tankless-toilet",
     "name": "Tankless toilet",
     "source": "timmy",
-    "imageName": "/item-images/furniture/tankless-toilet.png",
+    "imageName": null,
     "price": {
       "buy": {
         "amount": 4100,
@@ -20262,7 +20672,7 @@
     "slug": "tatami-bed",
     "name": "Tatami bed",
     "source": "timmy",
-    "imageName": "/item-images/furniture/tatami-bed.png",
+    "imageName": null,
     "price": {
       "buy": {
         "amount": 2800,
@@ -20351,7 +20761,7 @@
   {
     "slug": "teacup-ride",
     "name": "Teacup ride",
-    "source": "Nook Stop",
+    "source": "nookstop",
     "imageName": "/item-images/furniture/teacup-ride.png",
     "price": {
       "buy": {
@@ -20384,7 +20794,7 @@
     "slug": "tennis-table",
     "name": "Tennis table",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/tennis-table.png",
     "price": {
       "buy": {
         "amount": 44000,
@@ -20441,7 +20851,8 @@
   {
     "slug": "thank-you-dad-mug",
     "name": "Thank-you Dad mug",
-    "imageName": null,
+    "source": "nookshopseason",
+    "imageName": "/item-images/furniture/thank-you-dad-mug.png",
     "price": {
       "buy": {
         "amount": 600,
@@ -20456,7 +20867,8 @@
   {
     "slug": "thank-you-mom-mug",
     "name": "Thank-you Mom mug",
-    "imageName": null,
+    "source": "nookshopseason",
+    "imageName": "/item-images/furniture/thank-you-mom-mug.png",
     "price": {
       "buy": {
         "amount": 600,
@@ -20471,6 +20883,7 @@
   {
     "slug": "three-tiered-snowperson",
     "name": "Three-tiered snowperson",
+    "source": "diy",
     "imageName": "/item-images/furniture/three-tiered-snowperson.png",
     "price": {
       "buy": null,
@@ -20686,7 +21099,7 @@
     "slug": "tiki-torch",
     "name": "Tiki torch",
     "source": "diy",
-    "imageName": "/item-images/furniture/tiki-torch.png",
+    "imageName": null,
     "price": {
       "buy": null,
       "sell": {
@@ -20712,7 +21125,7 @@
     "slug": "timber-doorplate",
     "name": "Timber doorplate",
     "source": "diy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/timber-doorplate.png",
     "price": {
       "buy": null,
       "sell": {
@@ -20844,7 +21257,7 @@
     "slug": "tool-shelf",
     "name": "Tool shelf",
     "source": "timmy",
-    "imageName": "/item-images/furniture/tool-shelf.png",
+    "imageName": null,
     "price": {
       "buy": {
         "amount": 7300,
@@ -20875,7 +21288,7 @@
   {
     "slug": "tourist-telescope",
     "name": "Tourist telescope",
-    "source": "Nook Stop",
+    "source": "nookstop",
     "imageName": "/item-images/furniture/tourist-telescope.png",
     "price": {
       "buy": {
@@ -20921,7 +21334,7 @@
     "slug": "toy-centipede",
     "name": "Toy centipede",
     "source": "bugoff",
-    "imageName": null,
+    "imageName": "/item-images/furniture/toy-centipede.png",
     "price": {
       "buy": null,
       "sell": {
@@ -20934,7 +21347,7 @@
     "slug": "toy-cockroach",
     "name": "Toy cockroach",
     "source": "bugoff",
-    "imageName": null,
+    "imageName": "/item-images/furniture/toy-cockroach.png",
     "price": {
       "buy": null,
       "sell": {
@@ -21021,7 +21434,7 @@
     "slug": "treadmill",
     "name": "Treadmill",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/treadmill.png",
     "price": {
       "buy": {
         "amount": 64000,
@@ -21215,7 +21628,7 @@
     "slug": "tulip-wreath",
     "name": "Tulip wreath",
     "source": "diy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/tulip-wreath.png",
     "price": {
       "buy": null,
       "sell": {
@@ -21388,7 +21801,7 @@
   {
     "slug": "utility-pole",
     "name": "Utility pole",
-    "source": "Nook Stop",
+    "source": "nookstop",
     "imageName": "/item-images/furniture/utility-pole.png",
     "price": {
       "buy": {
@@ -21469,7 +21882,7 @@
     "slug": "video-camera",
     "name": "Video camera",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/video-camera.png",
     "price": {
       "buy": {
         "amount": 32000,
@@ -21485,7 +21898,7 @@
     "slug": "vintage-tv-tray",
     "name": "Vintage TV tray",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/vintage-tv-tray.png",
     "price": {
       "buy": {
         "amount": 1200,
@@ -21582,7 +21995,7 @@
     "slug": "wall-fan",
     "name": "Wall fan",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/wall-fan.png",
     "price": {
       "buy": {
         "amount": 1400,
@@ -21614,7 +22027,7 @@
     "slug": "wall-mounted-tv-(50-in.)",
     "name": "Wall-mounted TV (50 in.)",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/wall-mounted-tv-(50-in.).png",
     "price": {
       "buy": {
         "amount": 22000,
@@ -21646,7 +22059,7 @@
     "slug": "wall-mounted-phone",
     "name": "Wall-mounted phone",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/wall-mounted-phone.png",
     "price": {
       "buy": {
         "amount": 1300,
@@ -21777,10 +22190,11 @@
   {
     "slug": "wedding-arch",
     "name": "Wedding arch",
-    "imageName": null,
+    "source": "cyrus",
+    "imageName": "/item-images/furniture/wedding-arch.png",
     "price": {
       "buy": {
-        "amount": 20000,
+        "amount": 20,
         "currency": "Bells"
       },
       "sell": {
@@ -21792,10 +22206,11 @@
   {
     "slug": "wedding-bench",
     "name": "Wedding bench",
+    "source": "cyrus",
     "imageName": "/item-images/furniture/wedding-bench.png",
     "price": {
       "buy": {
-        "amount": 3500,
+        "amount": 5,
         "currency": "Bells"
       },
       "sell": {
@@ -21807,10 +22222,11 @@
   {
     "slug": "wedding-cake",
     "name": "Wedding cake",
-    "imageName": null,
+    "source": "cyrus",
+    "imageName": "/item-images/furniture/wedding-cake.png",
     "price": {
       "buy": {
-        "amount": 4000,
+        "amount": 5,
         "currency": "Bells"
       },
       "sell": {
@@ -21822,10 +22238,11 @@
   {
     "slug": "wedding-candle-set",
     "name": "Wedding candle set",
-    "imageName": null,
+    "source": "cyrus",
+    "imageName": "/item-images/furniture/wedding-candle-set.png",
     "price": {
       "buy": {
-        "amount": 1200,
+        "amount": 4,
         "currency": "Bells"
       },
       "sell": {
@@ -21837,10 +22254,11 @@
   {
     "slug": "wedding-chair",
     "name": "Wedding chair",
+    "source": "cyrus",
     "imageName": "/item-images/furniture/wedding-chair.png",
     "price": {
       "buy": {
-        "amount": 2000,
+        "amount": 3,
         "currency": "Bells"
       },
       "sell": {
@@ -21852,10 +22270,11 @@
   {
     "slug": "wedding-decoration",
     "name": "Wedding decoration",
-    "imageName": null,
+    "source": "cyrus",
+    "imageName": "/item-images/furniture/wedding-decoration.png",
     "price": {
       "buy": {
-        "amount": 1000,
+        "amount": 3,
         "currency": "Bells"
       },
       "sell": {
@@ -21867,10 +22286,11 @@
   {
     "slug": "wedding-flower-stand",
     "name": "Wedding flower stand",
+    "source": "cyrus",
     "imageName": "/item-images/furniture/wedding-flower-stand.png",
     "price": {
       "buy": {
-        "amount": 4000,
+        "amount": 4,
         "currency": "Bells"
       },
       "sell": {
@@ -21882,10 +22302,11 @@
   {
     "slug": "wedding-head-table",
     "name": "Wedding head table",
+    "source": "cyrus",
     "imageName": "/item-images/furniture/wedding-head-table.png",
     "price": {
       "buy": {
-        "amount": 3000,
+        "amount": 6,
         "currency": "Bells"
       },
       "sell": {
@@ -21897,10 +22318,11 @@
   {
     "slug": "wedding-pipe-organ",
     "name": "Wedding pipe organ",
+    "source": "cyrus",
     "imageName": "/item-images/furniture/wedding-pipe-organ.png",
     "price": {
       "buy": {
-        "amount": 100000,
+        "amount": 40,
         "currency": "Bells"
       },
       "sell": {
@@ -21912,10 +22334,11 @@
   {
     "slug": "wedding-table",
     "name": "Wedding table",
+    "source": "cyrus",
     "imageName": "/item-images/furniture/wedding-table.png",
     "price": {
       "buy": {
-        "amount": 6000,
+        "amount": 6,
         "currency": "Bells"
       },
       "sell": {
@@ -21927,10 +22350,11 @@
   {
     "slug": "wedding-welcome-board",
     "name": "Wedding welcome board",
-    "imageName": null,
+    "source": "cyrus",
+    "imageName": "/item-images/furniture/wedding-welcome-board.png",
     "price": {
       "buy": {
-        "amount": 1500,
+        "amount": 5,
         "currency": "Bells"
       },
       "sell": {
@@ -21942,14 +22366,15 @@
   {
     "slug": "wedding-party-wall",
     "name": "Wedding-party wall",
-    "imageName": null,
+    "source": "cyrus",
+    "imageName": "/item-images/furniture/wedding-party-wall.png",
     "price": {
       "buy": {
-        "amount": 1750,
+        "amount": 12,
         "currency": "Bells"
       },
       "sell": {
-        "amount": 438,
+        "amount": 437,
         "currency": "Bells"
       }
     }
@@ -21958,7 +22383,7 @@
     "slug": "weight-bench",
     "name": "Weight bench",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/weight-bench.png",
     "price": {
       "buy": {
         "amount": 5400,
@@ -22317,7 +22742,7 @@
     "slug": "white-subway-tile-wall",
     "name": "White subway-tile wall",
     "source": "timmy",
-    "imageName": "/item-images/furniture/white-subway-tile-wall.png",
+    "imageName": null,
     "price": {
       "buy": {
         "amount": 1340,
@@ -22332,10 +22757,11 @@
   {
     "slug": "white-wedding-flooring",
     "name": "White wedding flooring",
-    "imageName": null,
+    "source": "cyrus",
+    "imageName": "/item-images/furniture/white-wedding-flooring.png",
     "price": {
       "buy": {
-        "amount": 3000,
+        "amount": 12,
         "currency": "Bells"
       },
       "sell": {
@@ -22347,12 +22773,10 @@
   {
     "slug": "white-wedding-rug",
     "name": "White wedding rug",
-    "imageName": null,
+    "source": "cyrus",
+    "imageName": "/item-images/furniture/white-wedding-rug.png",
     "price": {
-      "buy": {
-        "amount": 1500,
-        "currency": "Bells"
-      },
+      "buy": null,
       "sell": {
         "amount": 375,
         "currency": "Bells"
@@ -22362,10 +22786,11 @@
   {
     "slug": "white-wedding-wall",
     "name": "White wedding wall",
-    "imageName": null,
+    "source": "cyrus",
+    "imageName": "/item-images/furniture/white-wedding-wall.png",
     "price": {
       "buy": {
-        "amount": 3000,
+        "amount": 12,
         "currency": "Bells"
       },
       "sell": {
@@ -22547,8 +22972,8 @@
   {
     "slug": "wind-turbine",
     "name": "Wind turbine",
-    "source": "Nook Stop",
-    "imageName": "/item-images/furniture/wind-turbine.png",
+    "source": "nookstop",
+    "imageName": null,
     "price": {
       "buy": {
         "amount": 4000,
@@ -22710,7 +23135,7 @@
     "slug": "wooden-full-length-mirror",
     "name": "Wooden full-length mirror",
     "source": "diy",
-    "imageName": "/item-images/furniture/wooden-full-length-mirror.png",
+    "imageName": null,
     "price": {
       "buy": null,
       "sell": {
@@ -23038,58 +23463,10 @@
     "slug": "world-map",
     "name": "World map",
     "source": "timmy",
-    "imageName": null,
+    "imageName": "/item-images/furniture/world-map.png",
     "price": {
       "buy": {
         "amount": 640,
-        "currency": "Bells"
-      },
-      "sell": {
-        "amount": 160,
-        "currency": "Bells"
-      }
-    }
-  },
-  {
-    "slug": "writing-chair",
-    "name": "Writing chair",
-    "source": "timmy",
-    "imageName": "/item-images/furniture/writing-chair.png",
-    "price": {
-      "buy": {
-        "amount": 1700,
-        "currency": "Bells"
-      },
-      "sell": {
-        "amount": 425,
-        "currency": "Bells"
-      }
-    }
-  },
-  {
-    "slug": "writing-desk",
-    "name": "Writing desk",
-    "source": "timmy",
-    "imageName": "/item-images/furniture/writing-desk.png",
-    "price": {
-      "buy": {
-        "amount": 7100,
-        "currency": "Bells"
-      },
-      "sell": {
-        "amount": 1775,
-        "currency": "Bells"
-      }
-    }
-  },
-  {
-    "slug": "writing-poster",
-    "name": "Writing poster",
-    "source": "timmy",
-    "imageName": "/item-images/furniture/writing-poster.png",
-    "price": {
-      "buy": {
-        "amount": 400,
         "currency": "Bells"
       },
       "sell": {
@@ -23493,7 +23870,7 @@
     "slug": "yucca",
     "name": "Yucca",
     "source": "timmy",
-    "imageName": "/item-images/furniture/yucca.png",
+    "imageName": null,
     "price": {
       "buy": {
         "amount": 2100,
@@ -23501,6 +23878,22 @@
       },
       "sell": {
         "amount": 525,
+        "currency": "Bells"
+      }
+    }
+  },
+  {
+    "slug": "yule-log",
+    "name": "Yule log",
+    "source": "timmy",
+    "imageName": "/item-images/furniture/yule-log.png",
+    "price": {
+      "buy": {
+        "amount": 1200,
+        "currency": "Bells"
+      },
+      "sell": {
+        "amount": 300,
         "currency": "Bells"
       }
     }
